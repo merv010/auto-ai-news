@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Example Atom</title>
+  <entry>
+    <title>Frontier lab releases new LLM evals</title>
+    <link href="https://example.com/frontier-llm/"/>
+    <summary>Benchmarks for large language models and agent systems.</summary>
+    <updated>2026-04-25T08:00:00Z</updated>
+  </entry>
+</feed>
