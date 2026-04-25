@@ -86,6 +86,8 @@ class GenerateReportTest(unittest.TestCase):
         self.assertIn("[New AI model improves code generation](https://example.com/ai-code?utm_source=test#section)", report)
         self.assertIn("HTTP 403 from source.", report)
         self.assertIn("| Stars | Read | Source | Link |", report)
+        self.assertIn("This report was generated automatically by auto-ai-news", report)
+        self.assertIn("original articles, titles, and linked content belong", report)
 
     def test_filter_accessible_items_reports_failed_links(self):
         source = Source("Example", "https://example.com", "https://example.com/feed", 3)

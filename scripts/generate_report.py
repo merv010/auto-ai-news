@@ -415,6 +415,16 @@ def render_report(items: list[Item], unavailable: list[tuple[str, str]], now: dt
     lines.extend(
         [
             "",
+            "## Disclosure",
+            "",
+            textwrap.fill(
+                "This report was generated automatically by auto-ai-news, a project built with "
+                "AI assistance. auto-ai-news is an aggregator: original articles, titles, and "
+                "linked content belong to their respective sources and authors.",
+                width=100,
+                break_on_hyphens=False,
+            ),
+            "",
             "## Source policy",
             "",
             textwrap.fill(
@@ -422,6 +432,7 @@ def render_report(items: list[Item], unavailable: list[tuple[str, str]], now: dt
                 "canonical URL, filtered for AI relevance, and scored with a transparent heuristic "
                 "based on source priority, recency, and title or summary relevance.",
                 width=100,
+                break_on_hyphens=False,
             ),
             "",
         ]

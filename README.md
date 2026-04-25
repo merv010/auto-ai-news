@@ -6,6 +6,12 @@ Reports are published as GitHub Releases so each day has a stable, dated entry w
 
 Latest report: https://github.com/kantarcise/auto-ai-news/releases/latest
 
+## Disclosure
+
+This project was built with AI assistance. The daily reports are generated automatically from public source feeds.
+
+auto-ai-news is an aggregator. Original articles, titles, and linked content belong to their respective sources and authors. This repository does not claim ownership of that original content.
+
 ## Run locally
 
 ```bash
