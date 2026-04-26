@@ -1,0 +1,52 @@
+[
+  {
+    "name": "LessWrong AI",
+    "homepage": "https://www.lesswrong.com/w/ai?sortedBy=new",
+    "feed_url": "https://www.lesswrong.com/feed.xml?view=ai",
+    "priority": 5,
+    "enabled": true
+  },
+  {
+    "name": "Latent Space",
+    "homepage": "https://www.latent.space/s/ainews",
+    "feed_url": "https://www.latent.space/feed",
+    "priority": 5,
+    "enabled": true
+  },
+  {
+    "name": "Simon Willison",
+    "homepage": "https://simonwillison.net/",
+    "feed_url": "https://simonwillison.net/atom/everything/",
+    "priority": 4,
+    "enabled": true
+  },
+  {
+    "name": "smol.ai",
+    "homepage": "https://news.smol.ai/",
+    "feed_url": "https://news.smol.ai/rss.xml",
+    "priority": 5,
+    "enabled": true
+  },
+  {
+    "name": "Clever Hack",
+    "homepage": "https://cleverhack.com/frontier-ai-lab-tracker",
+    "feed_url": "https://cleverhack.com/feed.xml",
+    "priority": 3,
+    "enabled": true
+  },
+  {
+    "name": "The Rundown AI",
+    "homepage": "https://www.therundown.ai/",
+    "feed_url": "https://www.therundown.ai/feed",
+    "priority": 4,
+    "enabled": true
+  },
+  {
+    "name": "Substack Technology",
+    "homepage": "https://substack.com/explore/category/technology?sort=recent",
+    "feed_url": "",
+    "priority": 2,
+    "enabled": false,
+    "disabled_reason": "No stable public feed endpoint confirmed for the category page."
+  }
+]

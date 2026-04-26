@@ -1,0 +1,167 @@
+{
+  "date": "2026-04-26",
+  "generated": "2026-04-26T12:39:06.682193+00:00",
+  "story_count": 20,
+  "stories": [
+    {
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "deck": ""
+    },
+    {
+      "title": "GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "deck": ""
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "url": "http://blog.research.google/feeds/1569605132526995799/comments/default",
+      "source": "Google AI Blog",
+      "category": "AI Research",
+      "summary": "<span class=\"byline-author\">Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research</span>\n\n<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglI5U51vvhkA4cAuVvMLn0TbbL5pdlFL-LO1sNnqLyUieA6A88I5HrhJlszxR1GKQqSK5wsdlATDKSy6EC1BsNF7tzS6oVlF",
+      "deck": ""
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "url": "http://blog.research.google/feeds/1799535679952845079/comments/default",
+      "source": "Google AI Blog",
+      "category": "AI Research",
+      "summary": "<span class=\"byline-author\">Posted by Urs Köster, Software Engineer, Google Research</span>\n\n<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5Wc54p1HvgIokpazxDsMo1u6i9wg3ovpNOiFc4-wYwebETvjs9-hm2wxZ4osNbBAxhet8To3hwGg-whFScksHQB_BP1kS4Z8Cu7FQT2bjVtJl4trPid-OxCyYocwyRTN66tuvAed",
+      "deck": ""
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?",
+      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
+      "deck": ""
+    },
+    {
+      "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
+      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer , and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz.",
+      "deck": ""
+    },
+    {
+      "title": "ABB Robotics launches PoWa cobot family targeting industrial tasks",
+      "url": "https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "ABB Robotics said its new PoWa family of cobots addresses a long‑standing gap in the market between traditional cobots. The post ABB Robotics launches PoWa cobot family targeting industrial tasks appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
+      "title": "From sci-fi to reality: Physical AI’s future with Dr. Jan Liphardt",
+      "url": "https://www.therobotreport.com/from-sci-fi-to-reality-physical-ais-future-with-dr-jan-liphardt/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Dr. Jan Liphardt discusses the impact of modular AI systems on robotics, emphasizing the importance of transparency and safety in human-robot interactions. The post From sci-fi to reality: Physical AI&#8217;s future with Dr. Jan Liphardt appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
+      "title": "I Validated a NASA Robot Model in Minutes Without ROS, Setup, or Blender",
+      "url": "https://discourse.openrobotics.org/t/i-validated-a-nasa-robot-model-in-minutes-without-ros-setup-or-blender/54310",
+      "source": "ROS Discourse",
+      "category": "Robotics",
+      "summary": "I tested a NASA humanoid robot model, Robonaut 2. (link below test yourself) nasa-urdf-robots/r2_description/robots/r2c6.urdf at master · gkjohnson/nasa-urdf-robots End-to-end URDF &amp; Xacro validation + URDF to Xacro Convertor+ kinematic analysis + 3D preview all without ROS or local setup or ble",
+      "deck": ""
+    },
+    {
+      "title": "Community BuildUp",
+      "url": "https://discourse.openrobotics.org/t/community-buildup/54304",
+      "source": "ROS Discourse",
+      "category": "Robotics",
+      "summary": "Hey, ROS India after the last meet as Roscon Pune 2025 held at COEP college pune in the month of December, i was wondering will their be any other meetups or any social activity to collaborate and share knowledge?? 1 post - 1 participant Read full topic",
+      "deck": ""
+    },
+    {
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o",
+      "deck": ""
+    },
+    {
+      "title": "AI needs a strong data fabric to deliver business value",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
+      "deck": ""
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat AI",
+      "category": "Industry",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg",
+      "deck": ""
+    },
+    {
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI",
+      "category": "Industry",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200",
+      "deck": ""
+    },
+    {
+      "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
+      "url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "source": "The Gradient",
+      "category": "AI Research",
+      "summary": "Preface This essay argues that rational people don&#x2019;t have goals, and that rational AIs shouldn&#x2019;t have goals. Human actions are rational not because we direct them at some final &#x2018;goals,&#x2019; but because we align actions to practices [1] : networks of actions, action-dispositio",
+      "deck": ""
+    },
+    {
+      "title": "AGI Is Not Multimodal",
+      "url": "https://thegradient.pub/agi-is-not-multimodal/",
+      "source": "The Gradient",
+      "category": "AI Research",
+      "summary": "&quot;In projecting language back as the model for thought, we lose sight of the tacit embodied understanding that undergirds our intelligence.&quot; &#x2013;Terry Winograd The recent successes of generative AI models have convinced some that AGI is imminent. While these models appear to capture the",
+      "deck": ""
+    }
+  ]
+}

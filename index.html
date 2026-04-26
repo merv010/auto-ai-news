@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI & Robotics Daily</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #1a1008;
+      --paper: #f5f0e8;
+      --cream: #ede7d5;
+      --rust: #b5420a;
+      --gold: #c9940a;
+      --muted: #7a6e5f;
+      --rule: #c8bfaa;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: 'Source Serif 4', Georgia, serif;
+      min-height: 100vh;
+    }
+
+    /* MASTHEAD */
+    .masthead {
+      border-bottom: 3px double var(--ink);
+      padding: 1.5rem 0 1rem;
+      text-align: center;
+      background: var(--paper);
+      position: relative;
+    }
+
+    .masthead::before {
+      content: '';
+      display: block;
+      border-top: 1px solid var(--ink);
+      border-bottom: 1px solid var(--ink);
+      height: 6px;
+      margin-bottom: 1.2rem;
+    }
+
+    .masthead-tagline {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 0.5rem;
+    }
+
+    .masthead-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.8rem, 7vw, 5.5rem);
+      font-weight: 900;
+      letter-spacing: -0.02em;
+      line-height: 1;
+      color: var(--ink);
+    }
+
+    .masthead-title span {
+      color: var(--rust);
+    }
+
+    .masthead-meta {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin-top: 0.8rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.6rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .masthead::after {
+      content: '';
+      display: block;
+      border-top: 1px solid var(--ink);
+      border-bottom: 1px solid var(--ink);
+      height: 6px;
+      margin-top: 1.2rem;
+    }
+
+    /* SECTION LABEL */
+    .section-rule {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.6rem 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .section-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.6rem;
+      font-weight: 500;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--rust);
+      white-space: nowrap;
+    }
+
+    .section-rule::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--rule);
+    }
+
+    /* GRID LAYOUT */
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+
+    .front-page {
+      display: grid;
+      grid-template-columns: 1fr 1px 2fr 1px 1fr;
+      gap: 0;
+      padding: 2rem 0;
+      border-bottom: 2px solid var(--ink);
+    }
+
+    .col-divider {
+      background: var(--rule);
+      margin: 0 1.5rem;
+    }
+
+    /* LEAD STORY */
+    .lead-story {
+      grid-column: 3;
+      padding: 0 1.5rem;
+      border-left: 1px solid var(--rule);
+      border-right: 1px solid var(--rule);
+    }
+
+    .lead-category {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.58rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--rust);
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+
+    .lead-headline {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.4rem, 3vw, 2.2rem);
+      font-weight: 700;
+      line-height: 1.15;
+      margin-bottom: 0.8rem;
+      color: var(--ink);
+    }
+
+    .lead-deck {
+      font-size: 1rem;
+      font-style: italic;
+      color: var(--muted);
+      line-height: 1.5;
+      margin-bottom: 1rem;
+      border-top: 1px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+      padding: 0.6rem 0;
+    }
+
+    .lead-body {
+      font-size: 0.88rem;
+      line-height: 1.75;
+      color: #2a220f;
+      column-count: 2;
+      column-gap: 1.5rem;
+      column-rule: 1px solid var(--rule);
+    }
+
+    .lead-source {
+      margin-top: 1rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.6rem;
+      letter-spacing: 0.1em;
+      color: var(--muted);
+    }
+
+    .lead-source a {
+      color: var(--rust);
+      text-decoration: none;
+    }
+
+    .lead-source a:hover { text-decoration: underline; }
+
+    /* SIDE STORIES */
+    .side-col {
+      padding: 0 1rem;
+    }
+
+    .side-col:first-child { padding-left: 0; }
+    .side-col:last-child { padding-right: 0; }
+
+    .side-story {
+      padding-bottom: 1.2rem;
+      margin-bottom: 1.2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .side-story:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+
+    .side-category {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.55rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--gold);
+      display: block;
+      margin-bottom: 0.3rem;
+    }
+
+    .side-headline {
+      font-family: 'Playfair Display', serif;
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.25;
+      margin-bottom: 0.4rem;
+      color: var(--ink);
+    }
+
+    .side-body {
+      font-size: 0.78rem;
+      line-height: 1.65;
+      color: #3a2e1a;
+    }
+
+    .side-source {
+      margin-top: 0.5rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.55rem;
+      color: var(--muted);
+    }
+
+    .side-source a { color: var(--rust); text-decoration: none; }
+    .side-source a:hover { text-decoration: underline; }
+
+    /* BOTTOM GRID — smaller stories */
+    .bottom-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 0;
+      border-bottom: 2px solid var(--ink);
+    }
+
+    .brief-story {
+      padding: 1.4rem 1.5rem;
+      border-right: 1px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .brief-story:last-child { border-right: none; }
+
+    .brief-category {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.55rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      display: block;
+      margin-bottom: 0.3rem;
+    }
+
+    .brief-headline {
+      font-family: 'Playfair Display', serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 0.4rem;
+    }
+
+    .brief-body {
+      font-size: 0.75rem;
+      line-height: 1.6;
+      color: #4a3e25;
+    }
+
+    .brief-source {
+      margin-top: 0.5rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.52rem;
+      color: var(--muted);
+    }
+
+    .brief-source a { color: var(--rust); text-decoration: none; }
+    .brief-source a:hover { text-decoration: underline; }
+
+    /* FOOTER */
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.58rem;
+      letter-spacing: 0.12em;
+      color: var(--muted);
+      border-top: 3px double var(--ink);
+      margin-top: 0;
+    }
+
+    /* LOADING STATE */
+    .loading-screen {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 60vh;
+      gap: 1rem;
+    }
+
+    .loading-headline {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      font-style: italic;
+      color: var(--muted);
+    }
+
+    .loading-dots {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.3em;
+      color: var(--rust);
+      animation: pulse 1.5s ease-in-out infinite;
+    }
+
+    @keyframes pulse { 0%,100%{opacity:0.3} 50%{opacity:1} }
+
+    /* ERROR STATE */
+    .error-box {
+      border: 1px solid var(--rust);
+      padding: 1.5rem;
+      margin: 2rem auto;
+      max-width: 500px;
+      text-align: center;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--rust);
+    }
+
+    /* NO STORIES YET */
+    .empty-edition {
+      text-align: center;
+      padding: 3rem;
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 1.2rem;
+      color: var(--muted);
+    }
+
+    /* FADE IN */
+    .fade-in {
+      animation: fadeIn 0.6s ease forwards;
+      opacity: 0;
+    }
+
+    @keyframes fadeIn { to { opacity: 1; } }
+
+    .stagger-1 { animation-delay: 0.1s; }
+    .stagger-2 { animation-delay: 0.2s; }
+    .stagger-3 { animation-delay: 0.3s; }
+    .stagger-4 { animation-delay: 0.4s; }
+
+    @media (max-width: 900px) {
+      .front-page {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+      .col-divider { display: none; }
+      .lead-story { border: none; padding: 0; }
+      .lead-body { column-count: 1; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="masthead">
+    <p class="masthead-tagline">Automated Intelligence Digest</p>
+    <h1 class="masthead-title">AI & Robotics <span>Daily</span></h1>
+    <div class="masthead-meta">
+      <span id="pub-date">Loading...</span>
+      <span>·</span>
+      <span id="story-count">— stories</span>
+      <span>·</span>
+      <span>Auto-generated edition</span>
+    </div>
+  </header>
+
+  <div id="app">
+    <div class="loading-screen">
+      <p class="loading-headline">Composing today's edition…</p>
+      <p class="loading-dots">● ● ●</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>AI &amp; Robotics Daily · Automatically generated from public RSS feeds · Original content belongs to respective sources</p>
+  </footer>
+
+  <script>
+    // Fetch latest release JSON from GitHub
+    const GITHUB_USER = 'merv010';
+    const GITHUB_REPO = 'auto-ai-news';
+
+    const CATEGORY_COLORS = {
+      'AI Research': '#b5420a',
+      'Robotics': '#c9940a',
+      'Industry': '#4a7c59',
+      'Tools': '#3a6b9e',
+      'Policy': '#7a5ea0',
+      'default': '#7a6e5f'
+    };
+
+    function formatDate(dateStr) {
+      const d = new Date(dateStr);
+      return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    function categoryLabel(cat) {
+      return `<span class="brief-category" style="color:${CATEGORY_COLORS[cat] || CATEGORY_COLORS.default}">${cat || 'General'}</span>`;
+    }
+
+    function buildLead(story) {
+      return `
+        <article class="lead-story fade-in stagger-2">
+          <span class="lead-category" style="color:${CATEGORY_COLORS[story.category] || CATEGORY_COLORS.default}">${story.category || 'Top Story'}</span>
+          <h2 class="lead-headline">${story.title}</h2>
+          <p class="lead-deck">${story.deck || story.summary.slice(0, 120) + '…'}</p>
+          <div class="lead-body">${story.summary}</div>
+          <p class="lead-source">Source: <a href="${story.url}" target="_blank" rel="noopener">${story.source}</a></p>
+        </article>`;
+    }
+
+    function buildSide(story) {
+      return `
+        <article class="side-story fade-in stagger-3">
+          <span class="side-category" style="color:${CATEGORY_COLORS[story.category] || CATEGORY_COLORS.default}">${story.category || 'News'}</span>
+          <h3 class="side-headline">${story.title}</h3>
+          <p class="side-body">${story.summary}</p>
+          <p class="side-source">— <a href="${story.url}" target="_blank" rel="noopener">${story.source}</a></p>
+        </article>`;
+    }
+
+    function buildBrief(story) {
+      return `
+        <article class="brief-story fade-in stagger-4">
+          ${categoryLabel(story.category)}
+          <h4 class="brief-headline">${story.title}</h4>
+          <p class="brief-body">${story.summary}</p>
+          <p class="brief-source">— <a href="${story.url}" target="_blank" rel="noopener">${story.source}</a></p>
+        </article>`;
+    }
+
+    async function loadEdition() {
+      const app = document.getElementById('app');
+      try {
+        const res = await fetch(`https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/releases/latest`);
+        if (!res.ok) throw new Error('No release found');
+        const release = await res.json();
+
+        // Find the JSON asset
+        const jsonAsset = release.assets.find(a => a.name.endsWith('.json'));
+        if (!jsonAsset) throw new Error('No JSON data in release');
+
+        const dataRes = await fetch(jsonAsset.browser_download_url);
+        const data = await dataRes.json();
+        const stories = data.stories || [];
+
+        if (!stories.length) {
+          app.innerHTML = `<div class="container"><p class="empty-edition">No stories in today's edition. Check back tomorrow.</p></div>`;
+          return;
+        }
+
+        document.getElementById('pub-date').textContent = formatDate(release.published_at);
+        document.getElementById('story-count').textContent = `${stories.length} stories`;
+
+        const lead = stories[0];
+        const leftSide = stories.slice(1, 3);
+        const rightSide = stories.slice(3, 5);
+        const briefs = stories.slice(5);
+
+        const leftHTML = leftSide.map(buildSide).join('');
+        const rightHTML = rightSide.map(buildSide).join('');
+        const briefsHTML = briefs.map(buildBrief).join('');
+
+        app.innerHTML = `
+          <div class="section-rule fade-in stagger-1">
+            <span class="section-label">Today's Edition</span>
+          </div>
+          <div class="container">
+            <div class="front-page">
+              <div class="side-col fade-in stagger-2">${leftHTML || '<p class="side-body" style="color:var(--muted);font-style:italic">More stories coming…</p>'}</div>
+              <div class="col-divider"></div>
+              ${buildLead(lead)}
+              <div class="col-divider"></div>
+              <div class="side-col fade-in stagger-2">${rightHTML || ''}</div>
+            </div>
+          </div>
+          ${briefs.length ? `
+          <div class="section-rule fade-in stagger-3">
+            <span class="section-label">In Brief</span>
+          </div>
+          <div class="bottom-grid fade-in stagger-4">
+            ${briefsHTML}
+          </div>` : ''}
+        `;
+      } catch (err) {
+        app.innerHTML = `
+          <div class="container">
+            <div class="error-box">
+              <p>Could not load today's edition.</p>
+              <p style="margin-top:0.5rem;opacity:0.7">${err.message}</p>
+            </div>
+          </div>`;
+      }
+    }
+
+    loadEdition();
+  </script>
+</body>
+</html>
