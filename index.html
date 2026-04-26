@@ -474,7 +474,11 @@
         const jsonAsset = release.assets.find(a => a.name.endsWith('.json'));
         if (!jsonAsset) throw new Error('No JSON data in release');
 
-        const dataRes = await fetch(jsonAsset.browser_download_url);
+        // Use GitHub API endpoint (supports CORS) instead of browser_download_url
+        const dataRes = await fetch(
+          `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/releases/assets/${jsonAsset.id}`,
+          { headers: { 'Accept': 'application/octet-stream' } }
+        );
         const data = await dataRes.json();
         const stories = data.stories || [];
 
