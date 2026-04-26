@@ -41,10 +41,10 @@ jobs:
           body: "Automated AI & Robotics digest for ${{ env.DATE }}"
           files: daily-ai-news.json
 
-      - name: Deploy index.html to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           publish_branch: gh-pages
-          include_files: index.html
+          keep_files: false
