@@ -1,461 +1,198 @@
 #!/usr/bin/env python3
-"""Generate a daily AI news report from trusted public feeds."""
+"""
+generate_report.py
+Fetches AI & Robotics RSS feeds, summarizes each article with Gemini,
+and outputs a JSON file to be uploaded as a GitHub Release asset.
+"""
 
-from __future__ import annotations
-
-import argparse
-import datetime as dt
-import email.utils
-import html
+import os
 import json
-import re
-import sys
-import textwrap
-import urllib.error
-import urllib.parse
-import urllib.request
-import xml.etree.ElementTree as ET
-from dataclasses import dataclass
-from html.parser import HTMLParser
-from pathlib import Path
+import time
+import argparse
+import hashlib
+from datetime import datetime, timezone
+from urllib.request import urlopen, Request
+from urllib.error import URLError
+from xml.etree import ElementTree as ET
 
+import google.generativeai as genai
 
-ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_SOURCES = ROOT / "config" / "sources.json"
-DEFAULT_OUTPUT = ROOT / "README.md"
-USER_AGENT = "auto-ai-news/0.1 (+https://github.com/kantarcise/auto-ai-news)"
-READING_WPM = 225
-MAX_ITEMS = 30
-FETCH_TIMEOUT = 20
-LINK_TIMEOUT = 10
-AI_KEYWORDS = {
-    "ai",
-    "agi",
-    "agent",
-    "agents",
-    "anthropic",
-    "artificial intelligence",
-    "chatgpt",
-    "claude",
-    "deepmind",
-    "diffusion",
-    "embedding",
-    "eval",
-    "evals",
-    "frontier model",
-    "generative",
-    "gpt",
-    "inference",
-    "language model",
-    "llama",
-    "llm",
-    "machine learning",
-    "model",
-    "multimodal",
-    "neural",
-    "openai",
-    "prompt",
-    "reasoning model",
-    "research lab",
-    "transformer",
-}
-TRACKING_PARAMS = {
-    "fbclid",
-    "gclid",
-    "igshid",
-    "mc_cid",
-    "mc_eid",
-    "ref",
-    "utm_campaign",
-    "utm_content",
-    "utm_medium",
-    "utm_source",
-    "utm_term",
+# ── Sources ──────────────────────────────────────────────────────────────────
+
+SOURCES = [
+    # AI Research
+    {"name": "Anthropic Blog",    "url": "https://www.anthropic.com/rss.xml",               "category": "AI Research"},
+    {"name": "OpenAI Blog",       "url": "https://openai.com/blog/rss.xml",                 "category": "AI Research"},
+    {"name": "DeepMind Blog",     "url": "https://deepmind.google/blog/rss.xml",            "category": "AI Research"},
+    {"name": "Google AI Blog",    "url": "https://blog.research.google/feeds/posts/default?alt=rss", "category": "AI Research"},
+    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml",            "category": "AI Research"},
+    # Robotics
+    {"name": "IEEE Spectrum Robotics", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss", "category": "Robotics"},
+    {"name": "The Robot Report",  "url": "https://www.therobotreport.com/feed/",            "category": "Robotics"},
+    {"name": "ROS Discourse",     "url": "https://discourse.ros.org/latest.rss",            "category": "Robotics"},
+    # Industry & Policy
+    {"name": "MIT Tech Review AI","url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "category": "Industry"},
+    {"name": "VentureBeat AI",    "url": "https://venturebeat.com/category/ai/feed/",       "category": "Industry"},
+    {"name": "The Gradient",      "url": "https://thegradient.pub/rss/",                    "category": "AI Research"},
+]
+
+ARTICLES_PER_SOURCE = 2   # Max articles to pull per source
+MAX_STORIES = 20          # Hard cap on total stories
+
+# ── RSS Fetcher ───────────────────────────────────────────────────────────────
+
+RSS_NAMESPACES = {
+    "content": "http://purl.org/rss/1.0/modules/content/",
+    "dc":      "http://purl.org/dc/elements/1.1/",
+    "atom":    "http://www.w3.org/2005/Atom",
 }
 
-
-@dataclass(frozen=True)
-class Source:
-    name: str
-    homepage: str
-    feed_url: str
-    priority: int
-    enabled: bool = True
-    disabled_reason: str = ""
-
-
-@dataclass
-class Item:
-    title: str
-    url: str
-    source: str
-    source_priority: int
-    summary: str = ""
-    published: dt.datetime | None = None
-    canonical_url: str = ""
-    word_count: int = 0
-    read_minutes: int = 1
-    stars: int = 1
-
-
-class TextExtractor(HTMLParser):
-    def __init__(self) -> None:
-        super().__init__()
-        self.parts: list[str] = []
-        self.skip_depth = 0
-
-    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        if tag in {"script", "style", "noscript", "svg"}:
-            self.skip_depth += 1
-
-    def handle_endtag(self, tag: str) -> None:
-        if tag in {"script", "style", "noscript", "svg"} and self.skip_depth:
-            self.skip_depth -= 1
-
-    def handle_data(self, data: str) -> None:
-        if not self.skip_depth:
-            self.parts.append(data)
-
-    def text(self) -> str:
-        return normalize_space(" ".join(self.parts))
-
-
-def normalize_space(value: str) -> str:
-    return re.sub(r"\s+", " ", html.unescape(value or "")).strip()
-
-
-def load_sources(path: Path) -> list[Source]:
-    data = json.loads(path.read_text(encoding="utf-8"))
-    return [Source(**entry) for entry in data]
-
-
-def fetch_url(url: str, timeout: int = FETCH_TIMEOUT) -> tuple[int, str, str]:
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request, timeout=timeout) as response:
-        raw = response.read()
-        charset = response.headers.get_content_charset() or "utf-8"
-        return response.status, response.geturl(), raw.decode(charset, errors="replace")
-
-
-def canonicalize_url(url: str) -> str:
-    parsed = urllib.parse.urlsplit(url.strip())
-    query = urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
-    clean_query = [(key, value) for key, value in query if key.lower() not in TRACKING_PARAMS]
-    path = parsed.path or "/"
-    if path != "/" and path.endswith("/"):
-        path = path.rstrip("/")
-    return urllib.parse.urlunsplit(
-        (
-            parsed.scheme.lower(),
-            parsed.netloc.lower(),
-            path,
-            urllib.parse.urlencode(clean_query, doseq=True),
-            "",
-        )
-    )
-
-
-def child_text(element: ET.Element, *names: str) -> str:
-    for name in names:
-        found = element.find(name)
-        if found is not None and found.text:
-            return normalize_space(found.text)
-    return ""
-
-
-def parse_datetime(value: str) -> dt.datetime | None:
-    value = normalize_space(value)
-    if not value:
-        return None
+def fetch_feed(source: dict, max_items: int = ARTICLES_PER_SOURCE) -> list[dict]:
+    """Fetch and parse an RSS/Atom feed, return list of raw article dicts."""
+    headers = {"User-Agent": "auto-ai-news/1.0 (github.com/merv010/auto-ai-news)"}
     try:
-        parsed = email.utils.parsedate_to_datetime(value)
-    except (TypeError, ValueError):
-        parsed = None
-    if parsed is None:
-        try:
-            parsed = dt.datetime.fromisoformat(value.replace("Z", "+00:00"))
-        except ValueError:
-            return None
-    if parsed.tzinfo is None:
-        parsed = parsed.replace(tzinfo=dt.timezone.utc)
-    return parsed.astimezone(dt.timezone.utc)
+        req = Request(source["url"], headers=headers)
+        with urlopen(req, timeout=15) as resp:
+            raw = resp.read()
+    except URLError as e:
+        print(f"  [SKIP] {source['name']}: {e}")
+        return []
 
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError as e:
+        print(f"  [SKIP] {source['name']}: XML parse error – {e}")
+        return []
 
-def parse_feed(xml_text: str, source: Source) -> list[Item]:
-    root = ET.fromstring(xml_text)
-    if root.tag.endswith("rss") or root.find("channel") is not None:
-        entries = root.findall("./channel/item")
-        return [parse_rss_item(entry, source) for entry in entries]
-    entries = root.findall("{http://www.w3.org/2005/Atom}entry")
-    return [parse_atom_entry(entry, source) for entry in entries]
+    items = []
 
+    # Atom feed
+    atom_ns = "http://www.w3.org/2005/Atom"
+    if root.tag == f"{{{atom_ns}}}feed":
+        for entry in root.findall(f"{{{atom_ns}}}entry")[:max_items]:
+            title = (entry.findtext(f"{{{atom_ns}}}title") or "").strip()
+            link_el = entry.find(f"{{{atom_ns}}}link[@rel='alternate']") or entry.find(f"{{{atom_ns}}}link")
+            url = link_el.get("href", "") if link_el is not None else ""
+            summary = (
+                entry.findtext(f"{{{atom_ns}}}summary") or
+                entry.findtext(f"{{{atom_ns}}}content") or ""
+            ).strip()
+            if title and url:
+                items.append({"title": title, "url": url, "raw_summary": summary[:600]})
+        return items
 
-def parse_rss_item(entry: ET.Element, source: Source) -> Item:
-    title = child_text(entry, "title") or "Untitled"
-    link = child_text(entry, "link", "guid")
-    summary = child_text(entry, "description", "summary")
-    published = parse_datetime(child_text(entry, "pubDate", "published", "updated"))
-    return Item(title, link, source.name, source.priority, summary, published)
+    # RSS 2.0
+    for item in root.findall(".//item")[:max_items]:
+        title = (item.findtext("title") or "").strip()
+        url   = (item.findtext("link") or "").strip()
+        desc  = (
+            item.findtext("description") or
+            item.findtext("{http://purl.org/rss/1.0/modules/content/}encoded") or ""
+        ).strip()
+        # Strip HTML tags naively
+        import re
+        desc = re.sub(r"<[^>]+>", " ", desc)
+        desc = re.sub(r"\s+", " ", desc).strip()
+        if title and url:
+            items.append({"title": title, "url": url, "raw_summary": desc[:600]})
 
+    return items
 
-def parse_atom_entry(entry: ET.Element, source: Source) -> Item:
-    ns = "{http://www.w3.org/2005/Atom}"
-    title = child_text(entry, f"{ns}title") or "Untitled"
-    link = ""
-    for candidate in entry.findall(f"{ns}link"):
-        rel = candidate.attrib.get("rel", "alternate")
-        href = candidate.attrib.get("href", "")
-        if href and rel == "alternate":
-            link = href
-            break
-    if not link:
-        link_node = entry.find(f"{ns}link")
-        link = link_node.attrib.get("href", "") if link_node is not None else ""
-    summary = child_text(entry, f"{ns}summary", f"{ns}content")
-    published = parse_datetime(child_text(entry, f"{ns}published", f"{ns}updated"))
-    return Item(title, link, source.name, source.priority, summary, published)
+# ── Gemini Summarizer ─────────────────────────────────────────────────────────
 
+def build_gemini_model():
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise EnvironmentError("GEMINI_API_KEY environment variable not set.")
+    genai.configure(api_key=api_key)
+    return genai.GenerativeModel("gemini-1.5-flash")
 
-def ai_relevance_score(item: Item) -> int:
-    text = f"{item.title} {item.summary}".lower()
-    score = 0
-    for keyword in AI_KEYWORDS:
-        pattern = r"\b" + re.escape(keyword.lower()) + r"\b"
-        if re.search(pattern, text):
-            score += 2 if " " in keyword else 1
-    return score
+SUMMARIZE_PROMPT = """You are a concise science journalist. Given the article title and snippet below, write a 3-5 sentence summary that:
+- Explains what the development is
+- Why it matters for AI or robotics
+- Uses clear, jargon-free language
 
+Respond with ONLY a JSON object (no markdown, no backticks) in this exact format:
+{{"summary": "...", "deck": "One punchy sentence teaser max 15 words."}}
 
-def is_ai_related(item: Item) -> bool:
-    if item.source in {"Latent Space", "smol.ai"}:
-        return True
-    title_only = Item(
-        title=item.title,
-        url=item.url,
-        source=item.source,
-        source_priority=item.source_priority,
+Title: {title}
+Snippet: {snippet}
+Source: {source}"""
+
+def summarize(model, article: dict, source_name: str) -> tuple[str, str]:
+    """Return (summary, deck) strings from Gemini."""
+    prompt = SUMMARIZE_PROMPT.format(
+        title=article["title"],
+        snippet=article["raw_summary"][:500],
+        source=source_name,
     )
-    return ai_relevance_score(title_only) > 0
+    try:
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+        # Strip accidental markdown fences
+        text = text.strip("`").strip()
+        if text.startswith("json"):
+            text = text[4:].strip()
+        data = json.loads(text)
+        return data.get("summary", article["raw_summary"]), data.get("deck", "")
+    except Exception as e:
+        print(f"    [GEMINI ERROR] {e}")
+        return article["raw_summary"][:300], ""
 
+# ── Main ──────────────────────────────────────────────────────────────────────
 
-def extract_text_from_html(html_text: str) -> str:
-    parser = TextExtractor()
-    parser.feed(html_text)
-    return parser.text()
+def generate(output_path: str):
+    print(f"\n{'='*60}")
+    print(f"  AI & Robotics Daily — {datetime.now(timezone.utc).strftime('%Y-%m-%d')}")
+    print(f"{'='*60}\n")
 
+    model = build_gemini_model()
+    stories = []
+    seen_hashes = set()
 
-def estimate_reading_time(item: Item, article_html: str | None = None) -> int:
-    text = extract_text_from_html(article_html) if article_html else f"{item.title} {item.summary}"
-    words = re.findall(r"\b[\w'-]+\b", text)
-    item.word_count = len(words)
-    item.read_minutes = max(1, round(item.word_count / READING_WPM))
-    return item.read_minutes
-
-
-def score_item(item: Item, now: dt.datetime) -> int:
-    score = 1
-    if item.source_priority >= 5:
-        score += 2
-    elif item.source_priority >= 3:
-        score += 1
-    relevance = ai_relevance_score(item)
-    if relevance >= 3:
-        score += 1
-    if item.published:
-        age_hours = max(0.0, (now - item.published).total_seconds() / 3600)
-        if age_hours <= 24:
-            score += 1
-        elif age_hours > 7 * 24:
-            score -= 1
-    item.stars = max(1, min(5, score))
-    return item.stars
-
-
-def item_sort_key(item: Item) -> tuple[int, dt.datetime]:
-    published = item.published or dt.datetime.min.replace(tzinfo=dt.timezone.utc)
-    return item.stars, published
-
-
-def collect_items(sources: list[Source], now: dt.datetime) -> tuple[list[Item], list[tuple[str, str]]]:
-    items: list[Item] = []
-    unavailable: list[tuple[str, str]] = []
-    for source in sources:
-        if not source.enabled:
-            unavailable.append((source.name, source.disabled_reason or "Source disabled."))
-            continue
-        if not source.feed_url:
-            unavailable.append((source.name, "No feed URL configured."))
-            continue
-        try:
-            status, final_url, feed_text = fetch_url(source.feed_url)
-            if status >= 400:
-                unavailable.append((source.name, f"HTTP {status} from {source.feed_url}."))
+    for source in SOURCES:
+        print(f"Fetching: {source['name']}")
+        articles = fetch_feed(source)
+        for article in articles:
+            # Deduplicate by URL hash
+            url_hash = hashlib.md5(article["url"].encode()).hexdigest()
+            if url_hash in seen_hashes:
                 continue
-            parsed_items = parse_feed(feed_text, source)
-        except (ET.ParseError, TimeoutError, urllib.error.URLError, UnicodeDecodeError) as exc:
-            unavailable.append((source.name, reason_from_error(exc)))
-            continue
-        for item in parsed_items:
-            if not item.url:
-                unavailable.append((source.name, "Feed item missing link."))
-                continue
-            item.url = urllib.parse.urljoin(final_url, item.url)
-            item.canonical_url = canonicalize_url(item.url)
-            if is_ai_related(item):
-                estimate_reading_time(item)
-                score_item(item, now)
-                items.append(item)
-    candidates = dedupe_items(items)
-    accessible, link_failures = filter_accessible_items(candidates, MAX_ITEMS)
-    return accessible, unavailable + link_failures
+            seen_hashes.add(url_hash)
 
+            print(f"  Summarizing: {article['title'][:70]}…")
+            summary, deck = summarize(model, article, source["name"])
+            time.sleep(0.5)  # gentle rate limiting
 
-def check_url_accessible(url: str, timeout: int = LINK_TIMEOUT) -> tuple[bool, str]:
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT}, method="HEAD")
-    try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
-            if response.status < 400:
-                return True, ""
-            return False, f"HTTP {response.status}."
-    except urllib.error.HTTPError as exc:
-        if exc.code in {403, 405}:
-            return check_url_accessible_with_get(url, timeout)
-        return False, f"HTTP {exc.code}."
-    except urllib.error.URLError as exc:
-        return False, f"Network error: {exc.reason}."
+            stories.append({
+                "title":    article["title"],
+                "url":      article["url"],
+                "source":   source["name"],
+                "category": source["category"],
+                "summary":  summary,
+                "deck":     deck,
+            })
 
-
-def check_url_accessible_with_get(url: str, timeout: int) -> tuple[bool, str]:
-    request = urllib.request.Request(
-        url,
-        headers={"User-Agent": USER_AGENT, "Range": "bytes=0-0"},
-    )
-    try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
-            if response.status < 400:
-                return True, ""
-            return False, f"HTTP {response.status}."
-    except urllib.error.HTTPError as exc:
-        return False, f"HTTP {exc.code}."
-    except urllib.error.URLError as exc:
-        return False, f"Network error: {exc.reason}."
-
-
-def filter_accessible_items(items: list[Item], limit: int) -> tuple[list[Item], list[tuple[str, str]]]:
-    accessible: list[Item] = []
-    failures: list[tuple[str, str]] = []
-    for item in items:
-        ok, reason = check_url_accessible(item.url)
-        if ok:
-            accessible.append(item)
-            if len(accessible) == limit:
+            if len(stories) >= MAX_STORIES:
                 break
-        else:
-            failures.append((f"{item.source}: [{item.title}]({item.url})", reason))
-    return accessible, failures
+        if len(stories) >= MAX_STORIES:
+            break
 
+    output = {
+        "date":       datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "generated":  datetime.now(timezone.utc).isoformat(),
+        "story_count": len(stories),
+        "stories":    stories,
+    }
 
-def reason_from_error(exc: BaseException) -> str:
-    if isinstance(exc, urllib.error.HTTPError):
-        return f"HTTP {exc.code} from source."
-    if isinstance(exc, urllib.error.URLError):
-        return f"Network error: {exc.reason}."
-    if isinstance(exc, ET.ParseError):
-        return "Feed XML could not be parsed."
-    return str(exc) or exc.__class__.__name__
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
 
-
-def dedupe_items(items: list[Item]) -> list[Item]:
-    best_by_url: dict[str, Item] = {}
-    for item in items:
-        existing = best_by_url.get(item.canonical_url)
-        if existing is None or item_sort_key(item) > item_sort_key(existing):
-            best_by_url[item.canonical_url] = item
-    return sorted(best_by_url.values(), key=item_sort_key, reverse=True)
-
-
-def stars(value: int) -> str:
-    return "*" * value
-
-
-def format_reading_time(minutes: int) -> str:
-    return f"{minutes} min"
-
-
-def markdown_escape(value: str) -> str:
-    return value.replace("|", "\\|").replace("\n", " ")
-
-
-def render_report(items: list[Item], unavailable: list[tuple[str, str]], now: dt.datetime) -> str:
-    generated = now.strftime("%Y-%m-%d %H:%M UTC")
-    lines = [
-        "# Daily AI News",
-        "",
-        f"Generated: {generated}",
-        "",
-        "| Stars | Read | Source | Link |",
-        "| --- | ---: | --- | --- |",
-    ]
-    if items:
-        for item in items:
-            title = markdown_escape(item.title)
-            source = markdown_escape(item.source)
-            lines.append(
-                f"| {stars(item.stars)} | {format_reading_time(item.read_minutes)} | "
-                f"{source} | [{title}]({item.url}) |"
-            )
-    else:
-        lines.append("|  |  |  | No AI-related items found. |")
-    lines.extend(["", "## Inaccessible / skipped sources", ""])
-    if unavailable:
-        for source, reason in unavailable:
-            lines.append(f"- **{markdown_escape(source)}**: {markdown_escape(reason)}")
-    else:
-        lines.append("- None.")
-    lines.extend(
-        [
-            "",
-            "## Disclosure",
-            "",
-            textwrap.fill(
-                "This report was generated automatically by auto-ai-news, a project built with "
-                "AI assistance. auto-ai-news is an aggregator: original articles, titles, and "
-                "linked content belong to their respective sources and authors.",
-                width=100,
-                break_on_hyphens=False,
-            ),
-            "",
-            "## Source policy",
-            "",
-            textwrap.fill(
-                "This report is generated from trusted public feeds. Links are deduplicated by "
-                "canonical URL, filtered for AI relevance, and scored with a transparent heuristic "
-                "based on source priority, recency, and title or summary relevance.",
-                width=100,
-                break_on_hyphens=False,
-            ),
-            "",
-        ]
-    )
-    return "\n".join(lines)
-
-
-def parse_args(argv: list[str]) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--sources", type=Path, default=DEFAULT_SOURCES)
-    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
-    return parser.parse_args(argv)
-
-
-def main(argv: list[str] | None = None) -> int:
-    args = parse_args(argv or sys.argv[1:])
-    now = dt.datetime.now(dt.timezone.utc)
-    sources = load_sources(args.sources)
-    items, unavailable = collect_items(sources, now)
-    args.output.write_text(render_report(items, unavailable, now), encoding="utf-8")
-    print(f"Wrote {args.output} with {len(items)} links and {len(unavailable)} skipped sources.")
-    return 0
-
+    print(f"\n✓ {len(stories)} stories written to {output_path}")
+    return output
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    parser = argparse.ArgumentParser(description="Generate daily AI & Robotics news digest")
+    parser.add_argument("--output", default="daily-ai-news.json", help="Output JSON file path")
+    args = parser.parse_args()
+    generate(args.output)
