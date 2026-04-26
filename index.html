@@ -466,19 +466,9 @@
     async function loadEdition() {
       const app = document.getElementById('app');
       try {
-        const res = await fetch(`https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/releases/latest`);
-        if (!res.ok) throw new Error('No release found');
-        const release = await res.json();
-
-        // Find the JSON asset
-        const jsonAsset = release.assets.find(a => a.name.endsWith('.json'));
-        if (!jsonAsset) throw new Error('No JSON data in release');
-
-        // Use GitHub API endpoint (supports CORS) instead of browser_download_url
-        const dataRes = await fetch(
-          `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/releases/assets/${jsonAsset.id}`,
-          { headers: { 'Accept': 'application/octet-stream' } }
-        );
+        // Load JSON from same domain (deployed alongside index.html)
+        const dataRes = await fetch('./daily-ai-news.json');
+        if (!dataRes.ok) throw new Error('Edition not available yet');
         const data = await dataRes.json();
         const stories = data.stories || [];
 
@@ -487,7 +477,7 @@
           return;
         }
 
-        document.getElementById('pub-date').textContent = formatDate(release.published_at);
+        document.getElementById('pub-date').textContent = formatDate(data.generated || data.date);
         document.getElementById('story-count').textContent = `${stories.length} stories`;
 
         const lead = stories[0];
