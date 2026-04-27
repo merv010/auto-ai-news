@@ -1,14 +1,14 @@
 {
-  "date": "2026-04-26",
-  "generated": "2026-04-26T12:48:43.568391+00:00",
+  "date": "2026-04-27",
+  "generated": "2026-04-27T07:29:17.098264+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Introducing GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "title": "Our principles",
+      "url": "https://openai.com/index/our-principles",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
       "deck": ""
     },
     {
@@ -20,19 +20,19 @@
       "deck": ""
     },
     {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "deck": ""
+    },
+    {
       "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
       "url": "https://deepmind.google/blog/decoupled-diloco/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Partnering with industry leaders to accelerate AI transformation",
-      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
       "deck": ""
     },
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit",
+      "url": "https://www.therobotreport.com/look-back-on-10-years-of-legged-robots-with-ghost-robotics-at-the-robotics-summit/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "At the summit, Gavin Kenneally, CEO and co-founder of Ghost Robotics, will share lessons from 10 years of deploying quadruped robots. The post Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "ABB Robotics launches PoWa cobot family targeting industrial tasks",
       "url": "https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "From sci-fi to reality: Physical AI’s future with Dr. Jan Liphardt",
-      "url": "https://www.therobotreport.com/from-sci-fi-to-reality-physical-ais-future-with-dr-jan-liphardt/",
-      "source": "The Robot Report",
+      "title": "Feel like TurtleBot4_Navigation is a \"House of Cards\" for my robot",
+      "url": "https://discourse.openrobotics.org/t/feel-like-turtlebot4-navigation-is-a-house-of-cards-for-my-robot/54323",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Dr. Jan Liphardt discusses the impact of modular AI systems on robotics, emphasizing the importance of transparency and safety in human-robot interactions. The post From sci-fi to reality: Physical AI&#8217;s future with Dr. Jan Liphardt appeared first on The Robot Report .",
+      "summary": "My Raspberry Pi 5 powered TurtleBot4 (clone) TB5-WaLI has been “alive” for 11108 hours since January 9, 2025. It has undocked, navigated around my home 6226 meters (almost 4 miles), and redocked by itself 2137 times (well I did have to help it 5 times after safety shutdowns). It has built a good map",
       "deck": ""
     },
     {
-      "title": "I Validated a NASA Robot Model in Minutes Without ROS, Setup, or Blender",
-      "url": "https://discourse.openrobotics.org/t/i-validated-a-nasa-robot-model-in-minutes-without-ros-setup-or-blender/54310",
+      "title": "Did not receive login details yet! Have tried mailing a bunch of times already",
+      "url": "https://discourse.openrobotics.org/t/did-not-receive-login-details-yet-have-tried-mailing-a-bunch-of-times-already/54321",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I tested a NASA humanoid robot model, Robonaut 2. (link below test yourself) nasa-urdf-robots/r2_description/robots/r2c6.urdf at master · gkjohnson/nasa-urdf-robots End-to-end URDF &amp; Xacro validation + URDF to Xacro Convertor+ kinematic analysis + 3D preview all without ROS or local setup or ble",
-      "deck": ""
-    },
-    {
-      "title": "Community BuildUp",
-      "url": "https://discourse.openrobotics.org/t/community-buildup/54304",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hey, ROS India after the last meet as Roscon Pune 2025 held at COEP college pune in the month of December, i was wondering will their be any other meetups or any social activity to collaborate and share knowledge?? 1 post - 1 participant Read full topic",
+      "summary": "Can someone help us? Our team : “Wall-E” cannot find the details to help us login 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
