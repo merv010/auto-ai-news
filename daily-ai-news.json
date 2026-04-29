@@ -1,22 +1,22 @@
 {
-  "date": "2026-04-28",
-  "generated": "2026-04-28T07:25:53.861763+00:00",
+  "date": "2026-04-29",
+  "generated": "2026-04-29T07:14:58.051365+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
       "deck": ""
     },
     {
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
       "deck": ""
     },
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "SquareMind raises $18M for robotic dermatology platform",
-      "url": "https://www.therobotreport.com/squaremind-raises-18m-dermatology-robotics-platform/",
+      "title": "Flex and Teradyne expand partnership to scale physical AI",
+      "url": "https://www.therobotreport.com/flex-teradyne-expand-partnership-scale-physical-ai/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Squaremind has raised funding to launch Swan, a robotic platform that automates full-body skin imaging for early cancer detection. The post SquareMind raises $18M for robotic dermatology platform appeared first on The Robot Report .",
+      "summary": "Flex and Teradyne Robotics expanded their partnership to accelerate physical AI across global manufacturing facilities. The post Flex and Teradyne expand partnership to scale physical AI appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Learn about the latest advances in physical AI at the Robotics Summit",
-      "url": "https://www.therobotreport.com/learn-about-latest-advances-physical-ai-robotics-summit/",
+      "title": "Apptronik’s new CPO hire a major step in right direction",
+      "url": "https://www.therobotreport.com/apptroniks-new-cpo-chu-hire-major-step-right-direction/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Robotics Summit &#038; Expo will have an entire track of sessions focusing on how to apply artificial intelligence to robotics. The post Learn about the latest advances in physical AI at the Robotics Summit appeared first on The Robot Report .",
+      "summary": "Apptronik taps Waymo veteran Daniel Chu as CPO to lead its $935M transition from humanoid R&#038;D to mass-market commercialization. The post Apptronik’s new CPO hire a major step in right direction appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "NIC Card Orientation",
-      "url": "https://discourse.openrobotics.org/t/nic-card-orientation/54349",
+      "title": "micro-ROS public infrastructure transition",
+      "url": "https://discourse.openrobotics.org/t/micro-ros-public-infrastructure-transition/54375",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello, hope you’re doing well! In the task board description md file, it says that the nic cards have orientation limits of -10 to +10 degrees. Can you please clarify if this orientation is along which axis? Best, 1 post - 1 participant Read full topic",
+      "summary": "As part of an OSRA-led clarification of governance boundaries within the ROS ecosystem , the public infrastructure of micro-ROS is transitioning to the Vulcanexus ecosystem. This change is limited to public infrastructure and hosting. The micro-ROS project itself, its goals, roadmap, APIs, and techn",
       "deck": ""
     },
     {
-      "title": "Gazebo PMC Meeting Minutes 2026-04-27",
-      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-04-27/54348",
+      "title": "Clarification: Robot Spawn Position and Initial Joint Angles",
+      "url": "https://discourse.openrobotics.org/t/clarification-robot-spawn-position-and-initial-joint-angles/54374",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Apr 27, 2026 6:00 PM UTC and the following is a summary: PMC Business None New agenda items Dropping Freeimage from Jetty: A backport PR gazebosim/gz-common#803 is in review. Prereleases are planned to facilitate community testing. Gazebo pro",
+      "summary": "Hey @Yadunund ! I am sorry to bother you, but I would like to get some clarifications about the robot’s spawn position and the initial joint angles for the qualification phase. Here is what I understand: The robot’s spawn position (in the world frame) is fixed: robot_x = -0.2, robot_y = 0.2 , and ro",
       "deck": ""
     },
     {
