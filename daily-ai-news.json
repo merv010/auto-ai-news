@@ -1,22 +1,22 @@
 {
-  "date": "2026-04-29",
-  "generated": "2026-04-29T07:14:58.051365+00:00",
+  "date": "2026-04-30",
+  "generated": "2026-04-30T07:23:14.632974+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
       "deck": ""
     },
     {
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "title": "AI evals are becoming the new compute bottleneck",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Flex and Teradyne expand partnership to scale physical AI",
-      "url": "https://www.therobotreport.com/flex-teradyne-expand-partnership-scale-physical-ai/",
+      "title": "XELA Robotics adds enhancements to uSkin sensor family ahead of Robotics Summit",
+      "url": "https://www.therobotreport.com/xela-robotics-adds-2-enhancements-uskin-sensor-family-ahead-robotics-summit/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Flex and Teradyne Robotics expanded their partnership to accelerate physical AI across global manufacturing facilities. The post Flex and Teradyne expand partnership to scale physical AI appeared first on The Robot Report .",
+      "summary": "XELA Robotics will be showing its latest sensor technology at the Robotics Summit &#038; Expo in Boston in May 2026. The post XELA Robotics adds enhancements to uSkin sensor family ahead of Robotics Summit appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Apptronik’s new CPO hire a major step in right direction",
-      "url": "https://www.therobotreport.com/apptroniks-new-cpo-chu-hire-major-step-right-direction/",
+      "title": "Schaeffler plans to deploy 1,000 Hexagon humanoids by 2032",
+      "url": "https://www.therobotreport.com/schaeffler-plans-to-deploy-1000-hexagon-humanoids-2032/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Apptronik taps Waymo veteran Daniel Chu as CPO to lead its $935M transition from humanoid R&#038;D to mass-market commercialization. The post Apptronik’s new CPO hire a major step in right direction appeared first on The Robot Report .",
+      "summary": "Schaeffler is deepening its investment in humanoid robots in production through partnerships with Hexagon and VinDynamics. The post Schaeffler plans to deploy 1,000 Hexagon humanoids by 2032 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "micro-ROS public infrastructure transition",
-      "url": "https://discourse.openrobotics.org/t/micro-ros-public-infrastructure-transition/54375",
+      "title": "I'm done manually tuning DDS parameters!",
+      "url": "https://discourse.openrobotics.org/t/im-done-manually-tuning-dds-parameters/54415",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "As part of an OSRA-led clarification of governance boundaries within the ROS ecosystem , the public infrastructure of micro-ROS is transitioning to the Vulcanexus ecosystem. This change is limited to public infrastructure and hosting. The micro-ROS project itself, its goals, roadmap, APIs, and techn",
+      "summary": "Raise your hand if this sounds familiar: You just want better latency or higher throughput for your ROS2 app — but DDS throws hundreds of parameters at you and you have no idea where to start. So you end up spending hours (or days) manually tweaking, re-running benchmarks, and tweaking again… only t",
       "deck": ""
     },
     {
-      "title": "Clarification: Robot Spawn Position and Initial Joint Angles",
-      "url": "https://discourse.openrobotics.org/t/clarification-robot-spawn-position-and-initial-joint-angles/54374",
+      "title": "Buoyancy and hydrodynamics improvements across Gazebo",
+      "url": "https://discourse.openrobotics.org/t/buoyancy-and-hydrodynamics-improvements-across-gazebo/54407",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey @Yadunund ! I am sorry to bother you, but I would like to get some clarifications about the robot’s spawn position and the initial joint angles for the qualification phase. Here is what I understand: The robot’s spawn position (in the world frame) is fixed: robot_x = -0.2, robot_y = 0.2 , and ro",
+      "summary": "Hi everyone, We’ve recently merged a series of fixes and new features in gz-math and gz-sim that significantly improve Gazebo’s buoyancy and hydrodynamics support. These should be particularly relevant to the maritime community , but the gz-math changes are general-purpose and useful well beyond sim",
       "deck": ""
     },
     {
