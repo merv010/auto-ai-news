@@ -1,8 +1,16 @@
 {
-  "date": "2026-04-30",
-  "generated": "2026-04-30T07:23:14.632974+00:00",
+  "date": "2026-05-01",
+  "generated": "2026-05-01T07:21:44.555516+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "deck": ""
+    },
     {
       "title": "Where the goblins came from",
       "url": "https://openai.com/index/where-the-goblins-came-from",
@@ -12,11 +20,11 @@
       "deck": ""
     },
     {
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "source": "OpenAI Blog",
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-      "deck": ""
-    },
-    {
-      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-      "url": "https://deepmind.google/blog/decoupled-diloco/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "This article is brought to you by DAIMON Robotics . This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity , which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laund",
+      "deck": ""
+    },
+    {
       "title": "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?",
       "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
-      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer , and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz.",
-      "deck": ""
-    },
-    {
-      "title": "XELA Robotics adds enhancements to uSkin sensor family ahead of Robotics Summit",
-      "url": "https://www.therobotreport.com/xela-robotics-adds-2-enhancements-uskin-sensor-family-ahead-robotics-summit/",
+      "title": "California lawmakers open the gate for autonomous trucks in the state",
+      "url": "https://www.therobotreport.com/california-lawmakers-open-gate-autonomous-trucks-state/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "XELA Robotics will be showing its latest sensor technology at the Robotics Summit &#038; Expo in Boston in May 2026. The post XELA Robotics adds enhancements to uSkin sensor family ahead of Robotics Summit appeared first on The Robot Report .",
+      "summary": "The California DMV has paved the way for autonomous trucks in the state with expanded safety and oversight requirements for all autonomous vehicles. The post California lawmakers open the gate for autonomous trucks in the state appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Schaeffler plans to deploy 1,000 Hexagon humanoids by 2032",
-      "url": "https://www.therobotreport.com/schaeffler-plans-to-deploy-1000-hexagon-humanoids-2032/",
+      "title": "Teradyne Robotics revenue rises at the start of 2026",
+      "url": "https://www.therobotreport.com/teradyne-robotics-revenue-rises-start-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Schaeffler is deepening its investment in humanoid robots in production through partnerships with Hexagon and VinDynamics. The post Schaeffler plans to deploy 1,000 Hexagon humanoids by 2032 appeared first on The Robot Report .",
+      "summary": "Teradyne Robotics brought in $91 million in Q1 2026, with its AI products helping to boost robotics sales. The post Teradyne Robotics revenue rises at the start of 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "I'm done manually tuning DDS parameters!",
-      "url": "https://discourse.openrobotics.org/t/im-done-manually-tuning-dds-parameters/54415",
+      "title": "ROS Lyrical Luth Beta and Call for Testing",
+      "url": "https://discourse.openrobotics.org/t/ros-lyrical-luth-beta-and-call-for-testing/54441",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Raise your hand if this sounds familiar: You just want better latency or higher throughput for your ROS2 app — but DDS throws hundreds of parameters at you and you have no idea where to start. So you end up spending hours (or days) manually tweaking, re-running benchmarks, and tweaking again… only t",
+      "summary": "We’re in the “beta” phase of development for ROS 2 Lyrical Luth! We have binary packages available for Ubuntu Resolute and RHEL 10, and rosdistro is open for newly released packages for Lyrical. Testing the Lyrical beta We published Installation instructions for Lyrical here . However, binary packag",
       "deck": ""
     },
     {
-      "title": "Buoyancy and hydrodynamics improvements across Gazebo",
-      "url": "https://discourse.openrobotics.org/t/buoyancy-and-hydrodynamics-improvements-across-gazebo/54407",
+      "title": "Thought I'd share my trial_generator",
+      "url": "https://discourse.openrobotics.org/t/thought-id-share-my-trial-generator/54439",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, We’ve recently merged a series of fixes and new features in gz-math and gz-sim that significantly improve Gazebo’s buoyancy and hydrodynamics support. These should be particularly relevant to the maritime community , but the gz-math changes are general-purpose and useful well beyond sim",
+      "summary": "If you we’re not aware you can call your own config.yaml file. /entrypoint.sh ground_truth:=true start_aic_engine:=true aic_engine_config_file:=/home/jollyroot/ws_aic/src/aic/aic_engine/config/nqr_nic_card_mount0_config.yaml So I made this simple trial template generator it will create just the tria",
+      "deck": ""
+    },
+    {
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris",
-      "deck": ""
-    },
-    {
-      "title": "The missing step between hype and profit",
-      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B",
       "deck": ""
     },
     {
