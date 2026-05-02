@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-01",
-  "generated": "2026-05-01T07:21:44.555516+00:00",
+  "date": "2026-05-02",
+  "generated": "2026-05-02T06:54:58.041471+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: Figure, 1X Ramp Up Humanoid Robot Production",
+      "url": "https://spectrum.ieee.org/video-friday-humanoid-robot-production",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
+      "deck": ""
+    },
+    {
       "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
       "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
       "source": "IEEE Spectrum Robotics",
@@ -76,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?",
-      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
-      "deck": ""
-    },
-    {
-      "title": "California lawmakers open the gate for autonomous trucks in the state",
-      "url": "https://www.therobotreport.com/california-lawmakers-open-gate-autonomous-trucks-state/",
+      "title": "The art of crossing the chasm: When is a startup ready for enterprise adoption?",
+      "url": "https://www.therobotreport.com/art-crossing-chasm-when-startup-ready-enterprise-adoption/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The California DMV has paved the way for autonomous trucks in the state with expanded safety and oversight requirements for all autonomous vehicles. The post California lawmakers open the gate for autonomous trucks in the state appeared first on The Robot Report .",
+      "summary": "Silicon Foundry bridges the chasm between startups and enterprises, focusing on innovation, strategic partnerships, and navigating macroeconomic shifts. The post The art of crossing the chasm: When is a startup ready for enterprise adoption? appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Teradyne Robotics revenue rises at the start of 2026",
-      "url": "https://www.therobotreport.com/teradyne-robotics-revenue-rises-start-2026/",
+      "title": "Top 10 robotics stories of April 2026",
+      "url": "https://www.therobotreport.com/top-10-robotics-stories-april-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Teradyne Robotics brought in $91 million in Q1 2026, with its AI products helping to boost robotics sales. The post Teradyne Robotics revenue rises at the start of 2026 appeared first on The Robot Report .",
+      "summary": "In April 2026, prominent robotics companies hit technical milestones, raised large funding rounds, and took part in patent disputes. The post Top 10 robotics stories of April 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS Lyrical Luth Beta and Call for Testing",
-      "url": "https://discourse.openrobotics.org/t/ros-lyrical-luth-beta-and-call-for-testing/54441",
+      "title": "ROS News for the Week of April 27th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-27th-2026/54463",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re in the “beta” phase of development for ROS 2 Lyrical Luth! We have binary packages available for Ubuntu Resolute and RHEL 10, and rosdistro is open for newly released packages for Lyrical. Testing the Lyrical beta We published Installation instructions for Lyrical here . However, binary packag",
+      "summary": "ROS News for the Week of April 27th, 2026 The Lyrical Luth Test and Tutorial Party is live! We could really use your help testing this release. We’ve got over testing tickets we need to work through by May 14th, and we really need help from the community to make it happen! Up to date installation de",
       "deck": ""
     },
     {
-      "title": "Thought I'd share my trial_generator",
-      "url": "https://discourse.openrobotics.org/t/thought-id-share-my-trial-generator/54439",
+      "title": "Ndimensions Labs - Robotics Navigation Engineer, Electrical Engineer (Robotics)",
+      "url": "https://discourse.openrobotics.org/t/ndimensions-labs-robotics-navigation-engineer-electrical-engineer-robotics/54460",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "If you we’re not aware you can call your own config.yaml file. /entrypoint.sh ground_truth:=true start_aic_engine:=true aic_engine_config_file:=/home/jollyroot/ws_aic/src/aic/aic_engine/config/nqr_nic_card_mount0_config.yaml So I made this simple trial template generator it will create just the tria",
+      "summary": "Join us as a Robotics Navigation Engineer (1 position) and Electrical Engineer, Robotics (1 position)! Full-time positions. Based in Boston, MA. Hybrid work. Salary range: $100,000 - $300,000. Website: Careers - ndimensions labs About Ndimensions Labs At Ndimensions, we’re inventing the infrastructu",
       "deck": ""
     },
     {
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this",
+      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat ",
       "deck": ""
     },
     {
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "title": "Cyber-Insecurity in the AI Era",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris",
+      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethoug",
       "deck": ""
     },
     {
