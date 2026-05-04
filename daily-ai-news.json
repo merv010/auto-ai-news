@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-03",
-  "generated": "2026-05-03T07:12:45.160307+00:00",
+  "date": "2026-05-04",
+  "generated": "2026-05-04T07:42:05.490541+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Phase stability regulator based on two dynamic parameters for autonomous mobile robots",
-      "url": "https://www.therobotreport.com/phase-stability-regulator-based-two-dynamic-parameters-autonomous-mobile-robots/",
+      "title": "Why physical AI is the real manufacturing revolution",
+      "url": "https://www.therobotreport.com/why-physical-ai-is-real-manufacturing-revolution/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Autonomous mobile robots, or AMRs, can benefit from a phase regulator with two real-time signals, according to a researcher. The post Phase stability regulator based on two dynamic parameters for autonomous mobile robots appeared first on The Robot Report .",
+      "summary": "Physical AI promises to transform manufacturing, but only if robotics developers and integrators avoid hype and address real scaling challenges, writes Fictiv. The post Why physical AI is the real manufacturing revolution appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "FAULHABER designs DualGear for autonomous logistics systems",
-      "url": "https://www.therobotreport.com/faulhaber-designs-dualgear-for-autonomous-logistics-systems/",
+      "title": "Closing the latency gap: Why physical AI requires edge-first architectures",
+      "url": "https://www.therobotreport.com/closing-latency-gap-why-physical-ai-requires-edge-first-architectures/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "FAULHABER has designed DualGear to offer high performance in space-constrained autonomous logistics applications. The post FAULHABER designs DualGear for autonomous logistics systems appeared first on The Robot Report .",
+      "summary": "Madhu Gaganam, founder and CEO of Cogniedge.ai, said the industry’s shift toward true cobots demands more than safer cages or slower speeds. The post Closing the latency gap: Why physical AI requires edge-first architectures appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS News for the Week of April 27th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-27th-2026/54463",
+      "title": "Interop SIG, 7 May 2026: Open-RMF Upcoming Zone Feature",
+      "url": "https://discourse.openrobotics.org/t/interop-sig-7-may-2026-open-rmf-upcoming-zone-feature/54490",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS News for the Week of April 27th, 2026 The Lyrical Luth Test and Tutorial Party is live! We could really use your help testing this release. We’ve got over testing tickets we need to work through by May 14th, and we really need help from the community to make it happen! Up to date installation de",
+      "summary": "Meeting Link Calendar Link Thu, May 7, 2026 3:00 PM UTC As part of the RMF-2.0 Project, the Centre for Healthcare Assistive &amp; Robotics Technology (CHART) has developed several new features for Open-RMF which will be rolled out to the community in stages . The first stage will cover a feature for",
       "deck": ""
     },
     {
-      "title": "Ndimensions Labs - Robotics Navigation Engineer, Electrical Engineer (Robotics)",
-      "url": "https://discourse.openrobotics.org/t/ndimensions-labs-robotics-navigation-engineer-electrical-engineer-robotics/54460",
+      "title": "RVizSplat: Visualize 3D Gaussian splats in RViz!",
+      "url": "https://discourse.openrobotics.org/t/rvizsplat-visualize-3d-gaussian-splats-in-rviz/54487",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Join us as a Robotics Navigation Engineer (1 position) and Electrical Engineer, Robotics (1 position)! Full-time positions. Based in Boston, MA. Hybrid work. Salary range: $100,000 - $300,000. Website: Careers - ndimensions labs About Ndimensions Labs At Ndimensions, we’re inventing the infrastructu",
+      "summary": "Hey everyone! We are happy to share Release 1.0.0 of RVizSplat ! In this release, we provide an RViz display plugin that renders 3D Gaussian splats alongside other conventional markers in the scene. Along with this, we also provide an interface to stream GSplats over ROS topics and the ability to re",
       "deck": ""
     },
     {
