@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-04",
-  "generated": "2026-05-04T07:42:05.490541+00:00",
+  "date": "2026-05-05",
+  "generated": "2026-05-05T07:10:06.788160+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Introducing Advanced Account Security",
-      "url": "https://openai.com/index/advanced-account-security",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
       "deck": ""
     },
     {
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
       "deck": ""
     },
     {
@@ -68,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Figure, 1X Ramp Up Humanoid Robot Production",
-      "url": "https://spectrum.ieee.org/video-friday-humanoid-robot-production",
+      "title": "iRobot Founder Wants to Put a Robotic Familiar Into Your Home",
+      "url": "https://spectrum.ieee.org/familiar-machines-and-magic",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
+      "summary": "Two years ago, Colin Angle stepped down as CEO of iRobot , the company that he co-founded and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy new “physical AI” company called Familiar Machines & Magic (FM&M), which in short order managed to",
       "deck": ""
     },
     {
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Why physical AI is the real manufacturing revolution",
-      "url": "https://www.therobotreport.com/why-physical-ai-is-real-manufacturing-revolution/",
+      "title": "ABB Robotics launches OmniVance autonomous surface finishing cell",
+      "url": "https://www.therobotreport.com/abb-robotics-launches-omnivance-autonomous-surface-finishing-cell/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Physical AI promises to transform manufacturing, but only if robotics developers and integrators avoid hype and address real scaling challenges, writes Fictiv. The post Why physical AI is the real manufacturing revolution appeared first on The Robot Report .",
+      "summary": "ABB Robotics said its new OmniVance Collaborative Surface Finishing Cell automates repetitive sanding and polishing tasks The post ABB Robotics launches OmniVance autonomous surface finishing cell appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Closing the latency gap: Why physical AI requires edge-first architectures",
-      "url": "https://www.therobotreport.com/closing-latency-gap-why-physical-ai-requires-edge-first-architectures/",
+      "title": "Inside Colin Angle’s bid to build companion robots with Familiar Machines & Magic",
+      "url": "https://www.therobotreport.com/inside-colin-angle-bid-build-companion-robots-familiar/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Madhu Gaganam, founder and CEO of Cogniedge.ai, said the industry’s shift toward true cobots demands more than safer cages or slower speeds. The post Closing the latency gap: Why physical AI requires edge-first architectures appeared first on The Robot Report .",
+      "summary": "Familiar Machines &#038; Magic, Colin Angle's new robot startup, is developing a quadruped 'familiar' to succeed in a challenging category. The post Inside Colin Angle’s bid to build companion robots with Familiar Machines &#038; Magic appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Interop SIG, 7 May 2026: Open-RMF Upcoming Zone Feature",
-      "url": "https://discourse.openrobotics.org/t/interop-sig-7-may-2026-open-rmf-upcoming-zone-feature/54490",
+      "title": "\"ROS 2 in a Nutshell: A Survey\" is now published in ACM Computing Surveys",
+      "url": "https://discourse.openrobotics.org/t/ros-2-in-a-nutshell-a-survey-is-now-published-in-acm-computing-surveys/54524",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Meeting Link Calendar Link Thu, May 7, 2026 3:00 PM UTC As part of the RMF-2.0 Project, the Centre for Healthcare Assistive &amp; Robotics Technology (CHART) has developed several new features for Open-RMF which will be rolled out to the community in stages . The first stage will cover a feature for",
+      "summary": "Hi everyone, I have been a silent observer here since 2019, and this is my first post on Discourse. I hope you will excuse the sudden intrusion I am pleased to share that our survey paper, “ROS 2 in a Nutshell: A Survey,” has been published in ACM Computing Surveys . Paper DOI: https://doi.org/10.11",
       "deck": ""
     },
     {
-      "title": "RVizSplat: Visualize 3D Gaussian splats in RViz!",
-      "url": "https://discourse.openrobotics.org/t/rvizsplat-visualize-3d-gaussian-splats-in-rviz/54487",
+      "title": "Gazebo PMC Meeting Minutes 2026-05-04",
+      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-05-04/54521",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey everyone! We are happy to share Release 1.0.0 of RVizSplat ! In this release, we provide an RViz display plugin that renders 3D Gaussian splats alongside other conventional markers in the scene. Along with this, we also provide an interface to stream GSplats over ROS topics and the ability to re",
+      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, May 4, 2026 6:00 PM UTC and the following is a summary: Welcomes We welcomed our new GSoC contributor @C88-YQ who will be working on the project “Scalable Multi-Robot Integration and Automated Bridging for ROS 2 and Gazebo”. PMC Business We’r",
+      "deck": ""
+    },
+    {
+      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, allegin",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat ",
-      "deck": ""
-    },
-    {
-      "title": "Cyber-Insecurity in the AI Era",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethoug",
       "deck": ""
     },
     {
