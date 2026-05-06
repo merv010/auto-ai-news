@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-05",
-  "generated": "2026-05-05T07:10:06.788160+00:00",
+  "date": "2026-05-06",
+  "generated": "2026-05-06T07:29:54.528426+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
       "deck": ""
     },
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "summary": "",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "AI evals are becoming the new compute bottleneck",
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "ABB Robotics launches OmniVance autonomous surface finishing cell",
-      "url": "https://www.therobotreport.com/abb-robotics-launches-omnivance-autonomous-surface-finishing-cell/",
+      "title": "WaiV Robotics emerges from stealth to help drones take off and land at sea",
+      "url": "https://www.therobotreport.com/waiv-robotics-emerges-from-stealth-help-drones-take-off-land-at-sea/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ABB Robotics said its new OmniVance Collaborative Surface Finishing Cell automates repetitive sanding and polishing tasks The post ABB Robotics launches OmniVance autonomous surface finishing cell appeared first on The Robot Report .",
+      "summary": "With $7.5 million in funding, WaiV Robotics is working to productize its drone landing system, and find OEM partners to work with. The post WaiV Robotics emerges from stealth to help drones take off and land at sea appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Inside Colin Angle’s bid to build companion robots with Familiar Machines & Magic",
-      "url": "https://www.therobotreport.com/inside-colin-angle-bid-build-companion-robots-familiar/",
+      "title": "Tutor Intelligence builds Data Factory to train robot AI in the real world",
+      "url": "https://www.therobotreport.com/tutor-intelligence-builds-data-factory-to-train-robot-ai-in-the-real-world/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Familiar Machines &#038; Magic, Colin Angle's new robot startup, is developing a quadruped 'familiar' to succeed in a challenging category. The post Inside Colin Angle’s bid to build companion robots with Familiar Machines &#038; Magic appeared first on The Robot Report .",
+      "summary": "Tutor Intelligence is running 100 Sonny semi-humanoid robots in its headquarters while sharing technology and data with its Cassie mobile manipulator. The post Tutor Intelligence builds Data Factory to train robot AI in the real world appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "\"ROS 2 in a Nutshell: A Survey\" is now published in ACM Computing Surveys",
-      "url": "https://discourse.openrobotics.org/t/ros-2-in-a-nutshell-a-survey-is-now-published-in-acm-computing-surveys/54524",
+      "title": "Is FastDDS (default config) totally unusable for simulation with rclpy/MultiThreadedExecutor?",
+      "url": "https://discourse.openrobotics.org/t/is-fastdds-default-config-totally-unusable-for-simulation-with-rclpy-multithreadedexecutor/54553",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I have been a silent observer here since 2019, and this is my first post on Discourse. I hope you will excuse the sudden intrusion I am pleased to share that our survey paper, “ROS 2 in a Nutshell: A Survey,” has been published in ACM Computing Surveys . Paper DOI: https://doi.org/10.11",
+      "summary": "I was fighting some performance issues in our simulation for a subject I teach. It boiled down to one slight performance improvement in rclpy which I started discussing , but the larger surprise was how super-bad FastDDS is with distributing the 250 Hz /clock topic. Pink is FastDDS, blue is Zenoh. L",
       "deck": ""
     },
     {
-      "title": "Gazebo PMC Meeting Minutes 2026-05-04",
-      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-05-04/54521",
+      "title": "[Release] emcon_gz_hardware_interface: A DDS-bypassing hardware interface for Gazebo Harmonic",
+      "url": "https://discourse.openrobotics.org/t/release-emcon-gz-hardware-interface-a-dds-bypassing-hardware-interface-for-gazebo-harmonic/54549",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, May 4, 2026 6:00 PM UTC and the following is a summary: Welcomes We welcomed our new GSoC contributor @C88-YQ who will be working on the project “Scalable Multi-Robot Integration and Automated Bridging for ROS 2 and Gazebo”. PMC Business We’r",
+      "summary": "Hi everyone, When scaling up multi-robot simulations or running complex network-isolated state estimators in Gazebo Harmonic, relying on the standard gz_ros2_control shared memory architecture can become a bottleneck or present domain isolation challenges. To solve this, I’ve open-sourced emcon_gz_h",
+      "deck": ""
+    },
+    {
+      "title": "A blueprint for using AI to strengthen democracy",
+      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, allegin",
-      "deck": ""
-    },
-    {
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat ",
       "deck": ""
     },
     {
