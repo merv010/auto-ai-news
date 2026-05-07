@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-06",
-  "generated": "2026-05-06T07:29:54.528426+00:00",
+  "date": "2026-05-07",
+  "generated": "2026-05-07T07:36:52.601149+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "deck": ""
     },
     {
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "title": "How frontier enterprises are building an AI advantage",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "WaiV Robotics emerges from stealth to help drones take off and land at sea",
-      "url": "https://www.therobotreport.com/waiv-robotics-emerges-from-stealth-help-drones-take-off-land-at-sea/",
+      "title": "Johnson & Johnson completes clinical study for OTTAVA robotic surgical system",
+      "url": "https://www.therobotreport.com/johnson-johnson-completes-clinical-study-ottava-robotic-surgical-system/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "With $7.5 million in funding, WaiV Robotics is working to productize its drone landing system, and find OEM partners to work with. The post WaiV Robotics emerges from stealth to help drones take off and land at sea appeared first on The Robot Report .",
+      "summary": "Johnson &#038; Johnson said it has demonstrated the feasibility of OTTAVA's compact design for small operating rooms. The post Johnson &#038; Johnson completes clinical study for OTTAVA robotic surgical system appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Tutor Intelligence builds Data Factory to train robot AI in the real world",
-      "url": "https://www.therobotreport.com/tutor-intelligence-builds-data-factory-to-train-robot-ai-in-the-real-world/",
+      "title": "1X begins production of NEO humanoids in California facility",
+      "url": "https://www.therobotreport.com/1x-begins-production-neo-humanoid-robots-at-hayward-california-facility/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Tutor Intelligence is running 100 Sonny semi-humanoid robots in its headquarters while sharing technology and data with its Cassie mobile manipulator. The post Tutor Intelligence builds Data Factory to train robot AI in the real world appeared first on The Robot Report .",
+      "summary": "1X has launched full-scale production at its 'NEO factory,' bringing vertically integrated humanoid robot manufacturing to the U.S. The post 1X begins production of NEO humanoids in California facility appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Is FastDDS (default config) totally unusable for simulation with rclpy/MultiThreadedExecutor?",
-      "url": "https://discourse.openrobotics.org/t/is-fastdds-default-config-totally-unusable-for-simulation-with-rclpy-multithreadedexecutor/54553",
+      "title": "SensorStream iOS App - Use your iPhone as a sensor platform",
+      "url": "https://discourse.openrobotics.org/t/sensorstream-ios-app-use-your-iphone-as-a-sensor-platform/54577",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I was fighting some performance issues in our simulation for a subject I teach. It boiled down to one slight performance improvement in rclpy which I started discussing , but the larger surprise was how super-bad FastDDS is with distributing the 250 Hz /clock topic. Pink is FastDDS, blue is Zenoh. L",
+      "summary": "Want to stream your iPhone’s sensors to ROS 2? (Yes, you can even get point clouds!) I made an app to do exactly this, available for download on the App Store! SensorStream is an iPhone app + ROS2 node combo that streams live sensor data directly into your ROS2 environment over your local network or",
       "deck": ""
     },
     {
-      "title": "[Release] emcon_gz_hardware_interface: A DDS-bypassing hardware interface for Gazebo Harmonic",
-      "url": "https://discourse.openrobotics.org/t/release-emcon-gz-hardware-interface-a-dds-bypassing-hardware-interface-for-gazebo-harmonic/54549",
+      "title": "Where does latency in WebRTC video streaming come from? An analysis",
+      "url": "https://discourse.openrobotics.org/t/where-does-latency-in-webrtc-video-streaming-come-from-an-analysis/54566",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, When scaling up multi-robot simulations or running complex network-isolated state estimators in Gazebo Harmonic, relying on the standard gz_ros2_control shared memory architecture can become a bottleneck or present domain isolation challenges. To solve this, I’ve open-sourced emcon_gz_h",
+      "summary": "We analyzed the glass-to-glass latency of streaming video from robots to the web using WebRTC. Typical, total latency for remote streaming is 150-180 ms but how does this break down? Tl;dr: The vast majority of latency actually comes from the camera itself and the USB bus ( ~100 ms ). H264 encoding ",
       "deck": ""
     },
     {
