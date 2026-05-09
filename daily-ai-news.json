@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-08",
-  "generated": "2026-05-08T06:26:56.150110+00:00",
+  "date": "2026-05-09",
+  "generated": "2026-05-09T07:01:38.697834+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "deck": ""
+    },
     {
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
       "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "deck": ""
-    },
-    {
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "url": "https://huggingface.co/blog/allenai/emo",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -72,7 +72,7 @@
       "url": "https://spectrum.ieee.org/familiar-machines-and-magic",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Two years ago, Colin Angle stepped down as CEO of iRobot , the company that he co-founded and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy new “physical AI” company called Familiar Machines & Magic (FM&M), which in short order managed to",
+      "summary": "Two years ago, Colin Angle stepped down as CEO of iRobot , the company that he cofounded and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy new “physical AI” company called Familiar Machines & Magic (FM&M), which in short order managed to ",
       "deck": ""
     },
     {
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Hugging Face launches agentic toolkit for Reachy Mini",
-      "url": "https://www.therobotreport.com/hugging-face-launches-agentic-toolkit-for-reachy-mini/",
+      "title": "Why traditional robotics data collection is obsolete and what replaces it",
+      "url": "https://www.therobotreport.com/why-traditional-robotics-data-collection-is-obsolete-and-what-replaces-it/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Users describe the behavior they'd like to see in plain English, and the agent writes, tests, and ships the code to Reachy Mini. The post Hugging Face launches agentic toolkit for Reachy Mini appeared first on The Robot Report .",
+      "summary": "Eric Chan discusses Rhoda AI's innovative approach to robotics using video data for scalable, efficient learning. The post Why traditional robotics data collection is obsolete and what replaces it appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Podcast: Colin Angle discusses building companion robots with Familiar Machines & Magic",
-      "url": "https://www.therobotreport.com/podcast-colin-angle-discusses-building-companion-robots-familiar-machines-magic/",
+      "title": "Learn how to successfully design hospital logistics robots at the Robotics Summit",
+      "url": "https://www.therobotreport.com/learn-how-to-successfully-design-hospital-logistics-robots-2026-robotics-summit/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "iRobot co-founder Colin Angle talks about his latest venture, creating next-gen social robots with Familiar Machines. The post Podcast: Colin Angle discusses building companion robots with Familiar Machines &#038; Magic appeared first on The Robot Report .",
+      "summary": "Experts from Rovex Technologies, SKA Robotics, and ST Engineering Aethon will discuss design considerations for hospital robotics. The post Learn how to successfully design hospital logistics robots at the Robotics Summit appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Need Detailed Submission Failure Logs",
-      "url": "https://discourse.openrobotics.org/t/need-detailed-submission-failure-logs/54617",
+      "title": "ros2_lingua: A safe, dependency-aware grounding engine for LLMs",
+      "url": "https://discourse.openrobotics.org/t/ros2-lingua-a-safe-dependency-aware-grounding-engine-for-llms/54645",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, our team name is starvla. Our model runs correctly in the local environment, but the submission has failed several times after uploading. Our setup uses micromamba to launch a separate inference environment/process for the VLA model, and the model checkpoints/parameters are packaged tog",
+      "summary": "​Hi everyone, ​Like many of us, I’ve been experimenting with giving LLMs control over robot hardware. However, I quickly ran into the classic problems: LLMs hallucinate actions, assume prerequisites that haven’t been met (e.g., trying to drive a humanoid before stabilizing it), and most existing int",
       "deck": ""
     },
     {
-      "title": "Gazebo ROS 2 Runtime Suite for Harmonic: model import, bridge, and ros2 control managing",
-      "url": "https://discourse.openrobotics.org/t/gazebo-ros-2-runtime-suite-for-harmonic-model-import-bridge-and-ros2-control-managing/54612",
+      "title": "ROS News for the Week of May 4th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-4th-2026/54641",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Gazebo ROS 2 Model Runtime Suite: model import, bridge discovery, and control management for Gazebo Harmonic Hi everyone, I would like to share a set of Gazebo Harmonic GUI plugins I have been developing to simplify common ROS 2 simulation workflows directly from the Gazebo interface. The motivation",
+      "summary": "ROS News for the Week of May 4th, 2026 The ROS 2 Lyrical Luth Test Tutorial party is ongoing. The good news is we’re on the cusp of closing more tickets than we closed last year. The bad news is that, thanks to a larger test matrix, we have a lot more tickets to close than last year. We could still ",
+      "deck": ""
+    },
+    {
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele",
-      "deck": ""
-    },
-    {
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, allegin",
       "deck": ""
     },
     {
