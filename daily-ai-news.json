@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-09",
-  "generated": "2026-05-09T07:01:38.697834+00:00",
+  "date": "2026-05-10",
+  "generated": "2026-05-10T07:19:28.149575+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: AI Gives Robot Hands Human-Like Dexterity",
+      "url": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
+      "deck": ""
+    },
+    {
       "title": "iRobot Founder Wants to Put a Robotic Familiar Into Your Home",
       "url": "https://spectrum.ieee.org/familiar-machines-and-magic",
       "source": "IEEE Spectrum Robotics",
@@ -76,11 +84,11 @@
       "deck": ""
     },
     {
-      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-      "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-      "source": "IEEE Spectrum Robotics",
+      "title": "Cognex releases fully integrated AI-powered vision system for robotics",
+      "url": "https://www.therobotreport.com/cognex-releases-fully-integrated-ai-powered-vision-system-robotics/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "This article is brought to you by DAIMON Robotics . This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity , which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laund",
+      "summary": "The system combines Cognex-developed edge AI, advanced AI, and rule-based vision tools with a high-performance embedded compute. The post Cognex releases fully integrated AI-powered vision system for robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Learn how to successfully design hospital logistics robots at the Robotics Summit",
-      "url": "https://www.therobotreport.com/learn-how-to-successfully-design-hospital-logistics-robots-2026-robotics-summit/",
-      "source": "The Robot Report",
+      "title": "Stop “Ghost Commands” on Bad Wi-Fi: ros2_kinematic_guard for `/cmd_vel` safety",
+      "url": "https://discourse.openrobotics.org/t/stop-ghost-commands-on-bad-wi-fi-ros2-kinematic-guard-for-cmd-vel-safety/54681",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Experts from Rovex Technologies, SKA Robotics, and ST Engineering Aethon will discuss design considerations for hospital robotics. The post Learn how to successfully design hospital logistics robots at the Robotics Summit appeared first on The Robot Report .",
+      "summary": "Hi ROS Community, Have you ever tuned DDS QoS for hours, only to see a mobile robot execute a “ghost command” after a bad Wi-Fi / 5G spike? I’ve been working on a small ROS 2 project called ros2_kinematic_guard to address what I call Wireless Command Collapse . The issue is not just packet loss. Som",
       "deck": ""
     },
     {
-      "title": "ros2_lingua: A safe, dependency-aware grounding engine for LLMs",
-      "url": "https://discourse.openrobotics.org/t/ros2-lingua-a-safe-dependency-aware-grounding-engine-for-llms/54645",
+      "title": "Magenta Marker on all Boards?",
+      "url": "https://discourse.openrobotics.org/t/magenta-marker-on-all-boards/54674",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "​Hi everyone, ​Like many of us, I’ve been experimenting with giving LLMs control over robot hardware. However, I quickly ran into the classic problems: LLMs hallucinate actions, assume prerequisites that haven’t been met (e.g., trying to drive a humanoid before stabilizing it), and most existing int",
-      "deck": ""
-    },
-    {
-      "title": "ROS News for the Week of May 4th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-4th-2026/54641",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "ROS News for the Week of May 4th, 2026 The ROS 2 Lyrical Luth Test Tutorial party is ongoing. The good news is we’re on the cusp of closing more tickets than we closed last year. The bad news is that, thanks to a larger test matrix, we have a lot more tickets to close than last year. We could still ",
+      "summary": "My team is wondering if the magenta marker would be present on all the boards during the qual phase? Could anyone let us know if thats a fair assumption? 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
