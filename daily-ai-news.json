@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-10",
-  "generated": "2026-05-10T07:19:28.149575+00:00",
+  "date": "2026-05-11",
+  "generated": "2026-05-11T08:19:48.650152+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
       "deck": ""
     },
     {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "deck": ""
     },
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "How to engineer robot tracks and 7th axis systems for real-world environments",
+      "url": "https://www.therobotreport.com/how-to-engineer-robot-tracks-7th-axis-systems-real-world-environments/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Experts from Güdel will focus on how harsh and dirty environments impact robot tracks and long-axis linear motion systems. The post How to engineer robot tracks and 7th axis systems for real-world environments appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Cognex releases fully integrated AI-powered vision system for robotics",
       "url": "https://www.therobotreport.com/cognex-releases-fully-integrated-ai-powered-vision-system-robotics/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Why traditional robotics data collection is obsolete and what replaces it",
-      "url": "https://www.therobotreport.com/why-traditional-robotics-data-collection-is-obsolete-and-what-replaces-it/",
-      "source": "The Robot Report",
+      "title": "Built an Autonomous Mobile Robot (AMR) for warehouse automation - from CAD to code",
+      "url": "https://discourse.openrobotics.org/t/built-an-autonomous-mobile-robot-amr-for-warehouse-automation-from-cad-to-code/54698",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Eric Chan discusses Rhoda AI's innovative approach to robotics using video data for scalable, efficient learning. The post Why traditional robotics data collection is obsolete and what replaces it appeared first on The Robot Report .",
+      "summary": "Designed the chassis in Fusion 360, exported to URDF, and built the full stack using ROS 2. Stack: Nav2 for navigation &amp; path planning ArUco-based visual docking for precise alignment Custom waypoint sequencing for multi-shelf tasks • Gazebo + RViz for simulation &amp; visualization Challenge: L",
       "deck": ""
     },
     {
-      "title": "Stop “Ghost Commands” on Bad Wi-Fi: ros2_kinematic_guard for `/cmd_vel` safety",
-      "url": "https://discourse.openrobotics.org/t/stop-ghost-commands-on-bad-wi-fi-ros2-kinematic-guard-for-cmd-vel-safety/54681",
+      "title": "How to avoid one top score team have multiple accounts",
+      "url": "https://discourse.openrobotics.org/t/how-to-avoid-one-top-score-team-have-multiple-accounts/54696",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS Community, Have you ever tuned DDS QoS for hours, only to see a mobile robot execute a “ghost command” after a bad Wi-Fi / 5G spike? I’ve been working on a small ROS 2 project called ros2_kinematic_guard to address what I call Wireless Command Collapse . The issue is not just packet loss. Som",
-      "deck": ""
-    },
-    {
-      "title": "Magenta Marker on all Boards?",
-      "url": "https://discourse.openrobotics.org/t/magenta-marker-on-all-boards/54674",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "My team is wondering if the magenta marker would be present on all the boards during the qual phase? Could anyone let us know if thats a fair assumption? 1 post - 1 participant Read full topic",
+      "summary": "30 teams will proceed to next phase. However, in these 30 teams, perhaps, two or more teams belong to one same person. How to avoid this situation? 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
