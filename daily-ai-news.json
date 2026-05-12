@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-11",
-  "generated": "2026-05-11T08:19:48.650152+00:00",
+  "date": "2026-05-12",
+  "generated": "2026-05-12T07:36:10.959141+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "deck": ""
     },
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands",
+      "url": "https://www.therobotreport.com/rlwrld-releases-rldx-1-a-dexterity-first-foundation-model-for-robot-hands/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "RLWRLD said with RLDX-1, it aimed to include things like context memorization or force sensing, which existing models often lack. The post RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "How to engineer robot tracks and 7th axis systems for real-world environments",
       "url": "https://www.therobotreport.com/how-to-engineer-robot-tracks-7th-axis-systems-real-world-environments/",
       "source": "The Robot Report",
@@ -92,43 +100,35 @@
       "deck": ""
     },
     {
-      "title": "Cognex releases fully integrated AI-powered vision system for robotics",
-      "url": "https://www.therobotreport.com/cognex-releases-fully-integrated-ai-powered-vision-system-robotics/",
-      "source": "The Robot Report",
-      "category": "Robotics",
-      "summary": "The system combines Cognex-developed edge AI, advanced AI, and rule-based vision tools with a high-performance embedded compute. The post Cognex releases fully integrated AI-powered vision system for robotics appeared first on The Robot Report .",
-      "deck": ""
-    },
-    {
-      "title": "Built an Autonomous Mobile Robot (AMR) for warehouse automation - from CAD to code",
-      "url": "https://discourse.openrobotics.org/t/built-an-autonomous-mobile-robot-amr-for-warehouse-automation-from-cad-to-code/54698",
+      "title": "Visual identification of the target port (GT-denied policy)",
+      "url": "https://discourse.openrobotics.org/t/visual-identification-of-the-target-port-gt-denied-policy/54741",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Designed the chassis in Fusion 360, exported to URDF, and built the full stack using ROS 2. Stack: Nav2 for navigation &amp; path planning ArUco-based visual docking for precise alignment Custom waypoint sequencing for multi-shelf tasks • Gazebo + RViz for simulation &amp; visualization Challenge: L",
+      "summary": "Hi guys, I may be missing something, but none of the documentation, the forum and the issues on Github seem to answer this simple question: How is our GT-denied policy to visually identify the target port? What we know: Ground truth gives access to the tf between gripper tip and target port because ",
       "deck": ""
     },
     {
-      "title": "How to avoid one top score team have multiple accounts",
-      "url": "https://discourse.openrobotics.org/t/how-to-avoid-one-top-score-team-have-multiple-accounts/54696",
+      "title": "Complete Tutorial on Nero Arm Angle Parametric IK",
+      "url": "https://discourse.openrobotics.org/t/complete-tutorial-on-nero-arm-angle-parametric-ik/54740",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "30 teams will proceed to next phase. However, in these 30 teams, perhaps, two or more teams belong to one same person. How to avoid this situation? 1 post - 1 participant Read full topic",
+      "summary": "Complete Tutorial on Nero Arm Angle Parametric IK Reference paper from Tsinghua University Paper —— Inverse kinematic optimization for 7-DoF serial manipulators with joint limits Paper Link: https://jst.tsinghuajournals.com/article/2020/4286/20201206.htm . Part 1. Overview This document provides a c",
       "deck": ""
     },
     {
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to ",
       "deck": ""
     },
     {
-      "title": "A blueprint for using AI to strengthen democracy",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a",
       "deck": ""
     },
     {
