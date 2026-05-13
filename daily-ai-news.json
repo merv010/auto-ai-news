@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-12",
-  "generated": "2026-05-12T07:36:10.959141+00:00",
+  "date": "2026-05-13",
+  "generated": "2026-05-13T07:43:55.761497+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "url": "https://openai.com/signals/research/2026q1-update",
+      "title": "How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
       "deck": ""
     },
     {
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Hello Robot Sets the Standard for Practical, Safe Home Robots",
+      "url": "https://spectrum.ieee.org/stretch-4-home-robot",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Many roboticists (and at least one robotics journalist) have been seduced by the dream of a robot butler. And the rampant popularity of videos showing humanoid robots doing household tasks in improbably clean kitchens and unrealistically tidy bedrooms suggests that we’re not the only ones interested",
+      "deck": ""
+    },
+    {
       "title": "Video Friday: AI Gives Robot Hands Human-Like Dexterity",
       "url": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "iRobot Founder Wants to Put a Robotic Familiar Into Your Home",
-      "url": "https://spectrum.ieee.org/familiar-machines-and-magic",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Two years ago, Colin Angle stepped down as CEO of iRobot , the company that he cofounded and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy new “physical AI” company called Familiar Machines & Magic (FM&M), which in short order managed to ",
-      "deck": ""
-    },
-    {
-      "title": "RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands",
-      "url": "https://www.therobotreport.com/rlwrld-releases-rldx-1-a-dexterity-first-foundation-model-for-robot-hands/",
+      "title": "Comau and OMRON Robotics partner to offer robotics for more industries",
+      "url": "https://www.therobotreport.com/comau-omron-robotics-partner-offer-robotics-more-industries/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "RLWRLD said with RLDX-1, it aimed to include things like context memorization or force sensing, which existing models often lack. The post RLWRLD releases RLDX-1, a dexterity-first foundation model for robot hands appeared first on The Robot Report .",
+      "summary": "Comau and OMRON Robotics are combining robotics, control, and software capabilities in flexible automation for global customers. The post Comau and OMRON Robotics partner to offer robotics for more industries appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How to engineer robot tracks and 7th axis systems for real-world environments",
-      "url": "https://www.therobotreport.com/how-to-engineer-robot-tracks-7th-axis-systems-real-world-environments/",
+      "title": "2026 RBR50 Robotics Innovation Awards",
+      "url": "https://www.therobotreport.com/rbr50-2026-report/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Experts from Güdel will focus on how harsh and dirty environments impact robot tracks and long-axis linear motion systems. The post How to engineer robot tracks and 7th axis systems for real-world environments appeared first on The Robot Report .",
+      "summary": "We unveil the 2026 RBR50 Robotics Innovation Awards, including the Robot of the Year, Startup of the Year, Application of the Year, and Robots for Good honorees. The post 2026 RBR50 Robotics Innovation Awards appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Visual identification of the target port (GT-denied policy)",
-      "url": "https://discourse.openrobotics.org/t/visual-identification-of-the-target-port-gt-denied-policy/54741",
+      "title": "GitHub & Code Hosting",
+      "url": "https://discourse.openrobotics.org/t/github-code-hosting/54771",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi guys, I may be missing something, but none of the documentation, the forum and the issues on Github seem to answer this simple question: How is our GT-denied policy to visually identify the target port? What we know: Ground truth gives access to the tf between gripper tip and target port because ",
+      "summary": "I just want to open a discussion here regarding github. These days, github’s availability has been in the gutter . I have been finding it difficult to get any work done whenever I need to do things as simple as read the code to see how certain things are implemented, as github just won’t load pages ",
       "deck": ""
     },
     {
-      "title": "Complete Tutorial on Nero Arm Angle Parametric IK",
-      "url": "https://discourse.openrobotics.org/t/complete-tutorial-on-nero-arm-angle-parametric-ik/54740",
+      "title": "Hardware Troubleshooting: Fetch 1501 Main Board - 24V Rail Not Activating",
+      "url": "https://discourse.openrobotics.org/t/hardware-troubleshooting-fetch-1501-main-board-24v-rail-not-activating/54764",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Complete Tutorial on Nero Arm Angle Parametric IK Reference paper from Tsinghua University Paper —— Inverse kinematic optimization for 7-DoF serial manipulators with joint limits Paper Link: https://jst.tsinghuajournals.com/article/2020/4286/20201206.htm . Part 1. Overview This document provides a c",
+      "summary": "Hey everyone, ​I’m currently doing a deep-dive hardware diagnosis on a Fetch 1501-0000 and could use some insight from anyone familiar with the proprietary power distribution logic on these boards. Fixing to put on market f or sale. ​Current Status &amp; Symptoms: ​Power Input: I’m successfully gett",
       "deck": ""
     },
     {
