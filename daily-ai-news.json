@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-13",
-  "generated": "2026-05-13T07:43:55.761497+00:00",
+  "date": "2026-05-14",
+  "generated": "2026-05-14T07:36:50.179866+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How finance teams use Codex",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
       "deck": ""
     },
     {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def",
       "deck": ""
     },
     {
@@ -76,7 +76,7 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: AI Gives Robot Hands Human-Like Dexterity",
+      "title": "Video Friday: AI Gives Robot Hands Humanlike Dexterity",
       "url": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Comau and OMRON Robotics partner to offer robotics for more industries",
-      "url": "https://www.therobotreport.com/comau-omron-robotics-partner-offer-robotics-more-industries/",
+      "title": "Bridging the gap: Profitability meets sustainability through physical AI",
+      "url": "https://www.therobotreport.com/bridging-gap-profitability-meets-sustainability-through-physical-ai/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Comau and OMRON Robotics are combining robotics, control, and software capabilities in flexible automation for global customers. The post Comau and OMRON Robotics partner to offer robotics for more industries appeared first on The Robot Report .",
+      "summary": "Join Ranpak’s Omar Asali at the Robotics Summit to learn how physical AI scales sustainable, profitable warehouse operations. The post Bridging the gap: Profitability meets sustainability through physical AI appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "2026 RBR50 Robotics Innovation Awards",
-      "url": "https://www.therobotreport.com/rbr50-2026-report/",
+      "title": "Alva Industries to bring its frameless motor technology to the Robotics Summit",
+      "url": "https://www.therobotreport.com/alva-industries-brings-frameless-motor-technology-2026-robotics-summit/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "We unveil the 2026 RBR50 Robotics Innovation Awards, including the Robot of the Year, Startup of the Year, Application of the Year, and Robots for Good honorees. The post 2026 RBR50 Robotics Innovation Awards appeared first on The Robot Report .",
+      "summary": "At the show, Alva will show SlimTorq, one of the thinnest and lightest frameless motors on the market. The post Alva Industries to bring its frameless motor technology to the Robotics Summit appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "GitHub & Code Hosting",
-      "url": "https://discourse.openrobotics.org/t/github-code-hosting/54771",
+      "title": "Submissions fail at 334s with empty stdout/stderr",
+      "url": "https://discourse.openrobotics.org/t/submissions-fail-at-334s-with-empty-stdout-stderr/54813",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I just want to open a discussion here regarding github. These days, github’s availability has been in the gutter . I have been finding it difficult to get any work done whenever I need to do things as simple as read the code to see how certain things are implemented, as github just won’t load pages ",
+      "summary": "After testing the container locally and getting the expected results. Once uploaded, the portal displays a failed status with no stdout file and the stderr files returns 403 forbidden. Date: 2026-05-13T02:39:11.686258+00:00 Team: FIIRBOTS Submission: 1279 Run ID: 9e11bacb-a34d-4f2a-a800-dd1cf6cc625e",
       "deck": ""
     },
     {
-      "title": "Hardware Troubleshooting: Fetch 1501 Main Board - 24V Rail Not Activating",
-      "url": "https://discourse.openrobotics.org/t/hardware-troubleshooting-fetch-1501-main-board-24v-rail-not-activating/54764",
+      "title": "Submission failed, stderr does not show anything",
+      "url": "https://discourse.openrobotics.org/t/submission-failed-stderr-does-not-show-anything/54810",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey everyone, ​I’m currently doing a deep-dive hardware diagnosis on a Fetch 1501-0000 and could use some insight from anyone familiar with the proprietary power distribution logic on these boards. Fixing to put on market f or sale. ​Current Status &amp; Symptoms: ​Power Input: I’m successfully gett",
+      "summary": "Hello, A recent submission I made failed. (Submission number 1377) However when I click on the stderr file on the portal, it is empty (blank page). Could anyone please assist in this? 3 posts - 2 participants Read full topic",
+      "deck": ""
+    },
+    {
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawy",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to ",
-      "deck": ""
-    },
-    {
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a",
       "deck": ""
     },
     {
