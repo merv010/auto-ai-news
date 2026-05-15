@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-14",
-  "generated": "2026-05-14T07:36:50.179866+00:00",
-  "story_count": 20,
+  "date": "2026-05-15",
+  "generated": "2026-05-15T07:47:48.378800+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
       "deck": ""
     },
     {
-      "title": "Our response to the TanStack npm supply chain attack",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "url": "https://huggingface.co/blog/allenai/emo",
+      "title": "Unlocking asynchronicity in continuous batching",
+      "url": "https://huggingface.co/blog/continuous_async",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,51 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Bridging the gap: Profitability meets sustainability through physical AI",
-      "url": "https://www.therobotreport.com/bridging-gap-profitability-meets-sustainability-through-physical-ai/",
-      "source": "The Robot Report",
-      "category": "Robotics",
-      "summary": "Join Ranpak’s Omar Asali at the Robotics Summit to learn how physical AI scales sustainable, profitable warehouse operations. The post Bridging the gap: Profitability meets sustainability through physical AI appeared first on The Robot Report .",
-      "deck": ""
-    },
-    {
-      "title": "Alva Industries to bring its frameless motor technology to the Robotics Summit",
-      "url": "https://www.therobotreport.com/alva-industries-brings-frameless-motor-technology-2026-robotics-summit/",
-      "source": "The Robot Report",
-      "category": "Robotics",
-      "summary": "At the show, Alva will show SlimTorq, one of the thinnest and lightest frameless motors on the market. The post Alva Industries to bring its frameless motor technology to the Robotics Summit appeared first on The Robot Report .",
-      "deck": ""
-    },
-    {
-      "title": "Submissions fail at 334s with empty stdout/stderr",
-      "url": "https://discourse.openrobotics.org/t/submissions-fail-at-334s-with-empty-stdout-stderr/54813",
+      "title": "Please allow more than one submission on deadline day",
+      "url": "https://discourse.openrobotics.org/t/please-allow-more-than-one-submission-on-deadline-day/54858",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "After testing the container locally and getting the expected results. Once uploaded, the portal displays a failed status with no stdout file and the stderr files returns 403 forbidden. Date: 2026-05-13T02:39:11.686258+00:00 Team: FIIRBOTS Submission: 1279 Run ID: 9e11bacb-a34d-4f2a-a800-dd1cf6cc625e",
+      "summary": "Please allow at least 3 submissions on the deadline day. We have worked on this for weeks to months and so many people are getting errors and we don’t even see any stderr or stdout. @Yadunund please consider this. 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
-      "title": "Submission failed, stderr does not show anything",
-      "url": "https://discourse.openrobotics.org/t/submission-failed-stderr-does-not-show-anything/54810",
+      "title": "[PoC] CLIM: Open-RMF-style Delay Advisory and Evidence Windows for command-feedback integrity",
+      "url": "https://discourse.openrobotics.org/t/poc-clim-open-rmf-style-delay-advisory-and-evidence-windows-for-command-feedback-integrity/54853",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello, A recent submission I made failed. (Submission number 1377) However when I click on the stderr file on the portal, it is empty (blank page). Could anyone please assist in this? 3 posts - 2 participants Read full topic",
+      "summary": "Hi Open-RMF community, I have working on a small proof-of-concept called CLIM — Causal Link Integrity Middleware. The goal is to explore whether a robot can report not only that it is delayed, but also why the current command-feedback execution window is no longer trustworthy . This started from a R",
       "deck": ""
     },
     {
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "title": "Data readiness for agentic AI in financial services",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawy",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of",
       "deck": ""
     },
     {
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to ",
+      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u",
       "deck": ""
     },
     {
