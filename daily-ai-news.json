@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-15",
-  "generated": "2026-05-15T07:47:48.378800+00:00",
+  "date": "2026-05-16",
+  "generated": "2026-05-16T07:09:25.942108+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "deck": ""
     },
     {
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: Heavy Robotic Machinery Operates Itself",
+      "url": "https://spectrum.ieee.org/video-friday-material-handling-robots",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
+      "deck": ""
+    },
+    {
       "title": "Hello Robot Sets the Standard for Practical, Safe Home Robots",
       "url": "https://spectrum.ieee.org/stretch-4-home-robot",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: AI Gives Robot Hands Humanlike Dexterity",
-      "url": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
-      "deck": ""
-    },
-    {
-      "title": "Please allow more than one submission on deadline day",
-      "url": "https://discourse.openrobotics.org/t/please-allow-more-than-one-submission-on-deadline-day/54858",
+      "title": "Learnings from the qualification phase and what next?",
+      "url": "https://discourse.openrobotics.org/t/learnings-from-the-qualification-phase-and-what-next/54899",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Please allow at least 3 submissions on the deadline day. We have worked on this for weeks to months and so many people are getting errors and we don’t even see any stderr or stdout. @Yadunund please consider this. 1 post - 1 participant Read full topic",
+      "summary": "Hello people It has been awesome 3 weeks since I have been working on the AIC challenge. I started with similar approach to a lot of other folks by recording trajectories using cheatcode policy in gazebo converting them to lerobot format and training act, smolvla with them but I could not get any re",
       "deck": ""
     },
     {
-      "title": "[PoC] CLIM: Open-RMF-style Delay Advisory and Evidence Windows for command-feedback integrity",
-      "url": "https://discourse.openrobotics.org/t/poc-clim-open-rmf-style-delay-advisory-and-evidence-windows-for-command-feedback-integrity/54853",
+      "title": "Request to Evaluate Latest Pushed Image (roboweave) / Short Deadline Extension",
+      "url": "https://discourse.openrobotics.org/t/request-to-evaluate-latest-pushed-image-roboweave-short-deadline-extension/54895",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Open-RMF community, I have working on a small proof-of-concept called CLIM — Causal Link Integrity Middleware. The goal is to explore whether a robot can report not only that it is delayed, but also why the current command-feedback execution window is no longer trustworthy . This started from a R",
+      "summary": "Hi everyone, Our earlier qualification submission failed due to a Docker/container issue, not because of the policy itself. After debugging the setup, we identified the issue, rebuilt the image, and successfully pushed an updated version to AWS ECR. The updated image was verified locally using the o",
       "deck": ""
     },
     {
-      "title": "Data readiness for agentic AI in financial services",
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w",
       "deck": ""
     },
     {
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "title": "How Chinese short dramas became AI content machines",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei",
       "deck": ""
     },
     {
