@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-16",
-  "generated": "2026-05-16T07:09:25.942108+00:00",
+  "date": "2026-05-17",
+  "generated": "2026-05-17T07:29:29.780508+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
       "deck": ""
     },
     {
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "deck": ""
     },
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "QERRA-v2 Classical — Explainable Ethical Scoring Engine with ROS 2 Bridge (open for feedback)",
+      "url": "https://discourse.openrobotics.org/t/qerra-v2-classical-explainable-ethical-scoring-engine-with-ros-2-bridge-open-for-feedback/54904",
+      "source": "ROS Discourse",
+      "category": "Robotics",
+      "summary": "Hi everyone, I’ve built QERRA-v2 Classical — a 100% classical, fully explainable ethical evaluation engine based on 12 immutable human-centred vectors (SEMEV-12). It returns traceable scores + reasoning with no neural networks. The repo includes a ready-to-use ROS 2 bridge (ros2_bridge.py) that runs",
+      "deck": ""
+    },
+    {
       "title": "Learnings from the qualification phase and what next?",
       "url": "https://discourse.openrobotics.org/t/learnings-from-the-qualification-phase-and-what-next/54899",
       "source": "ROS Discourse",
@@ -92,15 +100,7 @@
       "deck": ""
     },
     {
-      "title": "Request to Evaluate Latest Pushed Image (roboweave) / Short Deadline Extension",
-      "url": "https://discourse.openrobotics.org/t/request-to-evaluate-latest-pushed-image-roboweave-short-deadline-extension/54895",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi everyone, Our earlier qualification submission failed due to a Docker/container issue, not because of the policy itself. After debugging the setup, we identified the issue, rebuilt the image, and successfully pushed an updated version to AWS ECR. The updated image was verified locally using the o",
-      "deck": ""
-    },
-    {
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
