@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-17",
-  "generated": "2026-05-17T07:29:29.780508+00:00",
+  "date": "2026-05-18",
+  "generated": "2026-05-18T08:39:59.085631+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -12,11 +12,11 @@
       "deck": ""
     },
     {
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "deck": ""
     },
     {
@@ -84,19 +84,19 @@
       "deck": ""
     },
     {
-      "title": "QERRA-v2 Classical — Explainable Ethical Scoring Engine with ROS 2 Bridge (open for feedback)",
-      "url": "https://discourse.openrobotics.org/t/qerra-v2-classical-explainable-ethical-scoring-engine-with-ros-2-bridge-open-for-feedback/54904",
+      "title": "How to Build a Robot Arm RL Grasping System in Isaac Lab | NERO Arm",
+      "url": "https://discourse.openrobotics.org/t/how-to-build-a-robot-arm-rl-grasping-system-in-isaac-lab-nero-arm/54923",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’ve built QERRA-v2 Classical — a 100% classical, fully explainable ethical evaluation engine based on 12 immutable human-centred vectors (SEMEV-12). It returns traceable scores + reasoning with no neural networks. The repo includes a ready-to-use ROS 2 bridge (ros2_bridge.py) that runs",
+      "summary": "(topic deleted by author) 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
-      "title": "Learnings from the qualification phase and what next?",
-      "url": "https://discourse.openrobotics.org/t/learnings-from-the-qualification-phase-and-what-next/54899",
+      "title": "Title: Would your team use an open-loop regression testing tool for ROS 2 autonomy stacks?",
+      "url": "https://discourse.openrobotics.org/t/title-would-your-team-use-an-open-loop-regression-testing-tool-for-ros-2-autonomy-stacks/54919",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello people It has been awesome 3 weeks since I have been working on the AIC challenge. I started with similar approach to a lot of other folks by recording trajectories using cheatcode policy in gazebo converting them to lerobot format and training act, smolvla with them but I could not get any re",
+      "summary": "I’m exploring an idea to help improve the CI process for robotics teams and would love honest feedback from engineers who work on deployed robots. A common workflow I hear from robotics teams looks something like: A developer makes a perception/localization/planning change → they manually replay a r",
       "deck": ""
     },
     {
