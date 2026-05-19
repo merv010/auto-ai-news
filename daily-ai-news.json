@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-18",
-  "generated": "2026-05-18T08:39:59.085631+00:00",
+  "date": "2026-05-19",
+  "generated": "2026-05-19T08:19:48.066725+00:00",
   "story_count": 18,
   "stories": [
+    {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "deck": ""
+    },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "deck": ""
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
       "deck": ""
     },
     {
@@ -52,67 +52,67 @@
       "deck": ""
     },
     {
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Video Friday: Heavy Robotic Machinery Operates Itself",
-      "url": "https://spectrum.ieee.org/video-friday-material-handling-robots",
+      "title": "What Makes a Job Dull, Dirty, or Dangerous?",
+      "url": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
+      "summary": "For years, the field of robotics has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where robots might be useful—by doing work that’s undesirable for people. A classic example of a DDD job is one of “repetitive physical labor on a steaming hot factory floor ",
       "deck": ""
     },
     {
-      "title": "Hello Robot Sets the Standard for Practical, Safe Home Robots",
-      "url": "https://spectrum.ieee.org/stretch-4-home-robot",
+      "title": "Agentic AI for Robot Teams",
+      "url": "https://events.bizzabo.com/867156",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Many roboticists (and at least one robotics journalist) have been seduced by the dream of a robot butler. And the rampant popularity of videos showing humanoid robots doing household tasks in improbably clean kitchens and unrealistically tidy bedrooms suggests that we’re not the only ones interested",
+      "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable ar",
       "deck": ""
     },
     {
-      "title": "How to Build a Robot Arm RL Grasping System in Isaac Lab | NERO Arm",
-      "url": "https://discourse.openrobotics.org/t/how-to-build-a-robot-arm-rl-grasping-system-in-isaac-lab-nero-arm/54923",
+      "title": "Detecting execution collapse before hard E-stop: ros2_kinematic_guard for ROS 2 AMR/AGV",
+      "url": "https://discourse.openrobotics.org/t/detecting-execution-collapse-before-hard-e-stop-ros2-kinematic-guard-for-ros-2-amr-agv/54944",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "summary": "Hi ROS community, I’ve been working on a small ROS 2 package called ros2_kinematic_guard . It is a pre-E-stop guard for ROS 2 AMR/AGV systems .The idea is simple: Most mobile robot stacks already have timeouts. If /cmd_vel stops arriving, the base driver or controller can stop the robot.But timeouts",
       "deck": ""
     },
     {
-      "title": "Title: Would your team use an open-loop regression testing tool for ROS 2 autonomy stacks?",
-      "url": "https://discourse.openrobotics.org/t/title-would-your-team-use-an-open-loop-regression-testing-tool-for-ros-2-autonomy-stacks/54919",
+      "title": "Ouster Lidar TechTalk next Wednesday [May 27, 2026] in San Francisco",
+      "url": "https://discourse.openrobotics.org/t/ouster-lidar-techtalk-next-wednesday-may-27-2026-in-san-francisco/54940",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’m exploring an idea to help improve the CI process for robotics teams and would love honest feedback from engineers who work on deployed robots. A common workflow I hear from robotics teams looks something like: A developer makes a perception/localization/planning change → they manually replay a r",
+      "summary": "For those in San Francisco Bay Area, Ouster is hosting a TechTalk following the successful launch of Ouster REV8 LiDAR sensors with the first native color Lidar. If you are someone who is into Physical AI, robotics, perception, industrial automation or autonomous driving, come join us as we explore ",
       "deck": ""
     },
     {
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
       "deck": ""
     },
     {
-      "title": "How Chinese short dramas became AI content machines",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "title": "What to expect from Google this week",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G",
       "deck": ""
     },
     {
