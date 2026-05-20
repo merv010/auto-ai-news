@@ -1,38 +1,38 @@
 {
-  "date": "2026-05-19",
-  "generated": "2026-05-19T08:19:48.066725+00:00",
+  "date": "2026-05-20",
+  "generated": "2026-05-20T08:19:22.902435+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
       "deck": ""
     },
     {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
       "deck": ""
     },
     {
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
       "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
       "deck": ""
     },
     {
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
       "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
       "deck": ""
     },
     {
@@ -52,51 +52,51 @@
       "deck": ""
     },
     {
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "title": "Introducing the Ettin Reranker Family",
+      "url": "https://huggingface.co/blog/ettin-reranker",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "What Makes a Job Dull, Dirty, or Dangerous?",
-      "url": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
+      "title": "Robots Could Turn E-Waste Into a Source of Legacy Chips",
+      "url": "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "For years, the field of robotics has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where robots might be useful—by doing work that’s undesirable for people. A classic example of a DDD job is one of “repetitive physical labor on a steaming hot factory floor ",
+      "summary": "Electronic waste is moving up on regulatory agendas in 2026: New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ban in Malaysia, for example, are all increasing pressure to recover more value before electronics are",
       "deck": ""
     },
     {
-      "title": "Agentic AI for Robot Teams",
-      "url": "https://events.bizzabo.com/867156",
+      "title": "Home Robot Safety Is All About Relationships",
+      "url": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable ar",
+      "summary": "The International Organization for Standardization (ISO) is updating its 12-year-old safety requirements for personal care robots . A lot has happened since the last revision, both on the technology side and with researchers’ understanding of safety for humans collaborating with domestic robots. The",
       "deck": ""
     },
     {
-      "title": "Detecting execution collapse before hard E-stop: ros2_kinematic_guard for ROS 2 AMR/AGV",
-      "url": "https://discourse.openrobotics.org/t/detecting-execution-collapse-before-hard-e-stop-ros2-kinematic-guard-for-ros-2-amr-agv/54944",
+      "title": "How to Build a Robot Arm RL Grasping System in Isaac Lab | NERO Arm",
+      "url": "https://discourse.openrobotics.org/t/how-to-build-a-robot-arm-rl-grasping-system-in-isaac-lab-nero-arm/54969",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS community, I’ve been working on a small ROS 2 package called ros2_kinematic_guard . It is a pre-E-stop guard for ROS 2 AMR/AGV systems .The idea is simple: Most mobile robot stacks already have timeouts. If /cmd_vel stops arriving, the base driver or controller can stop the robot.But timeouts",
+      "summary": "How to Build a Robot Arm RL Grasping System in Isaac Lab | NERO Arm This project presents a reinforcement learning workflow for Embodied AI manipulation built on the Nero robotic arm, SO-ARM101, and NVIDIA Isaac Lab . It establishes a simulation-driven framework for training and evaluating robotic m",
       "deck": ""
     },
     {
-      "title": "Ouster Lidar TechTalk next Wednesday [May 27, 2026] in San Francisco",
-      "url": "https://discourse.openrobotics.org/t/ouster-lidar-techtalk-next-wednesday-may-27-2026-in-san-francisco/54940",
+      "title": "FusionCore + icp_odometry feedback loop merged into rtabmap_ros",
+      "url": "https://discourse.openrobotics.org/t/fusioncore-icp-odometry-feedback-loop-merged-into-rtabmap-ros/54963",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "For those in San Francisco Bay Area, Ouster is hosting a TechTalk following the successful launch of Ouster REV8 LiDAR sensors with the first native color Lidar. If you are someone who is into Physical AI, robotics, perception, industrial automation or autonomous driving, come join us as we explore ",
+      "summary": "PR #1419 was merged into introlab/rtabmap_ros last week, which was co-authored by Mathieu Labbe. It adds a TurtleBot3 Gazebo Harmonic demo showing a feedback loop between FusionCore (IMU + wheel UKF) and icp_odometry. The architecture is worth describing because the feedback direction is non-obvious",
       "deck": ""
     },
     {
@@ -116,19 +116,19 @@
       "deck": ""
     },
     {
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "category": "Industry",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a",
+      "deck": ""
+    },
+    {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "source": "VentureBeat AI",
       "category": "Industry",
       "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg",
-      "deck": ""
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat AI",
-      "category": "Industry",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200",
       "deck": ""
     },
     {
