@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-20",
-  "generated": "2026-05-20T08:19:22.902435+00:00",
-  "story_count": 18,
+  "date": "2026-05-21",
+  "generated": "2026-05-21T08:25:56.920142+00:00",
+  "story_count": 20,
   "stories": [
     {
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "deck": ""
     },
     {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "deck": ""
     },
     {
@@ -52,7 +52,7 @@
       "deck": ""
     },
     {
-      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "source": "Hugging Face Blog",
       "category": "AI Research",
@@ -68,35 +68,59 @@
       "deck": ""
     },
     {
+      "title": "Will Robotics Have a ChatGPT Moment?",
+      "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas , deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look ",
+      "deck": ""
+    },
+    {
       "title": "Robots Could Turn E-Waste Into a Source of Legacy Chips",
       "url": "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Electronic waste is moving up on regulatory agendas in 2026: New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ban in Malaysia, for example, are all increasing pressure to recover more value before electronics are",
+      "summary": "Electronic waste is moving up on regulatory agendas in 2026. New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ban in Malaysia, for example, are all increasing pressure to recover more value before electronics are",
       "deck": ""
     },
     {
-      "title": "Home Robot Safety Is All About Relationships",
-      "url": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
-      "source": "IEEE Spectrum Robotics",
+      "title": "Inside Verobotics’ edge AI robotics deployment at NVIDIA’s Israel campus",
+      "url": "https://www.therobotreport.com/inside-verobotics-edge-ai-robotics-deployment-at-nvidias-israel-campus/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The International Organization for Standardization (ISO) is updating its 12-year-old safety requirements for personal care robots . A lot has happened since the last revision, both on the technology side and with researchers’ understanding of safety for humans collaborating with domestic robots. The",
+      "summary": "Verobotics said its robot turns vertical surfaces from risky, one-off access zones into repeatable, data-rich robotic workspaces. The post Inside Verobotics&#8217; edge AI robotics deployment at NVIDIA&#8217;s Israel campus appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How to Build a Robot Arm RL Grasping System in Isaac Lab | NERO Arm",
-      "url": "https://discourse.openrobotics.org/t/how-to-build-a-robot-arm-rl-grasping-system-in-isaac-lab-nero-arm/54969",
+      "title": "Rovex and Sphaira pioneer autonomous patient transport",
+      "url": "https://www.therobotreport.com/rovex-sphaira-pioneer-autonomous-patient-transport/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Patient mobility in hospital settings is ripe for automation, with Rovex and Sphaira among the innovators taking different approaches. The post Rovex and Sphaira pioneer autonomous patient transport appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
+      "title": "SpatialDDS — open spatial computing protocol with ROS 2 bridge",
+      "url": "https://discourse.openrobotics.org/t/spatialdds-open-spatial-computing-protocol-with-ros-2-bridge/54988",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "How to Build a Robot Arm RL Grasping System in Isaac Lab | NERO Arm This project presents a reinforcement learning workflow for Embodied AI manipulation built on the Nero robotic arm, SO-ARM101, and NVIDIA Isaac Lab . It establishes a simulation-driven framework for training and evaluating robotic m",
+      "summary": "Hi all, I’m from Open AR Cloud ( openarcloud.org ), a volunteer-run non-profit promoting open and interoperable spatial computing. Our initial focus was around world-scale augmented reality and key enablers like spatial discovery and visual positioning. More recently, we’ve created SpatialDDS ( spat",
       "deck": ""
     },
     {
-      "title": "FusionCore + icp_odometry feedback loop merged into rtabmap_ros",
-      "url": "https://discourse.openrobotics.org/t/fusioncore-icp-odometry-feedback-loop-merged-into-rtabmap-ros/54963",
+      "title": "CfP: OCEANS 2026 Monterey Workshops & Tutorials Deadline Extended",
+      "url": "https://discourse.openrobotics.org/t/cfp-oceans-2026-monterey-workshops-tutorials-deadline-extended/54986",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "PR #1419 was merged into introlab/rtabmap_ros last week, which was co-authored by Mathieu Labbe. It adds a TurtleBot3 Gazebo Harmonic demo showing a feedback loop between FusionCore (IMU + wheel UKF) and icp_odometry. The architecture is worth describing because the feedback direction is non-obvious",
+      "summary": "IEEE/OES OCEANS 2026 Monterey (Mon-Thur 21-24 Sep 2026, Monterey, California) deadline for Workshop &amp; Tutorial proposals has been extended to Tuesday 26 May 2026. If you are working in ocean science, engineering, technology, autonomy, AI/ML, sensing, data systems or related fields, this is a gre",
+      "deck": ""
+    },
+    {
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in",
       "deck": ""
     },
     {
@@ -105,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
-      "deck": ""
-    },
-    {
-      "title": "What to expect from Google this week",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G",
       "deck": ""
     },
     {
