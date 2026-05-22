@@ -1,22 +1,30 @@
 {
-  "date": "2026-05-21",
-  "generated": "2026-05-21T08:25:56.920142+00:00",
+  "date": "2026-05-22",
+  "generated": "2026-05-22T08:16:26.389143+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "deck": ""
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "deck": ""
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-      "deck": ""
-    },
-    {
-      "title": "Simulate real-world places with Project Genie and Street View",
-      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
       "deck": ""
     },
     {
@@ -68,67 +68,67 @@
       "deck": ""
     },
     {
-      "title": "Will Robotics Have a ChatGPT Moment?",
-      "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
+      "title": "Open-Source Software Is Starting to Help Robots Think",
+      "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas , deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look ",
+      "summary": "When a group of academics started making open-source robotics hardware , a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open sourced too. The shift is still early, but companies including Hugging Face, Nvidia,",
       "deck": ""
     },
     {
-      "title": "Robots Could Turn E-Waste Into a Source of Legacy Chips",
-      "url": "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
+      "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
+      "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Electronic waste is moving up on regulatory agendas in 2026. New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ban in Malaysia, for example, are all increasing pressure to recover more value before electronics are",
+      "summary": "This sponsored article is brought to you by Wetour Robotics . A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a ",
       "deck": ""
     },
     {
-      "title": "Inside Verobotics’ edge AI robotics deployment at NVIDIA’s Israel campus",
-      "url": "https://www.therobotreport.com/inside-verobotics-edge-ai-robotics-deployment-at-nvidias-israel-campus/",
+      "title": "Brain Corp partners with UC San Diego to help robots operate in complex environments",
+      "url": "https://www.therobotreport.com/brain-corp-partners-uc-san-diego-help-robots-operate-complex-environments/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Verobotics said its robot turns vertical surfaces from risky, one-off access zones into repeatable, data-rich robotic workspaces. The post Inside Verobotics&#8217; edge AI robotics deployment at NVIDIA&#8217;s Israel campus appeared first on The Robot Report .",
+      "summary": "The AI collaboration with UC San Diego builds on Brain’s operational footprint, including more than 50,000 robots deployed globally. The post Brain Corp partners with UC San Diego to help robots operate in complex environments appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Rovex and Sphaira pioneer autonomous patient transport",
-      "url": "https://www.therobotreport.com/rovex-sphaira-pioneer-autonomous-patient-transport/",
+      "title": "FANUC partners with Google to advance physical AI in its robots",
+      "url": "https://www.therobotreport.com/fanuc-partners-google-advance-physical-ai-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Patient mobility in hospital settings is ripe for automation, with Rovex and Sphaira among the innovators taking different approaches. The post Rovex and Sphaira pioneer autonomous patient transport appeared first on The Robot Report .",
+      "summary": "Since FANUC released its physical AI system at IREX in Tokyo, customer interest has grown rapidly, and it is working with Google and NVIDIA. The post FANUC partners with Google to advance physical AI in its robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "SpatialDDS — open spatial computing protocol with ROS 2 bridge",
-      "url": "https://discourse.openrobotics.org/t/spatialdds-open-spatial-computing-protocol-with-ros-2-bridge/54988",
+      "title": "Introducing Mobile OpenArm | Open Source & ROS2 supported",
+      "url": "https://discourse.openrobotics.org/t/introducing-mobile-openarm-open-source-ros2-supported/55001",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, I’m from Open AR Cloud ( openarcloud.org ), a volunteer-run non-profit promoting open and interoperable spatial computing. Our initial focus was around world-scale augmented reality and key enablers like spatial discovery and visual positioning. More recently, we’ve created SpatialDDS ( spat",
+      "summary": "Hi ROS community , Like many in the open-source community, we’ve been frustrated by the massive hardware premiums required to get into robotics and embodied AI research. Industrial AMRs and collaborative arm setups easily cross the $50k mark. A startup, NVatom, wants to change that, so it co-develop",
       "deck": ""
     },
     {
-      "title": "CfP: OCEANS 2026 Monterey Workshops & Tutorials Deadline Extended",
-      "url": "https://discourse.openrobotics.org/t/cfp-oceans-2026-monterey-workshops-tutorials-deadline-extended/54986",
+      "title": "AI-Vision-Based-Hand-Gesture-Controlled-4-DOF-Robot-Arm (without IK)",
+      "url": "https://discourse.openrobotics.org/t/ai-vision-based-hand-gesture-controlled-4-dof-robot-arm-without-ik/55000",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "IEEE/OES OCEANS 2026 Monterey (Mon-Thur 21-24 Sep 2026, Monterey, California) deadline for Workshop &amp; Tutorial proposals has been extended to Tuesday 26 May 2026. If you are working in ocean science, engineering, technology, autonomy, AI/ML, sensing, data systems or related fields, this is a gre",
+      "summary": "A Very Beginner Robotics project github.com GitHub - E-Moynul/AI-Vision-Based-Hand-Gesture-Controlled-4-DOF-Robot-Arm: Real-time vision-based hand gesture control of a... Real-time vision-based hand gesture control of a 4-DOF robotic arm using MediaPipe, Python, and Arduino with robust state handlin",
       "deck": ""
     },
     {
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ",
       "deck": ""
     },
     {
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "title": "Scaling creativity in the age of AI",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
+      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal r",
       "deck": ""
     },
     {
