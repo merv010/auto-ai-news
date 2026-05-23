@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-22",
-  "generated": "2026-05-22T08:16:26.389143+00:00",
+  "date": "2026-05-23",
+  "generated": "2026-05-23T07:24:43.227941+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "deck": ""
     },
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Video Friday: Atlas Versus a Fridge",
+      "url": "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
       "deck": ""
     },
     {
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
-      "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "This sponsored article is brought to you by Wetour Robotics . A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a ",
-      "deck": ""
-    },
-    {
-      "title": "Brain Corp partners with UC San Diego to help robots operate in complex environments",
-      "url": "https://www.therobotreport.com/brain-corp-partners-uc-san-diego-help-robots-operate-complex-environments/",
+      "title": "Exploring PLC and robot integration with YRG Robotics Chris Elston",
+      "url": "https://www.therobotreport.com/exploring-plc-and-robot-integration-with-yrg-robotics-chris-elston/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The AI collaboration with UC San Diego builds on Brain’s operational footprint, including more than 50,000 robots deployed globally. The post Brain Corp partners with UC San Diego to help robots operate in complex environments appeared first on The Robot Report .",
+      "summary": "Chris Elston discusses PLC integration, Yamaha Robotics, and AI's future in automation, highlighting accessibility and innovation. The post Exploring PLC and robot integration with YRG Robotics Chris Elston appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "FANUC partners with Google to advance physical AI in its robots",
-      "url": "https://www.therobotreport.com/fanuc-partners-google-advance-physical-ai-robots/",
+      "title": "Robotics Summit keynote to present open foundation for AI-powered robots",
+      "url": "https://www.therobotreport.com/robotics-summit-keynote-present-open-robotics-ai-foundation/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Since FANUC released its physical AI system at IREX in Tokyo, customer interest has grown rapidly, and it is working with Google and NVIDIA. The post FANUC partners with Google to advance physical AI in its robots appeared first on The Robot Report .",
+      "summary": "Brian Gerkey of Open Robotics will explain how the open-source community is ushering in the age of robots and AI at the Robotics Summit. The post Robotics Summit keynote to present open foundation for AI-powered robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Introducing Mobile OpenArm | Open Source & ROS2 supported",
-      "url": "https://discourse.openrobotics.org/t/introducing-mobile-openarm-open-source-ros2-supported/55001",
+      "title": "Pre-announcing ROSCon China 2026",
+      "url": "https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS community , Like many in the open-source community, we’ve been frustrated by the massive hardware premiums required to get into robotics and embodied AI research. Industrial AMRs and collaborative arm setups easily cross the $50k mark. A startup, NVatom, wants to change that, so it co-develop",
+      "summary": "Hi everyone, We are thrilled to announce that ROSCon China 2026 is officially on the horizon! As one of the most vibrant regional ROS events, ROSCon China continues to bring together developers, researchers, and industry leaders to share the latest advancements in the ROS ecosystem, embodied AI, rob",
       "deck": ""
     },
     {
-      "title": "AI-Vision-Based-Hand-Gesture-Controlled-4-DOF-Robot-Arm (without IK)",
-      "url": "https://discourse.openrobotics.org/t/ai-vision-based-hand-gesture-controlled-4-dof-robot-arm-without-ik/55000",
+      "title": "Building an AI-Powered Smart Kiosk with Robotic Arm for Automated Food & Beverage Dispensing 🌱",
+      "url": "https://discourse.openrobotics.org/t/building-an-ai-powered-smart-kiosk-with-robotic-arm-for-automated-food-beverage-dispensing/55025",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "A Very Beginner Robotics project github.com GitHub - E-Moynul/AI-Vision-Based-Hand-Gesture-Controlled-4-DOF-Robot-Arm: Real-time vision-based hand gesture control of a... Real-time vision-based hand gesture control of a 4-DOF robotic arm using MediaPipe, Python, and Arduino with robust state handlin",
+      "summary": "We are developing an open-source Robot Gardener project aimed at helping people grow healthy food more easily and sustainably. The vision is to create a low-cost robotic assistant that can water plants, monitor soil, detect weeds, identify fruits and vegetables using AI/computer vision, and eventual",
+      "deck": ""
+    },
+    {
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ",
-      "deck": ""
-    },
-    {
-      "title": "Scaling creativity in the age of AI",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal r",
       "deck": ""
     },
     {
