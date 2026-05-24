@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-23",
-  "generated": "2026-05-23T07:24:43.227941+00:00",
+  "date": "2026-05-24",
+  "generated": "2026-05-24T07:44:54.767258+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,19 +84,19 @@
       "deck": ""
     },
     {
-      "title": "Exploring PLC and robot integration with YRG Robotics Chris Elston",
-      "url": "https://www.therobotreport.com/exploring-plc-and-robot-integration-with-yrg-robotics-chris-elston/",
+      "title": "The future of physical AI isn’t humanoid; it’s task-specific and cost-efficient",
+      "url": "https://www.therobotreport.com/future-high-scale-robotics-isnt-humanoid-its-task-specific-cost-efficient-ai/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Chris Elston discusses PLC integration, Yamaha Robotics, and AI's future in automation, highlighting accessibility and innovation. The post Exploring PLC and robot integration with YRG Robotics Chris Elston appeared first on The Robot Report .",
+      "summary": "The vice president of physical AI at Hailo explains why the next wave of AI will run locally on specialized machines designed for real-world tasks. The post The future of physical AI isn&#8217;t humanoid; it&#8217;s task-specific and cost-efficient appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robotics Summit keynote to present open foundation for AI-powered robots",
-      "url": "https://www.therobotreport.com/robotics-summit-keynote-present-open-robotics-ai-foundation/",
+      "title": "Exploring PLC and robot integration with YRG Robotics’ Chris Elston",
+      "url": "https://www.therobotreport.com/exploring-plc-and-robot-integration-with-yrg-robotics-chris-elston/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Brian Gerkey of Open Robotics will explain how the open-source community is ushering in the age of robots and AI at the Robotics Summit. The post Robotics Summit keynote to present open foundation for AI-powered robots appeared first on The Robot Report .",
+      "summary": "Chris Elston discusses PLC integration, Yamaha Robotics, and AI's role in advancing automation accessibility and innovation. The post Exploring PLC and robot integration with YRG Robotics&#8217; Chris Elston appeared first on The Robot Report .",
       "deck": ""
     },
     {
