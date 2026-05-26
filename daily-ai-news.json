@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-25",
-  "generated": "2026-05-25T08:49:33.819007+00:00",
+  "date": "2026-05-26",
+  "generated": "2026-05-26T08:25:27.176930+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Simulation vs. digital twin: A strategic lens on virtual manufacturing",
+      "url": "https://www.therobotreport.com/simulation-versus-digital-twin-strategic-lens-on-virtual-manufacturing/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Digital twins and simulation provide distinct benefits for manufacturers designing and integrating systems including automation, explains Visual Components. The post Simulation vs. digital twin: A strategic lens on virtual manufacturing appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Sortera uses physical AI to double capacity in a Tennessee sorting facility",
       "url": "https://www.therobotreport.com/sortera-uses-physical-ai-to-double-capacity-in-a-tennessee-sorting-facility/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "The future of physical AI isn’t humanoid; it’s task-specific and cost-efficient",
-      "url": "https://www.therobotreport.com/future-high-scale-robotics-isnt-humanoid-its-task-specific-cost-efficient-ai/",
-      "source": "The Robot Report",
+      "title": "ROS Made Easier Now",
+      "url": "https://discourse.openrobotics.org/t/ros-made-easier-now/55076",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The vice president of physical AI at Hailo explains why the next wave of AI will run locally on specialized machines designed for real-world tasks. The post The future of physical AI isn&#8217;t humanoid; it&#8217;s task-specific and cost-efficient appeared first on The Robot Report .",
+      "summary": "ArcForge made a GUI for ROS2 for Windows and Mac that actively checks the sketch against detectable hardware. 3 posts - 3 participants Read full topic",
       "deck": ""
     },
     {
-      "title": "ROS 2 Lyrical Luth and 11 Years of Fast DDS as ROS 2 Default Middleware",
-      "url": "https://discourse.openrobotics.org/t/ros-2-lyrical-luth-and-11-years-of-fast-dds-as-ros-2-default-middleware/55062",
+      "title": "Maritime Community Group Meeting May 2026: Multi-Modal Maritime Mesh Protocol",
+      "url": "https://discourse.openrobotics.org/t/maritime-community-group-meeting-may-2026-multi-modal-maritime-mesh-protocol/55071",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "With the upcoming release of ROS 2 Lyrical Luth in May 2026, Fast DDS will continue serving as the default middleware implementation for ROS 2. For more than 11 years , Fast DDS has accompanied the ROS 2 ecosystem through every distribution, continuously evolving together with the community to provi",
-      "deck": ""
-    },
-    {
-      "title": "Rclnodejs 2.0.0 — typed Web SDK for ROS 2, ready for Lyrical",
-      "url": "https://discourse.openrobotics.org/t/rclnodejs-2-0-0-typed-web-sdk-for-ros-2-ready-for-lyrical/55061",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi all, rclnodejs 2.0.0 is out today, on the heels of the ROS 2 Lyrical Luth GA on May 22, 2026 . This release adds rclnodejs/web — a typed browser SDK plus a small runtime that lets a web page talk to ROS 2 over a single WebSocket, with the same capabilities also reachable over plain HTTP for curl ",
+      "summary": "Hi all, A reminder for our working group meeting tomorrow! Here are the details: When: Last Tuesday of each month, 4–5pm EST This month: May 26th, 2026 May agenda: “Introducing the M4P: Multi-Modal Maritime Mesh Protocol” presented by Peter Girard (Poseidon’s Forge) An open protocol for delay-tolera",
       "deck": ""
     },
     {
