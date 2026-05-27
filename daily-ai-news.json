@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-26",
-  "generated": "2026-05-26T08:25:27.176930+00:00",
+  "date": "2026-05-27",
+  "generated": "2026-05-27T08:33:17.383424+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Simulation vs. digital twin: A strategic lens on virtual manufacturing",
-      "url": "https://www.therobotreport.com/simulation-versus-digital-twin-strategic-lens-on-virtual-manufacturing/",
+      "title": "How humanoids learn to read the room",
+      "url": "https://www.therobotreport.com/how-humanoids-learn-to-read-the-room-2/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Digital twins and simulation provide distinct benefits for manufacturers designing and integrating systems including automation, explains Visual Components. The post Simulation vs. digital twin: A strategic lens on virtual manufacturing appeared first on The Robot Report .",
+      "summary": "Sponsored by Analog Devices Inc. Designing for a humanoid robot is one of the most complicated applications in robotics today. All on its own, a humanoid system has to manage movement, balance, vision and reactivity across a complex web of joints, sensors and data processing. This becomes critical w",
       "deck": ""
     },
     {
-      "title": "Sortera uses physical AI to double capacity in a Tennessee sorting facility",
-      "url": "https://www.therobotreport.com/sortera-uses-physical-ai-to-double-capacity-in-a-tennessee-sorting-facility/",
+      "title": "GMSL and the growing ecosystem around robotic vision systems",
+      "url": "https://www.therobotreport.com/gmsl-and-the-growing-ecosystem-around-robotic-vision-systems-2/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "With the new facility, Sortera has increased its annual processing capacity to an estimated 240 million lbs. The post Sortera uses physical AI to double capacity in a Tennessee sorting facility appeared first on The Robot Report .",
+      "summary": "Sponsored by Analog Devices Inc. Just a few years ago, many site owners were satisfied if a robot could move from point A to point B. That’s not quite enough anymore. Today’s robots are being asked to move faster, operate in more dynamic environments, and deal with more obstacles along the way. As t",
       "deck": ""
     },
     {
-      "title": "ROS Made Easier Now",
-      "url": "https://discourse.openrobotics.org/t/ros-made-easier-now/55076",
+      "title": "Connext Robotics Toolkit for ROS Lyrical Luth is now available",
+      "url": "https://discourse.openrobotics.org/t/connext-robotics-toolkit-for-ros-lyrical-luth-is-now-available/55110",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ArcForge made a GUI for ROS2 for Windows and Mac that actively checks the sketch against detectable hardware. 3 posts - 3 participants Read full topic",
+      "summary": "Hi ROS 2 Community, To go with the Lyrical Luth release, RTI has updated the Connext Robotics Toolkit with Connext 7.7 LTS. The toolkit provides a simple single-step Debian installation of Lyrical and Connext DDS RMW on Ubuntu Linux, now supporting both amd64 and arm64 including Raspberry Pi and NVI",
       "deck": ""
     },
     {
-      "title": "Maritime Community Group Meeting May 2026: Multi-Modal Maritime Mesh Protocol",
-      "url": "https://discourse.openrobotics.org/t/maritime-community-group-meeting-may-2026-multi-modal-maritime-mesh-protocol/55071",
+      "title": "New Synthetic Datasets for Industrial Bin Picking",
+      "url": "https://discourse.openrobotics.org/t/new-synthetic-datasets-for-industrial-bin-picking/55096",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, A reminder for our working group meeting tomorrow! Here are the details: When: Last Tuesday of each month, 4–5pm EST This month: May 26th, 2026 May agenda: “Introducing the M4P: Multi-Modal Maritime Mesh Protocol” presented by Peter Girard (Poseidon’s Forge) An open protocol for delay-tolera",
+      "summary": "Quick video promo: https://youtu.be/yYms177Rx3w?si=qH2vG1ggwfYdtumr Datasets are available on Kaggle: Telekinesis | Kaggle Telekinesis Agentic Skill library: https://docs.telekinesis.ai/ 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They ",
       "deck": ""
     },
     {
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "title": "A reality check on the AI jobs hysteria",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—",
       "deck": ""
     },
     {
