@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-27",
-  "generated": "2026-05-27T08:33:17.383424+00:00",
+  "date": "2026-05-28",
+  "generated": "2026-05-28T08:37:14.504580+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "deck": ""
     },
     {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "How humanoids learn to read the room",
-      "url": "https://www.therobotreport.com/how-humanoids-learn-to-read-the-room-2/",
+      "title": "A guide to Day 1 of the 2026 Robotics Summit & Expo",
+      "url": "https://www.therobotreport.com/a-guide-to-day-1-of-the-2026-robotics-summit-expo/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Sponsored by Analog Devices Inc. Designing for a humanoid robot is one of the most complicated applications in robotics today. All on its own, a humanoid system has to manage movement, balance, vision and reactivity across a complex web of joints, sensors and data processing. This becomes critical w",
+      "summary": "Today, the Robotics Summit &#038; Expo will be full of insightful talks, hands-on robot demos, and interesting conversations. The post A guide to Day 1 of the 2026 Robotics Summit &#038; Expo appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "GMSL and the growing ecosystem around robotic vision systems",
-      "url": "https://www.therobotreport.com/gmsl-and-the-growing-ecosystem-around-robotic-vision-systems-2/",
+      "title": "Why robots still struggle to see the real world",
+      "url": "https://www.therobotreport.com/why-robots-still-struggle-to-see-real-world-orbbec/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Sponsored by Analog Devices Inc. Just a few years ago, many site owners were satisfied if a robot could move from point A to point B. That’s not quite enough anymore. Today’s robots are being asked to move faster, operate in more dynamic environments, and deal with more obstacles along the way. As t",
+      "summary": "Making machine perception reliable enough for real deployment requires more than better AI; it requires properly calibrated sensors, says an Orbbec co-founder. The post Why robots still struggle to see the real world appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Connext Robotics Toolkit for ROS Lyrical Luth is now available",
-      "url": "https://discourse.openrobotics.org/t/connext-robotics-toolkit-for-ros-lyrical-luth-is-now-available/55110",
+      "title": "Didn't make it to top 30 but this is my learning experience",
+      "url": "https://discourse.openrobotics.org/t/didnt-make-it-to-top-30-but-this-is-my-learning-experience/55128",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS 2 Community, To go with the Lyrical Luth release, RTI has updated the Connext Robotics Toolkit with Connext 7.7 LTS. The toolkit provides a simple single-step Debian installation of Lyrical and Connext DDS RMW on Ubuntu Linux, now supporting both amd64 and arm64 including Raspberry Pi and NVI",
+      "summary": "x.com Tommy Ly @lymytom20 I joined the @IntrinsicAI AI for Industry challenge to learn robotics from scratch The goal is to plug a fiber cable into a 6mm port using only wrist-mounted cameras + force feedback. Setup: 6-DOF arm, Robotiq gripper, 3 RGB cameras on the wrist. No overhead view, no marker",
       "deck": ""
     },
     {
-      "title": "New Synthetic Datasets for Industrial Bin Picking",
-      "url": "https://discourse.openrobotics.org/t/new-synthetic-datasets-for-industrial-bin-picking/55096",
+      "title": "Didn't make it to top 30, but here's my learning in the Twitter thread",
+      "url": "https://discourse.openrobotics.org/t/didnt-make-it-to-top-30-but-heres-my-learning-in-the-twitter-thread/55127",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Quick video promo: https://youtu.be/yYms177Rx3w?si=qH2vG1ggwfYdtumr Datasets are available on Kaggle: Telekinesis | Kaggle Telekinesis Agentic Skill library: https://docs.telekinesis.ai/ 1 post - 1 participant Read full topic",
+      "summary": "(topic deleted by author) 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
