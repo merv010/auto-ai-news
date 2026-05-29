@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-28",
-  "generated": "2026-05-28T08:37:14.504580+00:00",
+  "date": "2026-05-29",
+  "generated": "2026-05-29T08:36:21.164793+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "deck": ""
     },
     {
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "deck": ""
     },
     {
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "A guide to Day 1 of the 2026 Robotics Summit & Expo",
-      "url": "https://www.therobotreport.com/a-guide-to-day-1-of-the-2026-robotics-summit-expo/",
+      "title": "The evolution of cobots in metal fabrication and construction",
+      "url": "https://www.therobotreport.com/hirebotics-talks-evolution-cobots-metal-fabrication-construction/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Today, the Robotics Summit &#038; Expo will be full of insightful talks, hands-on robot demos, and interesting conversations. The post A guide to Day 1 of the 2026 Robotics Summit &#038; Expo appeared first on The Robot Report .",
+      "summary": "Matt Bush, the co-founder and CEO of Hirebotics, talks about how cobots are becoming a necessity for manufacturers and welders. The post The evolution of cobots in metal fabrication and construction appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Why robots still struggle to see the real world",
-      "url": "https://www.therobotreport.com/why-robots-still-struggle-to-see-real-world-orbbec/",
+      "title": "Your guide to the last day of the 2026 Robotics Summit & Expo",
+      "url": "https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Making machine perception reliable enough for real deployment requires more than better AI; it requires properly calibrated sensors, says an Orbbec co-founder. The post Why robots still struggle to see the real world appeared first on The Robot Report .",
+      "summary": "The fun continues in Boston for the second day of the Robotics Summit &#038; Expo, which includes the Women in Robotics breakfast and more. The post Your guide to the last day of the 2026 Robotics Summit &#038; Expo appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Didn't make it to top 30 but this is my learning experience",
-      "url": "https://discourse.openrobotics.org/t/didnt-make-it-to-top-30-but-this-is-my-learning-experience/55128",
+      "title": "Clarification on Phase 1 End Date",
+      "url": "https://discourse.openrobotics.org/t/clarification-on-phase-1-end-date/55153",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "x.com Tommy Ly @lymytom20 I joined the @IntrinsicAI AI for Industry challenge to learn robotics from scratch The goal is to plug a fiber cable into a 6mm port using only wrist-mounted cameras + force feedback. Setup: 6-DOF arm, Robotiq gripper, 3 RGB cameras on the wrist. No overhead view, no marker",
+      "summary": "Dear Intrinsic Team, I noticed that Phase 1 has been pushed back to June 14, and the end date has also been moved to July 28. I just wanted to confirm whether July 28 refers to the release date of the second-round leaderboard, or the deadline for our submission. 1 post - 1 participant Read full topi",
       "deck": ""
     },
     {
-      "title": "Didn't make it to top 30, but here's my learning in the Twitter thread",
-      "url": "https://discourse.openrobotics.org/t/didnt-make-it-to-top-30-but-heres-my-learning-in-the-twitter-thread/55127",
+      "title": "Jazzy tutorial docker container",
+      "url": "https://discourse.openrobotics.org/t/jazzy-tutorial-docker-container/55140",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "(topic deleted by author) 1 post - 1 participant Read full topic",
+      "summary": "I have an intern starting next week that is new to ROS. I setup this repo to leverage docker so they can dive right into the ROS docs tutorial. The README has a checklist they can use as they progress though the documentation. Sharing in case its helpful to others. github.com GitHub - gglaspell/jazz",
+      "deck": ""
+    },
+    {
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They ",
-      "deck": ""
-    },
-    {
-      "title": "A reality check on the AI jobs hysteria",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—",
       "deck": ""
     },
     {
