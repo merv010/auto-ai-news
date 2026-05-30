@@ -1,22 +1,22 @@
 {
-  "date": "2026-05-29",
-  "generated": "2026-05-29T08:36:21.164793+00:00",
+  "date": "2026-05-30",
+  "generated": "2026-05-30T07:33:42.501936+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "deck": ""
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
       "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Extreme Omnidirectional Robot",
+      "url": "https://spectrum.ieee.org/video-friday-rabona-soccer",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
       "deck": ""
     },
     {
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Open-Source Software Is Starting to Help Robots Think",
-      "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "When a group of academics started making open-source robotics hardware , a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s starting to be open sourced too. The shift is still early, but companies including Hugging Face, Nvidia,",
-      "deck": ""
-    },
-    {
-      "title": "The evolution of cobots in metal fabrication and construction",
-      "url": "https://www.therobotreport.com/hirebotics-talks-evolution-cobots-metal-fabrication-construction/",
+      "title": "Software becoming the biggest bottleneck to physical AI innovation, finds QNX research",
+      "url": "https://www.therobotreport.com/software-becoming-biggest-bottleneck-physical-ai-innovation-finds-qnx/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Matt Bush, the co-founder and CEO of Hirebotics, talks about how cobots are becoming a necessity for manufacturers and welders. The post The evolution of cobots in metal fabrication and construction appeared first on The Robot Report .",
+      "summary": "As robots enter more unconstrained environments, software and security are becoming higher priorities, a QNX survey found. The post Software becoming the biggest bottleneck to physical AI innovation, finds QNX research appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Your guide to the last day of the 2026 Robotics Summit & Expo",
-      "url": "https://www.therobotreport.com/your-guide-to-the-last-day-of-the-2026-robotics-summit-expo/",
+      "title": "NIST proposes a baseline performance benchmark for humanoid robots",
+      "url": "https://www.therobotreport.com/nist-proposes-a-baseline-performance-benchmark-for-humanoid-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The fun continues in Boston for the second day of the Robotics Summit &#038; Expo, which includes the Women in Robotics breakfast and more. The post Your guide to the last day of the 2026 Robotics Summit &#038; Expo appeared first on The Robot Report .",
+      "summary": "NIST has proposed a standardized performance benchmark and testing procedures to help developers and evaluators of humanoids. The post NIST proposes a baseline performance benchmark for humanoid robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Clarification on Phase 1 End Date",
-      "url": "https://discourse.openrobotics.org/t/clarification-on-phase-1-end-date/55153",
+      "title": "6600 demos recorded uplaoded on hugging face",
+      "url": "https://discourse.openrobotics.org/t/6600-demos-recorded-uplaoded-on-hugging-face/55167",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Dear Intrinsic Team, I noticed that Phase 1 has been pushed back to June 14, and the end date has also been moved to July 28. I just wanted to confirm whether July 28 refers to the release date of the second-round leaderboard, or the deadline for our submission. 1 post - 1 participant Read full topi",
+      "summary": "Hey guys our team reached 35 on the leaderboard, unfortunately couldnt make it to the next phase. sharing our collected data across diverse trials for both sfp and sc demos. Hope this helps the teams in their next phases Had an amazing time during the competition Link to the post: x.com Bharath Ajay",
       "deck": ""
     },
     {
-      "title": "Jazzy tutorial docker container",
-      "url": "https://discourse.openrobotics.org/t/jazzy-tutorial-docker-container/55140",
+      "title": "ROS News for the Week of May 25th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I have an intern starting next week that is new to ROS. I setup this repo to leverage docker so they can dive right into the ROS docs tutorial. The README has a checklist they can use as they progress though the documentation. Sharing in case its helpful to others. github.com GitHub - gglaspell/jazz",
+      "summary": "ROS News for the Week of May 25th, 2026 ICRA 2026 in Vienna kicks off next Monday! Myself and @mrpollo will be there and we’ve got a ROS Meetup scheduled for Tuesday night (June 2nd) and a PX4 / Dronecode Social planned for Thursday night (June 4th) . I’ll be handing out Lyrical stickers and if you ",
+      "deck": ""
+    },
+    {
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
-      "deck": ""
-    },
-    {
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They ",
       "deck": ""
     },
     {
