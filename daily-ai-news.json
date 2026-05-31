@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-30",
-  "generated": "2026-05-30T07:33:42.501936+00:00",
+  "date": "2026-05-31",
+  "generated": "2026-05-31T08:00:46.817993+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "MISUMI Group invests $1B in Americas, global AI and digital manufacturing",
+      "url": "https://www.therobotreport.com/misumi-group-invests-1b-americas-global-ai-digital-manufacturing/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "MISUMI Americas combines MISUMI's precision components with Fictiv's digital manufacturing platform for an entire bill of materials. The post MISUMI Group invests $1B in Americas, global AI and digital manufacturing appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Software becoming the biggest bottleneck to physical AI innovation, finds QNX research",
       "url": "https://www.therobotreport.com/software-becoming-biggest-bottleneck-physical-ai-innovation-finds-qnx/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "NIST proposes a baseline performance benchmark for humanoid robots",
-      "url": "https://www.therobotreport.com/nist-proposes-a-baseline-performance-benchmark-for-humanoid-robots/",
-      "source": "The Robot Report",
+      "title": "Modeloop - model-based design with ROS 2 node generation",
+      "url": "https://discourse.openrobotics.org/t/modeloop-model-based-design-with-ros-2-node-generation/55179",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "NIST has proposed a standardized performance benchmark and testing procedures to help developers and evaluators of humanoids. The post NIST proposes a baseline performance benchmark for humanoid robots appeared first on The Robot Report .",
+      "summary": "Hi developers, I’ve been building Modeloop ( https://www.modeloop.app/ ) , a browser-based environment for model-based design: you connect blocks into a diagram, simulate the dynamics, and generate code. Think Simulink-style modeling, but the editor runs entirely in the browser and the model format ",
       "deck": ""
     },
     {
-      "title": "6600 demos recorded uplaoded on hugging face",
-      "url": "https://discourse.openrobotics.org/t/6600-demos-recorded-uplaoded-on-hugging-face/55167",
+      "title": "Show ROS: BAGEL – A zero-install, browser-native 3D visualizer and scrubber for MCAP, db3, and ROS1 bags",
+      "url": "https://discourse.openrobotics.org/t/show-ros-bagel-a-zero-install-browser-native-3d-visualizer-and-scrubber-for-mcap-db3-and-ros1-bags/55178",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey guys our team reached 35 on the leaderboard, unfortunately couldnt make it to the next phase. sharing our collected data across diverse trials for both sfp and sc demos. Hope this helps the teams in their next phases Had an amazing time during the competition Link to the post: x.com Bharath Ajay",
-      "deck": ""
-    },
-    {
-      "title": "ROS News for the Week of May 25th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "ROS News for the Week of May 25th, 2026 ICRA 2026 in Vienna kicks off next Monday! Myself and @mrpollo will be there and we’ve got a ROS Meetup scheduled for Tuesday night (June 2nd) and a PX4 / Dronecode Social planned for Thursday night (June 4th) . I’ll be handing out Lyrical stickers and if you ",
+      "summary": "Hi everyone, I wanted to share a project I’ve been working on called BAGEL (BAG ExpLoration). It’s an open-source, fully static web application designed to let you inspect, scrub, and visualize ROS 1 and ROS 2 bag files locally in your browser with zero installation, zero configuration, and no cloud",
       "deck": ""
     },
     {
