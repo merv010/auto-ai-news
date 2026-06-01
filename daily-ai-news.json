@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-31",
-  "generated": "2026-05-31T08:00:46.817993+00:00",
+  "date": "2026-06-01",
+  "generated": "2026-06-01T10:09:36.172521+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
       "url": "https://huggingface.co/blog/torch-profiler",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "In 1987, Richard Greenhill , a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like carrying luggage. He was working at a startup called Intergalactic Robots, but he couldn’t convince an",
       "deck": ""
     },
     {
@@ -76,11 +84,11 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Atlas Versus a Fridge",
-      "url": "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
-      "source": "IEEE Spectrum Robotics",
+      "title": "Why robotic arms are now being integrated with CNC machines",
+      "url": "https://www.therobotreport.com/why-robotic-arms-are-now-being-integrated-cnc-machines/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
+      "summary": "Robotic CNC machine tending is becoming more flexible as leading suppliers bring new software and integration to industry. The post Why robotic arms are now being integrated with CNC machines appeared first on The Robot Report .",
       "deck": ""
     },
     {
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Software becoming the biggest bottleneck to physical AI innovation, finds QNX research",
-      "url": "https://www.therobotreport.com/software-becoming-biggest-bottleneck-physical-ai-innovation-finds-qnx/",
-      "source": "The Robot Report",
+      "title": "Open Humanoid AI Sapiens with ROS 2 + Text-Generated Motion with NVIDIA Kimodo",
+      "url": "https://discourse.openrobotics.org/t/open-humanoid-ai-sapiens-with-ros-2-text-generated-motion-with-nvidia-kimodo/55194",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "As robots enter more unconstrained environments, software and security are becoming higher priorities, a QNX survey found. The post Software becoming the biggest bottleneck to physical AI innovation, finds QNX research appeared first on The Robot Report .",
+      "summary": "Open Humanoid ROBOTIS AI Sapiens #2: Text-Generated Motion with NVIDIA Kimodo We are excited to share the latest progress on our open-source humanoid platform, ROBOTIS AI Sapiens. In our newest demo, we integrated NVIDIA Kimodo to generate humanoid motions directly from text prompts. These full-body",
       "deck": ""
     },
     {
-      "title": "Modeloop - model-based design with ROS 2 node generation",
-      "url": "https://discourse.openrobotics.org/t/modeloop-model-based-design-with-ros-2-node-generation/55179",
+      "title": "Turning Failures into Training Data Expert Intervention for VLA Fine-tuning",
+      "url": "https://discourse.openrobotics.org/t/turning-failures-into-training-data-expert-intervention-for-vla-fine-tuning/55193",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi developers, I’ve been building Modeloop ( https://www.modeloop.app/ ) , a browser-based environment for model-based design: you connect blocks into a diagram, simulate the dynamics, and generate code. Think Simulink-style modeling, but the editor runs entirely in the browser and the model format ",
-      "deck": ""
-    },
-    {
-      "title": "Show ROS: BAGEL – A zero-install, browser-native 3D visualizer and scrubber for MCAP, db3, and ROS1 bags",
-      "url": "https://discourse.openrobotics.org/t/show-ros-bagel-a-zero-install-browser-native-3d-visualizer-and-scrubber-for-mcap-db3-and-ros1-bags/55178",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi everyone, I wanted to share a project I’ve been working on called BAGEL (BAG ExpLoration). It’s an open-source, fully static web application designed to let you inspect, scrub, and visualize ROS 1 and ROS 2 bag files locally in your browser with zero installation, zero configuration, and no cloud",
+      "summary": "AI WORKER #12: Turning Failures into Training Data Expert Intervention for VLA FineTuning How do we solve unpredictable edge cases in VLA models? In our latest experiments with the NVIDIA GR00T model, our robotics team tackled this exact challenge by leveraging expert intervention. When autonomous i",
       "deck": ""
     },
     {
