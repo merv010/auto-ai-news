@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-02",
-  "generated": "2026-06-02T09:00:18.111607+00:00",
+  "date": "2026-06-03",
+  "generated": "2026-06-03T09:20:05.509945+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "deck": ""
     },
     {
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "NVIDIA releases new and updated tools for physical AI developers",
-      "url": "https://www.therobotreport.com/nvidia-releases-new-updated-tools-physical-ai-gtc-taipei-computex/",
+      "title": "2026 Robotics Summit & Expo Recap",
+      "url": "https://www.therobotreport.com/2026-robotics-summit-expo-recap/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "NVIDIA has released open-source physical AI agent skills and tools, as well as an Isaac GR00T humanoid reference robot. The post NVIDIA releases new and updated tools for physical AI developers appeared first on The Robot Report .",
+      "summary": "Listen to the podcast this week as The Robot Report editorial staff recaps the recent Robotics Summit &#038; Expo from Boston. The post 2026 Robotics Summit &#038; Expo Recap appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ANSCER Robotics closes Series A round for industrial material handling",
-      "url": "https://www.therobotreport.com/anscer-robotics-closes-series-a-round-industrial-material-handling/",
+      "title": "Petal Surgical adds more funding for incisionless surgical robot",
+      "url": "https://www.therobotreport.com/petal-surgical-adds-more-funding-for-incisionless-surgical-robot/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ANSCER Robotics has raised $5.4 million to scale its hybrid industrial automation robots in North America and globally. The post ANSCER Robotics closes Series A round for industrial material handling appeared first on The Robot Report .",
+      "summary": "Petal said its incisionless surgery method could create a new standard of care, making advanced treatments safer, more accessible and less traumatic for patients worldwide. The post Petal Surgical adds more funding for incisionless surgical robot appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROBOTIS HAND VR Teleoperation in NVIDIA Isaac Sim - Real Control, Virtual Tasks",
-      "url": "https://discourse.openrobotics.org/t/robotis-hand-vr-teleoperation-in-nvidia-isaac-sim-real-control-virtual-tasks/55213",
+      "title": "Recommended way to represent robot initialization failures in RMF Web",
+      "url": "https://discourse.openrobotics.org/t/recommended-way-to-represent-robot-initialization-failures-in-rmf-web/55245",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "AI WORKER #13: ROBOTIS HAND VR Teleoperation in NVIDIA Isaac Sim - Real Control, Virtual Tasks We have released our technical guide and demo on VR teleoperation for the ROBOTIS AI Worker in NVIDIA Isaac Sim. To support Physical AI development and imitation learning, we built a ROS 2-based DDS bridge",
+      "summary": "Hi, I’m working on an EasyFullControl fleet adapter and would like to clarify the intended usage of the uninitialized robot status. The robot_state.json schema includes: \"status\": [ \"uninitialized\", \"offline\", \"shutdown\", \"idle\", \"charging\", \"working\", \"error\" ] My understanding is that uninitialize",
       "deck": ""
     },
     {
-      "title": "LGDXRobot Cloud: A Web Focused Robot Fleet Management System for Nav2 (and ROS 2)",
-      "url": "https://discourse.openrobotics.org/t/lgdxrobot-cloud-a-web-focused-robot-fleet-management-system-for-nav2-and-ros-2/55212",
+      "title": "Interop SIG, 4 June 2026: Open Discussion",
+      "url": "https://discourse.openrobotics.org/t/interop-sig-4-june-2026-open-discussion/55234",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello everyone, I am working on a robot fleet management system called LGDXRobot Cloud. It is a cloud-based platform that monitors robot status and manages automated logistics tasks. The system is also designed to integrate different web services and ROS nodes through customisable workflows. I start",
+      "summary": "Meeting Link Calendar Link Thu, Jun 4, 2026 3:00 PM UTC We have no specific presentation planned for this month. This time around we’ll have an open discussion about how we want to facilitate a gathering of this special interest group at ROSCon. We’ve applied for a Birds of a Feather timeslot, and w",
       "deck": ""
     },
     {
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "title": "Rehumanizing global health care with agentic AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
+      "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of st",
       "deck": ""
     },
     {
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu",
       "deck": ""
     },
     {
