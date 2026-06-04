@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-03",
-  "generated": "2026-06-03T09:20:05.509945+00:00",
+  "date": "2026-06-04",
+  "generated": "2026-06-04T08:42:31.956754+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "deck": ""
     },
     {
-      "title": "Codex for every role, tool, and workflow",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "2026 Robotics Summit & Expo Recap",
-      "url": "https://www.therobotreport.com/2026-robotics-summit-expo-recap/",
+      "title": "Autonomous defense manufacturer Mach Industries raises $300M",
+      "url": "https://www.therobotreport.com/autonomous-defense-manufacturer-mach-industries-raises-300m/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Listen to the podcast this week as The Robot Report editorial staff recaps the recent Robotics Summit &#038; Expo from Boston. The post 2026 Robotics Summit &#038; Expo Recap appeared first on The Robot Report .",
+      "summary": "Mach Industries will use the funding to accelerate executing government contracts, acquire talent, develop products, and expand its network. The post Autonomous defense manufacturer Mach Industries raises $300M appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Petal Surgical adds more funding for incisionless surgical robot",
-      "url": "https://www.therobotreport.com/petal-surgical-adds-more-funding-for-incisionless-surgical-robot/",
+      "title": "RoboBusiness 2026 opens call for speakers",
+      "url": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Petal said its incisionless surgery method could create a new standard of care, making advanced treatments safer, more accessible and less traumatic for patients worldwide. The post Petal Surgical adds more funding for incisionless surgical robot appeared first on The Robot Report .",
+      "summary": "RoboBusiness 2026, the premier event for developers of commercial robotics and those building robotics businesses, is seeking expert speakers. The post RoboBusiness 2026 opens call for speakers appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Recommended way to represent robot initialization failures in RMF Web",
-      "url": "https://discourse.openrobotics.org/t/recommended-way-to-represent-robot-initialization-failures-in-rmf-web/55245",
+      "title": "ROS PMC Minutes for June 2, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-june-2-2026/55263",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi, I’m working on an EasyFullControl fleet adapter and would like to clarify the intended usage of the uninitialized robot status. The robot_state.json schema includes: \"status\": [ \"uninitialized\", \"offline\", \"shutdown\", \"idle\", \"charging\", \"working\", \"error\" ] My understanding is that uninitialize",
+      "summary": "The ROS PMC meeting for this week was on Tuesday. The notes from the meeting are available at ROS PMC weekly meeting agenda ROS PMC Business Reminder: Funding proposals are due to the Technical Governance Committee (TGC) at the end of the month ( June 30 ). Regular Business Buildfarm update The buil",
       "deck": ""
     },
     {
-      "title": "Interop SIG, 4 June 2026: Open Discussion",
-      "url": "https://discourse.openrobotics.org/t/interop-sig-4-june-2026-open-discussion/55234",
+      "title": "ROS OE Community Meeting #57 - 2026/05/25 @ 3pm UTC",
+      "url": "https://discourse.openrobotics.org/t/ros-oe-community-meeting-57-2026-05-25-3pm-utc/55262",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Meeting Link Calendar Link Thu, Jun 4, 2026 3:00 PM UTC We have no specific presentation planned for this month. This time around we’ll have an open discussion about how we want to facilitate a gathering of this special interest group at ROSCon. We’ve applied for a Birds of a Feather timeslot, and w",
+      "summary": "Our next meeting is on Monday. Current work involves supporting MoveIt 2 and Nav2. Including creating container images for the Space ROS demos for local and on-target development. Date/Time Monday, June 8th, 2026 @ 3pm UTC, (5pm CEST / 11am EDT / 8am PDT) Google Meet Video call link: https://meet.go",
       "deck": ""
     },
     {
