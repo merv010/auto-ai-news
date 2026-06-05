@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-04",
-  "generated": "2026-06-04T08:42:31.956754+00:00",
+  "date": "2026-06-05",
+  "generated": "2026-06-05T08:37:13.686862+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "deck": ""
     },
     {
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Autonomous defense manufacturer Mach Industries raises $300M",
-      "url": "https://www.therobotreport.com/autonomous-defense-manufacturer-mach-industries-raises-300m/",
+      "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
+      "url": "https://www.therobotreport.com/can-surgical-robots-fly-ss-innovations-discusses-challenges-solutions/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Mach Industries will use the funding to accelerate executing government contracts, acquire talent, develop products, and expand its network. The post Autonomous defense manufacturer Mach Industries raises $300M appeared first on The Robot Report .",
+      "summary": "The robotics developer is focusing on providing emergency care in active war zones and beyond. The post Can surgical robots fly? SS Innovations discusses challenges, solutions appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "RoboBusiness 2026 opens call for speakers",
-      "url": "https://www.therobotreport.com/robobusiness-2026-opens-call-for-speakers/",
+      "title": "Proteus gets natural-language ability as Amazon expands European robot deployments",
+      "url": "https://www.therobotreport.com/proteus-gets-natural-language-ability-amazon-expands-europe-robot-deployments/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "RoboBusiness 2026, the premier event for developers of commercial robotics and those building robotics businesses, is seeking expert speakers. The post RoboBusiness 2026 opens call for speakers appeared first on The Robot Report .",
+      "summary": "Amazon says Proteus needs no special commands as it plans to deploy the mobile robot, as well as STARK and Vulcan, across Europe. The post Proteus gets natural-language ability as Amazon expands European robot deployments appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS PMC Minutes for June 2, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-june-2-2026/55263",
+      "title": "QERRA-v2 Classical: Explainable Ethical Safety Gates & Behavior Tree Integration (v2.0.0-alpha)",
+      "url": "https://discourse.openrobotics.org/t/qerra-v2-classical-explainable-ethical-safety-gates-behavior-tree-integration-v2-0-0-alpha/55281",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The ROS PMC meeting for this week was on Tuesday. The notes from the meeting are available at ROS PMC weekly meeting agenda ROS PMC Business Reminder: Funding proposals are due to the Technical Governance Committee (TGC) at the end of the month ( June 30 ). Regular Business Buildfarm update The buil",
+      "summary": "Hello ROS Community, I wanted to share a project update and invite feedback on QERRA-v2 Classical , an explainable, classical ethical evaluation engine designed for robotics decision support and humanoid safety. The project is built upon the SEMEV-12 framework (12 human-centred ethical vectors) and ",
       "deck": ""
     },
     {
-      "title": "ROS OE Community Meeting #57 - 2026/05/25 @ 3pm UTC",
-      "url": "https://discourse.openrobotics.org/t/ros-oe-community-meeting-57-2026-05-25-3pm-utc/55262",
+      "title": "OSRA TGC meeting minutes for March, 2026",
+      "url": "https://discourse.openrobotics.org/t/osra-tgc-meeting-minutes-for-march-2026/55276",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Our next meeting is on Monday. Current work involves supporting MoveIt 2 and Nav2. Including creating container images for the Space ROS demos for local and on-target development. Date/Time Monday, June 8th, 2026 @ 3pm UTC, (5pm CEST / 11am EDT / 8am PDT) Google Meet Video call link: https://meet.go",
+      "summary": "Here are the meeting minutes for the March regular meeting of the Technical Governance Committee, held on the 26th of March 2026. You can find the official minutes in the repository , as well as a Markdown version below. The PDF version is the official version. TECHNICAL GOVERNANCE COMMITTEE MEETING",
+      "deck": ""
+    },
+    {
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of st",
-      "deck": ""
-    },
-    {
-      "title": "How small businesses can leverage AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu",
       "deck": ""
     },
     {
