@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-05",
-  "generated": "2026-06-05T08:37:13.686862+00:00",
+  "date": "2026-06-06",
+  "generated": "2026-06-06T07:39:12.322247+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
+      "url": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
       "deck": ""
     },
     {
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Extreme Omnidirectional Robot",
-      "url": "https://spectrum.ieee.org/video-friday-rabona-soccer",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July",
-      "deck": ""
-    },
-    {
-      "title": "Can surgical robots fly? SS Innovations discusses challenges, solutions",
-      "url": "https://www.therobotreport.com/can-surgical-robots-fly-ss-innovations-discusses-challenges-solutions/",
+      "title": "Why deterministic real-time systems are more critical than ever in robotics",
+      "url": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The robotics developer is focusing on providing emergency care in active war zones and beyond. The post Can surgical robots fly? SS Innovations discusses challenges, solutions appeared first on The Robot Report .",
+      "summary": "Winston Leung discusses the role of QNX role in robotics and AI, focusing on safety, innovation, and industry trends. The post Why deterministic real-time systems are more critical than ever in robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Proteus gets natural-language ability as Amazon expands European robot deployments",
-      "url": "https://www.therobotreport.com/proteus-gets-natural-language-ability-amazon-expands-europe-robot-deployments/",
+      "title": "GENISOM AI debuts deployable robotics platforms at ICRA 2026",
+      "url": "https://www.therobotreport.com/genisom-ai-debuts-deployable-robotics-platforms-icra-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Amazon says Proteus needs no special commands as it plans to deploy the mobile robot, as well as STARK and Vulcan, across Europe. The post Proteus gets natural-language ability as Amazon expands European robot deployments appeared first on The Robot Report .",
+      "summary": "At ICRA 2026, GENISOM AI may have been new to many international attendees — but it is not a concept-stage robotics startup. The post GENISOM AI debuts deployable robotics platforms at ICRA 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "QERRA-v2 Classical: Explainable Ethical Safety Gates & Behavior Tree Integration (v2.0.0-alpha)",
-      "url": "https://discourse.openrobotics.org/t/qerra-v2-classical-explainable-ethical-safety-gates-behavior-tree-integration-v2-0-0-alpha/55281",
+      "title": "Preparing for Lyrical Sync 2026-06-08",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-lyrical-sync-2026-06-08/55287",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello ROS Community, I wanted to share a project update and invite feedback on QERRA-v2 Classical , an explainable, classical ethical evaluation engine designed for robotics decision support and humanoid safety. The project is built upon the SEMEV-12 framework (12 human-centred ethical vectors) and ",
+      "summary": "Hello Lyrical maintainers! Starting now, I will be holding new Lyrical ros/rosdistro release PRs with a plan to sync ROS Lyrical packages to the main apt repo on 2026-06-08. Please comment here if there are any issues I should know about before performing the sync. There are currently 123 packages w",
       "deck": ""
     },
     {
-      "title": "OSRA TGC meeting minutes for March, 2026",
-      "url": "https://discourse.openrobotics.org/t/osra-tgc-meeting-minutes-for-march-2026/55276",
+      "title": "Introducing an Open-Source Autonomous Navigation & Interactive Robot",
+      "url": "https://discourse.openrobotics.org/t/introducing-an-open-source-autonomous-navigation-interactive-robot/55286",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Here are the meeting minutes for the March regular meeting of the Technical Governance Committee, held on the 26th of March 2026. You can find the official minutes in the repository , as well as a Markdown version below. The PDF version is the official version. TECHNICAL GOVERNANCE COMMITTEE MEETING",
+      "summary": "Hello everyone, I’m currently developing an open-source autonomous mobile robot that combines navigation, computer vision, voice interaction, and AI assistance into a single platform. The robot is designed to operate autonomously while providing natural human-robot interaction through voice, vision,",
+      "deck": ""
+    },
+    {
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind",
-      "deck": ""
-    },
-    {
-      "title": "Rehumanizing global health care with agentic AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of st",
       "deck": ""
     },
     {
