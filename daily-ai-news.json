@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-07",
-  "generated": "2026-06-07T08:17:37.798052+00:00",
+  "date": "2026-06-08",
+  "generated": "2026-06-08T09:16:16.027068+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks",
+      "url": "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "AGIBOT said the industry is moving beyond simulation scores toward closed-loop testing on real robots with real tasks. The post AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Robots can enhance manufacturing workers rather than replace them",
       "url": "https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Why deterministic real-time systems are more critical than ever in robotics",
-      "url": "https://www.therobotreport.com/qnx-why-deterministic-real-time-systems-are-more-critical-than-ever-robotics/",
-      "source": "The Robot Report",
+      "title": "Isaac Lab Teleoperation & Data Collection: Controlling the AgileX NERO 7-DoF Robotic Arm",
+      "url": "https://discourse.openrobotics.org/t/isaac-lab-teleoperation-data-collection-controlling-the-agilex-nero-7-dof-robotic-arm/55348",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Winston Leung discusses the role of QNX role in robotics and AI, focusing on safety, innovation, and industry trends. The post Why deterministic real-time systems are more critical than ever in robotics appeared first on The Robot Report .",
+      "summary": "0. Preface In this tutorial, we walk through the step-by-step implementation of keyboard teleoperation and demonstration data collection for the AgileX NERO (7-DoF) and PiPER robotic arms within NVIDIA Isaac Lab. By the end of this guide, you will be able to control the robotic arm in a simulated en",
       "deck": ""
     },
     {
-      "title": "Preparing for Lyrical Sync 2026-06-08",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-lyrical-sync-2026-06-08/55287",
+      "title": "Pre-built ROS2 Humble Windows SDK + Standalone RViz2 (No Toolchain Required)",
+      "url": "https://discourse.openrobotics.org/t/pre-built-ros2-humble-windows-sdk-standalone-rviz2-no-toolchain-required/55340",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello Lyrical maintainers! Starting now, I will be holding new Lyrical ros/rosdistro release PRs with a plan to sync ROS Lyrical packages to the main apt repo on 2026-06-08. Please comment here if there are any issues I should know about before performing the sync. There are currently 123 packages w",
-      "deck": ""
-    },
-    {
-      "title": "Introducing an Open-Source Autonomous Navigation & Interactive Robot",
-      "url": "https://discourse.openrobotics.org/t/introducing-an-open-source-autonomous-navigation-interactive-robot/55286",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hello everyone, I’m currently developing an open-source autonomous mobile robot that combines navigation, computer vision, voice interaction, and AI assistance into a single platform. The robot is designed to operate autonomously while providing natural human-robot interaction through voice, vision,",
+      "summary": "# Pre-built ROS2 Humble Windows SDK + Standalone RViz2 (No Toolchain Required) Hi everyone, I’d like to share two projects that may help developers working with ROS2 on Windows. ## The Problem Compiling ROS2 on Windows has always been painful — it requires a complex toolchain setup (`rosdep`, `colco",
       "deck": ""
     },
     {
