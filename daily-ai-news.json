@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-08",
-  "generated": "2026-06-08T09:16:16.027068+00:00",
+  "date": "2026-06-09",
+  "generated": "2026-06-09T08:25:39.182111+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
       "deck": ""
     },
     {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
       "deck": ""
     },
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "Amazing Digital Dentures (a failed project)",
-      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks",
-      "url": "https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/",
+      "title": "ACS raises $200M to scale autonomous counter-drone system",
+      "url": "https://www.therobotreport.com/allen-control-systems-raises-200m-for-autonomous-weapons-stations/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "AGIBOT said the industry is moving beyond simulation scores toward closed-loop testing on real robots with real tasks. The post AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks appeared first on The Robot Report .",
+      "summary": "Allen Control Systems will use the funding to scale manufacturing and accelerate deployment of its autonomous weapon station, Bullfrog. The post ACS raises $200M to scale autonomous counter-drone system appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robots can enhance manufacturing workers rather than replace them",
-      "url": "https://www.therobotreport.com/robots-can-enhance-manufacturing-workers-rather-than-replace-them/",
+      "title": "Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation",
+      "url": "https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "With the right AI, teleoperation, and safeguards, robotics can augment manufacturing opportunities, says one to ONE Holdings' president. The post Robots can enhance manufacturing workers rather than replace them appeared first on The Robot Report .",
+      "summary": "Embodied AI is evolving from vision-centric perception toward Physical AI. The post Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Isaac Lab Teleoperation & Data Collection: Controlling the AgileX NERO 7-DoF Robotic Arm",
-      "url": "https://discourse.openrobotics.org/t/isaac-lab-teleoperation-data-collection-controlling-the-agilex-nero-7-dof-robotic-arm/55348",
+      "title": "New Packages for Lyrical 2026-06-08",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-lyrical-2026-06-08/55365",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "0. Preface In this tutorial, we walk through the step-by-step implementation of keyboard teleoperation and demonstration data collection for the AgileX NERO (7-DoF) and PiPER robotic arms within NVIDIA Isaac Lab. By the end of this guide, you will be able to control the robotic arm in a simulated en",
+      "summary": "We’re happy to announce 40 new packages and 101 updates are now available in ROS Lyrical. This sync was tagged as lyrical/2026-06-08 . Thank you to every maintainer and contributor who made these updates available! Package Updates for ROS Lyrical Updates to Ubuntu Resolute (amd64) (click for more de",
       "deck": ""
     },
     {
-      "title": "Pre-built ROS2 Humble Windows SDK + Standalone RViz2 (No Toolchain Required)",
-      "url": "https://discourse.openrobotics.org/t/pre-built-ros2-humble-windows-sdk-standalone-rviz2-no-toolchain-required/55340",
+      "title": "ros_tap: zero config telemetry tap for any ROS robot",
+      "url": "https://discourse.openrobotics.org/t/ros-tap-zero-config-telemetry-tap-for-any-ros-robot/55363",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "# Pre-built ROS2 Humble Windows SDK + Standalone RViz2 (No Toolchain Required) Hi everyone, I’d like to share two projects that may help developers working with ROS2 on Windows. ## The Problem Compiling ROS2 on Windows has always been painful — it requires a complex toolchain setup (`rosdep`, `colco",
+      "summary": "I’ve been working on a ROS 2 project where I’m moving fast on different control scripts. Every few hours I’m redeploying a new version to the robot, testing it, tweaking parameters, redeploying again. The loop is tight but the data problem kept getting worse. Every time I deployed a new script I’d l",
       "deck": ""
     },
     {
