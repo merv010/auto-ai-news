@@ -1,38 +1,38 @@
 {
-  "date": "2026-06-09",
-  "generated": "2026-06-09T08:25:39.182111+00:00",
+  "date": "2026-06-10",
+  "generated": "2026-06-10T08:41:40.768784+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "deck": ""
     },
     {
-      "title": "Built to benefit everyone: our plan",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "title": "What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
       "deck": ""
     },
     {
-      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "deck": ""
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
       "deck": ""
     },
     {
@@ -52,83 +52,83 @@
       "deck": ""
     },
     {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
-      "url": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
+      "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
+      "url": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
+      "summary": "This article is brought to you by AGILINK . Throughout the exhibition hall at the 2026 IEEE International Conference on Robotics (ICRA), in Vienna, one demonstration seemed to attract a disproportionate amount of attention. Two robotic hands were making a balloon dog. Slowly and deliberately, the ro",
       "deck": ""
     },
     {
-      "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
-      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "title": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "In 1987, Richard Greenhill , a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like carrying luggage. He was working at a startup called Intergalactic Robots, but he couldn’t convince an",
+      "summary": "Thirteen years ago last August, I was camped out in the Jet Propulsion Lab press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-assisted landing on the surface of Mars. It did, and it was awesome . Since then, Curiosity (also known as Mars",
       "deck": ""
     },
     {
-      "title": "ACS raises $200M to scale autonomous counter-drone system",
-      "url": "https://www.therobotreport.com/allen-control-systems-raises-200m-for-autonomous-weapons-stations/",
+      "title": "Walmart, Wing add 7 markets in drone delivery expansion",
+      "url": "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Allen Control Systems will use the funding to scale manufacturing and accelerate deployment of its autonomous weapon station, Bullfrog. The post ACS raises $200M to scale autonomous counter-drone system appeared first on The Robot Report .",
+      "summary": "Wing plans to bring drone deliveries to Memphis, New Orleans, Philadelphia, Phoenix, San Diego, San Francisco, and Salt Lake City. The post Walmart, Wing add 7 markets in drone delivery expansion appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation",
-      "url": "https://www.therobotreport.com/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-and-dexterous-manipulation/",
+      "title": "Effort to establish a National Commission on Robotics advances in Congress",
+      "url": "https://www.therobotreport.com/effort-establish-national-commission-on-robotics-advances-congress/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Embodied AI is evolving from vision-centric perception toward Physical AI. The post Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation appeared first on The Robot Report .",
+      "summary": "As the proposed National Commission on Robotics advances, industry leaders continue to call for more unified U.S. policy. The post Effort to establish a National Commission on Robotics advances in Congress appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "New Packages for Lyrical 2026-06-08",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-lyrical-2026-06-08/55365",
+      "title": "Project TT: Developing a 20mm Biohybrid Tripod Driven by Cerebral Organoids",
+      "url": "https://discourse.openrobotics.org/t/project-tt-developing-a-20mm-biohybrid-tripod-driven-by-cerebral-organoids/55373",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re happy to announce 40 new packages and 101 updates are now available in ROS Lyrical. This sync was tagged as lyrical/2026-06-08 . Thank you to every maintainer and contributor who made these updates available! Package Updates for ROS Lyrical Updates to Ubuntu Resolute (amd64) (click for more de",
+      "summary": "Hello everyone, I want to share a project proposal I’ve developed for a 20 mm biohybrid soft robotic platform called the Tripodal Thinker (Project TT) . (Rough 2D Draft) My research is heavily focused on chemically actuated robots, soft robotics, biomimetic/bioinspired robotics, and biohybrid roboti",
       "deck": ""
     },
     {
-      "title": "ros_tap: zero config telemetry tap for any ROS robot",
-      "url": "https://discourse.openrobotics.org/t/ros-tap-zero-config-telemetry-tap-for-any-ros-robot/55363",
+      "title": "What's the most annoying part of your ROS 2 workflow?",
+      "url": "https://discourse.openrobotics.org/t/whats-the-most-annoying-part-of-your-ros-2-workflow/55371",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’ve been working on a ROS 2 project where I’m moving fast on different control scripts. Every few hours I’m redeploying a new version to the robot, testing it, tweaking parameters, redeploying again. The loop is tight but the data problem kept getting worse. Every time I deployed a new script I’d l",
+      "summary": "Been spending more time in ROS 2 lately and getting a feel for the daily grind. For folks working on real robots, what part of going from code change to seeing it run drives you the most nuts? And have you found anything that actually makes it better? 2 posts - 2 participants Read full topic",
       "deck": ""
     },
     {
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinatin",
       "deck": ""
     },
     {
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "title": "Five things you need to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
       "deck": ""
     },
     {
