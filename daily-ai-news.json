@@ -1,22 +1,30 @@
 {
-  "date": "2026-06-10",
-  "generated": "2026-06-10T08:41:40.768784+00:00",
+  "date": "2026-06-11",
+  "generated": "2026-06-11T09:06:38.598122+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "url": "https://openai.com/index/nextdoor",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "deck": ""
     },
     {
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "deck": ""
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -80,39 +80,39 @@
       "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Thirteen years ago last August, I was camped out in the Jet Propulsion Lab press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-assisted landing on the surface of Mars. It did, and it was awesome . Since then, Curiosity (also known as Mars",
+      "summary": "Thirteen years ago last August, I was camped out in NASA’s Jet Propulsion Laboratory press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-assisted landing on the surface of Mars. It did, and it was awesome . Since then, Curiosity (also kno",
       "deck": ""
     },
     {
-      "title": "Walmart, Wing add 7 markets in drone delivery expansion",
-      "url": "https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/",
+      "title": "NEURA Robotics to raise up to $1.4B in Series C funding for physical AI",
+      "url": "https://www.therobotreport.com/neura-robotics-raise-up-1-4b-in-series-c-funding-physical-ai/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Wing plans to bring drone deliveries to Memphis, New Orleans, Philadelphia, Phoenix, San Diego, San Francisco, and Salt Lake City. The post Walmart, Wing add 7 markets in drone delivery expansion appeared first on The Robot Report .",
+      "summary": "NEURA Robotics plans to expand its platforms for robot learning and global production of humanoids and other systems. The post NEURA Robotics to raise up to $1.4B in Series C funding for physical AI appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Effort to establish a National Commission on Robotics advances in Congress",
-      "url": "https://www.therobotreport.com/effort-establish-national-commission-on-robotics-advances-congress/",
+      "title": "Robotics will not have a clean Llama moment",
+      "url": "https://www.therobotreport.com/robotics-will-not-have-a-clean-llama-moment/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "As the proposed National Commission on Robotics advances, industry leaders continue to call for more unified U.S. policy. The post Effort to establish a National Commission on Robotics advances in Congress appeared first on The Robot Report .",
+      "summary": "The Llama moment in robotics will not be the day a policy becomes downloadable. It will be the day another team can take that policy, adapt it to its robot, release it into a customer process, and still know what failed weeks later when the line stops repeating. The post Robotics will not have a cle",
       "deck": ""
     },
     {
-      "title": "Project TT: Developing a 20mm Biohybrid Tripod Driven by Cerebral Organoids",
-      "url": "https://discourse.openrobotics.org/t/project-tt-developing-a-20mm-biohybrid-tripod-driven-by-cerebral-organoids/55373",
+      "title": "norynth/ros2-bridge — ROS2 fleet management, telemetry & command dispatch",
+      "url": "https://discourse.openrobotics.org/t/norynth-ros2-bridge-ros2-fleet-management-telemetry-command-dispatch/55402",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello everyone, I want to share a project proposal I’ve developed for a 20 mm biohybrid soft robotic platform called the Tripodal Thinker (Project TT) . (Rough 2D Draft) My research is heavily focused on chemically actuated robots, soft robotics, biomimetic/bioinspired robotics, and biohybrid roboti",
+      "summary": "Hi everyone, I’m sharing a ROS2 package I’ve been working on that bridges ROS2 robots with the Norynth Robotics cloud platform. What it does: Fleet synchronization — auto-register ROS2 nodes as fleet robots Telemetry streaming — publish ROS2 topics (battery, odometry, status) to the platform Command",
       "deck": ""
     },
     {
-      "title": "What's the most annoying part of your ROS 2 workflow?",
-      "url": "https://discourse.openrobotics.org/t/whats-the-most-annoying-part-of-your-ros-2-workflow/55371",
+      "title": "EpisodeVault: open source tool to debug why your LeRobot model regressed",
+      "url": "https://discourse.openrobotics.org/t/episodevault-open-source-tool-to-debug-why-your-lerobot-model-regressed/55401",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Been spending more time in ROS 2 lately and getting a feel for the daily grind. For folks working on real robots, what part of going from code change to seeing it run drives you the most nuts? And have you found anything that actually makes it better? 2 posts - 2 participants Read full topic",
+      "summary": "Been building with LeRobot v3 and kept hitting the same wall: retrain a policy, it gets worse, no clear idea why. DVC tells you files changed. MLflow tells you which run. Nobody tells you which tasks dropped or which episodes degraded between dataset versions. Built a small open source library to fi",
       "deck": ""
     },
     {
