@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-11",
-  "generated": "2026-06-11T09:06:38.598122+00:00",
+  "date": "2026-06-12",
+  "generated": "2026-06-12T08:52:36.479745+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "deck": ""
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "deck": ""
     },
     {
@@ -28,11 +28,11 @@
       "deck": ""
     },
     {
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
       "deck": ""
     },
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Defining Autonomy for Wellness Robots in Senior Care",
+      "url": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "An examination of how socially assistive wellness robots could support the seven dimensions of senior wellness, and how a framework can measure their autonomy. What Attendees will Learn Why the senior care crisis exceeds incremental automation. Demographic pressure, workforce shortages, and a daily ",
+      "deck": ""
+    },
+    {
       "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
       "url": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
-      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Thirteen years ago last August, I was camped out in NASA’s Jet Propulsion Laboratory press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-assisted landing on the surface of Mars. It did, and it was awesome . Since then, Curiosity (also kno",
-      "deck": ""
-    },
-    {
-      "title": "NEURA Robotics to raise up to $1.4B in Series C funding for physical AI",
-      "url": "https://www.therobotreport.com/neura-robotics-raise-up-1-4b-in-series-c-funding-physical-ai/",
+      "title": "Hello Robot is recognized by World Economic Forum as a tech pioneer",
+      "url": "https://www.therobotreport.com/hello-robot-is-recognized-by-world-economic-forum-as-a-tech-pioneer/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "NEURA Robotics plans to expand its platforms for robot learning and global production of humanoids and other systems. The post NEURA Robotics to raise up to $1.4B in Series C funding for physical AI appeared first on The Robot Report .",
+      "summary": "The World Economic Forum has honored Hello Robot, whose Stretch system provides mobile manipulation to older adults and people with disabilities. The post Hello Robot is recognized by World Economic Forum as a tech pioneer appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robotics will not have a clean Llama moment",
-      "url": "https://www.therobotreport.com/robotics-will-not-have-a-clean-llama-moment/",
+      "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research",
+      "url": "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Llama moment in robotics will not be the day a policy becomes downloadable. It will be the day another team can take that policy, adapt it to its robot, release it into a customer process, and still know what failed weeks later when the line stops repeating. The post Robotics will not have a cle",
+      "summary": "X Square Robot has open-sourced XRZero-G0, a framework that reduces real-robot training data requirements by up to 20x. The post Inside XRZero-G0, a new 2,000-hour open dataset for robotics research appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "norynth/ros2-bridge — ROS2 fleet management, telemetry & command dispatch",
-      "url": "https://discourse.openrobotics.org/t/norynth-ros2-bridge-ros2-fleet-management-telemetry-command-dispatch/55402",
+      "title": "Invitation to African Robotics Summit 2026 - June 25, 2026",
+      "url": "https://discourse.openrobotics.org/t/invitation-to-african-robotics-summit-2026-june-25-2026/55432",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’m sharing a ROS2 package I’ve been working on that bridges ROS2 robots with the Norynth Robotics cloud platform. What it does: Fleet synchronization — auto-register ROS2 nodes as fleet robots Telemetry streaming — publish ROS2 topics (battery, odometry, status) to the platform Command",
+      "summary": "Dear Friends and Colleagues, On behalf of the African Robotics Network (AfROB), we are delighted to invite you to the AfROB Virtual Summit, taking place on Thursday, June 25, 2026, at 2:00 - 5:00 PM Central African Time (CAT). This special gathering will mark the launch of our State of Robotics in A",
       "deck": ""
     },
     {
-      "title": "EpisodeVault: open source tool to debug why your LeRobot model regressed",
-      "url": "https://discourse.openrobotics.org/t/episodevault-open-source-tool-to-debug-why-your-lerobot-model-regressed/55401",
+      "title": "Ros2probe: observe ROS 2 traffic without the probe effect (swap ros2 -> rp)",
+      "url": "https://discourse.openrobotics.org/t/ros2probe-observe-ros-2-traffic-without-the-probe-effect-swap-ros2-rp/55430",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Been building with LeRobot v3 and kept hitting the same wall: retrain a policy, it gets worse, no clear idea why. DVC tells you files changed. MLflow tells you which run. Nobody tells you which tasks dropped or which episodes degraded between dataset versions. Built a small open source library to fi",
+      "summary": "ros2probe is a drop-in replacement for rosbag2 and ros2 topic that does not perturb the system it observes. It records and monitors ROS 2 traffic from outside the DDS domain. No extra subscriber, no observer-induced drops, far less CPU and memory. It reports exactly the loss the real subscriber saw,",
+      "deck": ""
+    },
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinatin",
-      "deck": ""
-    },
-    {
-      "title": "Five things you need to know about AI",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
       "deck": ""
     },
     {
