@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-12",
-  "generated": "2026-06-12T08:52:36.479745+00:00",
-  "story_count": 20,
+  "date": "2026-06-13",
+  "generated": "2026-06-13T08:15:00.892760+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "deck": ""
     },
     {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "deck": ""
     },
     {
@@ -52,67 +52,51 @@
       "deck": ""
     },
     {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Defining Autonomy for Wellness Robots in Senior Care",
-      "url": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
+      "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
+      "url": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "An examination of how socially assistive wellness robots could support the seven dimensions of senior wellness, and how a framework can measure their autonomy. What Attendees will Learn Why the senior care crisis exceeds incremental automation. Demographic pressure, workforce shortages, and a daily ",
+      "summary": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. During that time, she was introduced to Logo , a computer program with a turtle cursor to help childr",
       "deck": ""
     },
     {
-      "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
-      "url": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
+      "title": "Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors",
+      "url": "https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "This article is brought to you by AGILINK . Throughout the exhibition hall at the 2026 IEEE International Conference on Robotics (ICRA), in Vienna, one demonstration seemed to attract a disproportionate amount of attention. Two robotic hands were making a balloon dog. Slowly and deliberately, the ro",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
       "deck": ""
     },
     {
-      "title": "Hello Robot is recognized by World Economic Forum as a tech pioneer",
-      "url": "https://www.therobotreport.com/hello-robot-is-recognized-by-world-economic-forum-as-a-tech-pioneer/",
+      "title": "AI in warehousing: Akash Gupta’s vision for the future",
+      "url": "https://www.therobotreport.com/ai-in-warehousing-akash-guptas-vision-for-the-future/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The World Economic Forum has honored Hello Robot, whose Stretch system provides mobile manipulation to older adults and people with disabilities. The post Hello Robot is recognized by World Economic Forum as a tech pioneer appeared first on The Robot Report .",
+      "summary": "Explore how GreyOrange's software revolutionizes warehouse automation with AI, transforming logistics into dynamic, predictive ecosystems. The post AI in warehousing: Akash Gupta&#8217;s vision for the future appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Inside XRZero-G0, a new 2,000-hour open dataset for robotics research",
-      "url": "https://www.therobotreport.com/inside-xrzero-g0-a-new-2000-hour-open-dataset-for-robotics-research/",
+      "title": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
+      "url": "https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "X Square Robot has open-sourced XRZero-G0, a framework that reduces real-robot training data requirements by up to 20x. The post Inside XRZero-G0, a new 2,000-hour open dataset for robotics research appeared first on The Robot Report .",
+      "summary": "Allison Okamura and Ayoung Kim won MassRobotics' 2026 Robotics Medal and Rising Star Medal, which honor women in robotics. The post MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Invitation to African Robotics Summit 2026 - June 25, 2026",
-      "url": "https://discourse.openrobotics.org/t/invitation-to-african-robotics-summit-2026-june-25-2026/55432",
+      "title": "ROS2 multi-machine with WSL2 + Linux (NVIDIA Jetson Orin Nano)",
+      "url": "https://discourse.openrobotics.org/t/ros2-multi-machine-with-wsl2-linux-nvidia-jetson-orin-nano/55452",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Dear Friends and Colleagues, On behalf of the African Robotics Network (AfROB), we are delighted to invite you to the AfROB Virtual Summit, taking place on Thursday, June 25, 2026, at 2:00 - 5:00 PM Central African Time (CAT). This special gathering will mark the launch of our State of Robotics in A",
+      "summary": "Hi everyone, I am trying setting up a ROS2 multi-machine communication between WSL2 (Ubuntu 22.04) running on a local Windows11 machine and a Linux-native platform, i.e., NVIDIA Jetson Orin Nano. My objective is generating data on my WSL2 machine, and process them using the Jetson. However, I am exp",
       "deck": ""
     },
     {
-      "title": "Ros2probe: observe ROS 2 traffic without the probe effect (swap ros2 -> rp)",
-      "url": "https://discourse.openrobotics.org/t/ros2probe-observe-ros-2-traffic-without-the-probe-effect-swap-ros2-rp/55430",
+      "title": "ROS News for the Week of June 8th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-june-8th-2026/55449",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ros2probe is a drop-in replacement for rosbag2 and ros2 topic that does not perturb the system it observes. It records and monitors ROS 2 traffic from outside the DDS domain. No extra subscriber, no observer-induced drops, far less CPU and memory. It reports exactly the loss the real subscriber saw,",
+      "summary": "ROS News for the Week of June 8th, 2026 Automate in Chicago is a little over a week away, and we’ve planned a big ROS Automate Meetup in Chicago to coincide with that and the ROS Industrial annual meeting. The timing seems right. Fanuc now has a dedicated page for ROS 2 support. At ICRA last week Co",
       "deck": ""
     },
     {
