@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-13",
-  "generated": "2026-06-13T08:15:00.892760+00:00",
-  "story_count": 18,
+  "date": "2026-06-14",
+  "generated": "2026-06-14T08:35:28.295214+00:00",
+  "story_count": 20,
   "stories": [
     {
       "title": "New OpenAI Academy courses for the next era of work",
@@ -52,6 +52,30 @@
       "deck": ""
     },
     {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Visual Language Models Train Robots to Read Human Emotions",
+      "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabi",
+      "deck": ""
+    },
+    {
       "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
       "url": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
       "source": "IEEE Spectrum Robotics",
@@ -60,11 +84,11 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors",
-      "url": "https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation",
-      "source": "IEEE Spectrum Robotics",
+      "title": "Windows for robots: Edge AI expands usability",
+      "url": "https://www.therobotreport.com/computers-software-windows-utility-robots/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
+      "summary": "Before Windows, only engineers and computer scientists could work with computers. Edge AI is causing a similar accessibility shift for robotics. The post Windows for robots: Edge AI expands usability appeared first on The Robot Report .",
       "deck": ""
     },
     {
@@ -76,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
-      "url": "https://www.therobotreport.com/massrobotics-announces-winners-2026-robotics-medal-rising-star-awards/",
-      "source": "The Robot Report",
+      "title": "taorobot — a mobile robot stack written from scratch (SLAM, localization, planning, control) as a  learning project",
+      "url": "https://discourse.openrobotics.org/t/taorobot-a-mobile-robot-stack-written-from-scratch-slam-localization-planning-control-as-a-learning-project/55468",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Allison Okamura and Ayoung Kim won MassRobotics' 2026 Robotics Medal and Rising Star Medal, which honor women in robotics. The post MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards appeared first on The Robot Report .",
+      "summary": "Hi everyone, I’d like to share a personal learning project I just open-sourced: a mobile robot software stack for ROS 2 Humble + Gazebo, where every layer is written from scratch. github.com GitHub - JinTTTT/taorobot: A complete ROS 2 autonomous driving stack from... A complete ROS 2 autonomous driv",
       "deck": ""
     },
     {
-      "title": "ROS2 multi-machine with WSL2 + Linux (NVIDIA Jetson Orin Nano)",
-      "url": "https://discourse.openrobotics.org/t/ros2-multi-machine-with-wsl2-linux-nvidia-jetson-orin-nano/55452",
+      "title": "Swarm Drone Challenge 2026 — 5 drone swarm open-sourced, uROS, ROS2",
+      "url": "https://discourse.openrobotics.org/t/swarm-drone-challenge-2026-5-drone-swarm-open-sourced-uros-ros2/55467",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I am trying setting up a ROS2 multi-machine communication between WSL2 (Ubuntu 22.04) running on a local Windows11 machine and a Linux-native platform, i.e., NVIDIA Jetson Orin Nano. My objective is generating data on my WSL2 machine, and process them using the Jetson. However, I am exp",
-      "deck": ""
-    },
-    {
-      "title": "ROS News for the Week of June 8th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-june-8th-2026/55449",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "ROS News for the Week of June 8th, 2026 Automate in Chicago is a little over a week away, and we’ve planned a big ROS Automate Meetup in Chicago to coincide with that and the ROS Industrial annual meeting. The timing seems right. Fanuc now has a dedicated page for ROS 2 support. At ICRA last week Co",
+      "summary": "Hi all — we open-sourced a ROS 2–based autonomous drone swarm, and thought the coordination architecture might be of interest here. We built a 5-drone swarm for the Swarm Drone Challenge 2026 (a capture-the-flag scenario) and finished 4th of six finalists. The whole thing is coordinated from a ROS 2",
       "deck": ""
     },
     {
