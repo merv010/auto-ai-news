@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-14",
-  "generated": "2026-06-14T08:35:28.295214+00:00",
+  "date": "2026-06-15",
+  "generated": "2026-06-15T10:48:18.211334+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "deck": ""
+    },
     {
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "deck": ""
-    },
-    {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "deck": ""
     },
     {
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Windows for robots: Edge AI expands usability",
-      "url": "https://www.therobotreport.com/computers-software-windows-utility-robots/",
+      "title": "Burro introduces Grande 44 with proven outdoor autonomy built for heavy industry",
+      "url": "https://www.therobotreport.com/burro-introduces-grande-44-with-proven-outdoor-autonomy-built-for-heavy-industry/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Before Windows, only engineers and computer scientists could work with computers. Edge AI is causing a similar accessibility shift for robotics. The post Windows for robots: Edge AI expands usability appeared first on The Robot Report .",
+      "summary": "The 44 hp Burro Grande brings more than 1 million hours of real-world experience to industrial towing, site logistics, and facilities operations. The post Burro introduces Grande 44 with proven outdoor autonomy built for heavy industry appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "AI in warehousing: Akash Gupta’s vision for the future",
-      "url": "https://www.therobotreport.com/ai-in-warehousing-akash-guptas-vision-for-the-future/",
+      "title": "Modernizing the global economy with industrial robotics is needed but not inevitable",
+      "url": "https://www.therobotreport.com/modernizing-global-economy-industrial-robotics-needed-not-inevitable/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Explore how GreyOrange's software revolutionizes warehouse automation with AI, transforming logistics into dynamic, predictive ecosystems. The post AI in warehousing: Akash Gupta&#8217;s vision for the future appeared first on The Robot Report .",
+      "summary": "While service robotics adoption grows, industrial automation faces greater demand and bigger obstacles, notes a columnist. The post Modernizing the global economy with industrial robotics is needed but not inevitable appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "taorobot — a mobile robot stack written from scratch (SLAM, localization, planning, control) as a  learning project",
-      "url": "https://discourse.openrobotics.org/t/taorobot-a-mobile-robot-stack-written-from-scratch-slam-localization-planning-control-as-a-learning-project/55468",
+      "title": "QERRA-v2 Classical — deterministic ethical + physical-safety evaluation for Behavior Trees (no ROS2 build required)",
+      "url": "https://discourse.openrobotics.org/t/qerra-v2-classical-deterministic-ethical-physical-safety-evaluation-for-behavior-trees-no-ros2-build-required/55483",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’d like to share a personal learning project I just open-sourced: a mobile robot software stack for ROS 2 Humble + Gazebo, where every layer is written from scratch. github.com GitHub - JinTTTT/taorobot: A complete ROS 2 autonomous driving stack from... A complete ROS 2 autonomous driv",
+      "summary": "HELLO ROS COMMUNITY! I’ve been building an open-source project called QERRA-v2 Classical — a deterministic, fully explainable ethical evaluation layer (SEMEV-12, 12 vectors covering things like coercion, autonomy violation, harm intent) plus a lightweight physical-safety companion layer (QERRA-HSR —",
       "deck": ""
     },
     {
-      "title": "Swarm Drone Challenge 2026 — 5 drone swarm open-sourced, uROS, ROS2",
-      "url": "https://discourse.openrobotics.org/t/swarm-drone-challenge-2026-5-drone-swarm-open-sourced-uros-ros2/55467",
+      "title": "ROS2 Studio Update",
+      "url": "https://discourse.openrobotics.org/t/ros2-studio-update/55482",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all — we open-sourced a ROS 2–based autonomous drone swarm, and thought the coordination architecture might be of interest here. We built a 5-drone swarm for the Swarm Drone Challenge 2026 (a capture-the-flag scenario) and finished 4th of six finalists. The whole thing is coordinated from a ROS 2",
+      "summary": "ROS2-STUDIO update— new Bag Recorder features! Just pushed some improvements to the bag recorder in ROS2-STUDIO: Storage format selection — choose between sqlite3 and mcap directly from the GUI Timed recording — set a duration (in seconds) and the recorder auto-stops when done Batch/split recording—",
       "deck": ""
     },
     {
