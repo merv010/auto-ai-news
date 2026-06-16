@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-15",
-  "generated": "2026-06-15T10:48:18.211334+00:00",
+  "date": "2026-06-16",
+  "generated": "2026-06-16T10:00:54.495149+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Burro introduces Grande 44 with proven outdoor autonomy built for heavy industry",
-      "url": "https://www.therobotreport.com/burro-introduces-grande-44-with-proven-outdoor-autonomy-built-for-heavy-industry/",
+      "title": "PSYONIC partners with ABB Robotics to apply human touch to robot dexterity",
+      "url": "https://www.therobotreport.com/psyonic-abb-robotics-partner-apply-human-touch-data-robot-dexterity/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The 44 hp Burro Grande brings more than 1 million hours of real-world experience to industrial towing, site logistics, and facilities operations. The post Burro introduces Grande 44 with proven outdoor autonomy built for heavy industry appeared first on The Robot Report .",
+      "summary": "PSYONIC is combining its Ability Hand with ABB Robotics' GoFa cobot arm to apply data from prosthetics users to robotic grasping. The post PSYONIC partners with ABB Robotics to apply human touch to robot dexterity appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Modernizing the global economy with industrial robotics is needed but not inevitable",
-      "url": "https://www.therobotreport.com/modernizing-global-economy-industrial-robotics-needed-not-inevitable/",
+      "title": "Autonomous freight developer Einride goes public via SPAC",
+      "url": "https://www.therobotreport.com/autonomous-freight-developer-einride-goes-public-via-spac/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "While service robotics adoption grows, industrial automation faces greater demand and bigger obstacles, notes a columnist. The post Modernizing the global economy with industrial robotics is needed but not inevitable appeared first on The Robot Report .",
+      "summary": "Stockholm-based Einride operates a fleet of heavy-duty electric trucks servicing Global Fortune 500 companies across the U.S. and Europe. The post Autonomous freight developer Einride goes public via SPAC appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "QERRA-v2 Classical — deterministic ethical + physical-safety evaluation for Behavior Trees (no ROS2 build required)",
-      "url": "https://discourse.openrobotics.org/t/qerra-v2-classical-deterministic-ethical-physical-safety-evaluation-for-behavior-trees-no-ros2-build-required/55483",
+      "title": "Gazebo PMC Meeting Minutes 2026-06-15",
+      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-06-15/55498",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "HELLO ROS COMMUNITY! I’ve been building an open-source project called QERRA-v2 Classical — a deterministic, fully explainable ethical evaluation layer (SEMEV-12, 12 vectors covering things like coercion, autonomy violation, harm intent) plus a lightweight physical-safety companion layer (QERRA-HSR —",
+      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Jun 15, 2026 6:00 PM UTC and the following is a summary: PMC Business Formally approved adding Luca Della Vedova as a mentored committer. New agenda items OSRA 2026 Funding Proposals : Reviewed and prioritized funding proposals (not public). ",
       "deck": ""
     },
     {
-      "title": "ROS2 Studio Update",
-      "url": "https://discourse.openrobotics.org/t/ros2-studio-update/55482",
+      "title": "Preparing for Kilted sync 2026-06-17",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-kilted-sync-2026-06-17/55493",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS2-STUDIO update— new Bag Recorder features! Just pushed some improvements to the bag recorder in ROS2-STUDIO: Storage format selection — choose between sqlite3 and mcap directly from the GUI Timed recording — set a duration (in seconds) and the recorder auto-stops when done Batch/split recording—",
+      "summary": "There have been several new and updated packages in Kilted since it was released, and it’s time to sync those new features and fixes to the main apt and dnf repositories. There is currently 1 regression and 521 packages to release. We will start holding rosdistro PRs for the sync on Tue, Jun 16, 202",
       "deck": ""
     },
     {
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without",
+      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82",
       "deck": ""
     },
     {
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinatin",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa",
       "deck": ""
     },
     {
