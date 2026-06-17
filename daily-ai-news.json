@@ -1,8 +1,16 @@
 {
-  "date": "2026-06-16",
-  "generated": "2026-06-16T10:00:54.495149+00:00",
+  "date": "2026-06-17",
+  "generated": "2026-06-17T09:24:29.077543+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "deck": ""
+    },
     {
       "title": "Introducing the OpenAI Partner Network",
       "url": "https://openai.com/index/introducing-openai-partner-network",
@@ -12,11 +20,11 @@
       "deck": ""
     },
     {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI Blog",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "PSYONIC partners with ABB Robotics to apply human touch to robot dexterity",
-      "url": "https://www.therobotreport.com/psyonic-abb-robotics-partner-apply-human-touch-data-robot-dexterity/",
+      "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups",
+      "url": "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "PSYONIC is combining its Ability Hand with ABB Robotics' GoFa cobot arm to apply data from prosthetics users to robotic grasping. The post PSYONIC partners with ABB Robotics to apply human touch to robot dexterity appeared first on The Robot Report .",
+      "summary": "Pegasus and CYBERDYNE will invest in startups developing robotics, physical AI, healthcare, automation, and intelligent systems. The post Pegasus Tech Ventures launches $60M fund for physical AI startups appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Autonomous freight developer Einride goes public via SPAC",
-      "url": "https://www.therobotreport.com/autonomous-freight-developer-einride-goes-public-via-spac/",
+      "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
+      "url": "https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Stockholm-based Einride operates a fleet of heavy-duty electric trucks servicing Global Fortune 500 companies across the U.S. and Europe. The post Autonomous freight developer Einride goes public via SPAC appeared first on The Robot Report .",
+      "summary": "Kawasaki Robotics says its 8-DoF robot, Pulseboard inspection tech, and other systems will show its vision for intelligent automation. The post Kawasaki Robotics to debut RL030N physical AI platform at Automate appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Gazebo PMC Meeting Minutes 2026-06-15",
-      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-06-15/55498",
+      "title": "ROS2 on STM32 serial to SBC",
+      "url": "https://discourse.openrobotics.org/t/ros2-on-stm32-serial-to-sbc/55510",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Jun 15, 2026 6:00 PM UTC and the following is a summary: PMC Business Formally approved adding Luca Della Vedova as a mentored committer. New agenda items OSRA 2026 Funding Proposals : Reviewed and prioritized funding proposals (not public). ",
+      "summary": "Hi all, I’m building a small ROS 2 robot with an STM32 microcontroller and an SBC running a Zenoh router (rmw_zenoh). I want to keep the MCU side Zenoh-native with Zephyr RTOS, and I’m trying to figure out the best communication stack between the STM32 and the rest of the graph. I’ve been looking at",
       "deck": ""
     },
     {
-      "title": "Preparing for Kilted sync 2026-06-17",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-kilted-sync-2026-06-17/55493",
+      "title": "Errors in Pick and Place tutorial",
+      "url": "https://discourse.openrobotics.org/t/errors-in-pick-and-place-tutorial/55509",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "There have been several new and updated packages in Kilted since it was released, and it’s time to sync those new features and fixes to the main apt and dnf repositories. There is currently 1 regression and 521 packages to release. We will start holding rosdistro PRs for the sync on Tue, Jun 16, 202",
+      "summary": "Dear Intrinsic team, Together with my team, we have been trying to familiarize ourselves with the FlowState environment, but have encountered some issues. As already mentioned by other teams, we often get a pop-up when trying to start a solution that mentions that all VMs are in use. This severely h",
       "deck": ""
     },
     {
