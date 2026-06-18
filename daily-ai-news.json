@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-17",
-  "generated": "2026-06-17T09:24:29.077543+00:00",
+  "date": "2026-06-18",
+  "generated": "2026-06-18T09:08:08.480744+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "deck": ""
     },
     {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "The Secret to Marathon-Winning Humanoid Robots",
+      "url": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "On April 19, 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds , beating the human world record by 7 minutes and the best robot time from 2025 by almost two hours. How did they do it? Is there some magical technology or technique that unlocked this performance",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
-      "url": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. During that time, she was introduced to Logo , a computer program with a turtle cursor to help childr",
-      "deck": ""
-    },
-    {
-      "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups",
-      "url": "https://www.therobotreport.com/pegasus-tech-ventures-launches-60m-fund-physical-ai-startups/",
+      "title": "Evaluating humanoids for surface finishing applications",
+      "url": "https://www.therobotreport.com/evaluating-humanoids-for-surface-finishing-applications/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Pegasus and CYBERDYNE will invest in startups developing robotics, physical AI, healthcare, automation, and intelligent systems. The post Pegasus Tech Ventures launches $60M fund for physical AI startups appeared first on The Robot Report .",
+      "summary": "Most manufacturing applications aim to reduce cycle time to improve throughput. Using general-purpose industrial robots that transcend human constraints is often an attractive option. The post Evaluating humanoids for surface finishing applications appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Kawasaki Robotics to debut RL030N physical AI platform at Automate",
-      "url": "https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/",
+      "title": "Fennec Engineering earns T2 qualification for Advanced Safety Acceleration Platform",
+      "url": "https://www.therobotreport.com/fennec-engineering-earns-t2-qualification-advanced-safety-acceleration-platform/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Kawasaki Robotics says its 8-DoF robot, Pulseboard inspection tech, and other systems will show its vision for intelligent automation. The post Kawasaki Robotics to debut RL030N physical AI platform at Automate appeared first on The Robot Report .",
+      "summary": "Fennec Engineering has obtained certification confirming that its automated traceability platform meets strict safety standards. The post Fennec Engineering earns T2 qualification for Advanced Safety Acceleration Platform appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS2 on STM32 serial to SBC",
-      "url": "https://discourse.openrobotics.org/t/ros2-on-stm32-serial-to-sbc/55510",
+      "title": "Has anyone tried conformal prediction for sensor gating in a nav stack?",
+      "url": "https://discourse.openrobotics.org/t/has-anyone-tried-conformal-prediction-for-sensor-gating-in-a-nav-stack/55539",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, I’m building a small ROS 2 robot with an STM32 microcontroller and an SBC running a Zenoh router (rmw_zenoh). I want to keep the MCU side Zenoh-native with Zephyr RTOS, and I’m trying to figure out the best communication stack between the STM32 and the rest of the graph. I’ve been looking at",
+      "summary": "Been thinking about this for a while. The chi-squared gate in most localization stacks assumes Gaussian noise. When when we look outdoors… it rarely is. Like doing multipath near buildings, or under tree canopy, and even around field equipment. I came across this conformal prediction ( Angelopoulos ",
       "deck": ""
     },
     {
-      "title": "Errors in Pick and Place tutorial",
-      "url": "https://discourse.openrobotics.org/t/errors-in-pick-and-place-tutorial/55509",
+      "title": "New packages for Kilted Kaiju 2026-06-17",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-kilted-kaiju-2026-06-17/55538",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Dear Intrinsic team, Together with my team, we have been trying to familiarize ourselves with the FlowState environment, but have encountered some issues. As already mentioned by other teams, we often get a pop-up when trying to start a solution that mentions that all VMs are in use. This severely h",
+      "summary": "This sync brings 98 new packages to Kilted and updates 455 others. Thanks very much to the many developers that were a part of this effort, including the 102 maintainers listed below. ros/rosdistro tag: kilted/2026-06-17 Added Packages [98]: ros-kilted-audio-capture : 0.4.0-2 ros-kilted-audio-common",
       "deck": ""
     },
     {
