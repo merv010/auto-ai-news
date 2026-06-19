@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-18",
-  "generated": "2026-06-18T09:08:08.480744+00:00",
+  "date": "2026-06-19",
+  "generated": "2026-06-19T09:24:10.309562+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "deck": ""
     },
     {
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "deck": ""
     },
     {
@@ -28,11 +28,11 @@
       "deck": ""
     },
     {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
       "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Evaluating humanoids for surface finishing applications",
-      "url": "https://www.therobotreport.com/evaluating-humanoids-for-surface-finishing-applications/",
+      "title": "RealSense unveils AI-native D585 Pro depth camera for robots",
+      "url": "https://www.therobotreport.com/realsense-unveils-ai-native-d585-pro-depth-camera-for-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Most manufacturing applications aim to reduce cycle time to improve throughput. Using general-purpose industrial robots that transcend human constraints is often an attractive option. The post Evaluating humanoids for surface finishing applications appeared first on The Robot Report .",
+      "summary": "The D585 Pro is powered by a proprietary Gen 5 system-on-chip and delivers more than 2x better depth quality than the previous generation of RealSense cameras. The post RealSense unveils AI-native D585 Pro depth camera for robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Fennec Engineering earns T2 qualification for Advanced Safety Acceleration Platform",
-      "url": "https://www.therobotreport.com/fennec-engineering-earns-t2-qualification-advanced-safety-acceleration-platform/",
+      "title": "Kinova launches KIMA medical robotic arm",
+      "url": "https://www.therobotreport.com/kinova-launches-kima-medical-robotic-arm/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Fennec Engineering has obtained certification confirming that its automated traceability platform meets strict safety standards. The post Fennec Engineering earns T2 qualification for Advanced Safety Acceleration Platform appeared first on The Robot Report .",
+      "summary": "Instead of adapting the robot from industrial technology, Kinova said it designed KIMA from the ground up for clinical use. The post Kinova launches KIMA medical robotic arm appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Has anyone tried conformal prediction for sensor gating in a nav stack?",
-      "url": "https://discourse.openrobotics.org/t/has-anyone-tried-conformal-prediction-for-sensor-gating-in-a-nav-stack/55539",
+      "title": "A VS Code extension for quickly running ROS2 launch files, Python nodes, and C++ nodes",
+      "url": "https://discourse.openrobotics.org/t/a-vs-code-extension-for-quickly-running-ros2-launch-files-python-nodes-and-c-nodes/55563",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Been thinking about this for a while. The chi-squared gate in most localization stacks assumes Gaussian noise. When when we look outdoors… it rarely is. Like doing multipath near buildings, or under tree canopy, and even around field equipment. I came across this conformal prediction ( Angelopoulos ",
+      "summary": "ROS2 Quick Runner This is a VSCode extension I recently wrote, and I’ve been using it lately A VS Code extension for quickly running ROS2 launch files, Python nodes, and C++ nodes. GitHub - Knighthood2001/vscode-ros2-quick-runner: Quickly run ROS 2 launch, Python, and C++ files in VSCode · GitHub Fe",
       "deck": ""
     },
     {
-      "title": "New packages for Kilted Kaiju 2026-06-17",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-kilted-kaiju-2026-06-17/55538",
+      "title": "Security Advisory: Arbitrary File Read Vulnerability in WebsocketServer (Issue gz-sim#3589)",
+      "url": "https://discourse.openrobotics.org/t/security-advisory-arbitrary-file-read-vulnerability-in-websocketserver-issue-gz-sim-3589/55558",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "This sync brings 98 new packages to Kilted and updates 455 others. Thanks very much to the many developers that were a part of this effort, including the 102 maintainers listed below. ros/rosdistro tag: kilted/2026-06-17 Added Packages [98]: ros-kilted-audio-capture : 0.4.0-2 ros-kilted-audio-common",
+      "summary": "Posting on behalf of @arjo129 , maintainer of the gz-sim repo. Incident Summary A security vulnerability was identified in the WebsocketServer plugin where the asset operation allowed for arbitrary file reads from the host filesystem. This issue has been fully patched, and backported releases are no",
       "deck": ""
     },
     {
