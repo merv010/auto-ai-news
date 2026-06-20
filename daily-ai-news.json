@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-19",
-  "generated": "2026-06-19T09:24:10.309562+00:00",
+  "date": "2026-06-20",
+  "generated": "2026-06-20T08:15:46.841834+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -68,51 +68,59 @@
       "deck": ""
     },
     {
-      "title": "The Secret to Marathon-Winning Humanoid Robots",
-      "url": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
+      "title": "Video Friday: Do Robots Even Need Legs?",
+      "url": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "On April 19, 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds , beating the human world record by 7 minutes and the best robot time from 2025 by almost two hours. How did they do it? Is there some magical technology or technique that unlocked this performance",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
       "deck": ""
     },
     {
-      "title": "Visual Language Models Train Robots to Read Human Emotions",
-      "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
+      "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
+      "url": "https://spectrum.ieee.org/amazon-astro-robot-sound",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabi",
+      "summary": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot . Astro used cameras and other sensors to map and navigate your home and workplace , and could proactively patrol, check up on loved ones, and transport small items using its built-in cargo bin. Whil",
       "deck": ""
     },
     {
-      "title": "RealSense unveils AI-native D585 Pro depth camera for robots",
-      "url": "https://www.therobotreport.com/realsense-unveils-ai-native-d585-pro-depth-camera-for-robots/",
+      "title": "U.S. robotics industry saw double-digit growth in 2025, says IFR",
+      "url": "https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The D585 Pro is powered by a proprietary Gen 5 system-on-chip and delivers more than 2x better depth quality than the previous generation of RealSense cameras. The post RealSense unveils AI-native D585 Pro depth camera for robots appeared first on The Robot Report .",
+      "summary": "The IFR said robust growth in the food industry and other non-manufacturing sectors drove this recovery in the U.S. robotics industry. The post U.S. robotics industry saw double-digit growth in 2025, says IFR appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Kinova launches KIMA medical robotic arm",
-      "url": "https://www.therobotreport.com/kinova-launches-kima-medical-robotic-arm/",
+      "title": "Elmo releases new motion controller and servo drives for industrial applications",
+      "url": "https://www.therobotreport.com/elmo-releases-new-motion-controller-servo-drives-industrial-applications/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Instead of adapting the robot from industrial technology, Kinova said it designed KIMA from the ground up for clinical use. The post Kinova launches KIMA medical robotic arm appeared first on The Robot Report .",
+      "summary": "Elmo said its latest products set new benchmarks for power density, expand its existing Platinum line, and introduce the Titanium line. The post Elmo releases new motion controller and servo drives for industrial applications appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "A VS Code extension for quickly running ROS2 launch files, Python nodes, and C++ nodes",
-      "url": "https://discourse.openrobotics.org/t/a-vs-code-extension-for-quickly-running-ros2-launch-files-python-nodes-and-c-nodes/55563",
+      "title": "ZeroDDS: a pure-Rust RMW for ROS 2 (rc.3), built against 349 real ROS↔DDS pain reports",
+      "url": "https://discourse.openrobotics.org/t/zerodds-a-pure-rust-rmw-for-ros-2-rc-3-built-against-349-real-ros-dds-pain-reports/55581",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS2 Quick Runner This is a VSCode extension I recently wrote, and I’ve been using it lately A VS Code extension for quickly running ROS2 launch files, Python nodes, and C++ nodes. GitHub - Knighthood2001/vscode-ros2-quick-runner: Quickly run ROS 2 launch, Python, and C++ files in VSCode · GitHub Fe",
+      "summary": "Full disclosure up front: I work on ZeroDDS, so this is our project, not a neutral review. Sharing it here because it’s specifically aimed at problems this community has been reporting for years, and we’d genuinely like the feedback. What it is: an alternative RMW for ROS 2, with the whole DDS stack",
       "deck": ""
     },
     {
-      "title": "Security Advisory: Arbitrary File Read Vulnerability in WebsocketServer (Issue gz-sim#3589)",
-      "url": "https://discourse.openrobotics.org/t/security-advisory-arbitrary-file-read-vulnerability-in-websocketserver-issue-gz-sim-3589/55558",
+      "title": "ROS2 Masterclass + Internship & Job Opportunities",
+      "url": "https://discourse.openrobotics.org/t/ros2-masterclass-internship-job-opportunities/55580",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Posting on behalf of @arjo129 , maintainer of the gz-sim repo. Incident Summary A security vulnerability was identified in the WebsocketServer plugin where the asset operation allowed for arbitrary file reads from the host filesystem. This issue has been fully patched, and backported releases are no",
+      "summary": "Hey everyone, We’re launching the first cohort of our ROS2 Robotics Masterclass at ETGAH, designed for students and engineers who want practical robotics experience rather than just theory. What you’ll get: • 1 month of live online training (2 sessions/week) • Hands-on ROS2 projects • Access to our ",
+      "deck": ""
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82",
-      "deck": ""
-    },
-    {
-      "title": "Why do South Koreans love AI so much?",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa",
       "deck": ""
     },
     {
