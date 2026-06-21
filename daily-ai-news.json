@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-20",
-  "generated": "2026-06-20T08:15:46.841834+00:00",
+  "date": "2026-06-21",
+  "generated": "2026-06-21T08:52:52.829301+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics",
+      "url": "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "The Navy's industrial base review identified a projected need for 174,000 new workers. GrayMatter says robotics can fill this gap. The post Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "U.S. robotics industry saw double-digit growth in 2025, says IFR",
       "url": "https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Elmo releases new motion controller and servo drives for industrial applications",
-      "url": "https://www.therobotreport.com/elmo-releases-new-motion-controller-servo-drives-industrial-applications/",
-      "source": "The Robot Report",
+      "title": "AIC Phase 1: How to run custom aic_model service in Flowstate with AIC_ROUTER_ADDR?",
+      "url": "https://discourse.openrobotics.org/t/aic-phase-1-how-to-run-custom-aic-model-service-in-flowstate-with-aic-router-addr/55595",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Elmo said its latest products set new benchmarks for power density, expand its existing Platinum line, and introduce the Titanium line. The post Elmo releases new motion controller and servo drives for industrial applications appeared first on The Robot Report .",
+      "summary": "Hi Intrinsic / AIC team, I’m working on AIC Phase 1 in Flowstate and trying to run my participant model as a custom Service instance named exactly aic_model . The baseline AIC Phase 1 Submission process expects: lifecycle service: /aic_model/change_state action server: /insert_cable I have a local D",
       "deck": ""
     },
     {
-      "title": "ZeroDDS: a pure-Rust RMW for ROS 2 (rc.3), built against 349 real ROS↔DDS pain reports",
-      "url": "https://discourse.openrobotics.org/t/zerodds-a-pure-rust-rmw-for-ros-2-rc-3-built-against-349-real-ros-dds-pain-reports/55581",
+      "title": "Scry — debug your ROS 2 robot from your phone, with an AI assistant",
+      "url": "https://discourse.openrobotics.org/t/scry-debug-your-ros-2-robot-from-your-phone-with-an-ai-assistant/55593",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Full disclosure up front: I work on ZeroDDS, so this is our project, not a neutral review. Sharing it here because it’s specifically aimed at problems this community has been reporting for years, and we’d genuinely like the feedback. What it is: an alternative RMW for ROS 2, with the whole DDS stack",
-      "deck": ""
-    },
-    {
-      "title": "ROS2 Masterclass + Internship & Job Opportunities",
-      "url": "https://discourse.openrobotics.org/t/ros2-masterclass-internship-job-opportunities/55580",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hey everyone, We’re launching the first cohort of our ROS2 Robotics Masterclass at ETGAH, designed for students and engineers who want practical robotics experience rather than just theory. What you’ll get: • 1 month of live online training (2 sessions/week) • Hands-on ROS2 projects • Access to our ",
+      "summary": "After 6+ years in robotics, the pattern that kept frustrating me was field debugging. When a deployed robot stops doing what it should, whoever is standing next to it is often stuck with a laptop on one knee, several terminals open, ros2 topic echo scrolling past, and logs to tail across a dozen nod",
       "deck": ""
     },
     {
