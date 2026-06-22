@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-21",
-  "generated": "2026-06-21T08:52:52.829301+00:00",
+  "date": "2026-06-22",
+  "generated": "2026-06-22T10:31:25.611365+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "deck": ""
+    },
     {
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "deck": ""
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "deck": ""
     },
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026",
+      "url": "https://www.therobotreport.com/gudel-to-showcase-grinding-beyond-stationary-robots-integrated-vertical-horizontal-motion-automate/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Güdel has added two degrees of freedom to heavy-duty robotic grinding applications through its TMV and TMF systems. The post Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026 appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics",
       "url": "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "U.S. robotics industry saw double-digit growth in 2025, says IFR",
-      "url": "https://www.therobotreport.com/u-s-robotics-industry-saw-double-digit-growth-in-2025-says-ifr/",
-      "source": "The Robot Report",
+      "title": "Cracow Robotics & AI Club #16",
+      "url": "https://discourse.openrobotics.org/t/cracow-robotics-ai-club-16/55604",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The IFR said robust growth in the food industry and other non-manufacturing sectors drove this recovery in the U.S. robotics industry. The post U.S. robotics industry saw double-digit growth in 2025, says IFR appeared first on The Robot Report .",
+      "summary": "(English below) Cześć! Przed nami kolejne spotkanie Cracow Robotics and AI Club ! Kiedy: poniedziałek, 29 czerwca 18:00 (CET) Gdzie: hub:raum Kraków, ul. Przemysłowa 12, 30-701 Kraków, Poland Maps link Link : Cracow Robotics &amp; AI Meetup #16 · Luma Mariusz Szczepanik (Head of Robotics w Spyrosoft",
       "deck": ""
     },
     {
-      "title": "AIC Phase 1: How to run custom aic_model service in Flowstate with AIC_ROUTER_ADDR?",
-      "url": "https://discourse.openrobotics.org/t/aic-phase-1-how-to-run-custom-aic-model-service-in-flowstate-with-aic-router-addr/55595",
+      "title": "MetriPlane v0.2.0: replayed workcell state → evidence bundle → regression test",
+      "url": "https://discourse.openrobotics.org/t/metriplane-v0-2-0-replayed-workcell-state-evidence-bundle-regression-test/55602",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Intrinsic / AIC team, I’m working on AIC Phase 1 in Flowstate and trying to run my participant model as a custom Service instance named exactly aic_model . The baseline AIC Phase 1 Submission process expects: lifecycle service: /aic_model/change_state action server: /insert_cable I have a local D",
-      "deck": ""
-    },
-    {
-      "title": "Scry — debug your ROS 2 robot from your phone, with an AI assistant",
-      "url": "https://discourse.openrobotics.org/t/scry-debug-your-ros-2-robot-from-your-phone-with-an-ai-assistant/55593",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "After 6+ years in robotics, the pattern that kept frustrating me was field debugging. When a deployed robot stops doing what it should, whoever is standing next to it is often stuck with a laptop on one knee, several terminals open, ros2 topic echo scrolling past, and logs to tail across a dozen nod",
+      "summary": "Hi Open Robotics community, I released MetriPlane v0.2.0 , an open-source physical-observability tool for bounded workcells. The short version: MetriPlane turns replayed or calibrated workcell state into physical events, incidents, Cell Truth Reports, evidence bundles, local bundle verification, and",
       "deck": ""
     },
     {
