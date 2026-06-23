@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-22",
-  "generated": "2026-06-22T10:31:25.611365+00:00",
+  "date": "2026-06-23",
+  "generated": "2026-06-23T08:22:52.859549+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "deck": ""
     },
     {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026",
-      "url": "https://www.therobotreport.com/gudel-to-showcase-grinding-beyond-stationary-robots-integrated-vertical-horizontal-motion-automate/",
+      "title": "FORT and NVIDIA launch AI-driven Outside-In Safety blueprint",
+      "url": "https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Güdel has added two degrees of freedom to heavy-duty robotic grinding applications through its TMV and TMF systems. The post Güdel to show grinding beyond stationary robots with vertical, horizontal motion at Automate 2026 appeared first on The Robot Report .",
+      "summary": "FORT Robotics and NVIDIA launch Outside-In Safety, using external sensors to improve autonomous robot productivity and worker safety. The post FORT and NVIDIA launch AI-driven Outside-In Safety blueprint appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics",
-      "url": "https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/",
+      "title": "How Intrinsic eliminates manual robot coding",
+      "url": "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Navy's industrial base review identified a projected need for 174,000 new workers. GrayMatter says robotics can fill this gap. The post Defense manufacturing readiness hinges on autonomous finishing, says GrayMatter Robotics appeared first on The Robot Report .",
+      "summary": "Alphabet’s Intrinsic has debuted its AI-powered \"Intelligence Cell\" to simplify factory automation and eliminate complex robot programming. The post How Intrinsic eliminates manual robot coding appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Cracow Robotics & AI Club #16",
-      "url": "https://discourse.openrobotics.org/t/cracow-robotics-ai-club-16/55604",
+      "title": "🤖 𝗠𝗼𝗯𝗶𝗹𝗲_𝗥𝗼𝗯𝗼𝘁_𝗨𝗥𝗗𝗙_𝗠𝗮𝗸𝗲𝗿 𝘃𝟰.𝟬 𝗶𝘀 𝗵𝗲𝗿𝗲!",
+      "url": "https://discourse.openrobotics.org/t/topic/55630",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "(English below) Cześć! Przed nami kolejne spotkanie Cracow Robotics and AI Club ! Kiedy: poniedziałek, 29 czerwca 18:00 (CET) Gdzie: hub:raum Kraków, ul. Przemysłowa 12, 30-701 Kraków, Poland Maps link Link : Cracow Robotics &amp; AI Meetup #16 · Luma Mariusz Szczepanik (Head of Robotics w Spyrosoft",
+      "summary": "I’m excited to announce Version 4.0; 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝘂𝗽𝗱𝗮𝘁𝗲 𝘆𝗲𝘁. 𝗩𝟰 transforms the tool 𝗳𝗿𝗼𝗺 𝗮 𝗨𝗥𝗗𝗙 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 into a 𝗳𝘂𝗹𝗹 𝗿𝗼𝗯𝗼𝘁 𝗱𝗲𝘀𝗶𝗴𝗻-𝘁𝗼-𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲: pick a chassis, add sensors, tune the controller, and drive it live in Gazebo; all from one window, with zero hand-written XML. The guided 9-step",
       "deck": ""
     },
     {
-      "title": "MetriPlane v0.2.0: replayed workcell state → evidence bundle → regression test",
-      "url": "https://discourse.openrobotics.org/t/metriplane-v0-2-0-replayed-workcell-state-evidence-bundle-regression-test/55602",
+      "title": "Appel à candidatures pour ROSConFr 2026",
+      "url": "https://discourse.openrobotics.org/t/appel-a-candidatures-pour-rosconfr-2026/55629",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Open Robotics community, I released MetriPlane v0.2.0 , an open-source physical-observability tool for bounded workcells. The short version: MetriPlane turns replayed or calibrated workcell state into physical events, incidents, Cell Truth Reports, evidence bundles, local bundle verification, and",
+      "summary": "Bonjour à tous, C’est un appel à candidatures pour l’organisation de la ROSConFr 2026. Pour ceux qui ne le savent pas nous avons créer une association appellée AssoFUSER afin de faciliter l’organisation de la ROSConFr. Si vous êtes intéressé contactez moi directement en discutant avec moi à la ROSCo",
+      "deck": ""
+    },
+    {
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode",
       "deck": ""
     },
     {
@@ -120,15 +128,7 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
-      "deck": ""
-    },
-    {
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82",
+      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has",
       "deck": ""
     },
     {
