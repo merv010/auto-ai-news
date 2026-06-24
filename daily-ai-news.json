@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-23",
-  "generated": "2026-06-23T08:22:52.859549+00:00",
+  "date": "2026-06-24",
+  "generated": "2026-06-24T08:17:21.302003+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "deck": ""
     },
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "FORT and NVIDIA launch AI-driven Outside-In Safety blueprint",
-      "url": "https://www.therobotreport.com/fort-and-nvidia-launch-ai-driven-outside-in-safety-blueprint/",
+      "title": "Deep dive into ARM’s physical AI and robotics strategies with Drew Henry",
+      "url": "https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "FORT Robotics and NVIDIA launch Outside-In Safety, using external sensors to improve autonomous robot productivity and worker safety. The post FORT and NVIDIA launch AI-driven Outside-In Safety blueprint appeared first on The Robot Report .",
+      "summary": "ARM’s Drew Henry discusses the future of physical AI, robotics, and autonomous systems built for real-world constraints. The post Deep dive into ARM&#8217;s physical AI and robotics strategies with Drew Henry appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How Intrinsic eliminates manual robot coding",
-      "url": "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/",
+      "title": "ExRobotics launches UL-certified inspection robot for hazardous environments",
+      "url": "https://www.therobotreport.com/exrobotics-launches-ul-certified-inspection-robot-for-hazardous-environments/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Alphabet’s Intrinsic has debuted its AI-powered \"Intelligence Cell\" to simplify factory automation and eliminate complex robot programming. The post How Intrinsic eliminates manual robot coding appeared first on The Robot Report .",
+      "summary": "ExRobotics says its ExR-2.5 inspection robot is certified for safe operations in explosive environments in North America. The post ExRobotics launches UL-certified inspection robot for hazardous environments appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "🤖 𝗠𝗼𝗯𝗶𝗹𝗲_𝗥𝗼𝗯𝗼𝘁_𝗨𝗥𝗗𝗙_𝗠𝗮𝗸𝗲𝗿 𝘃𝟰.𝟬 𝗶𝘀 𝗵𝗲𝗿𝗲!",
-      "url": "https://discourse.openrobotics.org/t/topic/55630",
+      "title": "New Packages and patch release for Lyrical 2026-06-23",
+      "url": "https://discourse.openrobotics.org/t/new-packages-and-patch-release-for-lyrical-2026-06-23/55652",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’m excited to announce Version 4.0; 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝘂𝗽𝗱𝗮𝘁𝗲 𝘆𝗲𝘁. 𝗩𝟰 transforms the tool 𝗳𝗿𝗼𝗺 𝗮 𝗨𝗥𝗗𝗙 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 into a 𝗳𝘂𝗹𝗹 𝗿𝗼𝗯𝗼𝘁 𝗱𝗲𝘀𝗶𝗴𝗻-𝘁𝗼-𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲: pick a chassis, add sensors, tune the controller, and drive it live in Gazebo; all from one window, with zero hand-written XML. The guided 9-step",
+      "summary": "We’re happy to announce 93 new packages and 70 updates are now available in ROS Lyrical. This sync was tagged on ros/rosdistro as lyrical/2026-06-23 and on ros2/ros2 as release-lyrical-20260522 . See Release ROS Lyrical Luth - Patch Release 1 (2026/06/23) · ros2/ros2 · GitHub for comprehensive archi",
       "deck": ""
     },
     {
-      "title": "Appel à candidatures pour ROSConFr 2026",
-      "url": "https://discourse.openrobotics.org/t/appel-a-candidatures-pour-rosconfr-2026/55629",
+      "title": "Libro de Arquitecturas Software para Robots",
+      "url": "https://discourse.openrobotics.org/t/libro-de-arquitecturas-software-para-robots/55649",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Bonjour à tous, C’est un appel à candidatures pour l’organisation de la ROSConFr 2026. Pour ceux qui ne le savent pas nous avons créer une association appellée AssoFUSER afin de faciliter l’organisation de la ROSConFr. Si vous êtes intéressé contactez moi directement en discutant avec moi à la ROSCo",
+      "summary": "Hola a todos, Hemos liberado el libro que usamos en la asignatura de Arquitecturas Software para Robots en el Grado en Ingeniería en Robótica Software en la Universidad Rey Juan Carlos de Madrid. intelligentroboticslabs.github.io Arquitecturas Software para Robots – Libro ASR Libro universitario de ",
+      "deck": ""
+    },
+    {
+      "title": "The $400 million machine powering the future of chipmaking",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode",
-      "deck": ""
-    },
-    {
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has",
       "deck": ""
     },
     {
