@@ -1,8 +1,16 @@
 {
-  "date": "2026-06-24",
-  "generated": "2026-06-24T08:17:21.302003+00:00",
+  "date": "2026-06-25",
+  "generated": "2026-06-25T08:16:22.212734+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "deck": ""
+    },
     {
       "title": "Helping build shared standards for advanced AI",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -12,11 +20,11 @@
       "deck": ""
     },
     {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "source": "OpenAI Blog",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "deck": ""
-    },
-    {
-      "title": "Securing the future of AI agents",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Deep dive into ARM’s physical AI and robotics strategies with Drew Henry",
-      "url": "https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/",
+      "title": "Reservoir acquires Contain to scale agtech startups",
+      "url": "https://www.therobotreport.com/reservoir-acquires-contain-to-scale-agtech-startups/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ARM’s Drew Henry discusses the future of physical AI, robotics, and autonomous systems built for real-world constraints. The post Deep dive into ARM&#8217;s physical AI and robotics strategies with Drew Henry appeared first on The Robot Report .",
+      "summary": "Reservoir has acquired agriculture finance platform Contain,, naming founder Nicola Kerslake general partner to help scale AI startups. The post Reservoir acquires Contain to scale agtech startups appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ExRobotics launches UL-certified inspection robot for hazardous environments",
-      "url": "https://www.therobotreport.com/exrobotics-launches-ul-certified-inspection-robot-for-hazardous-environments/",
+      "title": "FAULHABER focuses on torque, noise, and power with new GPT gearheads",
+      "url": "https://www.therobotreport.com/faulhaber-focuses-torque-noise-power-new-gpt-gearheads/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ExRobotics says its ExR-2.5 inspection robot is certified for safe operations in explosive environments in North America. The post ExRobotics launches UL-certified inspection robot for hazardous environments appeared first on The Robot Report .",
+      "summary": "FAULHABER says its new GPT gearheads work with motors in its standard range and provide more performance with a compact design. The post FAULHABER focuses on torque, noise, and power with new GPT gearheads appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "New Packages and patch release for Lyrical 2026-06-23",
-      "url": "https://discourse.openrobotics.org/t/new-packages-and-patch-release-for-lyrical-2026-06-23/55652",
+      "title": "Interop SIG, 02 July 2026: Natural-Language Control of Open-RMF Fleets via the Model Context Protocol (MCP)",
+      "url": "https://discourse.openrobotics.org/t/interop-sig-02-july-2026-natural-language-control-of-open-rmf-fleets-via-the-model-context-protocol-mcp/55687",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re happy to announce 93 new packages and 70 updates are now available in ROS Lyrical. This sync was tagged on ros/rosdistro as lyrical/2026-06-23 and on ros2/ros2 as release-lyrical-20260522 . See Release ROS Lyrical Luth - Patch Release 1 (2026/06/23) · ros2/ros2 · GitHub for comprehensive archi",
+      "summary": "Meeting Link Calendar Link Thu, Jul 2, 2026 3:00 PM UTC At this month’s session, @shashank_br will present on Nayantra : I’ll present an MCP server that exposes the Open-RMF REST API as LLM-callable tools, and an agent that turns plain-English commands (“pick up a package at the main door and drop i",
       "deck": ""
     },
     {
-      "title": "Libro de Arquitecturas Software para Robots",
-      "url": "https://discourse.openrobotics.org/t/libro-de-arquitecturas-software-para-robots/55649",
+      "title": "Tightly-Coupled Bimanual Control - Safe and Stable Dual Arm Transport",
+      "url": "https://discourse.openrobotics.org/t/tightly-coupled-bimanual-control-safe-and-stable-dual-arm-transport/55685",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hola a todos, Hemos liberado el libro que usamos en la asignatura de Arquitecturas Software para Robots en el Grado en Ingeniería en Robótica Software en la Universidad Rey Juan Carlos de Madrid. intelligentroboticslabs.github.io Arquitecturas Software para Robots – Libro ASR Libro universitario de ",
+      "summary": "AI WORKER #14 Tightly-Coupled Bimanual Control - Safe and Stable Dual Arm Transport If you have ever implemented dual-arm robot control, you know the pain: even a tiny sync error can crush your target object or send it flying. To solve this, our development team built “cyclo_control”, a QP-based (Qu",
+      "deck": ""
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ",
-      "deck": ""
-    },
-    {
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode",
       "deck": ""
     },
     {
