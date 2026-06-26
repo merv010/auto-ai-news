@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-25",
-  "generated": "2026-06-25T08:16:22.212734+00:00",
+  "date": "2026-06-26",
+  "generated": "2026-06-26T08:24:28.498925+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "deck": ""
+    },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "deck": ""
-    },
-    {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Reservoir acquires Contain to scale agtech startups",
-      "url": "https://www.therobotreport.com/reservoir-acquires-contain-to-scale-agtech-startups/",
+      "title": "Hirebotics offers no-code, explosion-proof cobot for painting",
+      "url": "https://www.therobotreport.com/hirebotics-offers-no-code-explosion-proof-cobot-for-painting/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Reservoir has acquired agriculture finance platform Contain,, naming founder Nicola Kerslake general partner to help scale AI startups. The post Reservoir acquires Contain to scale agtech startups appeared first on The Robot Report .",
+      "summary": "Hirebotics' Cobot Painter supports stationary painting, with parts placed in a paint booth where robots perform all spraying operations. The post Hirebotics offers no-code, explosion-proof cobot for painting appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "FAULHABER focuses on torque, noise, and power with new GPT gearheads",
-      "url": "https://www.therobotreport.com/faulhaber-focuses-torque-noise-power-new-gpt-gearheads/",
+      "title": "Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot",
+      "url": "https://www.therobotreport.com/robust-ai-chooses-aptiv-pulse-sensor-for-gen-3-carter-mobile-robot/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "FAULHABER says its new GPT gearheads work with motors in its standard range and provide more performance with a compact design. The post FAULHABER focuses on torque, noise, and power with new GPT gearheads appeared first on The Robot Report .",
+      "summary": "Aptiv provides sensor fusion from radar and vision using AI to enable Robust.AI's Carter robot to move safely around people. The post Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Interop SIG, 02 July 2026: Natural-Language Control of Open-RMF Fleets via the Model Context Protocol (MCP)",
-      "url": "https://discourse.openrobotics.org/t/interop-sig-02-july-2026-natural-language-control-of-open-rmf-fleets-via-the-model-context-protocol-mcp/55687",
+      "title": "Open-source humanoid robot project 'AI Sapiens'",
+      "url": "https://discourse.openrobotics.org/t/open-source-humanoid-robot-project-ai-sapiens/55728",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Meeting Link Calendar Link Thu, Jul 2, 2026 3:00 PM UTC At this month’s session, @shashank_br will present on Nayantra : I’ll present an MCP server that exposes the Open-RMF REST API as LLM-callable tools, and an agent that turns plain-English commands (“pick up a package at the main door and drop i",
+      "summary": "We are excited to launch the official webpage for ‘AI Sapiens’, ROBOTIS’ open-source humanoid robot project! We have compiled our extensive development resources in one place, covering everything from hardware design and software architecture to reinforcement learning-based motion generation, aiming",
       "deck": ""
     },
     {
-      "title": "Tightly-Coupled Bimanual Control - Safe and Stable Dual Arm Transport",
-      "url": "https://discourse.openrobotics.org/t/tightly-coupled-bimanual-control-safe-and-stable-dual-arm-transport/55685",
+      "title": "Sony AI's Ace (Nature cover, beat a pro table tennis player) — running on ROS 2",
+      "url": "https://discourse.openrobotics.org/t/sony-ais-ace-nature-cover-beat-a-pro-table-tennis-player-running-on-ros-2/55714",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "AI WORKER #14 Tightly-Coupled Bimanual Control - Safe and Stable Dual Arm Transport If you have ever implemented dual-arm robot control, you know the pain: even a tiny sync error can crush your target object or send it flying. To solve this, our development team built “cyclo_control”, a QP-based (Qu",
+      "summary": "Can you believe this is running ROS 2? Sony’s Ace Robot Beats Top Table Tennis Pros in Real Matches Sony AI’s Ace just landed on the cover of Nature — the first robot ever to beat a professional table tennis player. Let that sink in for a second: • It tracks a ball moving at 20 m/s with spin over 9,",
+      "deck": ""
+    },
+    {
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
-      "deck": ""
-    },
-    {
-      "title": "The $400 million machine powering the future of chipmaking",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ",
       "deck": ""
     },
     {
