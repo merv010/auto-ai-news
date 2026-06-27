@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-26",
-  "generated": "2026-06-26T08:24:28.498925+00:00",
+  "date": "2026-06-27",
+  "generated": "2026-06-27T07:42:40.176451+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "deck": ""
+    },
     {
       "title": "How agents are transforming work",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "deck": ""
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: Give Robots a Hand",
+      "url": "https://spectrum.ieee.org/video-friday-robot-grippers",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
+      "deck": ""
+    },
+    {
       "title": "Video Friday: Do Robots Even Need Legs?",
       "url": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
-      "url": "https://spectrum.ieee.org/amazon-astro-robot-sound",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot . Astro used cameras and other sensors to map and navigate your home and workplace , and could proactively patrol, check up on loved ones, and transport small items using its built-in cargo bin. Whil",
-      "deck": ""
-    },
-    {
-      "title": "Hirebotics offers no-code, explosion-proof cobot for painting",
-      "url": "https://www.therobotreport.com/hirebotics-offers-no-code-explosion-proof-cobot-for-painting/",
+      "title": "General Intuition raises $320M to use video game data to train robots",
+      "url": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Hirebotics' Cobot Painter supports stationary painting, with parts placed in a paint booth where robots perform all spraying operations. The post Hirebotics offers no-code, explosion-proof cobot for painting appeared first on The Robot Report .",
+      "summary": "General Intuition is using video game clips with embedded action labels to speed up AI training for robotics. The post General Intuition raises $320M to use video game data to train robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot",
-      "url": "https://www.therobotreport.com/robust-ai-chooses-aptiv-pulse-sensor-for-gen-3-carter-mobile-robot/",
+      "title": "Orbbec shows AI-powered vision systems at Automate 2026",
+      "url": "https://www.therobotreport.com/orbbec-shows-ai-powered-vision-systems-automate-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Aptiv provides sensor fusion from radar and vision using AI to enable Robust.AI's Carter robot to move safely around people. The post Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot appeared first on The Robot Report .",
+      "summary": "Orbbec presented industrial-grade 3D cameras for challenging automation scenarios, as well as AI integration for enhanced robotic perception. The post Orbbec shows AI-powered vision systems at Automate 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Open-source humanoid robot project 'AI Sapiens'",
-      "url": "https://discourse.openrobotics.org/t/open-source-humanoid-robot-project-ai-sapiens/55728",
+      "title": "ROS News for the Week of June 22nd, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-june-22nd-2026/55738",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We are excited to launch the official webpage for ‘AI Sapiens’, ROBOTIS’ open-source humanoid robot project! We have compiled our extensive development resources in one place, covering everything from hardware design and software architecture to reinforcement learning-based motion generation, aiming",
+      "summary": "ROS News for the Week of June 22nd, 2026 Sony’s Ace Robot Beats Top Table Tennis Pros in Real Matches Our colleague @tomoyafujita has informed us that Sony’s AI Ace table tennis robot runs ROS 2 under the hood . It was a busy week in terms of robotics events! I’ve been at Automate in Chicago all wee",
       "deck": ""
     },
     {
-      "title": "Sony AI's Ace (Nature cover, beat a pro table tennis player) — running on ROS 2",
-      "url": "https://discourse.openrobotics.org/t/sony-ais-ace-nature-cover-beat-a-pro-table-tennis-player-running-on-ros-2/55714",
+      "title": "🍺 ros2-jazzy is now available on Homebrew!",
+      "url": "https://discourse.openrobotics.org/t/ros2-jazzy-is-now-available-on-homebrew/55737",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Can you believe this is running ROS 2? Sony’s Ace Robot Beats Top Table Tennis Pros in Real Matches Sony AI’s Ace just landed on the cover of Nature — the first robot ever to beat a professional table tennis player. Let that sink in for a second: • It tracks a ball moving at 20 m/s with spin over 9,",
+      "summary": "All three ROS 2 distros are now native on Homebrew-macOS: brew tap idesign0/ros2 brew install ros2-humble brew install ros2-jazzy brew install ros2-kilted One tap to get ROS 2 Jazzy with full simulation and robotics stack support: Gazebo (gz-sim8) — Gazebo Harmonic simulation out of the box ros2_con",
       "deck": ""
     },
     {
