@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-27",
-  "generated": "2026-06-27T07:42:40.176451+00:00",
+  "date": "2026-06-28",
+  "generated": "2026-06-28T08:15:09.397735+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,19 +84,19 @@
       "deck": ""
     },
     {
-      "title": "General Intuition raises $320M to use video game data to train robots",
-      "url": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
+      "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
+      "url": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "General Intuition is using video game clips with embedded action labels to speed up AI training for robotics. The post General Intuition raises $320M to use video game data to train robots appeared first on The Robot Report .",
+      "summary": "Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy. The post We know how to build smarter robots. Now, we need to learn smarter ways to test them appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Orbbec shows AI-powered vision systems at Automate 2026",
-      "url": "https://www.therobotreport.com/orbbec-shows-ai-powered-vision-systems-automate-2026/",
+      "title": "How compact cobot integration enhances autonomous mobile robot applications",
+      "url": "https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Orbbec presented industrial-grade 3D cameras for challenging automation scenarios, as well as AI integration for enhanced robotic perception. The post Orbbec shows AI-powered vision systems at Automate 2026 appeared first on The Robot Report .",
+      "summary": "Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said. The post How compact cobot integration enhances autonomous mobile robot applications appeared first on The Robot Report .",
       "deck": ""
     },
     {
