@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-28",
-  "generated": "2026-06-28T08:15:09.397735+00:00",
+  "date": "2026-06-29",
+  "generated": "2026-06-29T09:20:21.217566+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "deck": ""
+    },
     {
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "deck": ""
-    },
-    {
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "deck": ""
     },
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
+      "url": "https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "AGIBOT has rolled out 15,000 wheeled semi-humanoid robots as it moves from embodied AI from development and production to deployment. The post AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
       "url": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "How compact cobot integration enhances autonomous mobile robot applications",
-      "url": "https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/",
-      "source": "The Robot Report",
+      "title": "Preparing for Humble sync 2026-07-02",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-humble-sync-2026-07-02/55867",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said. The post How compact cobot integration enhances autonomous mobile robot applications appeared first on The Robot Report .",
+      "summary": "We’re planning for a Humble sync on Thu, Jul 2, 2026 7:00 AM UTC . There are currently 6 regressions and 478 packages to release. We will start holding rosdistro PRs for the sync today ( Sun, Jun 28, 2026 7:00 AM UTC ) and will plan to do the sync on Thu, Jul 2, 2026 7:00 AM UTC . 1 post - 1 partici",
       "deck": ""
     },
     {
-      "title": "ROS News for the Week of June 22nd, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-june-22nd-2026/55738",
+      "title": "RUBI (Robot Utility Board Interface) - v2",
+      "url": "https://discourse.openrobotics.org/t/rubi-robot-utility-board-interface-v2/55844",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS News for the Week of June 22nd, 2026 Sony’s Ace Robot Beats Top Table Tennis Pros in Real Matches Our colleague @tomoyafujita has informed us that Sony’s AI Ace table tennis robot runs ROS 2 under the hood . It was a busy week in terms of robotics events! I’ve been at Automate in Chicago all wee",
-      "deck": ""
-    },
-    {
-      "title": "🍺 ros2-jazzy is now available on Homebrew!",
-      "url": "https://discourse.openrobotics.org/t/ros2-jazzy-is-now-available-on-homebrew/55737",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "All three ROS 2 distros are now native on Homebrew-macOS: brew tap idesign0/ros2 brew install ros2-humble brew install ros2-jazzy brew install ros2-kilted One tap to get ROS 2 Jazzy with full simulation and robotics stack support: Gazebo (gz-sim8) — Gazebo Harmonic simulation out of the box ros2_con",
+      "summary": "This is 𝗥𝗨𝗕𝗜 (𝗥𝗼𝗯𝗼𝘁 𝗨𝘁𝗶𝗹𝗶𝘁𝘆 𝗕𝗼𝗮𝗿𝗱 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲) - 𝘃𝟮 A 𝘀𝗶𝗻𝗴𝗹𝗲-𝘄𝗶𝗻𝗱𝗼𝘄 𝗥𝗢𝗦 𝟮 𝗰𝗼𝗻𝘁𝗿𝗼𝗹 𝗯𝗼𝗮𝗿𝗱 → 𝗻𝗼𝘁 just a monitor. Instead of switching between multiple terminals and tools, RUBI gives you 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 in 𝗼𝗻𝗲 𝗰𝗹𝗲𝗮𝗻, 𝗳𝗮𝘀𝘁 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲: 𝗢𝗯𝘀𝗲𝗿𝘃𝗲: Live topic rates Bandwidth QoS mismatch detection Health watchdog Me",
       "deck": ""
     },
     {
