@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-29",
-  "generated": "2026-06-29T09:20:21.217566+00:00",
+  "date": "2026-06-30",
+  "generated": "2026-06-30T08:23:25.954150+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "deck": ""
+    },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "deck": ""
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Which tokens does a hybrid model predict better?",
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment",
-      "url": "https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/",
+      "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
+      "url": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "AGIBOT has rolled out 15,000 wheeled semi-humanoid robots as it moves from embodied AI from development and production to deployment. The post AGIBOT produces 15,000th robot, marking a milestone in embodied AI deployment appeared first on The Robot Report .",
+      "summary": "Brennand Pierce, founder and CEO of Kinisi Robotics, discusses the company's approach to physical AI and its acquisition by Bear Robotics. The post Insights behind Kinisi’s acquisition by Bear Robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "We know how to build smarter robots. Now, we need to learn smarter ways to test them",
-      "url": "https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/",
+      "title": "BMW Group deploys Figure 03 humanoid after tests with previous version",
+      "url": "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy. The post We know how to build smarter robots. Now, we need to learn smarter ways to test them appeared first on The Robot Report .",
+      "summary": "The Figure 02 robot supported the production of more than 30,000 BMW X3 vehicles over 11 months in South Carolina. The post BMW Group deploys Figure 03 humanoid after tests with previous version appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Preparing for Humble sync 2026-07-02",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-humble-sync-2026-07-02/55867",
+      "title": "Offboard Control with PX4 & ROS 2 (Micro XRCE-DDS)",
+      "url": "https://discourse.openrobotics.org/t/offboard-control-with-px4-ros-2-micro-xrce-dds/55936",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re planning for a Humble sync on Thu, Jul 2, 2026 7:00 AM UTC . There are currently 6 regressions and 478 packages to release. We will start holding rosdistro PRs for the sync today ( Sun, Jun 28, 2026 7:00 AM UTC ) and will plan to do the sync on Thu, Jul 2, 2026 7:00 AM UTC . 1 post - 1 partici",
+      "summary": "I wanted to share an architectural pattern for handling autonomous drone navigation using ROS 2 (Jazzy) and PX4 Autopilot via Micro XRCE-DDS, specifically regarding the Offboard mode failsafe. The Problem: When developing an autonomous flight node in C++, transitioning to PX4’s Offboard mode can be ",
       "deck": ""
     },
     {
-      "title": "RUBI (Robot Utility Board Interface) - v2",
-      "url": "https://discourse.openrobotics.org/t/rubi-robot-utility-board-interface-v2/55844",
+      "title": "Developing an autonomous ocean monitoring device",
+      "url": "https://discourse.openrobotics.org/t/developing-an-autonomous-ocean-monitoring-device/55932",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "This is 𝗥𝗨𝗕𝗜 (𝗥𝗼𝗯𝗼𝘁 𝗨𝘁𝗶𝗹𝗶𝘁𝘆 𝗕𝗼𝗮𝗿𝗱 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲) - 𝘃𝟮 A 𝘀𝗶𝗻𝗴𝗹𝗲-𝘄𝗶𝗻𝗱𝗼𝘄 𝗥𝗢𝗦 𝟮 𝗰𝗼𝗻𝘁𝗿𝗼𝗹 𝗯𝗼𝗮𝗿𝗱 → 𝗻𝗼𝘁 just a monitor. Instead of switching between multiple terminals and tools, RUBI gives you 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 in 𝗼𝗻𝗲 𝗰𝗹𝗲𝗮𝗻, 𝗳𝗮𝘀𝘁 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲: 𝗢𝗯𝘀𝗲𝗿𝘃𝗲: Live topic rates Bandwidth QoS mismatch detection Health watchdog Me",
+      "summary": "Hey Everyone. We have a new opening for Mechanical Designers / Consultants experienced in autonomous marine vehicles. The position is fully remote consultancy. Anyone interested check the details here TechTitans – Gamified EdTech for Future Creators - Revolutionize Online Learning with Gamified Tech",
       "deck": ""
     },
     {
-      "title": "Repositioning retail for the AI era",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
       "deck": ""
     },
     {
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
       "deck": ""
     },
     {
