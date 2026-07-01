@@ -1,22 +1,30 @@
 {
-  "date": "2026-06-30",
-  "generated": "2026-06-30T08:23:25.954150+00:00",
+  "date": "2026-07-01",
+  "generated": "2026-07-01T08:43:05.318781+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "deck": ""
     },
     {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "deck": ""
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Insights behind Kinisi’s acquisition by Bear Robotics",
-      "url": "https://www.therobotreport.com/insights-behind-kinisi-acquisition-by-bear-robotics/",
+      "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
+      "url": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Brennand Pierce, founder and CEO of Kinisi Robotics, discusses the company's approach to physical AI and its acquisition by Bear Robotics. The post Insights behind Kinisi’s acquisition by Bear Robotics appeared first on The Robot Report .",
+      "summary": "X Square Robots' system combines foundation models, robotics hardware, a data pipeline system, and real-world deployments. The post X Square Robot brings its valuation to $2.8B with four consecutive funding rounds appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "BMW Group deploys Figure 03 humanoid after tests with previous version",
-      "url": "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/",
+      "title": "Queue raises funding to build fully autonomous pharmacy",
+      "url": "https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Figure 02 robot supported the production of more than 30,000 BMW X3 vehicles over 11 months in South Carolina. The post BMW Group deploys Figure 03 humanoid after tests with previous version appeared first on The Robot Report .",
+      "summary": "Queue is developing automated pharmacies to expand access to prescriptions in hospitals, retail sites, and underserved communities. The post Queue raises funding to build fully autonomous pharmacy appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Offboard Control with PX4 & ROS 2 (Micro XRCE-DDS)",
-      "url": "https://discourse.openrobotics.org/t/offboard-control-with-px4-ros-2-micro-xrce-dds/55936",
+      "title": "Technical Co-Founder — Pre-Seed Surgical Robotics / Physical AI Hardware Startup (Equity)",
+      "url": "https://discourse.openrobotics.org/t/technical-co-founder-pre-seed-surgical-robotics-physical-ai-hardware-startup-equity/55979",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I wanted to share an architectural pattern for handling autonomous drone navigation using ROS 2 (Jazzy) and PX4 Autopilot via Micro XRCE-DDS, specifically regarding the Offboard mode failsafe. The Problem: When developing an autonomous flight node in C++, transitioning to PX4’s Offboard mode can be ",
+      "summary": "I’m a practicing microsurgeon building a pre-seed hardware startup addressing a data gap I believe is one of the core bottlenecks for surgical AI. I’m not sharing technical details publicly at this stage, but the problem is real, the approach is novel, and I’m working toward IP protection. Looking f",
       "deck": ""
     },
     {
-      "title": "Developing an autonomous ocean monitoring device",
-      "url": "https://discourse.openrobotics.org/t/developing-an-autonomous-ocean-monitoring-device/55932",
+      "title": "Xbox controller teleop for TurtleBot3, with a brake and haptic feedback (sim + real robot)",
+      "url": "https://discourse.openrobotics.org/t/xbox-controller-teleop-for-turtlebot3-with-a-brake-and-haptic-feedback-sim-real-robot/55978",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey Everyone. We have a new opening for Mechanical Designers / Consultants experienced in autonomous marine vehicles. The position is fully remote consultancy. Anyone interested check the details here TechTitans – Gamified EdTech for Future Creators - Revolutionize Online Learning with Gamified Tech",
+      "summary": "A small ROS 2 Jazzy package for driving a TurtleBot3 with a Bluetooth Xbox controller with added haptics feedback. Left stick drives, right stick turns, both capped at the real Burger limits (0.22 m/s, 2.84 rad/s). LT or RT acts as a brake. Haptic feedback through the controller’s rumble: it scales ",
       "deck": ""
     },
     {
-      "title": "AI agents are not your “coworkers”",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c",
       "deck": ""
     },
     {
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins ",
       "deck": ""
     },
     {
