@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-01",
-  "generated": "2026-07-01T08:43:05.318781+00:00",
+  "date": "2026-07-02",
+  "generated": "2026-07-02T07:58:50.122183+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -12,11 +12,11 @@
       "deck": ""
     },
     {
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "summary": "",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Why Specialization Is Inevitable",
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
-      "url": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
+      "title": "In Robotics, Ruggedization Is No Longer Optional",
+      "url": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "X Square Robots' system combines foundation models, robotics hardware, a data pipeline system, and real-world deployments. The post X Square Robot brings its valuation to $2.8B with four consecutive funding rounds appeared first on The Robot Report .",
+      "summary": "As autonomy moves beyond controlled environments, ruggedized design is becoming a prerequisite for reliable robotic operations. The post In Robotics, Ruggedization Is No Longer Optional appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Queue raises funding to build fully autonomous pharmacy",
-      "url": "https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/",
+      "title": "Top 10 robotics developments of June 2026",
+      "url": "https://www.therobotreport.com/top-10-robotic-stories-june-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Queue is developing automated pharmacies to expand access to prescriptions in hospitals, retail sites, and underserved communities. The post Queue raises funding to build fully autonomous pharmacy appeared first on The Robot Report .",
+      "summary": "Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones. The post Top 10 robotics developments of June 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Technical Co-Founder — Pre-Seed Surgical Robotics / Physical AI Hardware Startup (Equity)",
-      "url": "https://discourse.openrobotics.org/t/technical-co-founder-pre-seed-surgical-robotics-physical-ai-hardware-startup-equity/55979",
+      "title": "Mastering NERO | How to Configure CAN Master–Follower Linkage for Dual 7-DoF Robotic Arms",
+      "url": "https://discourse.openrobotics.org/t/mastering-nero-how-to-configure-can-master-follower-linkage-for-dual-7-dof-robotic-arms/56028",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’m a practicing microsurgeon building a pre-seed hardware startup addressing a data gap I believe is one of the core bottlenecks for surgical AI. I’m not sharing technical details publicly at this stage, but the problem is real, the approach is novel, and I’m working toward IP protection. Looking f",
+      "summary": "Dual-arm robots are becoming increasingly important in embodied AI, teleoperation, imitation learning, and collaborative manipulation research. This tutorial demonstrates how to configure two AgileX NERO 7-DOF robotic arms in a master-follower setup using CAN bus communication. Once configured, the ",
       "deck": ""
     },
     {
-      "title": "Xbox controller teleop for TurtleBot3, with a brake and haptic feedback (sim + real robot)",
-      "url": "https://discourse.openrobotics.org/t/xbox-controller-teleop-for-turtlebot3-with-a-brake-and-haptic-feedback-sim-real-robot/55978",
+      "title": "kc_vision — Autonomous ground robot with SLAM, Nav2 + GPS boustrophedon coverage planner (ROS 2 Jazzy + Gazebo Harmonic)",
+      "url": "https://discourse.openrobotics.org/t/kc-vision-autonomous-ground-robot-with-slam-nav2-gps-boustrophedon-coverage-planner-ros-2-jazzy-gazebo-harmonic/56024",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "A small ROS 2 Jazzy package for driving a TurtleBot3 with a Bluetooth Xbox controller with added haptics feedback. Left stick drives, right stick turns, both capped at the real Burger limits (0.22 m/s, 2.84 rad/s). LT or RT acts as a brake. Haptic feedback through the controller’s rumble: it scales ",
+      "summary": "Hi ROS community! I’m sharing kc_vision , a fully open-sourced autonomous ground robot project I built during my M.Tech in Robotics &amp; AI. The complete simulation stack runs out of the box on Ubuntu 24.04 — no hardware needed to try it. What it does Builds its own maps (SLAM Toolbox or Google Car",
+      "deck": ""
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c",
-      "deck": ""
-    },
-    {
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins ",
       "deck": ""
     },
     {
