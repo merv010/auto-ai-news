@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "generated": "2026-07-02T07:58:50.122183+00:00",
+  "date": "2026-07-03",
+  "generated": "2026-07-03T07:53:32.192894+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "In Robotics, Ruggedization Is No Longer Optional",
-      "url": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
+      "title": "Automate 2026 show recap",
+      "url": "https://www.therobotreport.com/automate-2026-show-recap/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "As autonomy moves beyond controlled environments, ruggedized design is becoming a prerequisite for reliable robotic operations. The post In Robotics, Ruggedization Is No Longer Optional appeared first on The Robot Report .",
+      "summary": "Editors Steve Crowe, Mike Oitzman, and Sarah Wynn review Automate 2026, analyzing key trends in physical AI, humanoids, and software orchestration. The post Automate 2026 show recap appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Top 10 robotics developments of June 2026",
-      "url": "https://www.therobotreport.com/top-10-robotic-stories-june-2026/",
+      "title": "Why you should combine robot dexterity with mechanical positioning for complex assembly operations",
+      "url": "https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones. The post Top 10 robotics developments of June 2026 appeared first on The Robot Report .",
+      "summary": "Experts are recognizing the importance of mechanical positioning and its impact on the machine’s mobility, range and speed. The post Why you should combine robot dexterity with mechanical positioning for complex assembly operations appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Mastering NERO | How to Configure CAN Master–Follower Linkage for Dual 7-DoF Robotic Arms",
-      "url": "https://discourse.openrobotics.org/t/mastering-nero-how-to-configure-can-master-follower-linkage-for-dual-7-dof-robotic-arms/56028",
+      "title": "Anyone from Adelaide?",
+      "url": "https://discourse.openrobotics.org/t/anyone-from-adelaide/56056",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Dual-arm robots are becoming increasingly important in embodied AI, teleoperation, imitation learning, and collaborative manipulation research. This tutorial demonstrates how to configure two AgileX NERO 7-DOF robotic arms in a master-follower setup using CAN bus communication. Once configured, the ",
+      "summary": "Hi, is there anyone from Adelaide in the group? 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
-      "title": "kc_vision — Autonomous ground robot with SLAM, Nav2 + GPS boustrophedon coverage planner (ROS 2 Jazzy + Gazebo Harmonic)",
-      "url": "https://discourse.openrobotics.org/t/kc-vision-autonomous-ground-robot-with-slam-nav2-gps-boustrophedon-coverage-planner-ros-2-jazzy-gazebo-harmonic/56024",
+      "title": "New packages for Humble Hawksbill 2026-07-02",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-humble-hawksbill-2026-07-02/56051",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS community! I’m sharing kc_vision , a fully open-sourced autonomous ground robot project I built during my M.Tech in Robotics &amp; AI. The complete simulation stack runs out of the box on Ubuntu 24.04 — no hardware needed to try it. What it does Builds its own maps (SLAM Toolbox or Google Car",
+      "summary": "We’re happy to announce 147 new packages and 618 updates to ROS 2 Humble Hawksbill This sync was tagged as humble/2026-07-02 . Package Updates for humble Added Packages [147]: ros-humble-agni-tf-tools : 1.0.0-1 ros-humble-agni-tf-tools-dbgsym: 1.0.0-1 ros-humble-audio-capture : 0.4.0-2 ros-humble-au",
       "deck": ""
     },
     {
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
       "deck": ""
     },
     {
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco",
       "deck": ""
     },
     {
