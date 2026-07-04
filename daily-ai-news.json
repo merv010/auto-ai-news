@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-03",
-  "generated": "2026-07-03T07:53:32.192894+00:00",
+  "date": "2026-07-04",
+  "generated": "2026-07-04T07:34:31.748694+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -20,16 +20,16 @@
       "deck": ""
     },
     {
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: An Earthbound Mars Rover for the Moon",
+      "url": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
+      "deck": ""
+    },
+    {
       "title": "Video Friday: Give Robots a Hand",
       "url": "https://spectrum.ieee.org/video-friday-robot-grippers",
       "source": "IEEE Spectrum Robotics",
@@ -76,11 +84,11 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Do Robots Even Need Legs?",
-      "url": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
-      "source": "IEEE Spectrum Robotics",
+      "title": "Quarterhill discusses transport modernization as U.S. marks 70 years of federal highways",
+      "url": "https://www.therobotreport.com/quarterhill-discusses-transport-modernization-u-s-marks-70-years-federal-highways/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
+      "summary": "At the U.S. celebrates 250 years of independence and 70 years of its highway system, an expert looks at the future of autonomous transport. The post Quarterhill discusses transport modernization as U.S. marks 70 years of federal highways appeared first on The Robot Report .",
       "deck": ""
     },
     {
@@ -89,14 +97,6 @@
       "source": "The Robot Report",
       "category": "Robotics",
       "summary": "Editors Steve Crowe, Mike Oitzman, and Sarah Wynn review Automate 2026, analyzing key trends in physical AI, humanoids, and software orchestration. The post Automate 2026 show recap appeared first on The Robot Report .",
-      "deck": ""
-    },
-    {
-      "title": "Why you should combine robot dexterity with mechanical positioning for complex assembly operations",
-      "url": "https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/",
-      "source": "The Robot Report",
-      "category": "Robotics",
-      "summary": "Experts are recognizing the importance of mechanical positioning and its impact on the machine’s mobility, range and speed. The post Why you should combine robot dexterity with mechanical positioning for complex assembly operations appeared first on The Robot Report .",
       "deck": ""
     },
     {
