@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-04",
-  "generated": "2026-07-04T07:34:31.748694+00:00",
+  "date": "2026-07-05",
+  "generated": "2026-07-05T07:50:54.408166+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Context is king: How Avride uses cloud VLMs as a safety net for delivery robots",
+      "url": "https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Avride uses vision-language models, or VLMs, to improve the environmental awareness of its delivery robots. The post Context is king: How Avride uses cloud VLMs as a safety net for delivery robots appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Quarterhill discusses transport modernization as U.S. marks 70 years of federal highways",
       "url": "https://www.therobotreport.com/quarterhill-discusses-transport-modernization-u-s-marks-70-years-federal-highways/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Automate 2026 show recap",
-      "url": "https://www.therobotreport.com/automate-2026-show-recap/",
-      "source": "The Robot Report",
+      "title": "Announcing ros-env: Access ROS 2 messages from Rust with just Cargo",
+      "url": "https://discourse.openrobotics.org/t/announcing-ros-env-access-ros-2-messages-from-rust-with-just-cargo/56141",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Editors Steve Crowe, Mike Oitzman, and Sarah Wynn review Automate 2026, analyzing key trends in physical AI, humanoids, and software orchestration. The post Automate 2026 show recap appeared first on The Robot Report .",
+      "summary": "Hey all! I’m one of the maintainers of ros2_rust , and we recently released a new crate, ros-env , that aims to unify ROS 2 message consumption in Rust. If you’re already generating Rust code for your message interfaces with rosidl_generator_rs , you can add ros-env as a regular Cargo dependency and",
       "deck": ""
     },
     {
-      "title": "Anyone from Adelaide?",
-      "url": "https://discourse.openrobotics.org/t/anyone-from-adelaide/56056",
+      "title": "Real-time robot dashboards in React without a separate visualization server",
+      "url": "https://discourse.openrobotics.org/t/real-time-robot-dashboards-in-react-without-a-separate-visualization-server/56132",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi, is there anyone from Adelaide in the group? 1 post - 1 participant Read full topic",
-      "deck": ""
-    },
-    {
-      "title": "New packages for Humble Hawksbill 2026-07-02",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-humble-hawksbill-2026-07-02/56051",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "We’re happy to announce 147 new packages and 618 updates to ROS 2 Humble Hawksbill This sync was tagged as humble/2026-07-02 . Package Updates for humble Added Packages [147]: ros-humble-agni-tf-tools : 1.0.0-1 ros-humble-agni-tf-tools-dbgsym: 1.0.0-1 ros-humble-audio-capture : 0.4.0-2 ros-humble-au",
+      "summary": "If you’ve built an operator UI or ground station in React, you’ve probably hit the same wall I did: the moment you need real-time telemetry visualization, your options are to run Foxglove or Grafana as separate infrastructure and iframe them in, or hand-roll canvas components from scratch. Neither i",
       "deck": ""
     },
     {
