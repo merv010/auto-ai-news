@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05",
-  "generated": "2026-07-05T07:50:54.408166+00:00",
+  "date": "2026-07-06",
+  "generated": "2026-07-06T08:53:41.916356+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity",
+      "url": "https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Humanoid says its KinetIQ Ascend approach can reach 99.9% manipulation reliability at human speed and beyond for industrial tasks. The post Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Context is king: How Avride uses cloud VLMs as a safety net for delivery robots",
       "url": "https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Quarterhill discusses transport modernization as U.S. marks 70 years of federal highways",
-      "url": "https://www.therobotreport.com/quarterhill-discusses-transport-modernization-u-s-marks-70-years-federal-highways/",
-      "source": "The Robot Report",
+      "title": "Autonomous Long-Horizon Whole-body Task: A BT-Based Whole-body VLA Framework",
+      "url": "https://discourse.openrobotics.org/t/autonomous-long-horizon-whole-body-task-a-bt-based-whole-body-vla-framework/56193",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "At the U.S. celebrates 250 years of independence and 70 years of its highway system, an expert looks at the future of autonomous transport. The post Quarterhill discusses transport modernization as U.S. marks 70 years of federal highways appeared first on The Robot Report .",
+      "summary": "AI WORKER #15: Autonomous Long-Horizon Whole-body Task: A BT-Based Whole-body VLA Framework We want to share how we efficiently handle complex long-horizon whole-body tasks by combining Behavior Trees (BT) with a Vision-Language-Action (VLA) framework on our AI Worker. While learned VLA policies usi",
       "deck": ""
     },
     {
-      "title": "Announcing ros-env: Access ROS 2 messages from Rust with just Cargo",
-      "url": "https://discourse.openrobotics.org/t/announcing-ros-env-access-ros-2-messages-from-rust-with-just-cargo/56141",
+      "title": "Showcase: Beam AgroBot V2 – Autonomous Agricultural Robot Built with ROS 2, Nav2, MoveIt 2 and RealSense",
+      "url": "https://discourse.openrobotics.org/t/showcase-beam-agrobot-v2-autonomous-agricultural-robot-built-with-ros-2-nav2-moveit-2-and-realsense/56187",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey all! I’m one of the maintainers of ros2_rust , and we recently released a new crate, ros-env , that aims to unify ROS 2 message consumption in Rust. If you’re already generating Rust code for your message interfaces with rosidl_generator_rs , you can add ros-env as a regular Cargo dependency and",
-      "deck": ""
-    },
-    {
-      "title": "Real-time robot dashboards in React without a separate visualization server",
-      "url": "https://discourse.openrobotics.org/t/real-time-robot-dashboards-in-react-without-a-separate-visualization-server/56132",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "If you’ve built an operator UI or ground station in React, you’ve probably hit the same wall I did: the moment you need real-time telemetry visualization, your options are to run Foxglove or Grafana as separate infrastructure and iframe them in, or hand-roll canvas components from scratch. Neither i",
+      "summary": "Hello everyone, I’d like to share Beam AgroBot V2 , an autonomous agricultural robot that I’ve been developing over the past several months as a personal robotics project. My name is Hatim Ahmed Hassan , a Mechanical Engineering graduate with a strong interest in robotics, autonomous systems, and em",
       "deck": ""
     },
     {
