@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-06",
-  "generated": "2026-07-06T08:53:41.916356+00:00",
+  "date": "2026-07-07",
+  "generated": "2026-07-07T08:13:04.005967+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -12,11 +12,11 @@
       "deck": ""
     },
     {
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
+      "url": "https://spectrum.ieee.org/humanoid-robots-japan",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "“In the future, the relationship between humans and robots will deepen, and the distinction between them will probably disappear.” This prediction, from one of the attendees at the recent Humanoids Summit in Tokyo , might have been unremarkable had it not come directly from an android that was first",
       "deck": ""
     },
     {
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Give Robots a Hand",
-      "url": "https://spectrum.ieee.org/video-friday-robot-grippers",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
-      "deck": ""
-    },
-    {
-      "title": "Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity",
-      "url": "https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/",
+      "title": "Kraken Robotics acquires Covelya Group for $615M",
+      "url": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Humanoid says its KinetIQ Ascend approach can reach 99.9% manipulation reliability at human speed and beyond for industrial tasks. The post Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity appeared first on The Robot Report .",
+      "summary": "Covelya Group expands Kraken Robotics' product offerings and total addressable market in subsea technology. The post Kraken Robotics acquires Covelya Group for $615M appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Context is king: How Avride uses cloud VLMs as a safety net for delivery robots",
-      "url": "https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/",
+      "title": "Boston Dynamics brings its legged robots to the FIFA World Cup",
+      "url": "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Avride uses vision-language models, or VLMs, to improve the environmental awareness of its delivery robots. The post Context is king: How Avride uses cloud VLMs as a safety net for delivery robots appeared first on The Robot Report .",
+      "summary": "Around the 2026 FIFA World Cup, Hyundai and Boston Dynamics have taught footwork to the Atlas humanoid, while the Spot robot is on patrol. The post Boston Dynamics brings its legged robots to the FIFA World Cup appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Autonomous Long-Horizon Whole-body Task: A BT-Based Whole-body VLA Framework",
-      "url": "https://discourse.openrobotics.org/t/autonomous-long-horizon-whole-body-task-a-bt-based-whole-body-vla-framework/56193",
+      "title": "ROS documentation revision notice",
+      "url": "https://discourse.openrobotics.org/t/ros-documentation-revision-notice/56246",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "AI WORKER #15: Autonomous Long-Horizon Whole-body Task: A BT-Based Whole-body VLA Framework We want to share how we efficiently handle complex long-horizon whole-body tasks by combining Behavior Trees (BT) with a Vision-Language-Action (VLA) framework on our AI Worker. While learned VLA policies usi",
+      "summary": "The OSRF’s work with 3di, funded by the OSRA, to improve the documentation of our projects is about to reach an important milestone. This week, we will be merging in the pull request that rearranges the documentation table of contents for the Rolling Ridley distribution’s documentation. This is the ",
       "deck": ""
     },
     {
-      "title": "Showcase: Beam AgroBot V2 – Autonomous Agricultural Robot Built with ROS 2, Nav2, MoveIt 2 and RealSense",
-      "url": "https://discourse.openrobotics.org/t/showcase-beam-agrobot-v2-autonomous-agricultural-robot-built-with-ros-2-nav2-moveit-2-and-realsense/56187",
+      "title": "Update on BAGEL (BAG ExpLoration): What's New",
+      "url": "https://discourse.openrobotics.org/t/update-on-bagel-bag-exploration-whats-new/56235",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello everyone, I’d like to share Beam AgroBot V2 , an autonomous agricultural robot that I’ve been developing over the past several months as a personal robotics project. My name is Hatim Ahmed Hassan , a Mechanical Engineering graduate with a strong interest in robotics, autonomous systems, and em",
+      "summary": "Hi again, Following up on my earlier post about BAGEL, a browser-based ROS bag viewer/editor with no native dependencies and no ROS install. Since v1.0 it’s grown from a viewer into something closer to a full robotics debugging tool. Quick links for anyone new here: Link: https://bagel-ros2.vercel.a",
+      "deck": ""
+    },
+    {
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
-      "deck": ""
-    },
-    {
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco",
       "deck": ""
     },
     {
