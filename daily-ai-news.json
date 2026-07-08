@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-07",
-  "generated": "2026-07-07T08:13:04.005967+00:00",
+  "date": "2026-07-08",
+  "generated": "2026-07-08T07:20:40.812856+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "deck": ""
     },
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+      "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s an influential figure thanks to his pioneering work developing biomedical roboti",
       "deck": ""
     },
     {
@@ -76,27 +84,27 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: An Earthbound Mars Rover for the Moon",
-      "url": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
-      "source": "IEEE Spectrum Robotics",
+      "title": "ABB Robotics includes vSLAM navigation in F712 autonomous forklift",
+      "url": "https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mul",
+      "summary": "The Flexley Stacy F712 forklift uses vision to navigate, works with other robots, and complies with safety standards, says ABB Robotics. The post ABB Robotics includes vSLAM navigation in F712 autonomous forklift appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Kraken Robotics acquires Covelya Group for $615M",
-      "url": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
+      "title": "Tesollo initiates IPO process while developing humanoid hands",
+      "url": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Covelya Group expands Kraken Robotics' product offerings and total addressable market in subsea technology. The post Kraken Robotics acquires Covelya Group for $615M appeared first on The Robot Report .",
+      "summary": "Tesollo, a South Korean robotic hand specialist, has officially begun preparations for its initial public offering. The post Tesollo initiates IPO process while developing humanoid hands appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Boston Dynamics brings its legged robots to the FIFA World Cup",
-      "url": "https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/",
-      "source": "The Robot Report",
+      "title": "Announcement: Welcoming Vicky (VM) Brasseur as Our New Chief Program Officer",
+      "url": "https://discourse.openrobotics.org/t/announcement-welcoming-vicky-vm-brasseur-as-our-new-chief-program-officer/56259",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Around the 2026 FIFA World Cup, Hyundai and Boston Dynamics have taught footwork to the Atlas humanoid, while the Spot robot is on patrol. The post Boston Dynamics brings its legged robots to the FIFA World Cup appeared first on The Robot Report .",
+      "summary": "We are so pleased to announce that Vicky (VM) Brasseur @vmb is taking on an expanded role within Open Robotics as our new Chief Program Officer (CPO) . Many of you already know Vicky, as we have been incredibly fortunate to have her guidance as an advisor to the Open Source Robotics Alliance (OSRA) ",
       "deck": ""
     },
     {
@@ -108,11 +116,11 @@
       "deck": ""
     },
     {
-      "title": "Update on BAGEL (BAG ExpLoration): What's New",
-      "url": "https://discourse.openrobotics.org/t/update-on-bagel-bag-exploration-whats-new/56235",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi again, Following up on my earlier post about BAGEL, a browser-based ROS bag viewer/editor with no native dependencies and no ROS install. Since v1.0 it’s grown from a viewer into something closer to a full robotics debugging tool. Quick links for anyone new here: Link: https://bagel-ros2.vercel.a",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times",
-      "deck": ""
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
       "deck": ""
     },
     {
