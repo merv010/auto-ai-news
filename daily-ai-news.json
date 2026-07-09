@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-08",
-  "generated": "2026-07-08T07:20:40.812856+00:00",
+  "date": "2026-07-09",
+  "generated": "2026-07-09T08:16:50.887161+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
       "deck": ""
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,19 +84,19 @@
       "deck": ""
     },
     {
-      "title": "ABB Robotics includes vSLAM navigation in F712 autonomous forklift",
-      "url": "https://www.therobotreport.com/abb-robotics-includes-vslam-navigation-f712-autonomous-forklift/",
+      "title": "Tickets, geofences, and 1M miles: The new reality of California AV compliance",
+      "url": "https://www.therobotreport.com/tickets-geofences-1m-miles-new-reality-california-av-compliance/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Flexley Stacy F712 forklift uses vision to navigate, works with other robots, and complies with safety standards, says ABB Robotics. The post ABB Robotics includes vSLAM navigation in F712 autonomous forklift appeared first on The Robot Report .",
+      "summary": "Guident CEO Harald Braun breaks down the new AV mandates in California mandates and how they will affect the driverless industry. The post Tickets, geofences, and 1M miles: The new reality of California AV compliance appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Tesollo initiates IPO process while developing humanoid hands",
-      "url": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
+      "title": "NVIDIA and Hugging Face bring new models and frameworks to LeRobot",
+      "url": "https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Tesollo, a South Korean robotic hand specialist, has officially begun preparations for its initial public offering. The post Tesollo initiates IPO process while developing humanoid hands appeared first on The Robot Report .",
+      "summary": "Hugging Face LeRobot is an open-source robotics library for training, running, and sharing robot datasets, models, policies, and workflows. The post NVIDIA and Hugging Face bring new models and frameworks to LeRobot appeared first on The Robot Report .",
       "deck": ""
     },
     {
@@ -128,7 +128,7 @@
       "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial ",
       "deck": ""
     },
     {
