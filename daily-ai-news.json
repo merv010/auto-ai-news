@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-09",
-  "generated": "2026-07-09T08:16:50.887161+00:00",
+  "date": "2026-07-10",
+  "generated": "2026-07-10T08:14:15.240121+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "deck": ""
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Tickets, geofences, and 1M miles: The new reality of California AV compliance",
-      "url": "https://www.therobotreport.com/tickets-geofences-1m-miles-new-reality-california-av-compliance/",
+      "title": "ForSight Robotics’ road to performing a fully robotic cataract surgery",
+      "url": "https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Guident CEO Harald Braun breaks down the new AV mandates in California mandates and how they will affect the driverless industry. The post Tickets, geofences, and 1M miles: The new reality of California AV compliance appeared first on The Robot Report .",
+      "summary": "ForSight Robotics' JASPER Platform assists surgeons with cataract surgeries, while still leaving the power in the surgeon's hands. The post ForSight Robotics&#8217; road to performing a fully robotic cataract surgery appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "NVIDIA and Hugging Face bring new models and frameworks to LeRobot",
-      "url": "https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/",
+      "title": "Calling all robotics startups: apply to RoboBusiness Startup Alley",
+      "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-to-robobusiness-startup-alley/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Hugging Face LeRobot is an open-source robotics library for training, running, and sharing robot datasets, models, policies, and workflows. The post NVIDIA and Hugging Face bring new models and frameworks to LeRobot appeared first on The Robot Report .",
+      "summary": "We're looking for robotics startups that are creating a full system, component, or software system to show off their work at RoboBusiness. The post Calling all robotics startups: apply to RoboBusiness Startup Alley appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Announcement: Welcoming Vicky (VM) Brasseur as Our New Chief Program Officer",
-      "url": "https://discourse.openrobotics.org/t/announcement-welcoming-vicky-vm-brasseur-as-our-new-chief-program-officer/56259",
+      "title": "OpenRAL - the agentic harness for physical AI (ROS 2-native)",
+      "url": "https://discourse.openrobotics.org/t/openral-the-agentic-harness-for-physical-ai-ros-2-native/56352",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We are so pleased to announce that Vicky (VM) Brasseur @vmb is taking on an expanded role within Open Robotics as our new Chief Program Officer (CPO) . Many of you already know Vicky, as we have been incredibly fortunate to have her guidance as an advisor to the Open Source Robotics Alliance (OSRA) ",
+      "summary": "We've been building OpenRAL — the open-source Robot Agentic Layer (RAL), the harness for physical AI. It's the typed, traceable, safety-first runtime that holds an embodied-AI stack together: fast policies, slow reasoning, reward signals, perception, and classical control — one contract over many ro",
       "deck": ""
     },
     {
-      "title": "ROS documentation revision notice",
-      "url": "https://discourse.openrobotics.org/t/ros-documentation-revision-notice/56246",
+      "title": "robot-triage: auto-flag failures in rosbags (open source)",
+      "url": "https://discourse.openrobotics.org/t/robot-triage-auto-flag-failures-in-rosbags-open-source/56351",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The OSRF’s work with 3di, funded by the OSRA, to improve the documentation of our projects is about to reach an important milestone. This week, we will be merging in the pull request that rearranges the documentation table of contents for the Rolling Ridley distribution’s documentation. This is the ",
+      "summary": "got tired of scrubbing through huge bags trying to find the few seconds where something broke, so i built a cli that does the first pass for you. pip install robot-triage , run it on a .bag or .mcap, and it flags sensor dropouts, error bursts, pose jumps, cmd vs actual divergence, frozen values, and",
+      "deck": ""
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
-      "deck": ""
-    },
-    {
-      "title": "Your family’s $300 stake in OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial ",
       "deck": ""
     },
     {
