@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-10",
-  "generated": "2026-07-10T08:14:15.240121+00:00",
+  "date": "2026-07-11",
+  "generated": "2026-07-11T07:03:26.575090+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "deck": ""
+    },
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "deck": ""
-    },
-    {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "deck": ""
     },
     {
@@ -68,51 +68,51 @@
       "deck": ""
     },
     {
-      "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
-      "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+      "title": "Video Friday: A World Cup for Robots",
+      "url": "https://spectrum.ieee.org/video-friday-robot-world-cup",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s an influential figure thanks to his pioneering work developing biomedical roboti",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mu",
       "deck": ""
     },
     {
-      "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
-      "url": "https://spectrum.ieee.org/humanoid-robots-japan",
+      "title": "Ground Robots Inherit the Kill Zone",
+      "url": "https://spectrum.ieee.org/ukraine-ground-drones",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "“In the future, the relationship between humans and robots will deepen, and the distinction between them will probably disappear.” This prediction, from one of the attendees at the recent Humanoids Summit in Tokyo , might have been unremarkable had it not come directly from an android that was first",
+      "summary": "Borys Drozhak has a vision: a frontline almost free of humans, patrolled by flying drones and ground robots, and continuously monitored by AI-controlled sensor networks. And it’s not a pipe dream. Ukrainian roboticists have made major strides in that direction over the past four years. Remotely cont",
       "deck": ""
     },
     {
-      "title": "ForSight Robotics’ road to performing a fully robotic cataract surgery",
-      "url": "https://www.therobotreport.com/forsight-robotics-road-to-performing-a-fully-robotic-cataracts-surgery/",
+      "title": "How Path Robotics uses AI to optimize robotic welding",
+      "url": "https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ForSight Robotics' JASPER Platform assists surgeons with cataract surgeries, while still leaving the power in the surgeon's hands. The post ForSight Robotics&#8217; road to performing a fully robotic cataract surgery appeared first on The Robot Report .",
+      "summary": "CEO Andy Lonsberry explains how Path Robotics applies AI to welding, and UC San Diego professor Michael Yip discusses robot learning. The post How Path Robotics uses AI to optimize robotic welding appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Calling all robotics startups: apply to RoboBusiness Startup Alley",
-      "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-to-robobusiness-startup-alley/",
+      "title": "XTEND secures U.S. patent for autonomous navigation technology",
+      "url": "https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "We're looking for robotics startups that are creating a full system, component, or software system to show off their work at RoboBusiness. The post Calling all robotics startups: apply to RoboBusiness Startup Alley appeared first on The Robot Report .",
+      "summary": "XTEND said the newly granted patent expands its portfolio supporting autonomous navigation, operator assistance, and mission execution. The post XTEND secures U.S. patent for autonomous navigation technology appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "OpenRAL - the agentic harness for physical AI (ROS 2-native)",
-      "url": "https://discourse.openrobotics.org/t/openral-the-agentic-harness-for-physical-ai-ros-2-native/56352",
+      "title": "ROS News for the Week of July 6th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-6th-2026/56384",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We've been building OpenRAL — the open-source Robot Agentic Layer (RAL), the harness for physical AI. It's the typed, traceable, safety-first runtime that holds an embodied-AI stack together: fast policies, slow reasoning, reward signals, perception, and classical control — one contract over many ro",
+      "summary": "ROS News for the Week of July 6th, 2026 THIS SUNDAY, JULY 12th, is the last day to purchase early bird ROSCon Global tickets. Regular tickets are $150 off, which should cover one night at a hotel or make your workshop effectively free. The fine folks over at the NeoBotics Foundation are in town for ",
       "deck": ""
     },
     {
-      "title": "robot-triage: auto-flag failures in rosbags (open source)",
-      "url": "https://discourse.openrobotics.org/t/robot-triage-auto-flag-failures-in-rosbags-open-source/56351",
+      "title": "12 free browser-based tools for URDF and simulation work — validator, 3D viewer, format converters, mesh inertia. No install, files never leave your browser",
+      "url": "https://discourse.openrobotics.org/t/12-free-browser-based-tools-for-urdf-and-simulation-work-validator-3d-viewer-format-converters-mesh-inertia-no-install-files-never-leave-your-browser/56379",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "got tired of scrubbing through huge bags trying to find the few seconds where something broke, so i built a cli that does the first pass for you. pip install robot-triage , run it on a .bag or .mcap, and it flags sensor dropouts, error bursts, pose jumps, cmd vs actual divergence, frozen values, and",
+      "summary": "Hi all — I’m Rahul, a robotics/UAV engineer from India. Over the past months I built a set of free browser-based tools for the URDF/simulation debugging work I kept doing by hand, and I’d like to share them: https://robosimtools.com Everything runs client-side (WASM/JS) — your files never leave your",
       "deck": ""
     },
     {
