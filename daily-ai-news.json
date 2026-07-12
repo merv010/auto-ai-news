@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-11",
-  "generated": "2026-07-11T07:03:26.575090+00:00",
+  "date": "2026-07-12",
+  "generated": "2026-07-12T07:23:03.547625+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,19 +84,27 @@
       "deck": ""
     },
     {
-      "title": "How Path Robotics uses AI to optimize robotic welding",
-      "url": "https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/",
+      "title": "Are suppliers ready for new robot safety standards?",
+      "url": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "CEO Andy Lonsberry explains how Path Robotics applies AI to welding, and UC San Diego professor Michael Yip discusses robot learning. The post How Path Robotics uses AI to optimize robotic welding appeared first on The Robot Report .",
+      "summary": "Suppliers that are well prepared for standard changes will benefit, while underprepared companies may face market access disruption. The post Are suppliers ready for new robot safety standards? appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "XTEND secures U.S. patent for autonomous navigation technology",
-      "url": "https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/",
+      "title": "Why robotics teams need virtual gyms before deployment",
+      "url": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "XTEND said the newly granted patent expands its portfolio supporting autonomous navigation, operator assistance, and mission execution. The post XTEND secures U.S. patent for autonomous navigation technology appeared first on The Robot Report .",
+      "summary": "To address environmental and task variability, robots can benefit from 'virtual gyms' to bridge the sim-to-real gap, says SoftServe. The post Why robotics teams need virtual gyms before deployment appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
+      "title": "Hardening HRI Safety with a Deterministic Wrapper: A Webots Demo Using TIAGo",
+      "url": "https://discourse.openrobotics.org/t/hardening-hri-safety-with-a-deterministic-wrapper-a-webots-demo-using-tiago/56428",
+      "source": "ROS Discourse",
+      "category": "Robotics",
+      "summary": "Hey everyone, I’ve been working on hardening human-robot interaction (HRI) safety boundaries in simulation, and I wanted to share a lightweight classical deterministic wrapper I’ve been testing: QERRA-HSR v0.1 . The goal here was to create a simple, deterministic safety evaluation loop that runs alo",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "ROS News for the Week of July 6th, 2026 THIS SUNDAY, JULY 12th, is the last day to purchase early bird ROSCon Global tickets. Regular tickets are $150 off, which should cover one night at a hotel or make your workshop effectively free. The fine folks over at the NeoBotics Foundation are in town for ",
-      "deck": ""
-    },
-    {
-      "title": "12 free browser-based tools for URDF and simulation work — validator, 3D viewer, format converters, mesh inertia. No install, files never leave your browser",
-      "url": "https://discourse.openrobotics.org/t/12-free-browser-based-tools-for-urdf-and-simulation-work-validator-3d-viewer-format-converters-mesh-inertia-no-install-files-never-leave-your-browser/56379",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi all — I’m Rahul, a robotics/UAV engineer from India. Over the past months I built a set of free browser-based tools for the URDF/simulation debugging work I kept doing by hand, and I’d like to share them: https://robosimtools.com Everything runs client-side (WASM/JS) — your files never leave your",
       "deck": ""
     },
     {
