@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-12",
-  "generated": "2026-07-12T07:23:03.547625+00:00",
+  "date": "2026-07-13",
+  "generated": "2026-07-13T08:00:02.986418+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "STEM education in the classroom, introducing BotBall",
+      "url": "https://www.therobotreport.com/stem-education-classroom-introducing-botball/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Botball addresses STEM education with autonomous robotics, real coding, and a level playing field driven entirely by students. The post STEM education in the classroom, introducing BotBall appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Are suppliers ready for new robot safety standards?",
       "url": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Why robotics teams need virtual gyms before deployment",
-      "url": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
-      "source": "The Robot Report",
+      "title": "OpenAMRobot v0.0.1 - Open-source ROS 2 mobile robot platform",
+      "url": "https://discourse.openrobotics.org/t/openamrobot-v0-0-1-open-source-ros-2-mobile-robot-platform/56515",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "To address environmental and task variability, robots can benefit from 'virtual gyms' to bridge the sim-to-real gap, says SoftServe. The post Why robotics teams need virtual gyms before deployment appeared first on The Robot Report .",
+      "summary": "Hi everyone, We have released OpenAMRobot v0.0.1 , the first public product-level release of our open-source mobile robotics platform. OpenAMRobot is built around ROS 2 Jazzy and is intended for robotics research, education, rapid prototyping, and early-stage embodied AI development. The current rel",
       "deck": ""
     },
     {
-      "title": "Hardening HRI Safety with a Deterministic Wrapper: A Webots Demo Using TIAGo",
-      "url": "https://discourse.openrobotics.org/t/hardening-hri-safety-with-a-deterministic-wrapper-a-webots-demo-using-tiago/56428",
+      "title": "REP-2000 update",
+      "url": "https://discourse.openrobotics.org/t/rep-2000-update/56502",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey everyone, I’ve been working on hardening human-robot interaction (HRI) safety boundaries in simulation, and I wanted to share a lightweight classical deterministic wrapper I’ve been testing: QERRA-HSR v0.1 . The goal here was to create a simple, deterministic safety evaluation loop that runs alo",
-      "deck": ""
-    },
-    {
-      "title": "ROS News for the Week of July 6th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-6th-2026/56384",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "ROS News for the Week of July 6th, 2026 THIS SUNDAY, JULY 12th, is the last day to purchase early bird ROSCon Global tickets. Regular tickets are $150 off, which should cover one night at a hotel or make your workshop effectively free. The fine folks over at the NeoBotics Foundation are in town for ",
+      "summary": "REP-2000 [1] is a very useful document that defines the required dependency versions for each version of ROS 2. However, the latest distribution listed on the page is Kilted Kaiju, and information for Lyrical Luth has not yet been published. Could you please update the page to include the Lyrical Lu",
       "deck": ""
     },
     {
