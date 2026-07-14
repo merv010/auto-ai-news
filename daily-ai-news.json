@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-13",
-  "generated": "2026-07-13T08:00:02.986418+00:00",
+  "date": "2026-07-14",
+  "generated": "2026-07-14T07:00:50.034799+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -12,24 +12,24 @@
       "deck": ""
     },
     {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "deck": ""
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
       "deck": ""
     },
     {
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "STEM education in the classroom, introducing BotBall",
-      "url": "https://www.therobotreport.com/stem-education-classroom-introducing-botball/",
+      "title": "Ondas acquires DZYNE for $875.8M, expanding its defense capabilities",
+      "url": "https://www.therobotreport.com/ondas-acquires-dzyne-875-8m-expanding-its-defense-capabilities/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Botball addresses STEM education with autonomous robotics, real coding, and a level playing field driven entirely by students. The post STEM education in the classroom, introducing BotBall appeared first on The Robot Report .",
+      "summary": "DZYNE Technologies specializes in long-endurance autonomous aircraft, counter-drone systems, and autonomous effects. The post Ondas acquires DZYNE for $875.8M, expanding its defense capabilities appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Are suppliers ready for new robot safety standards?",
-      "url": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
+      "title": "Yaskawa America gets information security certification",
+      "url": "https://www.therobotreport.com/yaskawa-america-gets-information-seccurity-certification/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Suppliers that are well prepared for standard changes will benefit, while underprepared companies may face market access disruption. The post Are suppliers ready for new robot safety standards? appeared first on The Robot Report .",
+      "summary": "Yaskawa America said that independent ISO/IEC 27001:2022 certification shows its focus on protecting customer information. The post Yaskawa America gets information security certification appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "OpenAMRobot v0.0.1 - Open-source ROS 2 mobile robot platform",
-      "url": "https://discourse.openrobotics.org/t/openamrobot-v0-0-1-open-source-ros-2-mobile-robot-platform/56515",
+      "title": "LinkForge: Exploring an Intermediate Representation (IR) for Robot Descriptions",
+      "url": "https://discourse.openrobotics.org/t/linkforge-exploring-an-intermediate-representation-ir-for-robot-descriptions/56551",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, We have released OpenAMRobot v0.0.1 , the first public product-level release of our open-source mobile robotics platform. OpenAMRobot is built around ROS 2 Jazzy and is intended for robotics research, education, rapid prototyping, and early-stage embodied AI development. The current rel",
+      "summary": "Hi everyone, LinkForge recently passed 5,000 downloads on the Blender Extensions platform, which encouraged me to share a broader idea behind the project rather than just another release announcement. Over the past year, I’ve been working on LinkForge, which started as a Blender extension for creati",
       "deck": ""
     },
     {
-      "title": "REP-2000 update",
-      "url": "https://discourse.openrobotics.org/t/rep-2000-update/56502",
+      "title": "Gazebo PMC Meeting Minutes 2026-07-13",
+      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-07-13/56550",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "REP-2000 [1] is a very useful document that defines the required dependency versions for each version of ROS 2. However, the latest distribution listed on the page is Kilted Kaiju, and information for Lyrical Luth has not yet been published. Could you please update the page to include the Lyrical Lu",
+      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Jul 13, 2026 6:00 PM UTC and the following is a summary: PMC Business None New agenda items ROSCon 2026 PMC Meeting &amp; Hackathon Planning : Community ideas and proposals are actively being collected for the upcoming ROSCon 2026 PMC meeting",
+      "deck": ""
+    },
+    {
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
-      "deck": ""
-    },
-    {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
       "deck": ""
     },
     {
