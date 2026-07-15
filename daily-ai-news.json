@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-14",
-  "generated": "2026-07-14T07:00:50.034799+00:00",
+  "date": "2026-07-15",
+  "generated": "2026-07-15T07:04:24.679609+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "deck": ""
     },
     {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Building a Foundation Stack for General-Purpose Robots",
+      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and",
+      "deck": ""
+    },
+    {
       "title": "Video Friday: A World Cup for Robots",
       "url": "https://spectrum.ieee.org/video-friday-robot-world-cup",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Ground Robots Inherit the Kill Zone",
-      "url": "https://spectrum.ieee.org/ukraine-ground-drones",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Borys Drozhak has a vision: a frontline almost free of humans, patrolled by flying drones and ground robots, and continuously monitored by AI-controlled sensor networks. And it’s not a pipe dream. Ukrainian roboticists have made major strides in that direction over the past four years. Remotely cont",
-      "deck": ""
-    },
-    {
-      "title": "Ondas acquires DZYNE for $875.8M, expanding its defense capabilities",
-      "url": "https://www.therobotreport.com/ondas-acquires-dzyne-875-8m-expanding-its-defense-capabilities/",
+      "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
+      "url": "https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "DZYNE Technologies specializes in long-endurance autonomous aircraft, counter-drone systems, and autonomous effects. The post Ondas acquires DZYNE for $875.8M, expanding its defense capabilities appeared first on The Robot Report .",
+      "summary": "Murata Power Solutions' John Quinlan on how advanced robotics converts, distributes and controls on-board power from battery to actuator. The post Key to Humanoid Progress: Managing the Power Behind the Robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Yaskawa America gets information security certification",
-      "url": "https://www.therobotreport.com/yaskawa-america-gets-information-seccurity-certification/",
+      "title": "NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment",
+      "url": "https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Yaskawa America said that independent ISO/IEC 27001:2022 certification shows its focus on protecting customer information. The post Yaskawa America gets information security certification appeared first on The Robot Report .",
+      "summary": "RoboLab research powers NVIDIA Isaac Lab-Arena, an open-source simulation framework for large-scale policy setup and evaluation. The post NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "LinkForge: Exploring an Intermediate Representation (IR) for Robot Descriptions",
-      "url": "https://discourse.openrobotics.org/t/linkforge-exploring-an-intermediate-representation-ir-for-robot-descriptions/56551",
+      "title": "ROS2-DDSConfig-Optimizer Support CycloneDDS Now!",
+      "url": "https://discourse.openrobotics.org/t/ros2-ddsconfig-optimizer-support-cyclonedds-now/56609",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, LinkForge recently passed 5,000 downloads on the Blender Extensions platform, which encouraged me to share a broader idea behind the project rather than just another release announcement. Over the past year, I’ve been working on LinkForge, which started as a Blender extension for creati",
+      "summary": "Previously, we introduced a new tool — ROS2-DDSConfig-Optimizer, which is an AI-driven tool that automatically tunes DDS configuration for ROS2 applications. Initially, it only supported Fast DDS, but now it supports Cyclone DDS as well! Here we show a comparison between traditional manual tuning an",
       "deck": ""
     },
     {
-      "title": "Gazebo PMC Meeting Minutes 2026-07-13",
-      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-07-13/56550",
+      "title": "MoveIt Community Meeting: Tuesday July 21",
+      "url": "https://discourse.openrobotics.org/t/moveit-community-meeting-tuesday-july-21/56593",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Jul 13, 2026 6:00 PM UTC and the following is a summary: PMC Business None New agenda items ROSCon 2026 PMC Meeting &amp; Hackathon Planning : Community ideas and proposals are actively being collected for the upcoming ROSCon 2026 PMC meeting",
+      "summary": "Hi all, For the next MoveIt Community meeting, we are going to meet earlier in the day to better accommodate Asia and Europe timezones - Tuesday Tue, Jul 21, 2026 1:30 PM UTC . We will use this Google Meet meeting Agenda Updates on expansion of people with availability to help with maintenance Isaac",
       "deck": ""
     },
     {
