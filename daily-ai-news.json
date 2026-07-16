@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-15",
-  "generated": "2026-07-15T07:04:24.679609+00:00",
+  "date": "2026-07-16",
+  "generated": "2026-07-16T07:12:38.189346+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "deck": ""
     },
     {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
-      "url": "https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
+      "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots",
+      "url": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Murata Power Solutions' John Quinlan on how advanced robotics converts, distributes and controls on-board power from battery to actuator. The post Key to Humanoid Progress: Managing the Power Behind the Robots appeared first on The Robot Report .",
+      "summary": "Leading technology companies have invested in Walden Robotics, which emerged from stealth as it develops full-stack physical AI. The post Walden Robotics launches at $1.1B valuation for general-purpose robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment",
-      "url": "https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/",
+      "title": "Agility outlines six recommendations for U.S. humanoid robot policies",
+      "url": "https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "RoboLab research powers NVIDIA Isaac Lab-Arena, an open-source simulation framework for large-scale policy setup and evaluation. The post NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment appeared first on The Robot Report .",
+      "summary": "Peggy Johnson, CEO of Agility, said the U.S. needs a policy framework that can strengthen what's already working for the humanoid industry. The post Agility outlines six recommendations for U.S. humanoid robot policies appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS2-DDSConfig-Optimizer Support CycloneDDS Now!",
-      "url": "https://discourse.openrobotics.org/t/ros2-ddsconfig-optimizer-support-cyclonedds-now/56609",
+      "title": "ROS OE Community Meeting #59 - July 20, 2026 @ 3pm UTC",
+      "url": "https://discourse.openrobotics.org/t/ros-oe-community-meeting-59-july-20-2026-3pm-utc/56635",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Previously, we introduced a new tool — ROS2-DDSConfig-Optimizer, which is an AI-driven tool that automatically tunes DDS configuration for ROS2 applications. Initially, it only supported Fast DDS, but now it supports Cyclone DDS as well! Here we show a comparison between traditional manual tuning an",
+      "summary": "Our next meeting is on Monday. The work to get Navigation2, Moveit2, and ros2_control working for all supported combinations should be complete. Suggested topics for discussion include reviewing the suggested packagegroups to increase build coverage and using AI tooling to automatically diagnose and",
       "deck": ""
     },
     {
-      "title": "MoveIt Community Meeting: Tuesday July 21",
-      "url": "https://discourse.openrobotics.org/t/moveit-community-meeting-tuesday-july-21/56593",
+      "title": "Opportunity for ROS Developers: AMD AI DevMaster Hackathon Physical AI Track",
+      "url": "https://discourse.openrobotics.org/t/opportunity-for-ros-developers-amd-ai-devmaster-hackathon-physical-ai-track/56629",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, For the next MoveIt Community meeting, we are going to meet earlier in the day to better accommodate Asia and Europe timezones - Tuesday Tue, Jul 21, 2026 1:30 PM UTC . We will use this Google Meet meeting Agenda Updates on expansion of people with availability to help with maintenance Isaac",
+      "summary": "AMD AI DevMaster Hackathon Official Registration: AMD AI DevMaster Hackathon · Luma Overview ​Join developers, researchers, students, AI practitioners, and open-source contributors worldwide to build innovative AI applications on AMD Radeon™ GPUs and the ROCm™ software stack. The AMD AI DevMaster Ha",
+      "deck": ""
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
       "deck": ""
     },
     {
@@ -124,11 +132,11 @@
       "deck": ""
     },
     {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "MIT Tech Review AI",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "source": "VentureBeat AI",
       "category": "Industry",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”",
       "deck": ""
     },
     {
@@ -137,14 +145,6 @@
       "source": "VentureBeat AI",
       "category": "Industry",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a",
-      "deck": ""
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat AI",
-      "category": "Industry",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg",
       "deck": ""
     },
     {
