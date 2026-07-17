@@ -1,22 +1,30 @@
 {
-  "date": "2026-07-16",
-  "generated": "2026-07-16T07:12:38.189346+00:00",
+  "date": "2026-07-17",
+  "generated": "2026-07-17T07:07:41.215039+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "deck": ""
     },
     {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "deck": ""
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-      "deck": ""
-    },
-    {
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "How to Make an Invisible Drone",
+      "url": "https://spectrum.ieee.org/invisible-spinning-drone",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even l",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: A World Cup for Robots",
-      "url": "https://spectrum.ieee.org/video-friday-robot-world-cup",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Mu",
-      "deck": ""
-    },
-    {
-      "title": "Walden Robotics launches at $1.1B valuation for general-purpose robots",
-      "url": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/",
+      "title": "TerraFirma raises $115M to build robotic infrastructure for construction",
+      "url": "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Leading technology companies have invested in Walden Robotics, which emerged from stealth as it develops full-stack physical AI. The post Walden Robotics launches at $1.1B valuation for general-purpose robots appeared first on The Robot Report .",
+      "summary": "TerraFirma has developed a platform that combines AI-enabled software, a remote command-and-control center, and retrofitted heavy machinery. The post TerraFirma raises $115M to build robotic infrastructure for construction appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Agility outlines six recommendations for U.S. humanoid robot policies",
-      "url": "https://www.therobotreport.com/agility-outlines-six-recommendations-for-u-s-humanoid-robot-policies/",
+      "title": "Xpanner rolls out X1 Panel Lift for automated solar panel installation",
+      "url": "https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Peggy Johnson, CEO of Agility, said the U.S. needs a policy framework that can strengthen what's already working for the humanoid industry. The post Agility outlines six recommendations for U.S. humanoid robot policies appeared first on The Robot Report .",
+      "summary": "X1 Panel Lift uses existing excavators and a single workflow so solar installation crews can focus on alignment, fastening, and quality. The post Xpanner rolls out X1 Panel Lift for automated solar panel installation appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS OE Community Meeting #59 - July 20, 2026 @ 3pm UTC",
-      "url": "https://discourse.openrobotics.org/t/ros-oe-community-meeting-59-july-20-2026-3pm-utc/56635",
+      "title": "Working on a New AgenticROS Physical AI ROS Robot",
+      "url": "https://discourse.openrobotics.org/t/working-on-a-new-agenticros-physical-ai-ros-robot/56706",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Our next meeting is on Monday. The work to get Navigation2, Moveit2, and ros2_control working for all supported combinations should be complete. Suggested topics for discussion include reviewing the suggested packagegroups to increase build coverage and using AI tooling to automatically diagnose and",
+      "summary": "My new robot is leveraging AgenticROS to connect AI Agents (OpenClaw, Claude, Gemini, Codex, and Hermes) to ROS2 to give AI control over its own body (RealSense + Wheels + Legs + Arms etc). AgenticROS also now has a skills marketplace available at https://skills.agenticros.com ! It’s open sourced un",
       "deck": ""
     },
     {
-      "title": "Opportunity for ROS Developers: AMD AI DevMaster Hackathon Physical AI Track",
-      "url": "https://discourse.openrobotics.org/t/opportunity-for-ros-developers-amd-ai-devmaster-hackathon-physical-ai-track/56629",
+      "title": "Multi-robot Coordination package - python port of Örebro University's coordination_oru",
+      "url": "https://discourse.openrobotics.org/t/multi-robot-coordination-package-python-port-of-orebro-universitys-coordination-oru/56705",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "AMD AI DevMaster Hackathon Official Registration: AMD AI DevMaster Hackathon · Luma Overview ​Join developers, researchers, students, AI practitioners, and open-source contributors worldwide to build innovative AI applications on AMD Radeon™ GPUs and the ROCm™ software stack. The AMD AI DevMaster Ha",
+      "summary": "pycoordination — a Python port of coordination_oru Hi all, I’d like to introduce pycoordination , a Python port of coordination_oru , the multi-robot trajectory-envelope coordinator from Pecora et al., “A loosely-coupled approach for multi-robot coordination, motion planning and control”, ICAPS 2018",
       "deck": ""
     },
     {
@@ -132,19 +132,19 @@
       "deck": ""
     },
     {
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
       "source": "VentureBeat AI",
       "category": "Industry",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a",
       "deck": ""
     },
     {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
       "source": "VentureBeat AI",
       "category": "Industry",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil",
       "deck": ""
     },
     {
