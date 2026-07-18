@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-17",
-  "generated": "2026-07-17T07:07:41.215039+00:00",
+  "date": "2026-07-18",
+  "generated": "2026-07-18T06:51:10.380180+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "deck": ""
+    },
     {
       "title": "Why teens deserve access to safe AI",
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "deck": ""
-    },
-    {
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "deck": ""
     },
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,51 +68,59 @@
       "deck": ""
     },
     {
-      "title": "How to Make an Invisible Drone",
-      "url": "https://spectrum.ieee.org/invisible-spinning-drone",
+      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+      "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s also the way that they look in flight: With uncannily linear movements and an even l",
+      "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell in love with the field, she says. Downs participated in the international robotics",
       "deck": ""
     },
     {
-      "title": "Building a Foundation Stack for General-Purpose Robots",
-      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+      "title": "Video Friday: Your Robot Surgeon Will See You Now",
+      "url": "https://spectrum.ieee.org/video-friday-robotic-surgery",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Summer School on Multi-Robot Systems : 29 July–4 August",
       "deck": ""
     },
     {
-      "title": "TerraFirma raises $115M to build robotic infrastructure for construction",
-      "url": "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/",
+      "title": "Founder of Maximo discusses how robotics is accelerating solar construction",
+      "url": "https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "TerraFirma has developed a platform that combines AI-enabled software, a remote command-and-control center, and retrofitted heavy machinery. The post TerraFirma raises $115M to build robotic infrastructure for construction appeared first on The Robot Report .",
+      "summary": "Maximo founder Deise Yumi Asami discusses the process of automating solar construction with robotics. The post Founder of Maximo discusses how robotics is accelerating solar construction appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Xpanner rolls out X1 Panel Lift for automated solar panel installation",
-      "url": "https://www.therobotreport.com/xpanner-rolls-out-x1-panel-lift-automated-solar-panel-installation/",
+      "title": "Weave Robotics launches Isaac, its first mobile humanoid robot",
+      "url": "https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "X1 Panel Lift uses existing excavators and a single workflow so solar installation crews can focus on alignment, fastening, and quality. The post Xpanner rolls out X1 Panel Lift for automated solar panel installation appeared first on The Robot Report .",
+      "summary": "Weave Robotics has listed the features of its Isaac wheeled bimanual manipulator robot for household and office use. The post Weave Robotics launches Isaac, its first mobile humanoid robot appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Working on a New AgenticROS Physical AI ROS Robot",
-      "url": "https://discourse.openrobotics.org/t/working-on-a-new-agenticros-physical-ai-ros-robot/56706",
+      "title": "ROS News for the week of July 13th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-july-13th-2026/56756",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "My new robot is leveraging AgenticROS to connect AI Agents (OpenClaw, Claude, Gemini, Codex, and Hermes) to ROS2 to give AI control over its own body (RealSense + Wheels + Legs + Arms etc). AgenticROS also now has a skills marketplace available at https://skills.agenticros.com ! It’s open sourced un",
+      "summary": "ROS News for the week of July 13th, 2026 Yesterday our colleagues at the Neobotics Foundation swung by ROS By-the-Bay for some human versus robot RC car races. If you want to try racing against an autonomous RC car we’ll be at Open Sauce all weekend. If you can’t make it to Open Sauce you can always",
       "deck": ""
     },
     {
-      "title": "Multi-robot Coordination package - python port of Örebro University's coordination_oru",
-      "url": "https://discourse.openrobotics.org/t/multi-robot-coordination-package-python-port-of-orebro-universitys-coordination-oru/56705",
+      "title": "sync-packages-to-testing job failing, blocking release of tecgihan_driver 0.2.0 to Humble",
+      "url": "https://discourse.openrobotics.org/t/sync-packages-to-testing-job-failing-blocking-release-of-tecgihan-driver-0-2-0-to-humble/56754",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "pycoordination — a Python port of coordination_oru Hi all, I’d like to introduce pycoordination , a Python port of coordination_oru , the multi-robot trajectory-envelope coordinator from Pecora et al., “A loosely-coupled approach for multi-robot coordination, motion planning and control”, ICAPS 2018",
+      "summary": "Package: tecgihan_driver Distro: Humble (Ubuntu Jammy, amd64) The binary build for tecgihan_driver 0.2.0 succeeded on 2026-07-08: build.ros2.org Hbin_uJ64__tecgihan_driver__ubuntu_jammy_amd64__binary #35 [Jenkins] (version: 0.2.0-1jammy.20260708.091808) However, the downstream job Hrel_sync-packages",
+      "deck": ""
+    },
+    {
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
-      "deck": ""
-    },
-    {
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo",
       "deck": ""
     },
     {
