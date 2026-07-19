@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-18",
-  "generated": "2026-07-18T06:51:10.380180+00:00",
+  "date": "2026-07-19",
+  "generated": "2026-07-19T07:20:00.074514+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots",
+      "url": "https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Palm Garden AI is developing a hardware-agnostic software layer, including Coherence Guard, for human-robot interaction and relationships. The post Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Founder of Maximo discusses how robotics is accelerating solar construction",
       "url": "https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/",
       "source": "The Robot Report",
@@ -92,11 +100,11 @@
       "deck": ""
     },
     {
-      "title": "Weave Robotics launches Isaac, its first mobile humanoid robot",
-      "url": "https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/",
-      "source": "The Robot Report",
+      "title": "Realistic AUV manipulation simulator",
+      "url": "https://discourse.openrobotics.org/t/realistic-auv-manipulation-simulator/56778",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Weave Robotics has listed the features of its Isaac wheeled bimanual manipulator robot for household and office use. The post Weave Robotics launches Isaac, its first mobile humanoid robot appeared first on The Robot Report .",
+      "summary": "Hi, I’m pretty new to marine robotics, I have been looking for a simulator for underwater vision guided manipulation and found DAVE but when I checked the camera topic the rgb image is clean, where as the one I saw in stoneFish looked more realistic but the rov/auv available in it doesnt has a manip",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "ROS News for the week of July 13th, 2026 Yesterday our colleagues at the Neobotics Foundation swung by ROS By-the-Bay for some human versus robot RC car races. If you want to try racing against an autonomous RC car we’ll be at Open Sauce all weekend. If you can’t make it to Open Sauce you can always",
-      "deck": ""
-    },
-    {
-      "title": "sync-packages-to-testing job failing, blocking release of tecgihan_driver 0.2.0 to Humble",
-      "url": "https://discourse.openrobotics.org/t/sync-packages-to-testing-job-failing-blocking-release-of-tecgihan-driver-0-2-0-to-humble/56754",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Package: tecgihan_driver Distro: Humble (Ubuntu Jammy, amd64) The binary build for tecgihan_driver 0.2.0 succeeded on 2026-07-08: build.ros2.org Hbin_uJ64__tecgihan_driver__ubuntu_jammy_amd64__binary #35 [Jenkins] (version: 0.2.0-1jammy.20260708.091808) However, the downstream job Hrel_sync-packages",
       "deck": ""
     },
     {
