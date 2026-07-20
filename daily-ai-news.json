@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-19",
-  "generated": "2026-07-19T07:20:00.074514+00:00",
+  "date": "2026-07-20",
+  "generated": "2026-07-20T07:49:45.519344+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,19 +84,19 @@
       "deck": ""
     },
     {
+      "title": "How to avoid the teleoperation trap in robotics development",
+      "url": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Teleoperation is necessary for training humanoid robots, but reinforcement learning and simulation are still necessary, says Flexion's CEO. The post How to avoid the teleoperation trap in robotics development appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots",
       "url": "https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
       "summary": "Palm Garden AI is developing a hardware-agnostic software layer, including Coherence Guard, for human-robot interaction and relationships. The post Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots appeared first on The Robot Report .",
-      "deck": ""
-    },
-    {
-      "title": "Founder of Maximo discusses how robotics is accelerating solar construction",
-      "url": "https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/",
-      "source": "The Robot Report",
-      "category": "Robotics",
-      "summary": "Maximo founder Deise Yumi Asami discusses the process of automating solar construction with robotics. The post Founder of Maximo discusses how robotics is accelerating solar construction appeared first on The Robot Report .",
       "deck": ""
     },
     {
