@@ -1,22 +1,30 @@
 {
-  "date": "2026-07-22",
-  "generated": "2026-07-22T07:28:09.166822+00:00",
+  "date": "2026-07-23",
+  "generated": "2026-07-23T07:25:54.671471+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "deck": ""
     },
     {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "deck": ""
+    },
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
       "deck": ""
     },
     {
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "U.K.-based Humanoid secures $152M in Series A funding",
-      "url": "https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/",
+      "title": "Report shares the state of physical AI and robotics",
+      "url": "https://www.therobotreport.com/physical-ai-and-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Humanoid said it has reached a $1.35 billion valuation as it scales its AI-driven industrial robots and expands commercial deployments. The post U.K.-based Humanoid secures $152M in Series A funding appeared first on The Robot Report .",
+      "summary": "A report looks at how physical AI is increasingly enabling autonomous systems to perceive their environments, make decisions, and act in the real world. The post Report shares the state of physical AI and robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Vicarious Surgical officially shutting down",
-      "url": "https://www.therobotreport.com/vicarious-surgical-officially-shutting-down/",
+      "title": "Medtronic to launch AI compute platform for the operating room",
+      "url": "https://www.therobotreport.com/medtronic-launch-ai-compute-platform-operating-room/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Vicarious Surgical raised about $300 million in total, most of that from a special purpose acquisition company (SPAC) merger in 2021. The post Vicarious Surgical officially shutting down appeared first on The Robot Report .",
+      "summary": "Touch Surgery bridges pre-operative planning and training, intra-operative tele-mentoring and tele-proctoring, and post-operative insights. The post Medtronic to launch AI compute platform for the operating room appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Guide to Imitation Learning with Cyclo Intelligence",
-      "url": "https://discourse.openrobotics.org/t/guide-to-imitation-learning-with-cyclo-intelligence/56851",
+      "title": "Robotics Solution Architect / Field Application Engineer at TriOrb",
+      "url": "https://discourse.openrobotics.org/t/robotics-solution-architect-field-application-engineer-at-triorb/56881",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "AI WORKER #17: A Complete Guide to Imitation Learning with Cyclo Intelligence The ROBOTIS Humanoid Division is excited to release Cyclo Intelligence, an open-source Physical AI platform designed for imitation learning workflows on AI Worker. Setting up real-robot imitation learning pipelines can be ",
+      "summary": "We are hiring!!! Feel free to reach out if you’re interested in this role. (and Japan ) TriOrb is a robotics startup headquartered in Kitakyushu, Japan, with R&amp;D at AIST (National Institute of Advanced Industrial Science and Technology) Tokyo Waterfront and a growing presence in Detroit, Michiga",
       "deck": ""
     },
     {
-      "title": "[Announcement] The Buildfarm Dashboard is Live – Feedback Wanted!",
-      "url": "https://discourse.openrobotics.org/t/announcement-the-buildfarm-dashboard-is-live-feedback-wanted/56849",
+      "title": "Lift lobby and lift selection enhancement",
+      "url": "https://discourse.openrobotics.org/t/lift-lobby-and-lift-selection-enhancement/56880",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone! We are excited to share that the Buildfarm Dashboard is now live and ready for you to explore! This tool was proudly developed by the buildfarmers with the invaluable support and suggestions of the ROS, Gazebo and Infra PMCs . Check it out here: Buildfarm Dashboard What is the purpose o",
+      "summary": "I would like to propose a possible enhancement to Open-RMF’s lift selection mechanism. From my understanding, when a robot plans a route that involves changing floors, the planner also decides which lift the robot will use. If there are multiple lifts serving the same lift lobby, the planner typical",
       "deck": ""
     },
     {
