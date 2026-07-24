@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-23",
-  "generated": "2026-07-23T07:25:54.671471+00:00",
+  "date": "2026-07-24",
+  "generated": "2026-07-24T07:23:55.396707+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "deck": ""
+    },
     {
       "title": "Building AI infrastructure with the Effingham County community",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "deck": ""
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Report shares the state of physical AI and robotics",
-      "url": "https://www.therobotreport.com/physical-ai-and-robotics/",
+      "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
+      "url": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "A report looks at how physical AI is increasingly enabling autonomous systems to perceive their environments, make decisions, and act in the real world. The post Report shares the state of physical AI and robotics appeared first on The Robot Report .",
+      "summary": "Holiday's robot features a wheel-based mobile base, an upper body for dexterous manipulation, and hot-swappable batteries. The post Holiday Robotics raises $105M for its FRIDAY wheeled humanoid appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Medtronic to launch AI compute platform for the operating room",
-      "url": "https://www.therobotreport.com/medtronic-launch-ai-compute-platform-operating-room/",
+      "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
+      "url": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Touch Surgery bridges pre-operative planning and training, intra-operative tele-mentoring and tele-proctoring, and post-operative insights. The post Medtronic to launch AI compute platform for the operating room appeared first on The Robot Report .",
+      "summary": "Travis Kalanick, the former CEO of Uber, said with ATOMS, he hopes to create physical automation to transform industry. The post Uber co-founder raises $1.7B for new robotics startup ATOMS appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robotics Solution Architect / Field Application Engineer at TriOrb",
-      "url": "https://discourse.openrobotics.org/t/robotics-solution-architect-field-application-engineer-at-triorb/56881",
+      "title": "2026 ROS Summer School – Hangzhou, China Successfully Concludes",
+      "url": "https://discourse.openrobotics.org/t/2026-ros-summer-school-hangzhou-china-successfully-concludes/56913",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We are hiring!!! Feel free to reach out if you’re interested in this role. (and Japan ) TriOrb is a robotics startup headquartered in Kitakyushu, Japan, with R&amp;D at AIST (National Institute of Advanced Industrial Science and Technology) Tokyo Waterfront and a growing presence in Detroit, Michiga",
+      "summary": "After seven intensive days of academic lectures, hands-on lab training, technical exchanges and team project challenges, the 2026 ROS Summer School – Hangzhou, China has officially come to a successful close. Launched with 23 parallel specialized training tracks as previously announced, this annual ",
       "deck": ""
     },
     {
-      "title": "Lift lobby and lift selection enhancement",
-      "url": "https://discourse.openrobotics.org/t/lift-lobby-and-lift-selection-enhancement/56880",
+      "title": "Built a tool that generates complete, production-ready ROS2 packages from plain English — web app and CLI. ros2vine.vercel.app · pip install ros2vine",
+      "url": "https://discourse.openrobotics.org/t/built-a-tool-that-generates-complete-production-ready-ros2-packages-from-plain-english-web-app-and-cli-ros2vine-vercel-app-pip-install-ros2vine/56911",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I would like to propose a possible enhancement to Open-RMF’s lift selection mechanism. From my understanding, when a robot plans a route that involves changing floors, the planner also decides which lift the robot will use. If there are multiple lifts serving the same lift lobby, the planner typical",
+      "summary": "I’m a second-year engineering student on the IIT Bombay Mars Rover Team. I built this because writing ROS2 boilerplate from scratch is slow, and Copilot gives you snippets — not a package that actually builds. Describe what your robot should do. ros2vine writes the nodes, launch files, build config,",
+      "deck": ""
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro",
       "deck": ""
     },
     {
@@ -124,27 +132,19 @@
       "deck": ""
     },
     {
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "source": "MIT Tech Review AI",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a",
       "deck": ""
     },
     {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "source": "VentureBeat AI",
       "category": "Industry",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a",
-      "deck": ""
-    },
-    {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "VentureBeat AI",
-      "category": "Industry",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg",
       "deck": ""
     },
     {
