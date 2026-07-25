@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-24",
-  "generated": "2026-07-24T07:23:55.396707+00:00",
+  "date": "2026-07-25",
+  "generated": "2026-07-25T07:07:15.423152+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: An Italian Humanoid Comes to Life",
+      "url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Summer Sc",
+      "deck": ""
+    },
+    {
       "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
       "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Your Robot Surgeon Will See You Now",
-      "url": "https://spectrum.ieee.org/video-friday-robotic-surgery",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Summer School on Multi-Robot Systems : 29 July–4 August",
-      "deck": ""
-    },
-    {
-      "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
-      "url": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/",
+      "title": "Generalist’s GEN-1 foundation model now supports a range of robot end effectors",
+      "url": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Holiday's robot features a wheel-based mobile base, an upper body for dexterous manipulation, and hot-swappable batteries. The post Holiday Robotics raises $105M for its FRIDAY wheeled humanoid appeared first on The Robot Report .",
+      "summary": "By training GEN-1 to work with new hands, Generalist said a single base model can learn sensorimotor policies on different robots. The post Generalist&#8217;s GEN-1 foundation model now supports a range of robot end effectors appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
-      "url": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/",
+      "title": "How time series databases unlock real-time data for robotics",
+      "url": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Travis Kalanick, the former CEO of Uber, said with ATOMS, he hopes to create physical automation to transform industry. The post Uber co-founder raises $1.7B for new robotics startup ATOMS appeared first on The Robot Report .",
+      "summary": "Discover how time series databases help robotics teams manage high-volume sensor data, power AI insights, and keep systems running at scale. The post How time series databases unlock real-time data for robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "2026 ROS Summer School – Hangzhou, China Successfully Concludes",
-      "url": "https://discourse.openrobotics.org/t/2026-ros-summer-school-hangzhou-china-successfully-concludes/56913",
+      "title": "scan_detection_fusion — LiDAR + camera fusion library for ROS 2 Jazzy",
+      "url": "https://discourse.openrobotics.org/t/scan-detection-fusion-lidar-camera-fusion-library-for-ros-2-jazzy/56944",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "After seven intensive days of academic lectures, hands-on lab training, technical exchanges and team project challenges, the 2026 ROS Summer School – Hangzhou, China has officially come to a successful close. Launched with 23 parallel specialized training tracks as previously announced, this annual ",
+      "summary": "Hi ROS community, I’m a high school student and wanted to share a package I’ve just released into the Jazzy distribution: scan_detection_fusion , a reusable ROS 2 library that fuses 2D LiDAR scans with camera object detections to produce range-resolved, semantically labeled obstacles and class-aware",
       "deck": ""
     },
     {
-      "title": "Built a tool that generates complete, production-ready ROS2 packages from plain English — web app and CLI. ros2vine.vercel.app · pip install ros2vine",
-      "url": "https://discourse.openrobotics.org/t/built-a-tool-that-generates-complete-production-ready-ros2-packages-from-plain-english-web-app-and-cli-ros2vine-vercel-app-pip-install-ros2vine/56911",
+      "title": "Inside Pavlov Mini Wheel (Part 2): From Camera Frame to Navigation Goal",
+      "url": "https://discourse.openrobotics.org/t/inside-pavlov-mini-wheel-part-2-from-camera-frame-to-navigation-goal/56943",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’m a second-year engineering student on the IIT Bombay Mars Rover Team. I built this because writing ROS2 boilerplate from scratch is slow, and Copilot gives you snippets — not a package that actually builds. Describe what your robot should do. ros2vine writes the nodes, launch files, build config,",
+      "summary": "Hi everyone, I’ve just published Part 2 of my Pavlov Mini Wheel series, where I take a deeper look at the software architecture behind my ROS 2 autonomous robot. This article follows the complete perception pipeline—from a single camera frame to a navigation goal—and explains how the system is organ",
       "deck": ""
     },
     {
