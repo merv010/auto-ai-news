@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-25",
-  "generated": "2026-07-25T07:07:15.423152+00:00",
+  "date": "2026-07-26",
+  "generated": "2026-07-26T07:29:15.413721+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Photos: First look at J&J’s Ottava surgical robot",
+      "url": "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "The robot-in-table design is meant to save space in the operating room, with J&#038;J saying its novel architecture takes up 30-50% less space than boom-and-cart systems. The post Photos: First look at J&#038;J&#8217;s Ottava surgical robot appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Generalist’s GEN-1 foundation model now supports a range of robot end effectors",
       "url": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "How time series databases unlock real-time data for robotics",
-      "url": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
-      "source": "The Robot Report",
+      "title": "roschema: catch breaking .msg/.srv/.action changes in CI, before they hit the robot",
+      "url": "https://discourse.openrobotics.org/t/roschema-catch-breaking-msg-srv-action-changes-in-ci-before-they-hit-the-robot/56958",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Discover how time series databases help robotics teams manage high-volume sensor data, power AI insights, and keep systems running at scale. The post How time series databases unlock real-time data for robotics appeared first on The Robot Report .",
+      "summary": "Hey everyone, Just wanted to advertise a ros-interface-diff-checker tool I built, in case it is useful for others. As you’ve probably learnt the hard way, almost any edit to a ros interface (msg/action/srv) definition (add, remove, reorder, retype a field) silently breaks wire compatibility between ",
       "deck": ""
     },
     {
-      "title": "scan_detection_fusion — LiDAR + camera fusion library for ROS 2 Jazzy",
-      "url": "https://discourse.openrobotics.org/t/scan-detection-fusion-lidar-camera-fusion-library-for-ros-2-jazzy/56944",
+      "title": "QERRA-v2: Implementing a Moral-Boundary Execution Guard in Webots (TIAGo AMR)",
+      "url": "https://discourse.openrobotics.org/t/qerra-v2-implementing-a-moral-boundary-execution-guard-in-webots-tiago-amr/56956",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS community, I’m a high school student and wanted to share a package I’ve just released into the Jazzy distribution: scan_detection_fusion , a reusable ROS 2 library that fuses 2D LiDAR scans with camera object detections to produce range-resolved, semantically labeled obstacles and class-aware",
-      "deck": ""
-    },
-    {
-      "title": "Inside Pavlov Mini Wheel (Part 2): From Camera Frame to Navigation Goal",
-      "url": "https://discourse.openrobotics.org/t/inside-pavlov-mini-wheel-part-2-from-camera-frame-to-navigation-goal/56943",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi everyone, I’ve just published Part 2 of my Pavlov Mini Wheel series, where I take a deeper look at the software architecture behind my ROS 2 autonomous robot. This article follows the complete perception pipeline—from a single camera frame to a navigation goal—and explains how the system is organ",
+      "summary": "Hi everyone, I want to share a simulation I’ve been working on locally. It explores a concept I’m passionate about: safety shouldn’t just be about a robot stopping before it hits a physical wall. It should also be about a robot understanding when a human command crosses a boundary it shouldn’t. I ha",
       "deck": ""
     },
     {
