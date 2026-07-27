@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-26",
-  "generated": "2026-07-26T07:29:15.413721+00:00",
+  "date": "2026-07-27",
+  "generated": "2026-07-27T08:19:46.638685+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -68,19 +68,27 @@
       "deck": ""
     },
     {
+      "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+      "url": "https://spectrum.ieee.org/ai-in-robotics",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code. Wh",
+      "deck": ""
+    },
+    {
       "title": "Video Friday: An Italian Humanoid Comes to Life",
       "url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Summer Sc",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Summer School on Multi-Robot Systems : 29 July–4 August",
       "deck": ""
     },
     {
-      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-      "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-      "source": "IEEE Spectrum Robotics",
+      "title": "Magmotor makes motors for a changing world for 150+ years",
+      "url": "https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell in love with the field, she says. Downs participated in the international robotics",
+      "summary": "Magmotor has been providing motors for demanding use cases for decades and offers custom systems for robotics. The post Magmotor makes motors for a changing world for 150+ years appeared first on The Robot Report .",
       "deck": ""
     },
     {
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Generalist’s GEN-1 foundation model now supports a range of robot end effectors",
-      "url": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/",
-      "source": "The Robot Report",
+      "title": "Dual Safe/Hostile physics gate for robot claims — Safe must allow, Hostile must refuse",
+      "url": "https://discourse.openrobotics.org/t/dual-safe-hostile-physics-gate-for-robot-claims-safe-must-allow-hostile-must-refuse/56984",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "By training GEN-1 to work with new hands, Generalist said a single base model can learn sensorimotor policies on different robots. The post Generalist&#8217;s GEN-1 foundation model now supports a range of robot end effectors appeared first on The Robot Report .",
+      "summary": "Built a small Dual physics gate you can clone and run: Same body/stack twice → Safe must ALLOW, Hostile must REFUSE. Gate boolean comes from Rust (ha-physics-gate), not a Python soft-PASS. You get a board + Dual JSON receipts. Repo: GitHub - StanByriukov02/ha-production-gate: Dual physics check for ",
       "deck": ""
     },
     {
-      "title": "roschema: catch breaking .msg/.srv/.action changes in CI, before they hit the robot",
-      "url": "https://discourse.openrobotics.org/t/roschema-catch-breaking-msg-srv-action-changes-in-ci-before-they-hit-the-robot/56958",
+      "title": "[Release] Gazebo ROS Text-to-Speech (TTS) Plugin – From Gazebo Classic to Gazebo Harmonic",
+      "url": "https://discourse.openrobotics.org/t/release-gazebo-ros-text-to-speech-tts-plugin-from-gazebo-classic-to-gazebo-harmonic/56982",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey everyone, Just wanted to advertise a ros-interface-diff-checker tool I built, in case it is useful for others. As you’ve probably learnt the hard way, almost any edit to a ros interface (msg/action/srv) definition (add, remove, reorder, retype a field) silently breaks wire compatibility between ",
-      "deck": ""
-    },
-    {
-      "title": "QERRA-v2: Implementing a Moral-Boundary Execution Guard in Webots (TIAGo AMR)",
-      "url": "https://discourse.openrobotics.org/t/qerra-v2-implementing-a-moral-boundary-execution-guard-in-webots-tiago-amr/56956",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi everyone, I want to share a simulation I’ve been working on locally. It explores a concept I’m passionate about: safety shouldn’t just be about a robot stopping before it hits a physical wall. It should also be about a robot understanding when a human command crosses a boundary it shouldn’t. I ha",
+      "summary": "Hello ROS &amp; Gazebo Community, We’re excited to announce the release of gz_ros_tts, an open-source ROS 2 Text-to-Speech (TTS) Plugin for the latest Gazebo Harmonic. This release is the Gazebo Classic and Gazebo harmonic ROS TTS Plugin, bringing the same idea to the modern Gazebo ecosystem with RO",
       "deck": ""
     },
     {
