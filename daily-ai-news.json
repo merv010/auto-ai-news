@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-28",
-  "generated": "2026-07-28T07:29:03.497184+00:00",
+  "date": "2026-07-29",
+  "generated": "2026-07-29T07:35:06.160709+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "deck": ""
+    },
     {
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "deck": ""
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Robot Finger Feels in Color",
+      "url": "https://spectrum.ieee.org/robot-finger",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln Memorial. Getting a robot to sense the same things is an imposing task, often requir",
       "deck": ""
     },
     {
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: An Italian Humanoid Comes to Life",
-      "url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Summer School on Multi-Robot Systems : 29 July–4 August",
-      "deck": ""
-    },
-    {
-      "title": "NORD expands compact NORDAC VFD family to 200 hp",
-      "url": "https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp/",
+      "title": "Registration is open for RoboBusiness 2026",
+      "url": "https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "NORD Drivesystems said its NORDAC PRO VFDs are adaptable to individual application requirements across industries. The post NORD expands compact NORDAC VFD family to 200 hp appeared first on The Robot Report .",
+      "summary": "This year, join us in October in Santa Clara to celebrate 20 years of robotics excellence at RoboBusiness 2026. The post Registration is open for RoboBusiness 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Kraken Technology raises Series B funding for autonomous vessels",
-      "url": "https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/",
+      "title": "ENvue Medical develops robotic feeding tube placement system",
+      "url": "https://www.therobotreport.com/envue-medical-develops-robotic-feeding-tube-placement-system/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Kraken Technology plans to use its funding to continue developing uncrewed surface vessels and localizing manufacturing around the world. The post Kraken Technology raises Series B funding for autonomous vessels appeared first on The Robot Report .",
+      "summary": "ENvue Drive is designed to assist, not replace, the clinician, who retains full control of the procedure at all times. The post ENvue Medical develops robotic feeding tube placement system appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "False-green mobility on firm soil — Dual check on your URDF (PASS or FAIL both count)",
-      "url": "https://discourse.openrobotics.org/t/false-green-mobility-on-firm-soil-dual-check-on-your-urdf-pass-or-fail-both-count/57009",
+      "title": "Package.xml, ament, rosdep, and bloom thoughts",
+      "url": "https://discourse.openrobotics.org/t/package-xml-ament-rosdep-and-bloom-thoughts/57033",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Problem I keep hitting: a mobility / traverse claim can look fine on firm ground (or a firm sim) and then die on soft soil — after you’ve already spent hardware time. I open-sourced a small referee for that check (not a Gazebo plugin, not a ROS package yet): same body · two soils · Safe must allow ·",
+      "summary": "Hello, I’m a mechanical engineer/controls guy/self taught C++ programmer (please forgive (and correct) me if I use the wrong terminology). I’ve been using ROS professionally for a few years. I started with humble. It’s got it’s warts but for the most part I love it! The most frequent complaint I hea",
       "deck": ""
     },
     {
-      "title": "Gazebo PMC Meeting Minutes 2026-07-27",
-      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-07-27/57002",
+      "title": "ROS PMC Minutes for July 28, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-july-28-2026/57022",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Jul 27, 2026 6:00 PM UTC and the following is a summary: PMC Business Promoted Luca Della Vedova to full committer. New agenda items ROSCon Planning : Birds of a Feather (BoF) Session : Planning for the BoF session on Thu, Oct 22, 2026 12:00 ",
+      "summary": "The ROS PMC meeting for this week was on Tuesday, July 28, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business Async Formal Decision: Rolling sync policy. The proposal has been posted for a week with no negative feedback, so @mjcarroll will send the asy",
+      "deck": ""
+    },
+    {
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
-      "deck": ""
-    },
-    {
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
       "deck": ""
     },
     {
