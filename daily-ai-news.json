@@ -1,22 +1,30 @@
 {
-  "date": "2026-07-29",
-  "generated": "2026-07-29T07:35:06.160709+00:00",
+  "date": "2026-07-30",
+  "generated": "2026-07-30T07:25:15.453116+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "deck": ""
     },
     {
-      "title": "How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "deck": ""
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-      "deck": ""
-    },
-    {
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
       "deck": ""
     },
     {
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Registration is open for RoboBusiness 2026",
-      "url": "https://www.therobotreport.com/registration-is-open-for-robobusiness-2026/",
+      "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+      "url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "This year, join us in October in Santa Clara to celebrate 20 years of robotics excellence at RoboBusiness 2026. The post Registration is open for RoboBusiness 2026 appeared first on The Robot Report .",
+      "summary": "GMEX Robotics has acquired shares in MediaMeta to incorporate social intelligence capabilities into its service robots. The post GMEX Robotics to acquire MediaMeta.ai for social intelligence appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ENvue Medical develops robotic feeding tube placement system",
-      "url": "https://www.therobotreport.com/envue-medical-develops-robotic-feeding-tube-placement-system/",
+      "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
+      "url": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ENvue Drive is designed to assist, not replace, the clinician, who retains full control of the procedure at all times. The post ENvue Medical develops robotic feeding tube placement system appeared first on The Robot Report .",
+      "summary": "The FCC has banned some foreign humanoids, which industry experts say could help U.S. industry but hinder innovation. The post Experts react to FCC limits on U.S. imports of new humanoid and mobile robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Package.xml, ament, rosdep, and bloom thoughts",
-      "url": "https://discourse.openrobotics.org/t/package-xml-ament-rosdep-and-bloom-thoughts/57033",
+      "title": "Proposal: `rcl_executors` - a unified, canonical reference executor package for all client libraries",
+      "url": "https://discourse.openrobotics.org/t/proposal-rcl-executors-a-unified-canonical-reference-executor-package-for-all-client-libraries/57057",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello, I’m a mechanical engineer/controls guy/self taught C++ programmer (please forgive (and correct) me if I use the wrong terminology). I’ve been using ROS professionally for a few years. I started with humble. It’s got it’s warts but for the most part I love it! The most frequent complaint I hea",
+      "summary": "Motivation Since the Lyrical release, the client library working group has been considering various approaches to reduce the amount of bloat in rclcpp and rclpy , remove or re-implement half-baked features, make behavior more consistent and performant across the different client library implementati",
       "deck": ""
     },
     {
-      "title": "ROS PMC Minutes for July 28, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-july-28-2026/57022",
+      "title": "How are you handling firmware updates on fleet robots without bricking one?",
+      "url": "https://discourse.openrobotics.org/t/how-are-you-handling-firmware-updates-on-fleet-robots-without-bricking-one/57050",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The ROS PMC meeting for this week was on Tuesday, July 28, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business Async Formal Decision: Rolling sync policy. The proposal has been posted for a week with no negative feedback, so @mjcarroll will send the asy",
+      "summary": "Been lurking here for a while, finally posting because this has been eating my week. We run a small fleet of AMRs (nothing fancy, mostly ROS 2 Humble on Jetson Orins with a couple of STM32s handling motor control and safety). The high level stack is fine, we push updates over the air and roll back i",
+      "deck": ""
+    },
+    {
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
-      "deck": ""
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
       "deck": ""
     },
     {
