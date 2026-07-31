@@ -1,22 +1,30 @@
 {
-  "date": "2026-07-30",
-  "generated": "2026-07-30T07:25:15.453116+00:00",
+  "date": "2026-07-31",
+  "generated": "2026-07-31T07:42:55.536637+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "deck": ""
     },
     {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "deck": ""
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
-      "url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+      "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
+      "url": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "GMEX Robotics has acquired shares in MediaMeta to incorporate social intelligence capabilities into its service robots. The post GMEX Robotics to acquire MediaMeta.ai for social intelligence appeared first on The Robot Report .",
+      "summary": "From accelerated computing and simulation to data operations, open-source tooling, validation engineering, and continuous learning, these five platforms represent distinct control points in the emerging physical AI stack. For most of the modern AI boom, infrastructure had a single center of gravity:",
       "deck": ""
     },
     {
-      "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
-      "url": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/",
+      "title": "DoorDash gains FAA certification to operate its own drone delivery program",
+      "url": "https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The FCC has banned some foreign humanoids, which industry experts say could help U.S. industry but hinder innovation. The post Experts react to FCC limits on U.S. imports of new humanoid and mobile robots appeared first on The Robot Report .",
+      "summary": "The FAA approval came nearly a year after DoorDash unveiled its delivery robot and reflects its increasing interest in building automation in-house. The post DoorDash gains FAA certification to operate its own drone delivery program appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Proposal: `rcl_executors` - a unified, canonical reference executor package for all client libraries",
-      "url": "https://discourse.openrobotics.org/t/proposal-rcl-executors-a-unified-canonical-reference-executor-package-for-all-client-libraries/57057",
+      "title": "Exploring Runtime Trust and Authorization Patterns for ROS2-Based Autonomous Systems",
+      "url": "https://discourse.openrobotics.org/t/exploring-runtime-trust-and-authorization-patterns-for-ros2-based-autonomous-systems/57077",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Motivation Since the Lyrical release, the client library working group has been considering various approaches to reduce the amount of bloat in rclcpp and rclpy , remove or re-implement half-baked features, make behavior more consistent and performant across the different client library implementati",
+      "summary": "Hello ROS2 community, I’m exploring a challenge that I believe will become increasingly important as ROS2-based autonomous systems move from development environments into large-scale real-world deployments. Today, ROS2 enables powerful robotic applications through communication, orchestration, and e",
       "deck": ""
     },
     {
-      "title": "How are you handling firmware updates on fleet robots without bricking one?",
-      "url": "https://discourse.openrobotics.org/t/how-are-you-handling-firmware-updates-on-fleet-robots-without-bricking-one/57050",
+      "title": "How do you understand the architecture of a large ROS 2 workspace?",
+      "url": "https://discourse.openrobotics.org/t/how-do-you-understand-the-architecture-of-a-large-ros-2-workspace/57075",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Been lurking here for a while, finally posting because this has been eating my week. We run a small fleet of AMRs (nothing fancy, mostly ROS 2 Humble on Jetson Orins with a couple of STM32s handling motor control and safety). The high level stack is fine, we push updates over the air and roll back i",
+      "summary": "Hi everyone, I’m curious about how other ROS 2 developers approach understanding a large or unfamiliar workspace. When joining an existing project or reviewing a large codebase, I often find myself asking questions like: Which packages depend on each other? Which nodes communicate together? What top",
+      "deck": ""
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
-      "deck": ""
-    },
-    {
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
       "deck": ""
     },
     {
