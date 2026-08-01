@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-31",
-  "generated": "2026-07-31T07:42:55.536637+00:00",
+  "date": "2026-08-01",
+  "generated": "2026-08-01T07:21:56.796358+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "deck": ""
     },
     {
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "deck": ""
     },
     {
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
-      "url": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
+      "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
+      "url": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "From accelerated computing and simulation to data operations, open-source tooling, validation engineering, and continuous learning, these five platforms represent distinct control points in the emerging physical AI stack. For most of the modern AI boom, infrastructure had a single center of gravity:",
+      "summary": "OSARO’s Derek Pridmore says warehouse robots are advancing, but real-world safety and reliability still depend on specialized, layered AI systems. The post FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "DoorDash gains FAA certification to operate its own drone delivery program",
-      "url": "https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program/",
+      "title": "KUKA deploys Automation Management Platform for North American automakers",
+      "url": "https://www.therobotreport.com/kuka-deploys-automation-management-platform-north-american-automakers/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The FAA approval came nearly a year after DoorDash unveiled its delivery robot and reflects its increasing interest in building automation in-house. The post DoorDash gains FAA certification to operate its own drone delivery program appeared first on The Robot Report .",
+      "summary": "KUKA has deployed its Automation Management Platform at KTPO, a major manufacturing facility in Ohio. The post KUKA deploys Automation Management Platform for North American automakers appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Exploring Runtime Trust and Authorization Patterns for ROS2-Based Autonomous Systems",
-      "url": "https://discourse.openrobotics.org/t/exploring-runtime-trust-and-authorization-patterns-for-ros2-based-autonomous-systems/57077",
+      "title": "Maybe you know someone for our Sydney robotics roles",
+      "url": "https://discourse.openrobotics.org/t/maybe-you-know-someone-for-our-sydney-robotics-roles/57101",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello ROS2 community, I’m exploring a challenge that I believe will become increasingly important as ROS2-based autonomous systems move from development environments into large-scale real-world deployments. Today, ROS2 enables powerful robotic applications through communication, orchestration, and e",
+      "summary": "Not all roles are robotics-centred, some generic software. and DEFINITELY don’t need medical specialisation (I’m pure robotics).. But we all get to say we’re working on a medical robot Impactful roles on Aussie medical imaging robot! Jobs Many robotics engineers were excited to support Vexev’s missi",
       "deck": ""
     },
     {
-      "title": "How do you understand the architecture of a large ROS 2 workspace?",
-      "url": "https://discourse.openrobotics.org/t/how-do-you-understand-the-architecture-of-a-large-ros-2-workspace/57075",
+      "title": "Impactful roles on Aussie medical imaging robot!",
+      "url": "https://discourse.openrobotics.org/t/impactful-roles-on-aussie-medical-imaging-robot/57100",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’m curious about how other ROS 2 developers approach understanding a large or unfamiliar workspace. When joining an existing project or reviewing a large codebase, I often find myself asking questions like: Which packages depend on each other? Which nodes communicate together? What top",
+      "summary": "Many robotics engineers were excited to support Vexev’s mission after my ROSCon keynote - now we have space for more team members in Sydney. We work on cutting edge robotics in a real (=impactful) medical device that we are excitedly turning into an FDA-cleared product. Our robots have made people c",
       "deck": ""
     },
     {
