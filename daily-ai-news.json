@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-02",
-  "generated": "2026-08-02T07:25:18.440593+00:00",
+  "date": "2026-08-03",
+  "generated": "2026-08-03T08:18:19.867227+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Top 10 robotics stories of July 2026",
-      "url": "https://www.therobotreport.com/top-10-robotics-stories-july-2026/",
+      "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+      "url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "In July, large funding rounds, new approaches to robot training, and new robot models drew our readers attention. The post Top 10 robotics stories of July 2026 appeared first on The Robot Report .",
+      "summary": "Reimagine Robotics, founded by former Google DeepMind Applied Robotics leaders, is developing systems that do not require specialized programmers. The post Reimagine Robotics emerges from stealth with robots that &#8216;learn on the job&#8217; appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
-      "url": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
+      "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
+      "url": "https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "OSARO’s Derek Pridmore says warehouse robots are advancing, but real-world safety and reliability still depend on specialized, layered AI systems. The post FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing appeared first on The Robot Report .",
+      "summary": "Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said. The post Google DeepMind says Gemini Robotics 2 enables full body control appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Hiring or looking for jobs in Robotics Software Engineering?",
-      "url": "https://discourse.openrobotics.org/t/hiring-or-looking-for-jobs-in-robotics-software-engineering/57104",
+      "title": "Interop SIG, 06 August 2026: Google Summer of Code for Open-RMF",
+      "url": "https://discourse.openrobotics.org/t/interop-sig-06-august-2026-google-summer-of-code-for-open-rmf/57124",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, Robotics software engineering has an oddly scattered job market. Openings end up on a single university page, a company careers site, or a mailing list, and the people who’d be the right fit often never see them. There’s no obvious place to look if you specifically care about the software si",
+      "summary": "Meeting Link Calendar Link Thu, Aug 6, 2026 3:00 PM UTC This year the Open-RMF project participated in Google Summer of Code with two contributors to help with different aspects of the Next Generation initiative. At this session of the Interoperability Special Interest Group, these contributors will",
       "deck": ""
     },
     {
-      "title": "Maybe you know someone for our Sydney robotics roles",
-      "url": "https://discourse.openrobotics.org/t/maybe-you-know-someone-for-our-sydney-robotics-roles/57101",
+      "title": "Robotics Technical Support Engineer - San Francisco, CA",
+      "url": "https://discourse.openrobotics.org/t/robotics-technical-support-engineer-san-francisco-ca/57119",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Not all roles are robotics-centred, some generic software. and DEFINITELY don’t need medical specialisation (I’m pure robotics).. But we all get to say we’re working on a medical robot Impactful roles on Aussie medical imaging robot! Jobs Many robotics engineers were excited to support Vexev’s missi",
+      "summary": "Join an Industry Leader in Robotics RealMan Intelligent Technology (Beijing) Co., Ltd. develops robotic technologies that are widely recognized as setting the benchmark in the industry. Our deployable robotic arms and actuator modules account for over 80% of the domestic market, reflecting both our ",
       "deck": ""
     },
     {
