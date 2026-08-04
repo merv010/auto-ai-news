@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-03",
-  "generated": "2026-08-03T08:18:19.867227+00:00",
+  "date": "2026-08-04",
+  "generated": "2026-08-04T07:28:48.126418+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
       "deck": ""
     },
     {
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "deck": ""
     },
     {
@@ -68,67 +68,67 @@
       "deck": ""
     },
     {
-      "title": "Robot Finger Feels in Color",
-      "url": "https://spectrum.ieee.org/robot-finger",
+      "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+      "url": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln Memorial. Getting a robot to sense the same things is an imposing task, often requir",
+      "summary": "For a while there, it seemed as though robotics as a whole was stuck in a mad rush towards building humanoid robots mostly because it was very possible (and very lucrative) to do so, even without near-term goals that were necessarily realistic. Some of the magic of those first couple of years of the",
       "deck": ""
     },
     {
-      "title": "Optical Tech Would Update a Robot’s AI on the Fly",
-      "url": "https://spectrum.ieee.org/ai-in-robotics",
+      "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+      "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code. Wh",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 20",
       "deck": ""
     },
     {
-      "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
-      "url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+      "title": "igus launches energy chain with 600-degree rotation for industrial robots",
+      "url": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Reimagine Robotics, founded by former Google DeepMind Applied Robotics leaders, is developing systems that do not require specialized programmers. The post Reimagine Robotics emerges from stealth with robots that &#8216;learn on the job&#8217; appeared first on The Robot Report .",
+      "summary": "igus says its new twisterchain energy chain provides cable management for challenging industrial robotics applications such as palletizing. The post igus launches energy chain with 600-degree rotation for industrial robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
-      "url": "https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/",
+      "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
+      "url": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said. The post Google DeepMind says Gemini Robotics 2 enables full body control appeared first on The Robot Report .",
+      "summary": "This Phase I award is only part of HEBI Robotics' roadmap. The company also plans to continue developing its existing actuation hardware. The post HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Interop SIG, 06 August 2026: Google Summer of Code for Open-RMF",
-      "url": "https://discourse.openrobotics.org/t/interop-sig-06-august-2026-google-summer-of-code-for-open-rmf/57124",
+      "title": "Announcing protoros2: use protobuf in ros2 without compromise",
+      "url": "https://discourse.openrobotics.org/t/announcing-protoros2-use-protobuf-in-ros2-without-compromise/57152",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Meeting Link Calendar Link Thu, Aug 6, 2026 3:00 PM UTC This year the Open-RMF project participated in Google Summer of Code with two contributors to help with different aspects of the Next Generation initiative. At this session of the Interoperability Special Interest Group, these contributors will",
+      "summary": "Hi ROS Community! For years, there has been a strong and consistent demand for seamless Protobuf serialization in ROS/ROS 2. While there are excellent existing tools in the community, integrating them cleanly into a high-performance, production-ready pipeline often comes with friction. Today, we’re ",
       "deck": ""
     },
     {
-      "title": "Robotics Technical Support Engineer - San Francisco, CA",
-      "url": "https://discourse.openrobotics.org/t/robotics-technical-support-engineer-san-francisco-ca/57119",
+      "title": "Boston Robot Hackers announces August Monthly Meeting",
+      "url": "https://discourse.openrobotics.org/t/boston-robot-hackers-announces-august-monthly-meeting/57148",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Join an Industry Leader in Robotics RealMan Intelligent Technology (Beijing) Co., Ltd. develops robotic technologies that are widely recognized as setting the benchmark in the industry. Our deployable robotic arms and actuator modules account for over 80% of the domestic market, reflecting both our ",
+      "summary": "Boston Robot Hackers is pleased share info about our August meeting: Topic: Forward &amp; Inverse Kinematics: The Math: From joint angles to end-effector poses\" Speaker: Shivam Chopra, PhD Date: August 6 2026 Time: 7:00pm to 9:00pm Location: Artisans Asylum, Alston, Boston Shivam will introduce the ",
       "deck": ""
     },
     {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s ",
       "deck": ""
     },
     {
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
       "deck": ""
     },
     {
