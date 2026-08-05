@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-04",
-  "generated": "2026-08-04T07:28:48.126418+00:00",
+  "date": "2026-08-05",
+  "generated": "2026-08-05T07:29:53.458864+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "deck": ""
     },
     {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+      "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says pose a threat to national security. On 28 July, the FCC added mobile, communicating robots weighing more than 2 kilograms and power inverters c",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-      "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 20",
-      "deck": ""
-    },
-    {
-      "title": "igus launches energy chain with 600-degree rotation for industrial robots",
-      "url": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/",
+      "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
+      "url": "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "igus says its new twisterchain energy chain provides cable management for challenging industrial robotics applications such as palletizing. The post igus launches energy chain with 600-degree rotation for industrial robots appeared first on The Robot Report .",
+      "summary": "Amazon subsidiary Zoox unveiled its final production-ready robotaxi design and expanded testing following a subtle redesign to improve rider comfort. The post Zoox unveils production-ready robotaxi for U.S. expansion appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
-      "url": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/",
+      "title": "U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys",
+      "url": "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "This Phase I award is only part of HEBI Robotics' roadmap. The company also plans to continue developing its existing actuation hardware. The post HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators appeared first on The Robot Report .",
+      "summary": "Blue Water Autonomy creates unmanned ships that can operate autonomously on the open ocean for months a time. The post U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Announcing protoros2: use protobuf in ros2 without compromise",
-      "url": "https://discourse.openrobotics.org/t/announcing-protoros2-use-protobuf-in-ros2-without-compromise/57152",
+      "title": "Last day to purchase regular price ROSCon Global tickets is Monday, August 24th",
+      "url": "https://discourse.openrobotics.org/t/last-day-to-purchase-regular-price-roscon-global-tickets-is-monday-august-24th/57162",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS Community! For years, there has been a strong and consistent demand for seamless Protobuf serialization in ROS/ROS 2. While there are excellent existing tools in the community, integrating them cleanly into a high-performance, production-ready pipeline often comes with friction. Today, we’re ",
+      "summary": "Hi Everyone, Quick reminder, the last day to purchase regular price tickets for ROSCon Global in Toronto is Tue, Aug 25, 2026 6:59 AM UTC . 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
-      "title": "Boston Robot Hackers announces August Monthly Meeting",
-      "url": "https://discourse.openrobotics.org/t/boston-robot-hackers-announces-august-monthly-meeting/57148",
+      "title": "Preparing for Humble sync 2026-08-07",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-humble-sync-2026-08-07/57160",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Boston Robot Hackers is pleased share info about our August meeting: Topic: Forward &amp; Inverse Kinematics: The Math: From joint angles to end-effector poses\" Speaker: Shivam Chopra, PhD Date: August 6 2026 Time: 7:00pm to 9:00pm Location: Artisans Asylum, Alston, Boston Shivam will introduce the ",
+      "summary": "We’re planning for a Humble sync on Fri, Aug 7, 2026 4:00 AM UTC . There are currently 703 regressions and 477 packages to release. The very high number of regressions is due to an issue with low disk space on buildfarm agents. The infra team is working on it, so hopefully packages get successfully ",
       "deck": ""
     },
     {
@@ -120,7 +120,7 @@
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s ",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. ",
       "deck": ""
     },
     {
