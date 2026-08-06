@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-05",
-  "generated": "2026-08-05T07:29:53.458864+00:00",
+  "date": "2026-08-06",
+  "generated": "2026-08-06T07:29:56.356487+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
-      "url": "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion/",
+      "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
+      "url": "https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Amazon subsidiary Zoox unveiled its final production-ready robotaxi design and expanded testing following a subtle redesign to improve rider comfort. The post Zoox unveils production-ready robotaxi for U.S. expansion appeared first on The Robot Report .",
+      "summary": "Avnet and Weston Robot have partnered to launch an AI-powered autonomous inspection platform for complex industrial environments. The post Avnet and Weston Robot partner to launch edge AI inspection platform appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys",
-      "url": "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys/",
+      "title": "GAM Enterprises to produce Schaeffler’s PSC gear reducers",
+      "url": "https://www.therobotreport.com/gam-enterprises-to-produce-schaefflers-psc-gear-reducers/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Blue Water Autonomy creates unmanned ships that can operate autonomously on the open ocean for months a time. The post U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys appeared first on The Robot Report .",
+      "summary": "Acquiring the IP from this core supplier allows GAM to vertically integrate its supply chain and expand its manufacturing capabilities. The post GAM Enterprises to produce Schaeffler&#8217;s PSC gear reducers appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Last day to purchase regular price ROSCon Global tickets is Monday, August 24th",
-      "url": "https://discourse.openrobotics.org/t/last-day-to-purchase-regular-price-roscon-global-tickets-is-monday-august-24th/57162",
+      "title": "SIG for Physical AI Meeting, August 7th with Encord",
+      "url": "https://discourse.openrobotics.org/t/sig-for-physical-ai-meeting-august-7th-with-encord/57199",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Everyone, Quick reminder, the last day to purchase regular price tickets for ROSCon Global in Toronto is Tue, Aug 25, 2026 6:59 AM UTC . 1 post - 1 participant Read full topic",
+      "summary": "This week the ROS Special Interest Group for Physical AI is happy to share that we will be hosting Encord to share how their work connects to the work of the SIG. The meeting will be at Fri, Aug 7, 2026 3:00 PM UTC for meeting details please find the event on the Google Calendar for future reference",
       "deck": ""
     },
     {
-      "title": "Preparing for Humble sync 2026-08-07",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-humble-sync-2026-08-07/57160",
+      "title": "Scenic Workshop August 20-21 @ UC Santa Cruz",
+      "url": "https://discourse.openrobotics.org/t/scenic-workshop-august-20-21-uc-santa-cruz/57198",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re planning for a Humble sync on Fri, Aug 7, 2026 4:00 AM UTC . There are currently 703 regressions and 477 packages to release. The very high number of regressions is due to an issue with low disk space on buildfarm agents. The infra team is working on it, so hopefully packages get successfully ",
+      "summary": "Hi folks, For those interested in testing or training robotic systems in simulation, the annual Scenic Workshop for current and potential users and developers of the Scenic probabilistic programming language will be held at UC Santa Cruz on August 20-21. Scenic is a language for environment modeling",
       "deck": ""
     },
     {
