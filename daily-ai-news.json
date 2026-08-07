@@ -1,22 +1,30 @@
 {
-  "date": "2026-08-06",
-  "generated": "2026-08-06T07:29:56.356487+00:00",
+  "date": "2026-08-07",
+  "generated": "2026-08-07T06:02:42.067531+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "deck": ""
     },
     {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "deck": ""
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "deck": ""
-    },
-    {
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
-      "url": "https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/",
+      "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
+      "url": "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Avnet and Weston Robot have partnered to launch an AI-powered autonomous inspection platform for complex industrial environments. The post Avnet and Weston Robot partner to launch edge AI inspection platform appeared first on The Robot Report .",
+      "summary": "The latest agreement expands HII's HYPER Program, which Path Robotics and GrayMatter Robotics joined earlier this year. The post HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "GAM Enterprises to produce Schaeffler’s PSC gear reducers",
-      "url": "https://www.therobotreport.com/gam-enterprises-to-produce-schaefflers-psc-gear-reducers/",
+      "title": "How Robin, the robotic companion, keeps patients calm during hospital visits",
+      "url": "https://www.therobotreport.com/how-robin-robotic-companion-keeps-patients-calm-during-hospital-visits/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Acquiring the IP from this core supplier allows GAM to vertically integrate its supply chain and expand its manufacturing capabilities. The post GAM Enterprises to produce Schaeffler&#8217;s PSC gear reducers appeared first on The Robot Report .",
+      "summary": "Robin is deployed across 30 different health systems, and Expper has plans to deploy 10 more in different states. The post How Robin, the robotic companion, keeps patients calm during hospital visits appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "SIG for Physical AI Meeting, August 7th with Encord",
-      "url": "https://discourse.openrobotics.org/t/sig-for-physical-ai-meeting-august-7th-with-encord/57199",
+      "title": "Rosbag Resurrector — a pandas-like analysis + ML-export workbench for ROS 2 bags",
+      "url": "https://discourse.openrobotics.org/t/rosbag-resurrector-a-pandas-like-analysis-ml-export-workbench-for-ros-2-bags/57209",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "This week the ROS Special Interest Group for Physical AI is happy to share that we will be hosting Encord to share how their work connects to the work of the SIG. The meeting will be at Fri, Aug 7, 2026 3:00 PM UTC for meeting details please find the event on the Google Calendar for future reference",
+      "summary": "Hi all — I’ve been building rosbag-resurrector, an analysis workbench for ROS 2 (MCAP) bags. It’s deliberately not another 3D viewer — it treats a bag like a DataFrame: pandas-like access, a DuckDB index across many bags, health/QC validation, semantic frame search, cross-bag overlay, and one-comman",
       "deck": ""
     },
     {
-      "title": "Scenic Workshop August 20-21 @ UC Santa Cruz",
-      "url": "https://discourse.openrobotics.org/t/scenic-workshop-august-20-21-uc-santa-cruz/57198",
+      "title": "[GSoC 2026] ROS 2 Client Library Performance Monitoring: Midterm Progress Update",
+      "url": "https://discourse.openrobotics.org/t/gsoc-2026-ros-2-client-library-performance-monitoring-midterm-progress-update/57204",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi folks, For those interested in testing or training robotic systems in simulation, the annual Scenic Workshop for current and potential users and developers of the Scenic probabilistic programming language will be held at UC Santa Cruz on August 20-21. Scenic is a language for environment modeling",
+      "summary": "Organization: OSRF Contributor: Ammaar Ahmed ( GitHub , LinkedIn ) Mentors: Kimberly McGuire ( GitHub ) and Skyler Medeiros ( GitHub ) GSoC project: ROS 2 Client Library Performance Monitoring Repository: ros2-performance-monitoring Live dashboard: performance.ammaar.lol Hello everyone, I am Ammaar ",
       "deck": ""
     },
     {
