@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-07",
-  "generated": "2026-08-07T06:02:42.067531+00:00",
+  "date": "2026-08-08",
+  "generated": "2026-08-08T05:33:24.167352+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "deck": ""
     },
     {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Baseten on Hugging Face Inference Providers 🔥",
       "url": "https://huggingface.co/blog/baseten",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
+      "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 20",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
-      "url": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "For a while there, it seemed as though robotics as a whole was stuck in a mad rush towards building humanoid robots mostly because it was very possible (and very lucrative) to do so, even without near-term goals that were necessarily realistic. Some of the magic of those first couple of years of the",
-      "deck": ""
-    },
-    {
-      "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
-      "url": "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/",
+      "title": "Building robots that survive the warehouse",
+      "url": "https://www.therobotreport.com/building-robots-that-survive-warehouse/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The latest agreement expands HII's HYPER Program, which Path Robotics and GrayMatter Robotics joined earlier this year. The post HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics appeared first on The Robot Report .",
+      "summary": "Nomagic says its real moat is production data, because the messiness of real warehouses is where robots either prove themselves or fail. The post Building robots that survive the warehouse appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How Robin, the robotic companion, keeps patients calm during hospital visits",
-      "url": "https://www.therobotreport.com/how-robin-robotic-companion-keeps-patients-calm-during-hospital-visits/",
+      "title": "Tacta Systems takes aim at high-skilled manufacturing work with TactaBot",
+      "url": "https://www.therobotreport.com/tacta-systems-takes-aim-high-skilled-manufacturing-work-tactabot/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Robin is deployed across 30 different health systems, and Expper has plans to deploy 10 more in different states. The post How Robin, the robotic companion, keeps patients calm during hospital visits appeared first on The Robot Report .",
+      "summary": "Tacta Systems unveiled a three-part system, including its robotic hand, that enables users to teach its robot new dexterous skills. The post Tacta Systems takes aim at high-skilled manufacturing work with TactaBot appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Rosbag Resurrector — a pandas-like analysis + ML-export workbench for ROS 2 bags",
-      "url": "https://discourse.openrobotics.org/t/rosbag-resurrector-a-pandas-like-analysis-ml-export-workbench-for-ros-2-bags/57209",
+      "title": "Experimental order-sensitive consistency residual for Odometry/TF streams — minimal C++ reproducer",
+      "url": "https://discourse.openrobotics.org/t/experimental-order-sensitive-consistency-residual-for-odometry-tf-streams-minimal-c-reproducer/57232",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all — I’ve been building rosbag-resurrector, an analysis workbench for ROS 2 (MCAP) bags. It’s deliberately not another 3D viewer — it treats a bag like a DataFrame: pandas-like access, a DuckDB index across many bags, health/QC validation, semantic frame search, cross-bag overlay, and one-comman",
+      "summary": "I briefly mentioned an order-sensitive state diagnostic in another thread, but that was the wrong place for it. Posting it separately here with an executable reproducer. The idea is simple: three consecutive pose samples in, one scalar residual out. It quantifies how much the result shifts when you ",
       "deck": ""
     },
     {
-      "title": "[GSoC 2026] ROS 2 Client Library Performance Monitoring: Midterm Progress Update",
-      "url": "https://discourse.openrobotics.org/t/gsoc-2026-ros-2-client-library-performance-monitoring-midterm-progress-update/57204",
+      "title": "New Packages and patch release for Lyrical 2026-08-07",
+      "url": "https://discourse.openrobotics.org/t/new-packages-and-patch-release-for-lyrical-2026-08-07/57230",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Organization: OSRF Contributor: Ammaar Ahmed ( GitHub , LinkedIn ) Mentors: Kimberly McGuire ( GitHub ) and Skyler Medeiros ( GitHub ) GSoC project: ROS 2 Client Library Performance Monitoring Repository: ros2-performance-monitoring Live dashboard: performance.ammaar.lol Hello everyone, I am Ammaar ",
+      "summary": "We’re happy to announce 129 new packages and 372 updates are now available in ROS Lyrical. This sync was tagged on ros/rosdistro as lyrical/2026-08-07 and on ros2/ros2 as release-lyrical-20260807 . See Release ROS Lyrical Luth - Patch Release 2 (2026/08/07) · ros2/ros2 · GitHub for comprehensive arc",
       "deck": ""
     },
     {
