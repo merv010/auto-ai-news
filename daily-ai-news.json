@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-09",
-  "generated": "2026-08-09T05:38:50.322488+00:00",
+  "date": "2026-08-10",
+  "generated": "2026-08-10T06:04:54.941839+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
+      "url": "https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Analog Devices Inc. is supporting MassRobotics startups with Analog Garage and participating in events including RoboBusiness. The post Analog Devices returns as strategic sponsor to aid MassRobotics startups appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
       "url": "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Building robots that survive the warehouse",
-      "url": "https://www.therobotreport.com/building-robots-that-survive-warehouse/",
-      "source": "The Robot Report",
+      "title": "ROS 2 Based Face Tracking Display Control with PiPER Robotic Arm",
+      "url": "https://discourse.openrobotics.org/t/ros-2-based-face-tracking-display-control-with-piper-robotic-arm/57270",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Nomagic says its real moat is production data, because the messiness of real warehouses is where robots either prove themselves or fail. The post Building robots that survive the warehouse appeared first on The Robot Report .",
+      "summary": "0.Introduction This project demonstrates a vision-based smart ergonomic workstation built with an AgileX PiPER 6-DoF robotic arm, Orbbec RGB-D camera, and ROS 2. Using YOLOv5-Face and depth perception, the system detects the user’s 3D position and controls the robotic arm to adjust the display orien",
       "deck": ""
     },
     {
-      "title": "ROS2 Dev Container Feature + Workspace Update",
-      "url": "https://discourse.openrobotics.org/t/ros2-dev-container-feature-workspace-update/57243",
+      "title": "Exploring a human-reviewed ROS 2 agentic pipeline generator",
+      "url": "https://discourse.openrobotics.org/t/exploring-a-human-reviewed-ros-2-agentic-pipeline-generator/57268",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’ve been working on a ROS2 Dev Container Feature and just updated my VSCode ROS2 Workspace Template to use it instead of my pre-built ROS Docker images. The feature is here: GitHub Build software better, together GitHub is where people build software. More than 150 million people use GitHub to disc",
-      "deck": ""
-    },
-    {
-      "title": "Has a CPU shared-memory backend for rosidl::Buffer been explored?",
-      "url": "https://discourse.openrobotics.org/t/has-a-cpu-shared-memory-backend-for-rosidl-buffer-been-explored/57240",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "I have been looking into rosidl::Buffer and the current buffer backend support, particularly for large variable-length payloads such as images and point clouds. One idea I am interested in is a CPU shared-memory backend for rosidl::Buffer . I realize that this overlaps to some extent with functional",
+      "summary": "I am prototyping **EdgeAI Forge**, a local-first engineering architecture intended to help generate, test, benchmark, and document ROS 2 and machine-vision pipelines. The initial target workflow is a ROS 2 vision pipeline generator. Given a requirement such as: &gt; Read frames from a USB camera, ru",
       "deck": ""
     },
     {
