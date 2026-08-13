@@ -1,22 +1,30 @@
 {
-  "date": "2026-08-12",
-  "generated": "2026-08-12T06:06:25.679617+00:00",
+  "date": "2026-08-13",
+  "generated": "2026-08-13T06:08:21.139983+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
       "deck": ""
     },
     {
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "deck": ""
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Defense drone developer Cambridge Aerospace raises $300M",
-      "url": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m/",
+      "title": "SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio",
+      "url": "https://www.therobotreport.com/sew-eurodrive-adds-economy-series-planetary-servo-gear-unit-portfolio/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The round comes just months after the Cambridge Aerospace's $200 million Series B funding in April. The post Defense drone developer Cambridge Aerospace raises $300M appeared first on The Robot Report .",
+      "summary": "SEW-EURODRIVE's new P1.G, P2.G and P3.G gear units extend its existing PxG family below the P5.G, P6.G, and P7.G precision range. The post SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "PlusAI reaches key milestones ahead of launching its autonomous trucks",
-      "url": "https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks/",
+      "title": "Q2 2026 robotics demand increased across industries, reports A3",
+      "url": "https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Since the start of the year, PlusAI said it has improved the safety validation, operational maturity, and efficiency of SuperDrive. The post PlusAI reaches key milestones ahead of launching its autonomous trucks appeared first on The Robot Report .",
+      "summary": "A3 said that Q2 2026 robotics orders in food, electronics, and healthcare helped offset soft demand from automotive manufacturing. The post Q2 2026 robotics demand increased across industries, reports A3 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "[Paid Contract] Robotics Engineer - Household Manipulation Prototype - Hamilton, Canada / Hybrid",
-      "url": "https://discourse.openrobotics.org/t/paid-contract-robotics-engineer-household-manipulation-prototype-hamilton-canada-hybrid/57329",
+      "title": "Announcement: Fix for AdvancedLiftDrag Pitching Moment Computation",
+      "url": "https://discourse.openrobotics.org/t/announcement-fix-for-advancedliftdrag-pitching-moment-computation/57364",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’m looking for a robotics engineer for a paid 4–6 week prototype project based in Hamilton, Ontario, Canada. The immediate goal is deliberately narrow: build a household manipulation prototype using an off the shelf robotic arm, cameras, and teleoperation to reliably move a standardize",
+      "summary": "Hello Gazebo Community, We want to highlight an important bug fix and subsequent behavior change in the AdvancedLiftDrag system, recently addressed in Issue #3695 . What was the issue? Previously, when computing the pitching moment coefficient ( Cem ) in AdvancedLiftDrag.cc , the alpha-based pitchin",
       "deck": ""
     },
     {
-      "title": "Is this Embodied Agent project useless?",
-      "url": "https://discourse.openrobotics.org/t/is-this-embodied-agent-project-useless/57319",
+      "title": "Want to get involved with ROS 2? Come to Waffle",
+      "url": "https://discourse.openrobotics.org/t/want-to-get-involved-with-ros-2-come-to-waffle/57362",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello, I was working on a Embodied Agent project in University for last 9 months. The problem is we are using a regular VLM + algorithmic methods to make the robot understand its environment and do missions given by the user. I was misdirected into creating a project that would require a large team ",
+      "summary": "One of the most common questions we get is some version of “how do I start contributing?” Here is a concrete answer: join us for Waffle, Thursdays, 30 minutes. What it is Waffle is a weekly triage meeting. We go through the issues and pull requests coming into the ROS 2 repositories that nobody has ",
+      "deck": ""
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
-      "deck": ""
-    },
-    {
-      "title": "AI for science needs reasoning, not just data",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
       "deck": ""
     },
     {
