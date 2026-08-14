@@ -1,22 +1,30 @@
 {
-  "date": "2026-08-13",
-  "generated": "2026-08-13T06:08:21.139983+00:00",
+  "date": "2026-08-14",
+  "generated": "2026-08-14T06:06:28.953379+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "deck": ""
     },
     {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "deck": ""
+    },
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "deck": ""
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio",
-      "url": "https://www.therobotreport.com/sew-eurodrive-adds-economy-series-planetary-servo-gear-unit-portfolio/",
+      "title": "Mobile manipulators and humanoids: The future of robotics",
+      "url": "https://www.therobotreport.com/mobile-manipulators-and-humanoids/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "SEW-EURODRIVE's new P1.G, P2.G and P3.G gear units extend its existing PxG family below the P5.G, P6.G, and P7.G precision range. The post SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio appeared first on The Robot Report .",
+      "summary": "A free download looks at the state of humanoids, including a rundown of current robotics developers and interviews with industry experts. The post Mobile manipulators and humanoids: The future of robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Q2 2026 robotics demand increased across industries, reports A3",
-      "url": "https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/",
+      "title": "ARM Institute calls for defense manufacturing technology projects",
+      "url": "https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "A3 said that Q2 2026 robotics orders in food, electronics, and healthcare helped offset soft demand from automotive manufacturing. The post Q2 2026 robotics demand increased across industries, reports A3 appeared first on The Robot Report .",
+      "summary": "The ARM Institute and the U.S. Department of War are seeking technology project submissions to help rapid U.S. production. The post ARM Institute calls for defense manufacturing technology projects appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Announcement: Fix for AdvancedLiftDrag Pitching Moment Computation",
-      "url": "https://discourse.openrobotics.org/t/announcement-fix-for-advancedliftdrag-pitching-moment-computation/57364",
+      "title": "Check your launch files for common errors: introducing lint_launch",
+      "url": "https://discourse.openrobotics.org/t/check-your-launch-files-for-common-errors-introducing-lint-launch/57402",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello Gazebo Community, We want to highlight an important bug fix and subsequent behavior change in the AdvancedLiftDrag system, recently addressed in Issue #3695 . What was the issue? Previously, when computing the pitching moment coefficient ( Cem ) in AdvancedLiftDrag.cc , the alpha-based pitchin",
+      "summary": "Hello everyone, We would like to introduce lint_launch , a tool meant to check your launch files for common errors without attempting to launch any processes. We originally developed this tool for ROS2 Humble and have been using it internally for a few years. We recently decided to open-source it in",
       "deck": ""
     },
     {
-      "title": "Want to get involved with ROS 2? Come to Waffle",
-      "url": "https://discourse.openrobotics.org/t/want-to-get-involved-with-ros-2-come-to-waffle/57362",
+      "title": "Nectar SDK: ROS 2 companion stack for autonomous UAVs",
+      "url": "https://discourse.openrobotics.org/t/nectar-sdk-ros-2-companion-stack-for-autonomous-uavs/57388",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "One of the most common questions we get is some version of “how do I start contributing?” Here is a concrete answer: join us for Waffle, Thursdays, 30 minutes. What it is Waffle is a weekly triage meeting. We go through the issues and pull requests coming into the ROS 2 repositories that nobody has ",
+      "summary": "Hi all, I am part of Black Bee Drones, an autonomous drone team at the Federal University of Itajubá (UNIFEI) in Brazil. We developed Nectar SDK, a ROS 2 toolkit for the companion computer, so control, cameras, and perception sit behind one set of interfaces instead of being rebuilt for every missio",
       "deck": ""
     },
     {
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ",
       "deck": ""
     },
     {
-      "title": "AI professors are negotiating the new realities of academic research",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
       "deck": ""
     },
     {
