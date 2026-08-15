@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "generated": "2026-08-14T06:06:28.953379+00:00",
+  "date": "2026-08-15",
+  "generated": "2026-08-15T05:13:48.803278+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Lift Happens",
+      "url": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 20",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
-      "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 20",
-      "deck": ""
-    },
-    {
-      "title": "Mobile manipulators and humanoids: The future of robotics",
-      "url": "https://www.therobotreport.com/mobile-manipulators-and-humanoids/",
+      "title": "How Protolabs turns CAD files into parts in under 24 hours",
+      "url": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "A free download looks at the state of humanoids, including a rundown of current robotics developers and interviews with industry experts. The post Mobile manipulators and humanoids: The future of robotics appeared first on The Robot Report .",
+      "summary": "Protolabs CTO Marc Kermisch explains how AI, simulation, and design for manufacturing turn CAD files into production parts faster. The post How Protolabs turns CAD files into parts in under 24 hours appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ARM Institute calls for defense manufacturing technology projects",
-      "url": "https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project/",
+      "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026",
+      "url": "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The ARM Institute and the U.S. Department of War are seeking technology project submissions to help rapid U.S. production. The post ARM Institute calls for defense manufacturing technology projects appeared first on The Robot Report .",
+      "summary": "Neros is developing its Archer AI and Bandit platform with the hardware and compute required for multi-asset control. The post Neros Technologies raises $250M to deploy its defense drones by the end of 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Check your launch files for common errors: introducing lint_launch",
-      "url": "https://discourse.openrobotics.org/t/check-your-launch-files-for-common-errors-introducing-lint-launch/57402",
+      "title": "ROS News for the week of August 10th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-10th-2026/57415",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello everyone, We would like to introduce lint_launch , a tool meant to check your launch files for common errors without attempting to launch any processes. We originally developed this tool for ROS2 Humble and have been using it internally for a few years. We recently decided to open-source it in",
+      "summary": "ROS News for the week of August 10th, 2026 Just ten days remain to purchase regular price tickets for ROSCon Global in Toronto. If you need corporate approval to travel to ROSCon it is now or never! Next week is Foxglove’s Actuate conference in San Francisco. There are also various meetups and event",
       "deck": ""
     },
     {
-      "title": "Nectar SDK: ROS 2 companion stack for autonomous UAVs",
-      "url": "https://discourse.openrobotics.org/t/nectar-sdk-ros-2-companion-stack-for-autonomous-uavs/57388",
+      "title": "Congestion-aware traffic planning for dense and narrow industrial environments",
+      "url": "https://discourse.openrobotics.org/t/congestion-aware-traffic-planning-for-dense-and-narrow-industrial-environments/57410",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, I am part of Black Bee Drones, an autonomous drone team at the Federal University of Itajubá (UNIFEI) in Brazil. We developed Nectar SDK, a ROS 2 toolkit for the companion computer, so control, cameras, and perception sit behind one set of interfaces instead of being rebuilt for every missio",
+      "summary": "Background I am evaluating Open-RMF for a dense industrial production environment similar to a semiconductor fabrication facility. The environment contains: Many AMRs operating simultaneously Long and narrow bidirectional corridors Bottleneck sections that can accommodate only one or two robots Limi",
       "deck": ""
     },
     {
