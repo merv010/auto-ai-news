@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-16",
-  "generated": "2026-08-16T05:16:39.291321+00:00",
+  "date": "2026-08-17",
+  "generated": "2026-08-17T05:24:33.080420+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "How robotics is revolutionizing stroke rehabilitation",
+      "url": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Eyal Samuel Shachar, the CEO of Bioxtreme, says the growing synergy of robotics, AI, and human-centered care will improve patient outcomes. The post How robotics is revolutionizing stroke rehabilitation appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Why robots that can’t communicate naturally won’t be adopted",
       "url": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "How Protolabs turns CAD files into parts in under 24 hours",
-      "url": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
-      "source": "The Robot Report",
+      "title": "Exstrike Real TIme Vision & Safety infrastructure for Autonomous Systems & Tactical Robotics",
+      "url": "https://discourse.openrobotics.org/t/exstrike-real-time-vision-safety-infrastructure-for-autonomous-systems-tactical-robotics/57440",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Protolabs CTO Marc Kermisch explains how AI, simulation, and design for manufacturing turn CAD files into production parts faster. The post How Protolabs turns CAD files into parts in under 24 hours appeared first on The Robot Report .",
+      "summary": "Hey guys, I’m building Exstrike. It’s a real-time safety filters (using Control Barrier Functions + computer vision) designed to prevent physical crashes when autonomous robots or AI navigation models mess up. The goal is to build a drop in SDK for robotics,drones,and tactical ground vehicles (dual ",
       "deck": ""
     },
     {
-      "title": "ROS News for the week of August 10th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-august-10th-2026/57415",
+      "title": "Generate 1M strictly-optimal robot paths in ~7 s of compute — free API tier for simulation & training datasets",
+      "url": "https://discourse.openrobotics.org/t/generate-1m-strictly-optimal-robot-paths-in-7-s-of-compute-free-api-tier-for-simulation-training-datasets/57439",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS News for the week of August 10th, 2026 Just ten days remain to purchase regular price tickets for ROSCon Global in Toronto. If you need corporate approval to travel to ROSCon it is now or never! Next week is Foxglove’s Actuate conference in San Francisco. There are also various meetups and event",
-      "deck": ""
-    },
-    {
-      "title": "Congestion-aware traffic planning for dense and narrow industrial environments",
-      "url": "https://discourse.openrobotics.org/t/congestion-aware-traffic-planning-for-dense-and-narrow-industrial-environments/57410",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Background I am evaluating Open-RMF for a dense industrial production environment similar to a semiconductor fabrication facility. The environment contains: Many AMRs operating simultaneously Long and narrow bidirectional corridors Bottleneck sections that can accommodate only one or two robots Limi",
+      "summary": "If you’re running warehouse scenes in Gazebo and need ground-truth optimal paths — for layout studies, dataset generation, or evaluating learned planners against BFS-exact references — this might save you hours. The problem: generating optimal paths is slow. A* on a 1M-cell map costs ~5 ms per path ",
       "deck": ""
     },
     {
