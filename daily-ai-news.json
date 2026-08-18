@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-17",
-  "generated": "2026-08-17T05:24:33.080420+00:00",
+  "date": "2026-08-18",
+  "generated": "2026-08-18T05:17:55.495410+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
       "deck": ""
     },
     {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "State of Open Models: Summer 2026 Observations",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+      "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies which seems to be entirely focused on making that happen. Persona’s approach has been to carefully select a job that is economically viable for robots right now, and th",
       "deck": ""
     },
     {
@@ -76,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Robot Recycler Salvages Parts From Broken Machines",
-      "url": "https://spectrum.ieee.org/recycling-robot",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Objects constructed by robots are ubiquitous. If you’ve used a car, household appliance, or smartphone today, you’ve used an object constructed at least in part by robots. The more products that manufacturers want to produce (and consumers want to consume) at lower costs, the more industrial robots ",
-      "deck": ""
-    },
-    {
-      "title": "How robotics is revolutionizing stroke rehabilitation",
-      "url": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
+      "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
+      "url": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Eyal Samuel Shachar, the CEO of Bioxtreme, says the growing synergy of robotics, AI, and human-centered care will improve patient outcomes. The post How robotics is revolutionizing stroke rehabilitation appeared first on The Robot Report .",
+      "summary": "Diligent is now rolling out Moxi 2.0 to health systems including Endeavor Health Edward Hospital and Children’s Hospital Los Angeles. The post Five years of operation shape Diligent Robotics rollout of Moxi 2.0 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Why robots that can’t communicate naturally won’t be adopted",
-      "url": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
+      "title": "Surgeons use da Vinci surgical robot to perform common cardiac surgery",
+      "url": "https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the importance of hearing. The post Why robots that can’t communicate naturally won’t be adopted appeared first on The Robot Report .",
+      "summary": "At the El Camino Health Heart and Vascular Institute, surgeons are now performing cardiac procedures with Intuitive's da Vinci robot. The post Surgeons use da Vinci surgical robot to perform common cardiac surgery appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Exstrike Real TIme Vision & Safety infrastructure for Autonomous Systems & Tactical Robotics",
-      "url": "https://discourse.openrobotics.org/t/exstrike-real-time-vision-safety-infrastructure-for-autonomous-systems-tactical-robotics/57440",
+      "title": "Bagel 2.0: ask your rosbags questions in plain English, reduce them to the seconds that matter (open source)",
+      "url": "https://discourse.openrobotics.org/t/bagel-2-0-ask-your-rosbags-questions-in-plain-english-reduce-them-to-the-seconds-that-matter-open-source/57482",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey guys, I’m building Exstrike. It’s a real-time safety filters (using Control Barrier Functions + computer vision) designed to prevent physical crashes when autonomous robots or AI navigation models mess up. The goal is to build a drop in SDK for robotics,drones,and tactical ground vehicles (dual ",
+      "summary": "A little over a year ago @shouheng and I launched Bagel here. We’ll we’re back with Bagel 2.0 ! And we’d love this community’s eyes on it. For those of you that are unfamilar: Bagel lets you talk to your robotics data instead of writing one-off scripts. Point Claude (or any MCP client, including ful",
       "deck": ""
     },
     {
-      "title": "Generate 1M strictly-optimal robot paths in ~7 s of compute — free API tier for simulation & training datasets",
-      "url": "https://discourse.openrobotics.org/t/generate-1m-strictly-optimal-robot-paths-in-7-s-of-compute-free-api-tier-for-simulation-training-datasets/57439",
+      "title": "Never miss a backport again — automatic ABI checking for ROS 2 core repos (prototype ready)",
+      "url": "https://discourse.openrobotics.org/t/never-miss-a-backport-again-automatic-abi-checking-for-ros-2-core-repos-prototype-ready/57477",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "If you’re running warehouse scenes in Gazebo and need ground-truth optimal paths — for layout studies, dataset generation, or evaluating learned planners against BFS-exact references — this might save you hours. The problem: generating optimal paths is slow. A* on a 1M-cell map costs ~5 ms per path ",
+      "summary": "Hi ROS community! Have you ever debugged a problem on Humble or Jazzy for hours… only to discover the fix already existed on rolling, but was never backported? You’re not alone — and I’d like to fix this systematically. The pain In principle, all bug fixes should be backported to the supported downs",
       "deck": ""
     },
     {
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur",
       "deck": ""
     },
     {
-      "title": "How kids feel about AI, in their own words",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other",
       "deck": ""
     },
     {
