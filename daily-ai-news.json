@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-19",
-  "generated": "2026-08-19T05:18:18.871578+00:00",
+  "date": "2026-08-20",
+  "generated": "2026-08-20T05:19:23.044492+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "deck": ""
     },
     {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "How to achieve high voltage in industrial systems without high complexity",
-      "url": "https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/",
+      "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
+      "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Kollmorgen discusses the importance of fitting voltage systems closely to the application while still making the best use of infrastructure. The post How to achieve high voltage in industrial systems without high complexity appeared first on The Robot Report .",
+      "summary": "The talk at RoboBusiness will outline the unique demands of each body zone and the challenges of scaling for production. The post Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "FORT Robotics to take safety stack public via SPAC merger",
-      "url": "https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/",
+      "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
+      "url": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "FORT Robotics said it expects valuation of more than $500 million as it lists on Nasdaq with plans to accelerate safety software development. The post FORT Robotics to take safety stack public via SPAC merger appeared first on The Robot Report .",
+      "summary": "Now that Unitree Robotics has made its IPO, which humanoid robotics companies will follow in its footsteps? The post What does Unitree Robotics&#8217; IPO mean for the humanoid industry? appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "SIG For Physical AI Meeting, August 21st: Surveying AI usage in ROS - Andrea Miller – CMU",
-      "url": "https://discourse.openrobotics.org/t/sig-for-physical-ai-meeting-august-21st-surveying-ai-usage-in-ros-andrea-miller-cmu/57513",
+      "title": "Robotic arm gripper issue",
+      "url": "https://discourse.openrobotics.org/t/robotic-arm-gripper-issue/57538",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "This week the ROS Special Interest Group for Physical AI is happy to share that we will be hosting Andrea Miller from CMU to share her research on how people are using AI in robotics development. You may have seen one of her surveys earlier this year: Call for Participants in a Research Study on ROS",
+      "summary": "Hi I’m building a digital twin of my robotic arm. The physical robot is already built, and in ROS 2 simulation Joint 1–5 are working correctly. I’m stuck with the gripper kinematic closed-loop. The left gear is driven by a servo, and the right gear should mimic it. Each gear drives its respective fi",
       "deck": ""
     },
     {
-      "title": "This Week at Open Robotics Headquarters (2026-08-10)",
-      "url": "https://discourse.openrobotics.org/t/this-week-at-open-robotics-headquarters-2026-08-10/57506",
+      "title": "A runtime that sits between an LLM and physical actuation - Does this fit your use case?",
+      "url": "https://discourse.openrobotics.org/t/a-runtime-that-sits-between-an-llm-and-physical-actuation-does-this-fit-your-use-case/57536",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROSCon Global Preparations INTENSIFY​ . We have officially filled all of the slots for exhibit hall and the startup pavilion!. We’re working with our sponsors to share their news with the community. We’ve got a LOT of big announcements getting unveiled in Toronto, so if you’re not there you’re gonna",
+      "summary": "Hello all, I’ve built a working runtime (I call it xZane) that sits between an AI model and physical actuation. The model proposes intents; a deterministic layer validates each one against the device’s declared capabilities before anything reaches the hardware, and the device’s own safety function r",
       "deck": ""
     },
     {
@@ -132,19 +132,19 @@
       "deck": ""
     },
     {
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "category": "Industry",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for",
+      "deck": ""
+    },
+    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
       "category": "Industry",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a",
-      "deck": ""
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "VentureBeat AI",
-      "category": "Industry",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg",
       "deck": ""
     },
     {
