@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-20",
-  "generated": "2026-08-20T05:19:23.044492+00:00",
+  "date": "2026-08-21",
+  "generated": "2026-08-21T05:21:04.077277+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "deck": ""
     },
     {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "deck": ""
     },
     {
@@ -52,8 +52,8 @@
       "deck": ""
     },
     {
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -80,55 +80,55 @@
       "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies which seems to be entirely focused on making that happen. Persona’s approach has been to carefully select a job that is economically viable for robots right now, and th",
+      "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies that seems to be entirely focused on making that happen. Persona AI’s approach has been to carefully select a job that is economically viable for robots right now, and ",
       "deck": ""
     },
     {
-      "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
-      "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/",
+      "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
+      "url": "https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The talk at RoboBusiness will outline the unique demands of each body zone and the challenges of scaling for production. The post Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness appeared first on The Robot Report .",
+      "summary": "Amazon said its Prime Air drones can deliver nearly all items 5 lb. or less that can fit in a large shoebox. The post Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
-      "url": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/",
+      "title": "ATDev gives update on its journey building autonomous wheelchairs",
+      "url": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Now that Unitree Robotics has made its IPO, which humanoid robotics companies will follow in its footsteps? The post What does Unitree Robotics&#8217; IPO mean for the humanoid industry? appeared first on The Robot Report .",
+      "summary": "ATDev is developing a modern power wheelchair with a coordinated robotic arm that can take on reaching and lifting tasks for the user. The post ATDev gives update on its journey building autonomous wheelchairs appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robotic arm gripper issue",
-      "url": "https://discourse.openrobotics.org/t/robotic-arm-gripper-issue/57538",
+      "title": "Now Open Source! HM-LD1 dToF Lidar Officially Supports ROS1 & ROS2",
+      "url": "https://discourse.openrobotics.org/t/now-open-source-hm-ld1-dtof-lidar-officially-supports-ros1-ros2/57563",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi I’m building a digital twin of my robotic arm. The physical robot is already built, and in ROS 2 simulation Joint 1–5 are working correctly. I’m stuck with the gripper kinematic closed-loop. The left gear is driven by a servo, and the right gear should mimic it. Each gear drives its respective fi",
+      "summary": "Now Open Source! HM-LD1 3D dToF Lidar Officially Supports ROS1 &amp; ROS2 Robot developers, this one’s for you — we’ve released the official ROS1 Noetic + ROS2 Humble/Lyrical dual driver for the HM-LD1 depth camera. The open-source repository is now live: myrobotproject/HM-LD1-ROS1-ROS2-driver: ROS1",
       "deck": ""
     },
     {
-      "title": "A runtime that sits between an LLM and physical actuation - Does this fit your use case?",
-      "url": "https://discourse.openrobotics.org/t/a-runtime-that-sits-between-an-llm-and-physical-actuation-does-this-fit-your-use-case/57536",
+      "title": "August Meeting - Project Showcase",
+      "url": "https://discourse.openrobotics.org/t/august-meeting-project-showcase/57555",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello all, I’ve built a working runtime (I call it xZane) that sits between an AI model and physical actuation. The model proposes intents; a deterministic layer validates each one against the device’s declared capabilities before anything reaches the hardware, and the device’s own safety function r",
+      "summary": "Hi all, A reminder that our next working group meeting is coming up on Tuesday, August 25th . If you haven’t already, please take a look at Survey - Open Ocean Software and try to fill it out ahead of time. Survey results continue to inform WG direction, discussion, and opportunities for impact on t",
       "deck": ""
     },
     {
-      "title": "We still don’t know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ",
       "deck": ""
     },
     {
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso",
       "deck": ""
     },
     {
