@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-21",
-  "generated": "2026-08-21T05:21:04.077277+00:00",
+  "date": "2026-08-22",
+  "generated": "2026-08-22T05:15:43.558200+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -20,19 +20,19 @@
       "deck": ""
     },
     {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "deck": ""
+    },
+    {
       "title": "Introducing Gemini 3.7 Flash",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
-      "url": "https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/",
+      "title": "How software-defined manufacturing fits into real factory operations",
+      "url": "https://www.therobotreport.com/how-software-defined-manufacturing-fits-into-real-factory-operations/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Amazon said its Prime Air drones can deliver nearly all items 5 lb. or less that can fit in a large shoebox. The post Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026 appeared first on The Robot Report .",
+      "summary": "Roby Lynn explains how R2 Labs bridges PLCs, robots, and AI to unify fragmented manufacturing systems. The post How software-defined manufacturing fits into real factory operations appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ATDev gives update on its journey building autonomous wheelchairs",
-      "url": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/",
+      "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
+      "url": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ATDev is developing a modern power wheelchair with a coordinated robotic arm that can take on reaching and lifting tasks for the user. The post ATDev gives update on its journey building autonomous wheelchairs appeared first on The Robot Report .",
+      "summary": "The Women in Robotics Lunch at RoboBusiness is an opportunity to form new connections and deepen relationships. The post Amazon&#8217;s Bhavana Chandrashekhar to speak at RoboBusiness&#8217; Women in Robotics Lunch appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Now Open Source! HM-LD1 dToF Lidar Officially Supports ROS1 & ROS2",
-      "url": "https://discourse.openrobotics.org/t/now-open-source-hm-ld1-dtof-lidar-officially-supports-ros1-ros2/57563",
+      "title": "How do I open the connector cap on an Ouster OS0-128 to inspect the internal ethernet connector? (fastener type unknown)",
+      "url": "https://discourse.openrobotics.org/t/how-do-i-open-the-connector-cap-on-an-ouster-os0-128-to-inspect-the-internal-ethernet-connector-fastener-type-unknown/57596",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Now Open Source! HM-LD1 3D dToF Lidar Officially Supports ROS1 &amp; ROS2 Robot developers, this one’s for you — we’ve released the official ROS1 Noetic + ROS2 Humble/Lyrical dual driver for the HM-LD1 depth camera. The open-source repository is now live: myrobotproject/HM-LD1-ROS1-ROS2-driver: ROS1",
+      "summary": "I have an Ouster OS0-128 with an ethernet connectivity fault, and I want to remove the connector cap on the base to inspect the sensor-side connector pins and internal ethernet wiring. Symptom and what I’ve ruled out: No link / intermittent link / sensor not reachable] Cable swap-tested with a known",
       "deck": ""
     },
     {
-      "title": "August Meeting - Project Showcase",
-      "url": "https://discourse.openrobotics.org/t/august-meeting-project-showcase/57555",
+      "title": "New packages for Kilted Kaiju 2026-08-21",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-kilted-kaiju-2026-08-21/57593",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, A reminder that our next working group meeting is coming up on Tuesday, August 25th . If you haven’t already, please take a look at Survey - Open Ocean Software and try to fill it out ahead of time. Survey results continue to inform WG direction, discussion, and opportunities for impact on t",
+      "summary": "This sync brings 39 new packages to Kilted and updates 451 others. Thanks very much to the many developers that were a part of this effort, including the 85 maintainers listed below. ros/rosdistro tag: kilted/2026-08-21 Added Packages [39]: ros-kilted-easynav-costmap-localizer : 0.4.1-1 ros-kilted-e",
       "deck": ""
     },
     {
