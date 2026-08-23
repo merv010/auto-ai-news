@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-22",
-  "generated": "2026-08-22T05:15:43.558200+00:00",
+  "date": "2026-08-23",
+  "generated": "2026-08-23T05:18:00.442720+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,19 +84,19 @@
       "deck": ""
     },
     {
-      "title": "How software-defined manufacturing fits into real factory operations",
-      "url": "https://www.therobotreport.com/how-software-defined-manufacturing-fits-into-real-factory-operations/",
+      "title": "Robots don’t run themselves: The workforce powering physical AI",
+      "url": "https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Roby Lynn explains how R2 Labs bridges PLCs, robots, and AI to unify fragmented manufacturing systems. The post How software-defined manufacturing fits into real factory operations appeared first on The Robot Report .",
+      "summary": "The addition of physical AI to the workforce requires more key performance indicators than throughput, according to the president of HireArt. The post Robots don&#8217;t run themselves: The workforce powering physical AI appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
-      "url": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
+      "title": "The technology that could bring robot mowers to one in two American lawns",
+      "url": "https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Women in Robotics Lunch at RoboBusiness is an opportunity to form new connections and deepen relationships. The post Amazon&#8217;s Bhavana Chandrashekhar to speak at RoboBusiness&#8217; Women in Robotics Lunch appeared first on The Robot Report .",
+      "summary": "Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder. The post The technology that could bring robot mowers to one in two American lawns appeared first on The Robot Report .",
       "deck": ""
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://discourse.openrobotics.org/t/how-do-i-open-the-connector-cap-on-an-ouster-os0-128-to-inspect-the-internal-ethernet-connector-fastener-type-unknown/57596",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I have an Ouster OS0-128 with an ethernet connectivity fault, and I want to remove the connector cap on the base to inspect the sensor-side connector pins and internal ethernet wiring. Symptom and what I’ve ruled out: No link / intermittent link / sensor not reachable] Cable swap-tested with a known",
+      "summary": "I have an Ouster OS0-128 with an ethernet connectivity fault, and I want to remove the connector cap on the base to inspect the sensor-side connector pins and internal ethernet wiring. Symptom and what I’ve ruled out: I had lidar and interface box, I tried connecting different ouster with existing i",
       "deck": ""
     },
     {
