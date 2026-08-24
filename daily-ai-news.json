@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-23",
-  "generated": "2026-08-23T05:18:00.442720+00:00",
+  "date": "2026-08-24",
+  "generated": "2026-08-24T05:27:47.057425+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Use a digital twin to explore automation before committing capital",
+      "url": "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "While a digital twin does not necessarily replace a systems integrator, it can help manufacturers evaluate robots and plan applications, says RoboDK. The post Use a digital twin to explore automation before committing capital appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Robots don’t run themselves: The workforce powering physical AI",
       "url": "https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "The technology that could bring robot mowers to one in two American lawns",
-      "url": "https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/",
-      "source": "The Robot Report",
+      "title": "About the Filipino Users Group category",
+      "url": "https://discourse.openrobotics.org/t/about-the-filipino-users-group-category/57623",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder. The post The technology that could bring robot mowers to one in two American lawns appeared first on The Robot Report .",
+      "summary": "Mabuhay and welcome! The ROS Philippines User Group ay isang space para sa mga robotics enthusiasts, students, hobbyists, at engineers sa buong Pilipinas na mag-connect, matuto, at lumago together. Ang goal namin is to make ROS2 and robotics more accessible dito sa region through workshops, project ",
       "deck": ""
     },
     {
-      "title": "How do I open the connector cap on an Ouster OS0-128 to inspect the internal ethernet connector? (fastener type unknown)",
-      "url": "https://discourse.openrobotics.org/t/how-do-i-open-the-connector-cap-on-an-ouster-os0-128-to-inspect-the-internal-ethernet-connector-fastener-type-unknown/57596",
+      "title": "Update on QERRA-v2: Adding a 3rd layer (THRIVE) for social and ecological action choices in robotics",
+      "url": "https://discourse.openrobotics.org/t/update-on-qerra-v2-adding-a-3rd-layer-thrive-for-social-and-ecological-action-choices-in-robotics/57614",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I have an Ouster OS0-128 with an ethernet connectivity fault, and I want to remove the connector cap on the base to inspect the sensor-side connector pins and internal ethernet wiring. Symptom and what I’ve ruled out: I had lidar and interface box, I tried connecting different ouster with existing i",
-      "deck": ""
-    },
-    {
-      "title": "New packages for Kilted Kaiju 2026-08-21",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-kilted-kaiju-2026-08-21/57593",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "This sync brings 39 new packages to Kilted and updates 451 others. Thanks very much to the many developers that were a part of this effort, including the 85 maintainers listed below. ros/rosdistro tag: kilted/2026-08-21 Added Packages [39]: ros-kilted-easynav-costmap-localizer : 0.4.1-1 ros-kilted-e",
+      "summary": "Hi everyone, A quick update on my previous post about QERRA-v2. Over the last few weeks, I’ve been working on the third layer of the system — QERRA-THRIVE —and I’ve pushed the initial implementation to v2.0.0. The reason I built this is simple: preventing collisions (Layer 2) and catching serious mo",
       "deck": ""
     },
     {
