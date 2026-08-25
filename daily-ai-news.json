@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-24",
-  "generated": "2026-08-24T05:27:47.057425+00:00",
+  "date": "2026-08-25",
+  "generated": "2026-08-25T05:21:39.943515+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "deck": ""
+    },
     {
       "title": "Introducing AI Futures",
       "url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "deck": ""
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Measuring benchmark optimization in speech recognition",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
+      "url": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
       "deck": ""
     },
     {
@@ -76,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
-      "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies that seems to be entirely focused on making that happen. Persona AI’s approach has been to carefully select a job that is economically viable for robots right now, and ",
-      "deck": ""
-    },
-    {
-      "title": "Use a digital twin to explore automation before committing capital",
-      "url": "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/",
+      "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
+      "url": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "While a digital twin does not necessarily replace a systems integrator, it can help manufacturers evaluate robots and plan applications, says RoboDK. The post Use a digital twin to explore automation before committing capital appeared first on The Robot Report .",
+      "summary": "For agricultural and construction equipment makers to stay relevant as workforces dwindle, they need to add AI, says Agtonomy's founder. The post The next big AI play isn&#8217;t apps or humanoids; it&#8217;s machines with brains and brawn appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robots don’t run themselves: The workforce powering physical AI",
-      "url": "https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/",
+      "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
+      "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The addition of physical AI to the workforce requires more key performance indicators than throughput, according to the president of HireArt. The post Robots don&#8217;t run themselves: The workforce powering physical AI appeared first on The Robot Report .",
+      "summary": "Dogotix, the humanoid unit of XPeng Motors, has attained a valuation of $6.3 billion as it plans to produce robots at scale. The post XPeng Motors humanoid robot unit Dogotix raises $900M appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "About the Filipino Users Group category",
-      "url": "https://discourse.openrobotics.org/t/about-the-filipino-users-group-category/57623",
+      "title": "Regular Price ROSCon Tickets Extended until August 27th",
+      "url": "https://discourse.openrobotics.org/t/regular-price-roscon-tickets-extended-until-august-27th/57652",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Mabuhay and welcome! The ROS Philippines User Group ay isang space para sa mga robotics enthusiasts, students, hobbyists, at engineers sa buong Pilipinas na mag-connect, matuto, at lumago together. Ang goal namin is to make ROS2 and robotics more accessible dito sa region through workshops, project ",
+      "summary": "Great news! Thanks to the generous support of Destination Toronto we’ve extended the sale of regular price ROSCon tickets until Fri, Aug 28, 2026 6:59 AM UTC . 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
-      "title": "Update on QERRA-v2: Adding a 3rd layer (THRIVE) for social and ecological action choices in robotics",
-      "url": "https://discourse.openrobotics.org/t/update-on-qerra-v2-adding-a-3rd-layer-thrive-for-social-and-ecological-action-choices-in-robotics/57614",
+      "title": "RoboSkin ROS 2 tactile-array starter kit: message contract, synthetic publisher, and rosbag2 example",
+      "url": "https://discourse.openrobotics.org/t/roboskin-ros-2-tactile-array-starter-kit-message-contract-synthetic-publisher-and-rosbag2-example/57650",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, A quick update on my previous post about QERRA-v2. Over the last few weeks, I’ve been working on the third layer of the system — QERRA-THRIVE —and I’ve pushed the initial implementation to v2.0.0. The reason I built this is simple: preventing collisions (Layer 2) and catching serious mo",
+      "summary": "Hi everyone, I maintain RoboSkin.ai and have released v0.1.0 of a small Apache-2.0 ROS 2 tactile-array starter kit. The goal is not to propose an official message standard or claim hardware compatibility; it is a hardware-neutral reference for teams that need a typed message contract, a deterministi",
       "deck": ""
     },
     {
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
       "deck": ""
     },
     {
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
       "deck": ""
     },
     {
