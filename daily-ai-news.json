@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-25",
-  "generated": "2026-08-25T05:21:39.943515+00:00",
+  "date": "2026-08-26",
+  "generated": "2026-08-26T05:21:22.039870+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "deck": ""
     },
     {
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+      "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice",
       "deck": ""
     },
     {
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Drones With Claws Perch on Arctic Icebergs",
-      "url": "https://spectrum.ieee.org/arctic-iceberg-drones",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. Microspines are one of many ways to enable robots to latch onto surfaces like walls and ceilings . Now roboticists in Canada are using the mini spikes to get drones to land on a more challenging, remote ",
-      "deck": ""
-    },
-    {
-      "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
-      "url": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
+      "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
+      "url": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "For agricultural and construction equipment makers to stay relevant as workforces dwindle, they need to add AI, says Agtonomy's founder. The post The next big AI play isn&#8217;t apps or humanoids; it&#8217;s machines with brains and brawn appeared first on The Robot Report .",
+      "summary": "Early bird pricing for RoboBusiness 2026, which saves attendees $200 on full conference passes, will end Aug. 31. The post Early bird pricing for RoboBusiness 2026 ends August 31 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
-      "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
+      "title": "Humans in the loop are still needed for robotaxi fleet safety, says Guident",
+      "url": "https://www.therobotreport.com/humans-loop-are-still-needed-robotaxi-fleet-safety-says-guident/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Dogotix, the humanoid unit of XPeng Motors, has attained a valuation of $6.3 billion as it plans to produce robots at scale. The post XPeng Motors humanoid robot unit Dogotix raises $900M appeared first on The Robot Report .",
+      "summary": "As fleets of autonomous vehicles scale, AI and human oversight remain critical for safety, explains Guident's CEO. The post Humans in the loop are still needed for robotaxi fleet safety, says Guident appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Regular Price ROSCon Tickets Extended until August 27th",
-      "url": "https://discourse.openrobotics.org/t/regular-price-roscon-tickets-extended-until-august-27th/57652",
+      "title": "Nav2 Lyrical Release & Key Features!",
+      "url": "https://discourse.openrobotics.org/t/nav2-lyrical-release-key-features/57666",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Great news! Thanks to the generous support of Destination Toronto we’ve extended the sale of regular price ROSCon tickets until Fri, Aug 28, 2026 6:59 AM UTC . 1 post - 1 participant Read full topic",
+      "summary": "Howdy! Its Your Friendly Neighborhood Navigator with an exciting announcement: Nav2’s Lyrical Release! (I just couldn’t help myself; this is just too cool. If anyone has swag ideas for this, let me know!) This release marks some of the most exciting and broad updates made in several distributions, i",
       "deck": ""
     },
     {
-      "title": "RoboSkin ROS 2 tactile-array starter kit: message contract, synthetic publisher, and rosbag2 example",
-      "url": "https://discourse.openrobotics.org/t/roboskin-ros-2-tactile-array-starter-kit-message-contract-synthetic-publisher-and-rosbag2-example/57650",
+      "title": "This Week at Open Robotics Headquarters (2026-08-17)",
+      "url": "https://discourse.openrobotics.org/t/this-week-at-open-robotics-headquarters-2026-08-17/57665",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I maintain RoboSkin.ai and have released v0.1.0 of a small Apache-2.0 ROS 2 tactile-array starter kit. The goal is not to propose an official message standard or claim hardware compatibility; it is a hardware-neutral reference for teams that need a typed message contract, a deterministi",
+      "summary": "First, a quick programming note: This post is going biweekly until after ROSCon. Not only do we need every moment we can scrape together for ROSCon prep, we’re also pretty sure you don’t want to read “yup, worked on conference stuff” every. single. week. You’re welcome. So, yup, we worked on confere",
+      "deck": ""
+    },
+    {
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are a",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
-      "deck": ""
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
       "deck": ""
     },
     {
