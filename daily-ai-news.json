@@ -1,22 +1,30 @@
 {
-  "date": "2026-08-27",
-  "generated": "2026-08-27T15:56:45.037451+00:00",
+  "date": "2026-08-28",
+  "generated": "2026-08-28T16:58:09.357801+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "deck": ""
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "deck": ""
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Piloting the world's first double-blind AI evaluations",
-      "deck": ""
-    },
-    {
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
       "deck": ""
     },
     {
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
-      "url": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization/",
+      "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
+      "url": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Carbon Robotics introduced a plant foundation AI model and tractor kit, enabling farmers to customize laser weeding. The post Carbon Robotics partners with iMerit to power instant in-field AI customization appeared first on The Robot Report .",
+      "summary": "Locus Robotics recently acquired Nexera Robotics, which create unique soft picking technology, bolstering its manipulation capabilities. The post How Locus is getting a grasp on one of robotics biggest challenges: manipulation appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
-      "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations/",
+      "title": "Teradyne Robotics ramps up fight against cobot copycats",
+      "url": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Gatik said the funding will help it expand its model built around high-frequency regional routes connecting distribution centers and stores. The post Gatik brings in $200M to continue expanding autonomous trucking operations appeared first on The Robot Report .",
+      "summary": "Teradyne Robotics sued cobot maker JAKA over alleged patent infringement, marking its second battle with a Chinese cobot company in 2026. The post Teradyne Robotics ramps up fight against cobot copycats appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Bringing ROS into your native C/C++ workflow with Conan",
-      "url": "https://discourse.openrobotics.org/t/bringing-ros-into-your-native-c-c-workflow-with-conan/57697",
+      "title": "Where does an intent-validation layer sit relative to Anthropic's Model Hardware Standard and to ROS 2?",
+      "url": "https://discourse.openrobotics.org/t/where-does-an-intent-validation-layer-sit-relative-to-anthropics-model-hardware-standard-and-to-ros-2/57725",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS community! I am Dani, a member of the Conan C/C++ Package Manager team, and we would like to introduce conan-io/ros-conan : a collection of Conan recipes for installing and consuming ROS Kilted on Linux, macOS, and Windows. We have recently been working to offer an alternative workflow for C+",
+      "summary": "Anthropic previewed the Model Hardware Standard this week: a driver standard for AI agents operating equipment (read/write primitives, discovery, a per-device reference file of what it measures, adjusts, and refuses), model-agnostic, reachable over MCP, and to be open-sourced after safety evaluation",
       "deck": ""
     },
     {
-      "title": "ROS2 CUDA interop",
-      "url": "https://discourse.openrobotics.org/t/ros2-cuda-interop/57686",
+      "title": "Name the next Gazebo release! Gazebo M speech_balloon",
+      "url": "https://discourse.openrobotics.org/t/name-the-next-gazebo-release-gazebo-m-speech-balloon/57723",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I have been working with CUDA lately and with the whole rosidl::Buffer being implemented in lyrical, I was wondering if there is anything I could start with adding an optional CUDA backend support to, whether that’s a nav2 plugin or image transport etc. I’d appreciate any and all feedback. 1 post - ",
+      "summary": "Hi, community! As discussed in this announcement , the next Gazebo version will be released in March 2027. And we need a new name! Gazebo’s naming scheme increases alphabetically and follows the “architecture” theme. These are the existing names: Acropolis Blueprint Citadel Dome Edifice Fortress Gar",
       "deck": ""
     },
     {
@@ -132,19 +132,19 @@
       "deck": ""
     },
     {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "source": "VentureBeat AI",
-      "category": "Industry",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says G",
-      "deck": ""
-    },
-    {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "source": "VentureBeat AI",
       "category": "Industry",
       "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into application",
+      "deck": ""
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat AI",
+      "category": "Industry",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, wha",
       "deck": ""
     },
     {
