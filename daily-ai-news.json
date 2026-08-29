@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-28",
-  "generated": "2026-08-28T16:58:09.357801+00:00",
+  "date": "2026-08-29",
+  "generated": "2026-08-29T11:23:31.005905+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "deck": ""
+    },
     {
       "title": "Supporting Thailand’s next generation of AI startups",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "deck": ""
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/train-multi-vector-encoder",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Meet Microduck",
+      "url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
-      "url": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
-      "deck": ""
-    },
-    {
-      "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
-      "url": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
+      "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+      "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Locus Robotics recently acquired Nexera Robotics, which create unique soft picking technology, bolstering its manipulation capabilities. The post How Locus is getting a grasp on one of robotics biggest challenges: manipulation appeared first on The Robot Report .",
+      "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI. The post From teach and repeat to SelfPath AI: The next robotics leap appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Teradyne Robotics ramps up fight against cobot copycats",
-      "url": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker/",
+      "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
+      "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Teradyne Robotics sued cobot maker JAKA over alleged patent infringement, marking its second battle with a Chinese cobot company in 2026. The post Teradyne Robotics ramps up fight against cobot copycats appeared first on The Robot Report .",
+      "summary": "Deere beats Q3 expectations, raises guidance, and partners with Reservoir on a $10 million agtech AI initiative. The post Deere faces headwinds in Q3 update and announces Reservoir R&#038;D partnership appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Where does an intent-validation layer sit relative to Anthropic's Model Hardware Standard and to ROS 2?",
-      "url": "https://discourse.openrobotics.org/t/where-does-an-intent-validation-layer-sit-relative-to-anthropics-model-hardware-standard-and-to-ros-2/57725",
+      "title": "ROS 2 Windows CI on GitHub Actions: current options and a Pixi-based pattern",
+      "url": "https://discourse.openrobotics.org/t/ros-2-windows-ci-on-github-actions-current-options-and-a-pixi-based-pattern/57736",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Anthropic previewed the Model Hardware Standard this week: a driver standard for AI agents operating equipment (read/write primitives, discovery, a per-device reference file of what it measures, adjusts, and refuses), model-agnostic, reachable over MCP, and to be open-sourced after safety evaluation",
+      "summary": "I’m trying to understand what we should currently recommend for ROS 2 projects that want to run a real Windows CI job on GitHub Actions, including both build and tests. There are several existing actions and examples, but their Windows behavior is somewhat different from Linux. I recently compared a",
       "deck": ""
     },
     {
-      "title": "Name the next Gazebo release! Gazebo M speech_balloon",
-      "url": "https://discourse.openrobotics.org/t/name-the-next-gazebo-release-gazebo-m-speech-balloon/57723",
+      "title": "Homebrew dropping support for macOS intel / amd64",
+      "url": "https://discourse.openrobotics.org/t/homebrew-dropping-support-for-macos-intel-amd64/57731",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi, community! As discussed in this announcement , the next Gazebo version will be released in March 2027. And we need a new name! Gazebo’s naming scheme increases alphabetically and follows the “architecture” theme. These are the existing names: Acropolis Blueprint Citadel Dome Edifice Fortress Gar",
+      "summary": "Hi all, homebrew announced last year that they were planning to drop support for intel / amd64 CPUs in macOS in September 2026. I opened an issue with details about this change and a proposed plan, and since brew has already stopped building new intel bottles, I’m announcing it here. My apologies fo",
       "deck": ""
     },
     {
