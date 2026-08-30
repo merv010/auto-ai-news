@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-29",
-  "generated": "2026-08-29T11:23:31.005905+00:00",
+  "date": "2026-08-30",
+  "generated": "2026-08-30T10:09:16.600684+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "The differences between decentralized and centralized power in swarm robotics",
+      "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both. The post The differences between decentralized and centralized power in swarm robotics appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "From teach and repeat to SelfPath AI: The next robotics leap",
       "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
       "source": "The Robot Report",
@@ -92,11 +100,11 @@
       "deck": ""
     },
     {
-      "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
-      "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/",
-      "source": "The Robot Report",
+      "title": "Simple C++ node to get more accurate topic frequency",
+      "url": "https://discourse.openrobotics.org/t/simple-c-node-to-get-more-accurate-topic-frequency/57741",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Deere beats Q3 expectations, raises guidance, and partners with Reservoir on a $10 million agtech AI initiative. The post Deere faces headwinds in Q3 update and announces Reservoir R&#038;D partnership appeared first on The Robot Report .",
+      "summary": "Here is a simple C++ replacement for ` ros2 topic hz `. It is more accurate than the native ros2 command for high frequency / high bandwidth topics. It should work for any RMW (though I tested it for Zenoh only). After building the workspace, run it like this: ros2 run ros2topic_hz ros2topic_hz --to",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "I’m trying to understand what we should currently recommend for ROS 2 projects that want to run a real Windows CI job on GitHub Actions, including both build and tests. There are several existing actions and examples, but their Windows behavior is somewhat different from Linux. I recently compared a",
-      "deck": ""
-    },
-    {
-      "title": "Homebrew dropping support for macOS intel / amd64",
-      "url": "https://discourse.openrobotics.org/t/homebrew-dropping-support-for-macos-intel-amd64/57731",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi all, homebrew announced last year that they were planning to drop support for intel / amd64 CPUs in macOS in September 2026. I opened an issue with details about this change and a proposed plan, and since brew has already stopped building new intel bottles, I’m announcing it here. My apologies fo",
       "deck": ""
     },
     {
