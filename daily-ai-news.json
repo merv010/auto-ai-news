@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-30",
-  "generated": "2026-08-30T10:09:16.600684+00:00",
+  "date": "2026-08-31",
+  "generated": "2026-08-31T11:11:37.486680+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "The edge AI wall: Why embodied AI requires new mathematics",
+      "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Computational overload is not a bug of a specific planner, but an edge AI wall limiting physical and embodied AI. The post The edge AI wall: Why embodied AI requires new mathematics appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "The differences between decentralized and centralized power in swarm robotics",
       "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "From teach and repeat to SelfPath AI: The next robotics leap",
-      "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
-      "source": "The Robot Report",
+      "title": "[GSoC 2026] QA of Reset of Core Systems",
+      "url": "https://discourse.openrobotics.org/t/gsoc-2026-qa-of-reset-of-core-systems/57775",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI. The post From teach and repeat to SelfPath AI: The next robotics leap appeared first on The Robot Report .",
+      "summary": "[GSoC 2026] QA of Reset of Core Systems Organization: Open Robotics Mentors: Arjo Chakravarty ( @arjo129 ) Student: Yimo ( GitHub ) Project page: QA of Reset of Core Systems Hello everyone, This summer I worked on Gazebo’s core plugin reset path, mentored by Arjo Chakravarty. The official outcome fo",
       "deck": ""
     },
     {
-      "title": "Simple C++ node to get more accurate topic frequency",
-      "url": "https://discourse.openrobotics.org/t/simple-c-node-to-get-more-accurate-topic-frequency/57741",
+      "title": "Zulip hits 1000 Open Roboticists!",
+      "url": "https://discourse.openrobotics.org/t/zulip-hits-1000-open-roboticists/57768",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Here is a simple C++ replacement for ` ros2 topic hz `. It is more accurate than the native ros2 command for high frequency / high bandwidth topics. It should work for any RMW (though I tested it for Zenoh only). After building the workspace, run it like this: ros2 run ros2topic_hz ros2topic_hz --to",
-      "deck": ""
-    },
-    {
-      "title": "ROS 2 Windows CI on GitHub Actions: current options and a Pixi-based pattern",
-      "url": "https://discourse.openrobotics.org/t/ros-2-windows-ci-on-github-actions-current-options-and-a-pixi-based-pattern/57736",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "I’m trying to understand what we should currently recommend for ROS 2 projects that want to run a real Windows CI job on GitHub Actions, including both build and tests. There are several existing actions and examples, but their Windows behavior is somewhat different from Linux. I recently compared a",
+      "summary": "It’s been less than a year since we announced the Open Robotics Zulip chat server and as of last Friday it’s already reached 1000 members! That’s some impressive growth, but growth is nothing without substance. Y’all are bringing that, with thousands of messages sent every week. That’s a whole lot o",
       "deck": ""
     },
     {
