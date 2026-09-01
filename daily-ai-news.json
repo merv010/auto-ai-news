@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-31",
-  "generated": "2026-08-31T11:11:37.486680+00:00",
+  "date": "2026-09-01",
+  "generated": "2026-09-01T09:37:50.890343+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "deck": ""
     },
     {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "deck": ""
     },
     {
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "The edge AI wall: Why embodied AI requires new mathematics",
-      "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/",
+      "title": "Skild AI unveils S1 flagship robot foundation model",
+      "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Computational overload is not a bug of a specific planner, but an edge AI wall limiting physical and embodied AI. The post The edge AI wall: Why embodied AI requires new mathematics appeared first on The Robot Report .",
+      "summary": "Skild AI says its S1 robot foundation model enables robots to learn new tasks just by seeing a video of it being performed. The post Skild AI unveils S1 flagship robot foundation model appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "The differences between decentralized and centralized power in swarm robotics",
-      "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
+      "title": "How better grippers can unlock physical AI",
+      "url": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both. The post The differences between decentralized and centralized power in swarm robotics appeared first on The Robot Report .",
+      "summary": "Physical AI depends on smarter grippers to give robots the dexterity, sensing and adaptability needed to handle real-world tasks. The post How better grippers can unlock physical AI appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "[GSoC 2026] QA of Reset of Core Systems",
-      "url": "https://discourse.openrobotics.org/t/gsoc-2026-qa-of-reset-of-core-systems/57775",
+      "title": "ROS PMC Minutes for August 25th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-august-25th-2026/57793",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "[GSoC 2026] QA of Reset of Core Systems Organization: Open Robotics Mentors: Arjo Chakravarty ( @arjo129 ) Student: Yimo ( GitHub ) Project page: QA of Reset of Core Systems Hello everyone, This summer I worked on Gazebo’s core plugin reset path, mentored by Arjo Chakravarty. The official outcome fo",
+      "summary": "The ROS PMC meeting for this week was on Tuesday, August 25, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business Decisions going to an asynchronous vote this week. The ballot will be sent out shortly. Promote @skye.galaxy to PMC member, sponsored by @em",
       "deck": ""
     },
     {
-      "title": "Zulip hits 1000 Open Roboticists!",
-      "url": "https://discourse.openrobotics.org/t/zulip-hits-1000-open-roboticists/57768",
+      "title": "Remote Teleop for arms",
+      "url": "https://discourse.openrobotics.org/t/remote-teleop-for-arms/57788",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "It’s been less than a year since we announced the Open Robotics Zulip chat server and as of last Friday it’s already reached 1000 members! That’s some impressive growth, but growth is nothing without substance. Y’all are bringing that, with thousands of messages sent every week. That’s a whole lot o",
+      "summary": "Today we are announcing the addition of two new control modalities to our Remote Teleop capability: VR controllers and mouse gestures. With these you can now control arms, mobile bases, or both at the same time, from anywhere in the world. This is useful both for continuous data collection as well a",
+      "deck": ""
+    },
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were",
-      "deck": ""
-    },
-    {
-      "title": "Raised on AI",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; F",
       "deck": ""
     },
     {
