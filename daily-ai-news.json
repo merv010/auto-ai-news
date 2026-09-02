@@ -1,22 +1,30 @@
 {
-  "date": "2026-09-01",
-  "generated": "2026-09-01T09:37:50.890343+00:00",
+  "date": "2026-09-02",
+  "generated": "2026-09-02T09:09:17.685946+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "deck": ""
     },
     {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "deck": ""
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Piloting the world's first double-blind AI evaluations",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Skild AI unveils S1 flagship robot foundation model",
-      "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
+      "title": "Top 10 robotics stories of August 2026",
+      "url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Skild AI says its S1 robot foundation model enables robots to learn new tasks just by seeing a video of it being performed. The post Skild AI unveils S1 flagship robot foundation model appeared first on The Robot Report .",
+      "summary": "August 2026's top 10 stories included large funding rounds, updates in the humanoid robot industry, and the latest physical AI models. The post Top 10 robotics stories of August 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How better grippers can unlock physical AI",
-      "url": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/",
+      "title": "Learn how physical AI is being used to do real work at RoboBusiness",
+      "url": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Physical AI depends on smarter grippers to give robots the dexterity, sensing and adaptability needed to handle real-world tasks. The post How better grippers can unlock physical AI appeared first on The Robot Report .",
+      "summary": "Leaders at Amazon Robotics, Teradyne Robotics, and Cobot will discuss how they're applying physical AI to robots operating in customer environments. The post Learn how physical AI is being used to do real work at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS PMC Minutes for August 25th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-august-25th-2026/57793",
+      "title": "Three bugs that changed how our sensor board talks to ROS 2",
+      "url": "https://discourse.openrobotics.org/t/three-bugs-that-changed-how-our-sensor-board-talks-to-ros-2/57825",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The ROS PMC meeting for this week was on Tuesday, August 25, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business Decisions going to an asynchronous vote this week. The ballot will be sent out shortly. Promote @skye.galaxy to PMC member, sponsored by @em",
+      "summary": "We’re working on a board that connects cameras and sensors to a robot’s compute over CAN-FD and GMSL2. Three things came up during development that changed the design more than anything we planned upfront. The flash budget made the decision for us. We started assuming the board would speak ROS direc",
       "deck": ""
     },
     {
-      "title": "Remote Teleop for arms",
-      "url": "https://discourse.openrobotics.org/t/remote-teleop-for-arms/57788",
+      "title": "Robotics Software Engineer - Austin, TX - Valstad Shipworks",
+      "url": "https://discourse.openrobotics.org/t/robotics-software-engineer-austin-tx-valstad-shipworks/57814",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Today we are announcing the addition of two new control modalities to our Remote Teleop capability: VR controllers and mouse gestures. With these you can now control arms, mobile bases, or both at the same time, from anywhere in the world. This is useful both for continuous data collection as well a",
+      "summary": "Hey all, Background on us: we’re a venture-backed startup based in Austin, Texas. We’re reinventing the way America builds ships, centered around high-mix robotics. Our current platform is designed to take a 3D model of part of a ship, automatically generate an assembly sequence, and assemble and we",
       "deck": ""
     },
     {
