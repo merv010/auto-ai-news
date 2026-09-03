@@ -1,8 +1,16 @@
 {
-  "date": "2026-09-02",
-  "generated": "2026-09-02T09:09:17.685946+00:00",
+  "date": "2026-09-03",
+  "generated": "2026-09-03T09:15:37.495672+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "deck": ""
+    },
     {
       "title": "How AI-native companies turn workflows into operating capability",
       "url": "https://openai.com/index/ai-native-company-workflows",
@@ -12,24 +20,16 @@
       "deck": ""
     },
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Top 10 robotics stories of August 2026",
-      "url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
+      "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
+      "url": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "August 2026's top 10 stories included large funding rounds, updates in the humanoid robot industry, and the latest physical AI models. The post Top 10 robotics stories of August 2026 appeared first on The Robot Report .",
+      "summary": "NexCOBOT, which provides functional safety and motion controllers, discusses how physical AI benefits from 'Big Tech' and where it will grow. The post NexCOBOT discusses physical AI market hurdles and acceleration appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Learn how physical AI is being used to do real work at RoboBusiness",
-      "url": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness/",
+      "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
+      "url": "https://www.therobotreport.com/learn-why-food-is-physical-ai-hardest-problem-chef-robotics-robobusiness/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Leaders at Amazon Robotics, Teradyne Robotics, and Cobot will discuss how they're applying physical AI to robots operating in customer environments. The post Learn how physical AI is being used to do real work at RoboBusiness appeared first on The Robot Report .",
+      "summary": "Rajat Bhageria, the founder and CEO of Chef Robotics, will explore what makes food such a demanding benchmark for physical AI. The post Learn why food is physical AI&#8217;s hardest problem at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Three bugs that changed how our sensor board talks to ROS 2",
-      "url": "https://discourse.openrobotics.org/t/three-bugs-that-changed-how-our-sensor-board-talks-to-ros-2/57825",
+      "title": "Ament index ressources through unified cli interface",
+      "url": "https://discourse.openrobotics.org/t/ament-index-ressources-through-unified-cli-interface/57841",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re working on a board that connects cameras and sensors to a robot’s compute over CAN-FD and GMSL2. Three things came up during development that changed the design more than anything we planned upfront. The flash budget made the decision for us. We started assuming the board would speak ROS direc",
+      "summary": "Hi, While jumping from project to project you might want to know what resources are available for discoverability (plugins, config files or other custom resources). And ament_index_python provide the exact tooling in order to do that. However this is yet another endpoint one user needs to know. What",
       "deck": ""
     },
     {
-      "title": "Robotics Software Engineer - Austin, TX - Valstad Shipworks",
-      "url": "https://discourse.openrobotics.org/t/robotics-software-engineer-austin-tx-valstad-shipworks/57814",
+      "title": "UI/UX Improvements to the Crossflow Diagram Editor",
+      "url": "https://discourse.openrobotics.org/t/ui-ux-improvements-to-the-crossflow-diagram-editor/57838",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey all, Background on us: we’re a venture-backed startup based in Austin, Texas. We’re reinventing the way America builds ships, centered around high-mix robotics. Our current platform is designed to take a 3D model of part of a ship, automatically generate an assembly sequence, and assemble and we",
+      "summary": "Contributor: Zhen Wan Mentors: Michael Grey and Aaron Chong Link to repository: open-rmf/crossflow Link to Demo Video: Interop SIG, 06 August 2026: Google Summer of Code for Open-RMF Link to Demo Code: GitHub - ArizmendiWan/hotel-bot-demo: Crossflow orchestration demo for two RMF robots and two hote",
+      "deck": ""
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
-      "deck": ""
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were",
       "deck": ""
     },
     {
