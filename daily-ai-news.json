@@ -1,35 +1,35 @@
 {
-  "date": "2026-09-03",
-  "generated": "2026-09-03T09:15:37.495672+00:00",
-  "story_count": 20,
+  "date": "2026-09-04",
+  "generated": "2026-09-04T09:09:30.802335+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "deck": ""
     },
     {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "deck": ""
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
@@ -52,67 +52,67 @@
       "deck": ""
     },
     {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Video Friday: Meet Microduck",
-      "url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+      "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
+      "summary": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneum",
       "deck": ""
     },
     {
-      "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-      "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+      "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+      "url": "https://spectrum.ieee.org/moon-ball-robot",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice",
+      "summary": "On a good day, the rock quarry in central Texas is about 370,000 kilometers (230,000 miles) from the moon. But last February, when Rishi Jangale watched his 1.8-meter-wide, 150-kilogram inflatable robot roll effortlessly over rocks, gravel, and wet clay, his imagination turned the quarry into the lu",
       "deck": ""
     },
     {
-      "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
-      "url": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration/",
+      "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
+      "url": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "NexCOBOT, which provides functional safety and motion controllers, discusses how physical AI benefits from 'Big Tech' and where it will grow. The post NexCOBOT discusses physical AI market hurdles and acceleration appeared first on The Robot Report .",
+      "summary": "Medtronic and Cornerstone Robotics are building a multi-port portfolio anchored by the Hugo surgical system and expanded by Sentire. The post Medtronic invests $700M in surgical partner Cornerstone Robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
-      "url": "https://www.therobotreport.com/learn-why-food-is-physical-ai-hardest-problem-chef-robotics-robobusiness/",
+      "title": "JAKA hits Teradyne Robotics back over patent dispute",
+      "url": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Rajat Bhageria, the founder and CEO of Chef Robotics, will explore what makes food such a demanding benchmark for physical AI. The post Learn why food is physical AI&#8217;s hardest problem at RoboBusiness appeared first on The Robot Report .",
+      "summary": "JAKA is now taking legal action against Teradyne Robotics to end public dissemination of statements it considers \"false, misleading and damaging.\" The post JAKA hits Teradyne Robotics back over patent dispute appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Ament index ressources through unified cli interface",
-      "url": "https://discourse.openrobotics.org/t/ament-index-ressources-through-unified-cli-interface/57841",
+      "title": "Bimo, an open-source bipedal robotics kit with sim-to-real transfer",
+      "url": "https://discourse.openrobotics.org/t/bimo-an-open-source-bipedal-robotics-kit-with-sim-to-real-transfer/57846",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi, While jumping from project to project you might want to know what resources are available for discoverability (plugins, config files or other custom resources). And ament_index_python provide the exact tooling in order to do that. However this is yet another endpoint one user needs to know. What",
+      "summary": "Bimo is an open-source bipedal robot built to make bipedal robotics research accessible in a compact, affordable platform. It ships either as a fully assembled SLS Kit (ready to walk out of the box) or as a DIY Kit where you print the parts yourself and assemble the robot. What you can use it for Le",
       "deck": ""
     },
     {
-      "title": "UI/UX Improvements to the Crossflow Diagram Editor",
-      "url": "https://discourse.openrobotics.org/t/ui-ux-improvements-to-the-crossflow-diagram-editor/57838",
+      "title": "A one-command installer for the apt-based ROS 2 path",
+      "url": "https://discourse.openrobotics.org/t/a-one-command-installer-for-the-apt-based-ros-2-path/57843",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Contributor: Zhen Wan Mentors: Michael Grey and Aaron Chong Link to repository: open-rmf/crossflow Link to Demo Video: Interop SIG, 06 August 2026: Google Summer of Code for Open-RMF Link to Demo Code: GitHub - ArizmendiWan/hotel-bot-demo: Crossflow orchestration demo for two RMF robots and two hote",
+      "summary": "I’d like ROS 2 to be installable with one command on Ubuntu: curl -fsSL https://ros.org/install.sh | sh source /opt/ros/lyrical/setup.bash Today it’s a sequence — enable universe, look up the latest ros-apt-source release, download the .deb, dpkg -i , apt update , apt install - from Installation Tho",
       "deck": ""
     },
     {
@@ -129,22 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
-      "deck": ""
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "source": "VentureBeat AI",
-      "category": "Industry",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into application",
-      "deck": ""
-    },
-    {
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "source": "VentureBeat AI",
-      "category": "Industry",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, wha",
       "deck": ""
     },
     {
