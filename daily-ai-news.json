@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-04",
-  "generated": "2026-09-04T09:09:30.802335+00:00",
+  "date": "2026-09-05",
+  "generated": "2026-09-05T08:40:53.513393+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -12,11 +12,11 @@
       "deck": ""
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "deck": ""
     },
     {
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
-      "url": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
+      "title": "How FPGAs become the gatekeepers of physical AI security",
+      "url": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Medtronic and Cornerstone Robotics are building a multi-port portfolio anchored by the Hugo surgical system and expanded by Sentire. The post Medtronic invests $700M in surgical partner Cornerstone Robotics appeared first on The Robot Report .",
+      "summary": "Eric Sivertson, vice president of security business at Lattice Semiconductor, explains how FPGAs can act as deterministic guardrails for robotic systems. The post How FPGAs become the gatekeepers of physical AI security appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "JAKA hits Teradyne Robotics back over patent dispute",
-      "url": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
+      "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
+      "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "JAKA is now taking legal action against Teradyne Robotics to end public dissemination of statements it considers \"false, misleading and damaging.\" The post JAKA hits Teradyne Robotics back over patent dispute appeared first on The Robot Report .",
+      "summary": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups. The post Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Bimo, an open-source bipedal robotics kit with sim-to-real transfer",
-      "url": "https://discourse.openrobotics.org/t/bimo-an-open-source-bipedal-robotics-kit-with-sim-to-real-transfer/57846",
+      "title": "ROS News of the Week for August 31st, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-of-the-week-for-august-31st-2026/57868",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Bimo is an open-source bipedal robot built to make bipedal robotics research accessible in a compact, affordable platform. It ships either as a fully assembled SLS Kit (ready to walk out of the box) or as a DIY Kit where you print the parts yourself and assemble the robot. What you can use it for Le",
+      "summary": "ROS News of the Week for August 31st, 2026 A big thank you to our colleagues at Bosch for hosting ROS By-The-Bay last night! Last night was our last local ROS event before ROSCon Global in Toronto. If you are attending ROSCon Global in Toronto you should have received an email that details all of ou",
       "deck": ""
     },
     {
-      "title": "A one-command installer for the apt-based ROS 2 path",
-      "url": "https://discourse.openrobotics.org/t/a-one-command-installer-for-the-apt-based-ros-2-path/57843",
+      "title": "QERRA-v2 Demo 5: Closed-Loop Moral Gating, Physical Safety, and Values Selection (TIAGo in Webots)",
+      "url": "https://discourse.openrobotics.org/t/qerra-v2-demo-5-closed-loop-moral-gating-physical-safety-and-values-selection-tiago-in-webots/57863",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’d like ROS 2 to be installable with one command on Ubuntu: curl -fsSL https://ros.org/install.sh | sh source /opt/ros/lyrical/setup.bash Today it’s a sequence — enable universe, look up the latest ros-apt-source release, download the .deb, dpkg -i , apt update , apt install - from Installation Tho",
+      "summary": "Hi everyone, Following up on my previous demos, here is Simulation Demo 5 for QERRA-v2 Classical. Although QERRA is an open-source development prototype and not a commercial, production-ready tool, I built this simulation because I believe this 3-layer decoupled architecture is essential for handlin",
       "deck": ""
     },
     {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
       "deck": ""
     },
     {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
       "deck": ""
     },
     {
