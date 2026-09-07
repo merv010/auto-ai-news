@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-06",
-  "generated": "2026-09-06T09:00:12.265451+00:00",
+  "date": "2026-09-07",
+  "generated": "2026-09-07T09:48:05.098245+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "deck": ""
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
       "deck": ""
     },
     {
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
-      "url": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/",
+      "title": "Eric Sivertson discusses FPGAs and robot security",
+      "url": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Fifteen member organizations will deliver viable working solutions within a two-year timeframe, the ARM Institute said. The post ARM Institute gets $90M for 10 projects to modernize military manufacturing appeared first on The Robot Report .",
+      "summary": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security. The post Eric Sivertson discusses FPGAs and robot security appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
-      "url": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
+      "title": "Pressure sensors can help improve robotic gripping accuracy",
+      "url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusing on the shoulder. The post Enovis to acquire surgical tech provider eCential Robotics for $180M appeared first on The Robot Report .",
+      "summary": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking. The post Pressure sensors can help improve robotic gripping accuracy appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS News of the Week for August 31st, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-of-the-week-for-august-31st-2026/57868",
+      "title": "FMTX: Lazy Wavefront Search for Dynamic Replanning (C++/ROS 2 framework and benchmarks)",
+      "url": "https://discourse.openrobotics.org/t/fmtx-lazy-wavefront-search-for-dynamic-replanning-c-ros-2-framework-and-benchmarks/57929",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS News of the Week for August 31st, 2026 A big thank you to our colleagues at Bosch for hosting ROS By-The-Bay last night! Last night was our last local ROS event before ROSCon Global in Toronto. If you are attending ROSCon Global in Toronto you should have received an email that details all of ou",
+      "summary": "Hi everyone, I wanted to share a motion-planning project that I’ve been working on independently for about two years (although I actually had the original idea when I was a student!) and hopefully get some feedback, criticism, or ideas for possible extensions. The project is called FMTX: Lazy Wavefr",
       "deck": ""
     },
     {
-      "title": "QERRA-v2 Demo 5: Closed-Loop Moral Gating, Physical Safety, and Values Selection (TIAGo in Webots)",
-      "url": "https://discourse.openrobotics.org/t/qerra-v2-demo-5-closed-loop-moral-gating-physical-safety-and-values-selection-tiago-in-webots/57863",
+      "title": "Preparing for Jazzy Sync 2026-09-09",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-jazzy-sync-2026-09-09/57926",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, Following up on my previous demos, here is Simulation Demo 5 for QERRA-v2 Classical. Although QERRA is an open-source development prototype and not a commercial, production-ready tool, I built this simulation because I believe this 3-layer decoupled architecture is essential for handlin",
+      "summary": "We’re planning a Jazzy Jalisco sync next Wednesday Tue, Sep 8, 2026 4:00 PM UTC . There are currently 882 packages ready to sync and one regression that we hope to fix. If you find any other regression when testing, please report it upstream and leave a comment here so we can track it leading up to ",
       "deck": ""
     },
     {
