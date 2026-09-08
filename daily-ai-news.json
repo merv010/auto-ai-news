@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-07",
-  "generated": "2026-09-07T09:48:05.098245+00:00",
+  "date": "2026-09-08",
+  "generated": "2026-09-08T09:12:23.037814+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "This Robot Will Draw Your Blood Now",
+      "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across the arm, mapping how deep the vessel runs and which way it bends. D",
+      "deck": ""
+    },
+    {
       "title": "Cyborg Roaches Can Stab You With Needles",
       "url": "https://spectrum.ieee.org/cyborg-rescue-roach",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Digit Redecorates",
-      "url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
-      "deck": ""
-    },
-    {
-      "title": "Eric Sivertson discusses FPGAs and robot security",
-      "url": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
+      "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
+      "url": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security. The post Eric Sivertson discusses FPGAs and robot security appeared first on The Robot Report .",
+      "summary": "Rudy Cohen, the co-founder and CEO of Inbolt, will reframe where physical AI pays off at RoboBusiness this fall. The post Inbolt to discuss physical AI&#8217;s deployment problem at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Pressure sensors can help improve robotic gripping accuracy",
-      "url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
+      "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+      "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking. The post Pressure sensors can help improve robotic gripping accuracy appeared first on The Robot Report .",
+      "summary": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot business. The post Agility Robotics reports $1.8M revenue ahead of humanoid SPAC appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "FMTX: Lazy Wavefront Search for Dynamic Replanning (C++/ROS 2 framework and benchmarks)",
-      "url": "https://discourse.openrobotics.org/t/fmtx-lazy-wavefront-search-for-dynamic-replanning-c-ros-2-framework-and-benchmarks/57929",
+      "title": "2026-09-09 Jenkins version upgrade of ci.ros2.org [Scheduled Buildfarm Downtime]",
+      "url": "https://discourse.openrobotics.org/t/2026-09-09-jenkins-version-upgrade-of-ci-ros2-org-scheduled-buildfarm-downtime/57939",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I wanted to share a motion-planning project that I’ve been working on independently for about two years (although I actually had the original idea when I was a student!) and hopefully get some feedback, criticism, or ideas for possible extensions. The project is called FMTX: Lazy Wavefr",
+      "summary": "Hello ROS Community, The OSRF Infrastructure Project is planning to update the Jenkins version of https://ci.ros2.org as part of our ongoing efforts to maintain and improve the ROS buildfarm infrastructure. To facilitate this migration, the following services will experience downtime during the main",
       "deck": ""
     },
     {
-      "title": "Preparing for Jazzy Sync 2026-09-09",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-jazzy-sync-2026-09-09/57926",
+      "title": "The ros2_utils_tool finally hit version 1.0!",
+      "url": "https://discourse.openrobotics.org/t/the-ros2-utils-tool-finally-hit-version-1-0/57935",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re planning a Jazzy Jalisco sync next Wednesday Tue, Sep 8, 2026 4:00 PM UTC . There are currently 882 packages ready to sync and one regression that we hope to fix. If you find any other regression when testing, please report it upstream and leave a comment here so we can track it leading up to ",
+      "summary": "One and a half years ago, I posted about the ros2_utils_tool , a toolkit for various daily ROS2 activities with full UI and partial CLI support. After countless hours of more development and testing, we’ve finally hit version 1.0! Since my last post, various new features were added, including: UI ba",
       "deck": ""
     },
     {
