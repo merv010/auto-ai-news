@@ -1,35 +1,35 @@
 {
-  "date": "2026-09-08",
-  "generated": "2026-09-08T09:12:23.037814+00:00",
+  "date": "2026-09-09",
+  "generated": "2026-09-09T09:16:14.352203+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "deck": ""
     },
     {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "deck": ""
+    },
+    {
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
       "deck": ""
     },
     {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -72,7 +72,7 @@
       "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across the arm, mapping how deep the vessel runs and which way it bends. D",
+      "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across your arm, mapping how deep the vessel runs and which way it bends. ",
       "deck": ""
     },
     {
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
-      "url": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/",
+      "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
+      "url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Rudy Cohen, the co-founder and CEO of Inbolt, will reframe where physical AI pays off at RoboBusiness this fall. The post Inbolt to discuss physical AI&#8217;s deployment problem at RoboBusiness appeared first on The Robot Report .",
+      "summary": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments. The post Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-      "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+      "title": "AI can’t outrun a humanoid’s hardware",
+      "url": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot business. The post Agility Robotics reports $1.8M revenue ahead of humanoid SPAC appeared first on The Robot Report .",
+      "summary": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do. The next major advance may depend on whether their physical systems can execute those decisions efficiently, precisely and safely. The post AI can’t outrun a humanoid&#8217;s hardware ap",
       "deck": ""
     },
     {
-      "title": "2026-09-09 Jenkins version upgrade of ci.ros2.org [Scheduled Buildfarm Downtime]",
-      "url": "https://discourse.openrobotics.org/t/2026-09-09-jenkins-version-upgrade-of-ci-ros2-org-scheduled-buildfarm-downtime/57939",
+      "title": "Rcl_logging_journal: a systemd-journald logging backend for ROS 2",
+      "url": "https://discourse.openrobotics.org/t/rcl-logging-journal-a-systemd-journald-logging-backend-for-ros-2/57971",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello ROS Community, The OSRF Infrastructure Project is planning to update the Jenkins version of https://ci.ros2.org as part of our ongoing efforts to maintain and improve the ROS buildfarm infrastructure. To facilitate this migration, the following services will experience downtime during the main",
+      "summary": "Hi I’ve developed a new alternative logging backend for ROS 2: Checkout Overview Here GitHub - fujitatomoya/rcl_logging_journal: rcl_logging_journal is an alternative logging backend implementation that can be used for ROS 2 applications via rcl_logging_interface. · GitHub It writes ROS 2 log record",
       "deck": ""
     },
     {
-      "title": "The ros2_utils_tool finally hit version 1.0!",
-      "url": "https://discourse.openrobotics.org/t/the-ros2-utils-tool-finally-hit-version-1-0/57935",
+      "title": "This Fortnight at Open Robotics Headquarters (2026-08-24)",
+      "url": "https://discourse.openrobotics.org/t/this-fortnight-at-open-robotics-headquarters-2026-08-24/57970",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "One and a half years ago, I posted about the ros2_utils_tool , a toolkit for various daily ROS2 activities with full UI and partial CLI support. After countless hours of more development and testing, we’ve finally hit version 1.0! Since my last post, various new features were added, including: UI ba",
+      "summary": "Has it been two weeks already? In many ways it feels like the last post was just yesterday, and in just as many it feels like it was months ago. That’s how busy we’ve been: time has lost all meaning. Not all time, though. One particular interval is very much front of mind; we are all too aware that ",
       "deck": ""
     },
     {
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
       "deck": ""
     },
     {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&",
       "deck": ""
     },
     {
