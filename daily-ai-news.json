@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-09",
-  "generated": "2026-09-09T09:16:14.352203+00:00",
+  "date": "2026-09-10",
+  "generated": "2026-09-10T09:14:59.824832+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "deck": ""
     },
     {
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
-      "url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+      "title": "What bricklaying has taught Monumental about robots in construction",
+      "url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments. The post Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics appeared first on The Robot Report .",
+      "summary": "The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet. The post What bricklaying has taught Monumental about robots in construction appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "AI can’t outrun a humanoid’s hardware",
-      "url": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
+      "title": "Unitree shares down 53% from IPO debut",
+      "url": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do. The next major advance may depend on whether their physical systems can execute those decisions efficiently, precisely and safely. The post AI can’t outrun a humanoid&#8217;s hardware ap",
+      "summary": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last month. The post Unitree shares down 53% from IPO debut appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Rcl_logging_journal: a systemd-journald logging backend for ROS 2",
-      "url": "https://discourse.openrobotics.org/t/rcl-logging-journal-a-systemd-journald-logging-backend-for-ros-2/57971",
+      "title": "ros2_fault_injection: C++ fault injection framework for ROS 2 topics, services, and assertions",
+      "url": "https://discourse.openrobotics.org/t/ros2-fault-injection-c-fault-injection-framework-for-ros-2-topics-services-and-assertions/57998",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi I’ve developed a new alternative logging backend for ROS 2: Checkout Overview Here GitHub - fujitatomoya/rcl_logging_journal: rcl_logging_journal is an alternative logging backend implementation that can be used for ROS 2 applications via rcl_logging_interface. · GitHub It writes ROS 2 log record",
+      "summary": "Hi all, I’ve been building ros2_fault_injection , a C++ ROS 2 framework for injecting controlled faults into ROS 2 systems. The idea is to make it easier to test autonomy stacks before running on real hardware by proxying topics and services, applying configured faults, and checking expected outcome",
       "deck": ""
     },
     {
-      "title": "This Fortnight at Open Robotics Headquarters (2026-08-24)",
-      "url": "https://discourse.openrobotics.org/t/this-fortnight-at-open-robotics-headquarters-2026-08-24/57970",
+      "title": "ROS Meetup Cartagena Colombia - 7 Nov 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-meetup-cartagena-colombia-7-nov-2026/57994",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Has it been two weeks already? In many ways it feels like the last post was just yesterday, and in just as many it feels like it was months ago. That’s how busy we’ve been: time has lost all meaning. Not all time, though. One particular interval is very much front of mind; we are all too aware that ",
+      "summary": "ROS Meetup Cartagena 2026 is coming! On November 7th, Cartagena will become a meeting point for the Robotics Operating System (ROS) community in Colombia. The event is organized by IEEE RAS Colombia, IEEE RAS Colcaribe, IEEE RAS Javeriana, and UTBot, bringing together students, researchers, develope",
       "deck": ""
     },
     {
