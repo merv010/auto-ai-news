@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-10",
-  "generated": "2026-09-10T09:14:59.824832+00:00",
+  "date": "2026-09-11",
+  "generated": "2026-09-11T09:12:56.588659+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "deck": ""
     },
     {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Robots Are Learning to Feel",
+      "url": "https://spectrum.ieee.org/tactile-data-robots",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has held back progress. This is now starting to change as academic labs and startups race to build new ta",
       "deck": ""
     },
     {
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Cyborg Roaches Can Stab You With Needles",
-      "url": "https://spectrum.ieee.org/cyborg-rescue-roach",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnerving, to say the least, this prototype paramedic cyborg, or “Paraborg,” might one day help deliver life",
-      "deck": ""
-    },
-    {
-      "title": "What bricklaying has taught Monumental about robots in construction",
-      "url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
+      "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
+      "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet. The post What bricklaying has taught Monumental about robots in construction appeared first on The Robot Report .",
+      "summary": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints. The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Unitree shares down 53% from IPO debut",
-      "url": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
+      "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
+      "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last month. The post Unitree shares down 53% from IPO debut appeared first on The Robot Report .",
+      "summary": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine. The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ros2_fault_injection: C++ fault injection framework for ROS 2 topics, services, and assertions",
-      "url": "https://discourse.openrobotics.org/t/ros2-fault-injection-c-fault-injection-framework-for-ros-2-topics-services-and-assertions/57998",
+      "title": "Has anyone written a custom I²C transport for micro-ROS (or any MCU ROS stack)?",
+      "url": "https://discourse.openrobotics.org/t/has-anyone-written-a-custom-i-c-transport-for-micro-ros-or-any-mcu-ros-stack/58035",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, I’ve been building ros2_fault_injection , a C++ ROS 2 framework for injecting controlled faults into ROS 2 systems. The idea is to make it easier to test autonomy stacks before running on real hardware by proxying topics and services, applying configured faults, and checking expected outcome",
+      "summary": "Small embedded team at a startup, weighing an idea before we commit to it. As far as I can tell, none of the MCU ROS stacks support I²C out of the box — micro-ROS does UART/UDP/CAN-FD, zenoh-pico does serial/UDP/TCP, Cyphal does CAN/serial. I²C isn’t on any of those lists. So if we want a board to b",
       "deck": ""
     },
     {
-      "title": "ROS Meetup Cartagena Colombia - 7 Nov 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-meetup-cartagena-colombia-7-nov-2026/57994",
+      "title": "Ros2-project-gen — one command scaffolds a complete, ready-to-build ROS 2 project like create-react-app-style",
+      "url": "https://discourse.openrobotics.org/t/ros2-project-gen-one-command-scaffolds-a-complete-ready-to-build-ros-2-project-like-create-react-app-style/58034",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS Meetup Cartagena 2026 is coming! On November 7th, Cartagena will become a meeting point for the Robotics Operating System (ROS) community in Colombia. The event is organized by IEEE RAS Colombia, IEEE RAS Colcaribe, IEEE RAS Javeriana, and UTBot, bringing together students, researchers, develope",
+      "summary": "Every robotics team I know has the same “starter project” repo — a copy-paste graveyard. It’s stale, half-migrated to Humble and half to Jazzy, launches have quirky names, and CI exists on exactly one project. Onboarding a new member means a 20-minute tour of “here’s how we do it in this repo.” ros2",
+      "deck": ""
+    },
+    {
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
-      "deck": ""
-    },
-    {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&",
       "deck": ""
     },
     {
