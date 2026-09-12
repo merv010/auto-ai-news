@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-11",
-  "generated": "2026-09-11T09:12:56.588659+00:00",
+  "date": "2026-09-12",
+  "generated": "2026-09-12T08:54:37.095329+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "deck": ""
     },
     {
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+      "url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
+      "deck": ""
+    },
+    {
       "title": "Robots Are Learning to Feel",
       "url": "https://spectrum.ieee.org/tactile-data-robots",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "This Robot Will Draw Your Blood Now",
-      "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across your arm, mapping how deep the vessel runs and which way it bends. ",
-      "deck": ""
-    },
-    {
-      "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
-      "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
+      "title": "One brick at a time: How Monumental uses robotics to build walls",
+      "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints. The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot Report .",
+      "summary": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls. The post One brick at a time: How Monumental uses robotics to build walls appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
-      "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
+      "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+      "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine. The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The Robot Report .",
+      "summary": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments. The post Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Has anyone written a custom I²C transport for micro-ROS (or any MCU ROS stack)?",
-      "url": "https://discourse.openrobotics.org/t/has-anyone-written-a-custom-i-c-transport-for-micro-ros-or-any-mcu-ros-stack/58035",
+      "title": "How should place-originated spatial constraints participate in task planning and assignment in next-generation Open-RMF?",
+      "url": "https://discourse.openrobotics.org/t/how-should-place-originated-spatial-constraints-participate-in-task-planning-and-assignment-in-next-generation-open-rmf/58049",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Small embedded team at a startup, weighing an idea before we commit to it. As far as I can tell, none of the MCU ROS stacks support I²C out of the box — micro-ROS does UART/UDP/CAN-FD, zenoh-pico does serial/UDP/TCP, Cyphal does CAN/serial. I²C isn’t on any of those lists. So if we want a board to b",
+      "summary": "I’m working on an experimental open protocol called PlaceAuth / Spatial Policy Protocol (SPP) for expressing machine-readable requirements that originate from physical places rather than from the robot fleet itself. The specific architectural question I’d like feedback on is narrow: Should place-ori",
       "deck": ""
     },
     {
-      "title": "Ros2-project-gen — one command scaffolds a complete, ready-to-build ROS 2 project like create-react-app-style",
-      "url": "https://discourse.openrobotics.org/t/ros2-project-gen-one-command-scaffolds-a-complete-ready-to-build-ros-2-project-like-create-react-app-style/58034",
+      "title": "ROS News for the Week of September 7th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-september-7th-2026/58046",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Every robotics team I know has the same “starter project” repo — a copy-paste graveyard. It’s stale, half-migrated to Humble and half to Jazzy, launches have quirky names, and CI exists on exactly one project. Onboarding a new member means a 20-minute tour of “here’s how we do it in this repo.” ros2",
+      "summary": "ROS News for the Week of September 7th, 2026 ROSCon Global 2026 is a little over a week away! We just published our full list of sponsors , exhibitors, demos, and drop-in sessions to the ROSCon Global website . If you are joining us in Toronto it is time to start planning your schedule! Proving the ",
+      "deck": ""
+    },
+    {
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
-      "deck": ""
-    },
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
       "deck": ""
     },
     {
