@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-12",
-  "generated": "2026-09-12T08:54:37.095329+00:00",
+  "date": "2026-09-13",
+  "generated": "2026-09-13T09:48:29.085957+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
+      "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense. The post Ultrasound offers a scalable path to tactile intelligence for physical AI appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "One brick at a time: How Monumental uses robotics to build walls",
       "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
       "source": "The Robot Report",
@@ -92,11 +100,11 @@
       "deck": ""
     },
     {
-      "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
-      "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
-      "source": "The Robot Report",
+      "title": "Update on QERRA-HSR (Physical Safety Layer), testing & refinements:",
+      "url": "https://discourse.openrobotics.org/t/update-on-qerra-hsr-physical-safety-layer-testing-refinements/58060",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments. The post Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness appeared first on The Robot Report .",
+      "summary": "Continuing the discussion from Hardening HRI Safety with a Deterministic Wrapper: A Webots Demo Using TIAGo : An outside team recently ran independent tests on the physical safety reflex layer in simulation. The core claim held up: they measured 0.0 ms delay between the safety signal and commanding ",
       "deck": ""
     },
     {
@@ -108,15 +116,7 @@
       "deck": ""
     },
     {
-      "title": "ROS News for the Week of September 7th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-september-7th-2026/58046",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "ROS News for the Week of September 7th, 2026 ROSCon Global 2026 is a little over a week away! We just published our full list of sponsors , exhibitors, demos, and drop-in sessions to the ROSCon Global website . If you are joining us in Toronto it is time to start planning your schedule! Proving the ",
-      "deck": ""
-    },
-    {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
