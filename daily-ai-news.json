@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-13",
-  "generated": "2026-09-13T09:48:29.085957+00:00",
+  "date": "2026-09-14",
+  "generated": "2026-09-14T10:10:11.020466+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "How autonomous fleets are changing what’s possible in American agriculture",
+      "url": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Autonomous tractors can help American agriculture, as exemplified in ASI's collaboration with U.S. Sugar and Everglades Equipment. The post How autonomous fleets are changing what&#8217;s possible in American agriculture appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
       "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
       "source": "The Robot Report",
@@ -92,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "One brick at a time: How Monumental uses robotics to build walls",
-      "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
-      "source": "The Robot Report",
+      "title": "Proposal: report the no-perturbation arm next to any robot policyresilience number",
+      "url": "https://discourse.openrobotics.org/t/proposal-report-the-no-perturbation-arm-next-to-any-robot-policyresilience-number/58099",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls. The post One brick at a time: How Monumental uses robotics to build walls appeared first on The Robot Report .",
+      "summary": "Short proposal, and I would like to be argued with rather than agreed with. When someone reports that a learned policy failed under some condition- a visual change, a reworded instruction, a sensor dropout- the number is almost always single-arm: run the condition, count the failures, publish the ra",
       "deck": ""
     },
     {
-      "title": "Update on QERRA-HSR (Physical Safety Layer), testing & refinements:",
-      "url": "https://discourse.openrobotics.org/t/update-on-qerra-hsr-physical-safety-layer-testing-refinements/58060",
+      "title": "NBI Clearance for Robotics Job Applications: What Documents Should I Prepare?",
+      "url": "https://discourse.openrobotics.org/t/nbi-clearance-for-robotics-job-applications-what-documents-should-i-prepare/58098",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Continuing the discussion from Hardening HRI Safety with a Deterministic Wrapper: A Webots Demo Using TIAGo : An outside team recently ran independent tests on the physical safety reflex layer in simulation. The core claim held up: they measured 0.0 ms delay between the safety signal and commanding ",
-      "deck": ""
-    },
-    {
-      "title": "How should place-originated spatial constraints participate in task planning and assignment in next-generation Open-RMF?",
-      "url": "https://discourse.openrobotics.org/t/how-should-place-originated-spatial-constraints-participate-in-task-planning-and-assignment-in-next-generation-open-rmf/58049",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "I’m working on an experimental open protocol called PlaceAuth / Spatial Policy Protocol (SPP) for expressing machine-readable requirements that originate from physical places rather than from the robot fleet itself. The specific architectural question I’d like feedback on is narrow: Should place-ori",
+      "summary": "Hi everyone, I am looking for robotics job opportunities outside Philippines and currently checking what documents I may need before applying. I’m a little confused about NBI Clearance. I see some job posts mention visa, work permit, background check and other documents. So I want to know if NBI Por",
       "deck": ""
     },
     {
