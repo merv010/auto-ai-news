@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-14",
-  "generated": "2026-09-14T10:10:11.020466+00:00",
+  "date": "2026-09-15",
+  "generated": "2026-09-15T09:39:56.781501+00:00",
   "story_count": 18,
   "stories": [
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "deck": ""
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "deck": ""
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "deck": ""
     },
     {
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "How autonomous fleets are changing what’s possible in American agriculture",
-      "url": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/",
+      "title": "Why RaaS needs more than a subscription model",
+      "url": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Autonomous tractors can help American agriculture, as exemplified in ASI's collaboration with U.S. Sugar and Everglades Equipment. The post How autonomous fleets are changing what&#8217;s possible in American agriculture appeared first on The Robot Report .",
+      "summary": "At RoboBusiness 2026, a panel of robotics business leaders will examine the practical playbook behind Robots-as-a-Service or RaaS offerings. The post Why RaaS needs more than a subscription model appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
-      "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
+      "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
+      "url": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense. The post Ultrasound offers a scalable path to tactile intelligence for physical AI appeared first on The Robot Report .",
+      "summary": "Learn from a surgical robotics case study and a discussion of how to best deploy mobile robots in the warehouse in this issue. The post Report covers advances in surgical robots, deploying warehouse automation in the real world appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Proposal: report the no-perturbation arm next to any robot policyresilience number",
-      "url": "https://discourse.openrobotics.org/t/proposal-report-the-no-perturbation-arm-next-to-any-robot-policyresilience-number/58099",
+      "title": "Aerial Robotics Meetup @ ROSCon Global 2026",
+      "url": "https://discourse.openrobotics.org/t/aerial-robotics-meetup-roscon-global-2026/58137",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Short proposal, and I would like to be argued with rather than agreed with. When someone reports that a learned policy failed under some condition- a visual change, a reworded instruction, a sensor dropout- the number is almost always single-arm: run the condition, count the failures, publish the ra",
+      "summary": "Hi everyone! If you are attending ROSCon 2026 in Toronto, join us for an evening of technical exchange, open-source flight tech discussions, and networking. We’ll be diving into real-world ROS 2 integrations, control architectures, state estimation, and community updates across the ecosystem. Compli",
       "deck": ""
     },
     {
-      "title": "NBI Clearance for Robotics Job Applications: What Documents Should I Prepare?",
-      "url": "https://discourse.openrobotics.org/t/nbi-clearance-for-robotics-job-applications-what-documents-should-i-prepare/58098",
+      "title": "Preparing for Kilted sync 2026-09-16",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-kilted-sync-2026-09-16/58128",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I am looking for robotics job opportunities outside Philippines and currently checking what documents I may need before applying. I’m a little confused about NBI Clearance. I see some job posts mention visa, work permit, background check and other documents. So I want to know if NBI Por",
+      "summary": "There have been several new and updated packages in Kilted since it was released, and it’s time to sync those new features and fixes to the main apt and dnf repositories. There are currently regressions and 248 packages to release. We will start holding rosdistro PRs for the sync on Tue, Sep 15, 202",
       "deck": ""
     },
     {
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the ",
       "deck": ""
     },
     {
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep ",
       "deck": ""
     },
     {
