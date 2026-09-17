@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-16",
-  "generated": "2026-09-16T09:34:03.947954+00:00",
+  "date": "2026-09-17",
+  "generated": "2026-09-17T09:42:29.102160+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "deck": ""
     },
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Rethinking Robot Safety in the Age of AI",
+      "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As A",
+      "deck": ""
+    },
+    {
       "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
       "url": "https://spectrum.ieee.org/humanoid-robot-safety",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
-      "url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
-      "deck": ""
-    },
-    {
-      "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
-      "url": "https://www.therobotreport.com/inorbit-ai-releases-openrobops-iso-21423-reference-implementation/",
+      "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
+      "url": "https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "OpenRobOps gives robotics developers a foundation to deliver a fleet manager with support for the upcoming interoperability standard. The post InOrbit.AI releases OpenRobOps ISO 21423 reference implementation appeared first on The Robot Report .",
+      "summary": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems. The post OLogic to share how robots can learn from human demonstrations at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades",
-      "url": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
+      "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
+      "url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture. The post Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades appeared first on The Robot Report .",
+      "summary": "From Cassie, to five different versions of Digit, Agility Robotics has adapted its technology to fit industrial tasks. The post The evolution of Digit: Agility Robotics&#8217; journey from Cassie to Digit 5 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS PMC Minutes for September 15, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-september-15-2026/58167",
+      "title": "Robotics Software Engineer (ROS 2 & GUI Systems) @ Kineshia Robotics in Chennai, India (On-site / Full-time)",
+      "url": "https://discourse.openrobotics.org/t/robotics-software-engineer-ros-2-gui-systems-kineshia-robotics-in-chennai-india-on-site-full-time/58194",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The ROS PMC meeting for this week was on Tuesday, September 15, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . There will be no PMC meeting next week due to ROSCon. An informal, unofficial gathering may happen on Tuesday for casual conversation about where the proj",
+      "summary": "About Us Kineshia Robotics is an IIT Madras spinoff incubated at the IITM Research Park. We focus on developing academic and research robotic platforms—including modular multi-modal manipulators and locomotion systems. Location: On-site at IITM Research Park, Chennai, India Employment Type: Full-tim",
       "deck": ""
     },
     {
-      "title": "Dropping armhf (32-bit ARM) binary packages for Gazebo",
-      "url": "https://discourse.openrobotics.org/t/dropping-armhf-32-bit-arm-binary-packages-for-gazebo/58156",
+      "title": "Rosbag2 dynamic recorder (dynrec)",
+      "url": "https://discourse.openrobotics.org/t/rosbag2-dynamic-recorder-dynrec/58192",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, The Gazebo team is going to stop producing .deb packages for the armhf (32-bit ARM hard-float) architecture. Going forward, the supported Debian/Ubuntu architectures for Gazebo binaries are amd64 and arm64 . Why The ARM platforms Gazebo users actually run on (Raspberry Pi OS, NVIDIA Jetson, ",
+      "summary": "Earlier this year I had to prepare a ROS2 course for undergraduate students as part of my work, where I had to debug a series of robots over different exercises where topics often changed, which made rosbag2 debugging rather tedious to set up each time. For this reason, I am currently developing dyn",
+      "deck": ""
+    },
+    {
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, ",
-      "deck": ""
-    },
-    {
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
       "deck": ""
     },
     {
