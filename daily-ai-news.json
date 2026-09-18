@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-17",
-  "generated": "2026-09-17T09:42:29.102160+00:00",
+  "date": "2026-09-18",
+  "generated": "2026-09-18T09:15:56.292126+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "deck": ""
     },
     {
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "deck": ""
     },
     {
@@ -80,39 +80,39 @@
       "url": "https://spectrum.ieee.org/humanoid-robot-safety",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Despite the recent deluge of videos of humanoid robots doing backflips and kung-fu, the actual pace of progress towards humanoids that can do economically viable jobs at scale has at times seemed a bit plodding. There are some good reasons for this : a humanoid robot needs to be powerful enough to d",
+      "summary": "Despite the recent deluge of videos of humanoid robots doing backflips and kung fu, the actual pace of progress towards humanoids that can do economically viable jobs at scale has at times seemed a bit plodding. There are some good reasons for this : A humanoid robot needs to be powerful enough to d",
       "deck": ""
     },
     {
-      "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
-      "url": "https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/",
+      "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
+      "url": "https://www.therobotreport.com/designing-long-travel-axes-when-rack-and-pinion-outperforms-ball-screws-and-linear-motors/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems. The post OLogic to share how robots can learn from human demonstrations at RoboBusiness appeared first on The Robot Report .",
+      "summary": "When long-travel motion demands more than ball screws and linear motors can deliver, rack-and-pinion systems can offer a compelling combination of speed, precision, scalability, and cost. Here’s when engineers should consider the tradeoff. The post Designing long-travel axes: When rack and pinion ou",
       "deck": ""
     },
     {
-      "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
-      "url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
+      "title": "Robotics investments reach $4.9B in August 2026",
+      "url": "https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "From Cassie, to five different versions of Digit, Agility Robotics has adapted its technology to fit industrial tasks. The post The evolution of Digit: Agility Robotics&#8217; journey from Cassie to Digit 5 appeared first on The Robot Report .",
+      "summary": "The August 2026 Robotics Investments Report includes a table with all 162 investments rounds, complete with breakdowns by technology, country, funding stage, and more. The post Robotics investments reach $4.9B in August 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robotics Software Engineer (ROS 2 & GUI Systems) @ Kineshia Robotics in Chennai, India (On-site / Full-time)",
-      "url": "https://discourse.openrobotics.org/t/robotics-software-engineer-ros-2-gui-systems-kineshia-robotics-in-chennai-india-on-site-full-time/58194",
+      "title": "New SMACC demo in Gazebo using the PX4 flight stack",
+      "url": "https://discourse.openrobotics.org/t/new-smacc-demo-in-gazebo-using-the-px4-flight-stack/58232",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "About Us Kineshia Robotics is an IIT Madras spinoff incubated at the IITM Research Park. We focus on developing academic and research robotic platforms—including modular multi-modal manipulators and locomotion systems. Location: On-site at IITM Research Park, Chennai, India Employment Type: Full-tim",
+      "summary": "This demo uses the new SMACC PX4 Client Library to autonomously control the following drone in a Gazebo environment. SMACC and PX4 flight stack simulation in the Strait of Hormuz As always, here’s the source code: SMACC2/smacc2_sm_reference_library/sm_cl_px4_mr_test_4 at jazzy · robosoft-ai/SMACC2 ·",
       "deck": ""
     },
     {
-      "title": "Rosbag2 dynamic recorder (dynrec)",
-      "url": "https://discourse.openrobotics.org/t/rosbag2-dynamic-recorder-dynrec/58192",
+      "title": "New packages for Kilted Kaiju 2026-09-17",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-kilted-kaiju-2026-09-17/58231",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Earlier this year I had to prepare a ROS2 course for undergraduate students as part of my work, where I had to debug a series of robots over different exercises where topics often changed, which made rosbag2 debugging rather tedious to set up each time. For this reason, I am currently developing dyn",
+      "summary": "This sync brings 16 new packages to Kilted and updates 235 others. Thanks very much to the many developers that were a part of this effort, including the 52 maintainers listed below. ros/rosdistro tag: kilted/2026-09-17 Added Packages [16]: ros-kilted-boost-plugin-loader : 0.4.5-1 ros-kilted-jig : 0",
       "deck": ""
     },
     {
