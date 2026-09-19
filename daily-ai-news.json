@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-18",
-  "generated": "2026-09-18T09:15:56.292126+00:00",
+  "date": "2026-09-19",
+  "generated": "2026-09-19T09:02:01.460878+00:00",
   "story_count": 18,
   "stories": [
+    {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "deck": ""
+    },
     {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: Two Birotors Make a Quadrotor",
+      "url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
+      "deck": ""
+    },
+    {
       "title": "Rethinking Robot Safety in the Age of AI",
       "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
       "source": "IEEE Spectrum Robotics",
@@ -76,43 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
-      "url": "https://spectrum.ieee.org/humanoid-robot-safety",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Despite the recent deluge of videos of humanoid robots doing backflips and kung fu, the actual pace of progress towards humanoids that can do economically viable jobs at scale has at times seemed a bit plodding. There are some good reasons for this : A humanoid robot needs to be powerful enough to d",
-      "deck": ""
-    },
-    {
-      "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
-      "url": "https://www.therobotreport.com/designing-long-travel-axes-when-rack-and-pinion-outperforms-ball-screws-and-linear-motors/",
+      "title": "The picks-and-shovels strategy behind the robotics boom",
+      "url": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "When long-travel motion demands more than ball screws and linear motors can deliver, rack-and-pinion systems can offer a compelling combination of speed, precision, scalability, and cost. Here’s when engineers should consider the tradeoff. The post Designing long-travel axes: When rack and pinion ou",
+      "summary": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today. The post The picks-and-shovels strategy behind the robotics boom appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robotics investments reach $4.9B in August 2026",
-      "url": "https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/",
+      "title": "SoftBank agrees to acquire Robotics and AI Institute",
+      "url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The August 2026 Robotics Investments Report includes a table with all 162 investments rounds, complete with breakdowns by technology, country, funding stage, and more. The post Robotics investments reach $4.9B in August 2026 appeared first on The Robot Report .",
+      "summary": "The deal has been rumored for a couple of months, but it is now being reviewed by the Committee on Foreign Investment in the United States. The post SoftBank agrees to acquire Robotics and AI Institute appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "New SMACC demo in Gazebo using the PX4 flight stack",
-      "url": "https://discourse.openrobotics.org/t/new-smacc-demo-in-gazebo-using-the-px4-flight-stack/58232",
+      "title": "LGDXRobot2: Now Supporting ROS 2 Lyrical",
+      "url": "https://discourse.openrobotics.org/t/lgdxrobot2-now-supporting-ros-2-lyrical/58252",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "This demo uses the new SMACC PX4 Client Library to autonomously control the following drone in a Gazebo environment. SMACC and PX4 flight stack simulation in the Strait of Hormuz As always, here’s the source code: SMACC2/smacc2_sm_reference_library/sm_cl_px4_mr_test_4 at jazzy · robosoft-ai/SMACC2 ·",
+      "summary": "Hello everyone, I am happy to announce that LGDXRobot2 now supports ROS 2 Lyrical. LGDXRobot2 is a mecanum-wheel mobile robot with an RPLIDAR C1, an ICM-20948 9-DOF IMU, and wheel odometry. The robot is fully open source for both hardware and software. What does ROS 2 Lyrical support mean? The ROS p",
       "deck": ""
     },
     {
-      "title": "New packages for Kilted Kaiju 2026-09-17",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-kilted-kaiju-2026-09-17/58231",
+      "title": "New Packages for Lyrical 2026-09-18",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-lyrical-2026-09-18/58251",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "This sync brings 16 new packages to Kilted and updates 235 others. Thanks very much to the many developers that were a part of this effort, including the 52 maintainers listed below. ros/rosdistro tag: kilted/2026-09-17 Added Packages [16]: ros-kilted-boost-plugin-loader : 0.4.5-1 ros-kilted-jig : 0",
+      "summary": "We’re happy to announce 46 new packages and 315 updates are now available in ROS Lyrical. This sync was tagged as lyrical/2026-09-18 . Thank you to every maintainer and contributor who made these updates available! Package Updates for ROS Lyrical Updates to Ubuntu Resolute (amd64) (click for more de",
+      "deck": ""
+    },
+    {
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
-      "deck": ""
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, ",
       "deck": ""
     },
     {
