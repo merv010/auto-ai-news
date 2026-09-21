@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-20",
-  "generated": "2026-09-20T09:29:35.663216+00:00",
+  "date": "2026-09-21",
+  "generated": "2026-09-21T10:16:00.896961+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "What do you do with a humanoid robot when it breaks down?",
+      "url": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Decommissioning a humanoid robot is not a matter of traditional scrapping. It's a highly technical, high-stakes surgical endeavor. The post What do you do with a humanoid robot when it breaks down? appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
       "url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
       "source": "The Robot Report",
@@ -92,11 +100,11 @@
       "deck": ""
     },
     {
-      "title": "The picks-and-shovels strategy behind the robotics boom",
-      "url": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
-      "source": "The Robot Report",
+      "title": "Camera calibration without a checkerboard",
+      "url": "https://discourse.openrobotics.org/t/camera-calibration-without-a-checkerboard/58282",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today. The post The picks-and-shovels strategy behind the robotics boom appeared first on The Robot Report .",
+      "summary": "I created the website https://online-camera-calibration.com/ where you can calibrate a camera without a checkerboard or any other custom-made calibration target. All you need is a flat, textured surface. Upload the images directly, or point it at a ROS bag and it will pull the frames out. That means",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "Hello everyone, I am happy to announce that LGDXRobot2 now supports ROS 2 Lyrical. LGDXRobot2 is a mecanum-wheel mobile robot with an RPLIDAR C1, an ICM-20948 9-DOF IMU, and wheel odometry. The robot is fully open source for both hardware and software. What does ROS 2 Lyrical support mean? The ROS p",
-      "deck": ""
-    },
-    {
-      "title": "New Packages for Lyrical 2026-09-18",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-lyrical-2026-09-18/58251",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "We’re happy to announce 46 new packages and 315 updates are now available in ROS Lyrical. This sync was tagged as lyrical/2026-09-18 . Thank you to every maintainer and contributor who made these updates available! Package Updates for ROS Lyrical Updates to Ubuntu Resolute (amd64) (click for more de",
       "deck": ""
     },
     {
