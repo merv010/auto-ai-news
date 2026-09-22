@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-21",
-  "generated": "2026-09-21T10:16:00.896961+00:00",
+  "date": "2026-09-22",
+  "generated": "2026-09-22T09:31:37.893213+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "deck": ""
     },
     {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "What do you do with a humanoid robot when it breaks down?",
-      "url": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
+      "title": "IAC completes autonomous racing event at Laguna Seca",
+      "url": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Decommissioning a humanoid robot is not a matter of traditional scrapping. It's a highly technical, high-stakes surgical endeavor. The post What do you do with a humanoid robot when it breaks down? appeared first on The Robot Report .",
+      "summary": "At Laguna Seca, Unimore Racing won the Indy Autonomous Challenge, marking the IAC's first autonomous car overtakes on a road course. The post IAC completes autonomous racing event at Laguna Seca appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
-      "url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
+      "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
+      "url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Hirebotics said these new capabilities extend the working range of the cobots, giving manufacturers greater flexibility. The post Hirebotics adds line tracking and linear rail capabilities to its cobots appeared first on The Robot Report .",
+      "summary": "The new Robotics Metaplant Application Center is training humanoids as part of Hyundai's Metaplant America in Georgia. The post Boston Dynamics opens Metaplant Application Center to train Atlas humanoids appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Camera calibration without a checkerboard",
-      "url": "https://discourse.openrobotics.org/t/camera-calibration-without-a-checkerboard/58282",
+      "title": "From CT Scan to Robotic Surgery Prototype: Kidney Stone Detection & PCNL Planning in ROS 2",
+      "url": "https://discourse.openrobotics.org/t/from-ct-scan-to-robotic-surgery-prototype-kidney-stone-detection-pcnl-planning-in-ros-2/58308",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I created the website https://online-camera-calibration.com/ where you can calibrate a camera without a checkerboard or any other custom-made calibration target. All you need is a flat, textured surface. Upload the images directly, or point it at a ROS bag and it will pull the frames out. That means",
+      "summary": "Hi all, I’d like to share a research prototype that connects medical CT imaging to ROS 2 visualization and robot simulation . The pipeline starts from a DICOM / NIfTI CT scan, segments kidneys and nearby organs, finds stone candidates, builds 3D meshes, ranks PCNL (percutaneous nephrolithotomy) acce",
       "deck": ""
     },
     {
-      "title": "LGDXRobot2: Now Supporting ROS 2 Lyrical",
-      "url": "https://discourse.openrobotics.org/t/lgdxrobot2-now-supporting-ros-2-lyrical/58252",
+      "title": "Oh noes! What's going on with Anubis?",
+      "url": "https://discourse.openrobotics.org/t/oh-noes-whats-going-on-with-anubis/58302",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello everyone, I am happy to announce that LGDXRobot2 now supports ROS 2 Lyrical. LGDXRobot2 is a mecanum-wheel mobile robot with an RPLIDAR C1, an ICM-20948 9-DOF IMU, and wheel odometry. The robot is fully open source for both hardware and software. What does ROS 2 Lyrical support mean? The ROS p",
+      "summary": "Lately I’ve been intermittently but often getting this message when trying to access ROS documentation (like c++ API etc). Am I the only one running into this? I definitely have browser cookies enabled, and I’m not going through a VPN. The below messages was obtained by browsing to this location . 3",
       "deck": ""
     },
     {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technolo",
       "deck": ""
     },
     {
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower",
       "deck": ""
     },
     {
