@@ -1,38 +1,38 @@
 {
-  "date": "2026-09-23",
-  "generated": "2026-09-23T09:36:31.403143+00:00",
+  "date": "2026-09-24",
+  "generated": "2026-09-24T09:36:07.601647+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "deck": ""
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "deck": ""
     },
     {
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "deck": ""
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
-      "url": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
+      "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
+      "url": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Intel's Nagesh Puppala will discuss why the next phase of robotics innovation depends on more than bigger models or better simulations. The post Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness appeared first on The Robot Report .",
+      "summary": "While this is the first intentional step by Arduino into robotics, the company has over 20 years of experience working with robotics developers. The post With the new VENTUNO Q board, Arduino hopes to make robotics development easier appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Why outdoor robots fail (and how to build systems that survive)",
-      "url": "https://www.therobotreport.com/why-outdoor-robots-fail-how-to-build-systems-that-survive/",
+      "title": "Helicon brings automation to high-volume composites manufacturing",
+      "url": "https://www.therobotreport.com/helicon-brings-automation-high-volume-composites-manufacturing/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Learn practical strategies for building reliable outdoor robots from WiBotic, Burro, and Nextpower at RoboBusiness in Silicon Valley. The post Why outdoor robots fail (and how to build systems that survive) appeared first on The Robot Report .",
+      "summary": "Helicon has obtained seed funding to use automation to cut composite manufacturing lead times from months to weeks. The post Helicon brings automation to high-volume composites manufacturing appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Maritime hackathon in San Francisco, October 16–18 — looking for marine robotics builders",
-      "url": "https://discourse.openrobotics.org/t/maritime-hackathon-in-san-francisco-october-16-18-looking-for-marine-robotics-builders/58332",
+      "title": "Ros2_unbag is now available via the ROS 2 buildfarm 📦",
+      "url": "https://discourse.openrobotics.org/t/ros2-unbag-is-now-available-via-the-ros-2-buildfarm/58367",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’m Filippo from Silicon Mtn. If you’re based around San Francisco and work on marine robotics or embedded systems, we’d love to have you at our Maritime Dual-Use Hackathon on October 16–18. It’s a 48-hour build. Software-Defined Vessel is one of the challenges; the other two are Piping",
+      "summary": "Hi everyone, A small-but-important update for ros2_unbag Starting with v1.3.0 , ros2_unbag is now released through the official ROS 2 buildfarm. That means installation is now as simple as: sudo apt install ros-&lt;distro&gt;-unbag and then: ros2 unbag No separate pip install, no cloning, no buildin",
       "deck": ""
     },
     {
-      "title": "Collision Aware Motion Planning with NVIDIA Isaac™ ROS cuMotion",
-      "url": "https://discourse.openrobotics.org/t/collision-aware-motion-planning-with-nvidia-isaac-ros-cumotion/58330",
+      "title": "Aerial Robotics Meeting - October 1st 2026",
+      "url": "https://discourse.openrobotics.org/t/aerial-robotics-meeting-october-1st-2026/58357",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "AI WORKER #20: Collision Aware Motion Planning with NVIDIA Isaac™ ROS cuMotion Getting a robot arm to a target pose is only part of the problem in real-world manipulation. The planner also needs to account for self-collision, fixed structures, newly observed obstacles, and the geometry of the object",
+      "summary": "Hi ROS &amp; Aerial Robotics Community! Greetings from ROSCon Global 2026 ! As part of our working group updates this week, we are thrilled to formally announce our next Aerial Robotics Working Group meeting. Date: Thu, Oct 1, 2026 5:00 PM UTC → Thu, Oct 1, 2026 6:00 PM UTC Meeting Link: Google Meet",
+      "deck": ""
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into othe",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people",
-      "deck": ""
-    },
-    {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
       "deck": ""
     },
     {
