@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-24",
-  "generated": "2026-09-24T09:36:07.601647+00:00",
+  "date": "2026-09-25",
+  "generated": "2026-09-25T09:53:19.034064+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -20,19 +20,19 @@
       "deck": ""
     },
     {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "deck": ""
-    },
-    {
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+      "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on",
       "deck": ""
     },
     {
@@ -76,27 +84,27 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Two Birotors Make a Quadrotor",
-      "url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
-      "source": "IEEE Spectrum Robotics",
+      "title": "5 million robots are now at work in factories worldwide, reports the IFR",
+      "url": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IR",
+      "summary": "China still leads the world in industrial robot installations, but the U.S. and Germany are also significant markets, found the IFR. The post 5 million robots are now at work in factories worldwide, reports the IFR appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
-      "url": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
+      "title": "Why you should look beyond the spec sheet when choosing motion architecture",
+      "url": "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "While this is the first intentional step by Arduino into robotics, the company has over 20 years of experience working with robotics developers. The post With the new VENTUNO Q board, Arduino hopes to make robotics development easier appeared first on The Robot Report .",
+      "summary": "Choosing the right motion architecture is about understanding how the entire system will behave in use, explains Kollmorgen. The post Why you should look beyond the spec sheet when choosing motion architecture appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Helicon brings automation to high-volume composites manufacturing",
-      "url": "https://www.therobotreport.com/helicon-brings-automation-high-volume-composites-manufacturing/",
-      "source": "The Robot Report",
+      "title": "Webots Demo 6: Compound Physical Safety Reflex on TIAGo (QERRA-v2 Classical)",
+      "url": "https://discourse.openrobotics.org/t/webots-demo-6-compound-physical-safety-reflex-on-tiago-qerra-v2-classical/58372",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Helicon has obtained seed funding to use automation to cut composite manufacturing lead times from months to weeks. The post Helicon brings automation to high-volume composites manufacturing appeared first on The Robot Report .",
+      "summary": "Hi everyone, Following up on my previous posts on deterministic safety layers, I wanted to share the latest simulation demo (Demo 6) from my work on QERRA-v2 Classical, focusing on Layer 1 (the physical safety reflex, QERRA-HSR v0.1 ). The purpose of this layer is to act as a lightweight, determinis",
       "deck": ""
     },
     {
@@ -108,11 +116,11 @@
       "deck": ""
     },
     {
-      "title": "Aerial Robotics Meeting - October 1st 2026",
-      "url": "https://discourse.openrobotics.org/t/aerial-robotics-meeting-october-1st-2026/58357",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi ROS &amp; Aerial Robotics Community! Greetings from ROSCon Global 2026 ! As part of our working group updates this week, we are thrilled to formally announce our next Aerial Robotics Working Group meeting. Date: Thu, Oct 1, 2026 5:00 PM UTC → Thu, Oct 1, 2026 6:00 PM UTC Meeting Link: Google Meet",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learni",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into othe",
-      "deck": ""
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people",
       "deck": ""
     },
     {
