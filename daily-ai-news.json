@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-25",
-  "generated": "2026-09-25T09:53:19.034064+00:00",
+  "date": "2026-09-26",
+  "generated": "2026-09-26T09:36:04.751576+00:00",
   "story_count": 18,
   "stories": [
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "deck": ""
+    },
     {
       "title": "Two years of OpenAI Academy",
       "url": "https://openai.com/index/two-years-of-openai-academy",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "deck": ""
-    },
-    {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "deck": ""
     },
     {
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Video Friday: Life’s Better With a Little Robot Goose",
+      "url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoR",
+      "deck": ""
+    },
+    {
       "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
       "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
       "source": "IEEE Spectrum Robotics",
@@ -76,27 +84,27 @@
       "deck": ""
     },
     {
-      "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
-      "url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
-      "source": "IEEE Spectrum Robotics",
+      "title": "Amazon to invest $100M in new Indiana manufacturing facility",
+      "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Throughout her career, roboticist Barbara Mazzolai has turned to nature for inspiration. Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a chance opportunity saw Mazzolai switch streams to engineering and become an early",
+      "summary": "The new facility will produce products that power Amazon's fulfillment and robotics network across North America. The post Amazon to invest $100M in new Indiana manufacturing facility appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "5 million robots are now at work in factories worldwide, reports the IFR",
-      "url": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports/",
+      "title": "General Robotics is betting on modular intelligence, not one robot brain",
+      "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "China still leads the world in industrial robot installations, but the U.S. and Germany are also significant markets, found the IFR. The post 5 million robots are now at work in factories worldwide, reports the IFR appeared first on The Robot Report .",
+      "summary": "Rather than training one model to do everything, General Robotics composes specialized capabilities—helping robots adapt across tasks and form factors. The post General Robotics is betting on modular intelligence, not one robot brain appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Why you should look beyond the spec sheet when choosing motion architecture",
-      "url": "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/",
-      "source": "The Robot Report",
+      "title": "Question on local vs. remote inference placement for perception tasks",
+      "url": "https://discourse.openrobotics.org/t/question-on-local-vs-remote-inference-placement-for-perception-tasks/58394",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Choosing the right motion architecture is about understanding how the entire system will behave in use, explains Kollmorgen. The post Why you should look beyond the spec sheet when choosing motion architecture appeared first on The Robot Report .",
+      "summary": "Hey all! ECE undergrad here, exploring an inference-routing idea for robots (deciding at runtime whether a perception or higher-level AI task runs onboard, on a nearby edge server, or in the cloud, based on deadlines, network conditions, and local compute load) and trying to validate the problem bef",
       "deck": ""
     },
     {
@@ -108,19 +116,11 @@
       "deck": ""
     },
     {
-      "title": "Ros2_unbag is now available via the ROS 2 buildfarm 📦",
-      "url": "https://discourse.openrobotics.org/t/ros2-unbag-is-now-available-via-the-ros-2-buildfarm/58367",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi everyone, A small-but-important update for ros2_unbag Starting with v1.3.0 , ros2_unbag is now released through the official ROS 2 buildfarm. That means installation is now as simple as: sudo apt install ros-&lt;distro&gt;-unbag and then: ros2 unbag No separate pip install, no cloning, no buildin",
-      "deck": ""
-    },
-    {
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learni",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
       "deck": ""
     },
     {
