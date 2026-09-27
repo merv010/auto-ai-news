@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-26",
-  "generated": "2026-09-26T09:36:04.751576+00:00",
-  "story_count": 18,
+  "date": "2026-09-27",
+  "generated": "2026-09-27T10:15:07.800789+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -17,22 +17,6 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
       "deck": ""
     },
     {
@@ -84,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
+      "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "While robotaxis prove their driving ability, scaling the industry globally requires solving the unglamorous challenge of fast, local vehicle servicing. The post From 14 cities to 15,000: What it will take to scale robotaxis? appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Amazon to invest $100M in new Indiana manufacturing facility",
       "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
       "source": "The Robot Report",
@@ -92,11 +84,11 @@
       "deck": ""
     },
     {
-      "title": "General Robotics is betting on modular intelligence, not one robot brain",
-      "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
-      "source": "The Robot Report",
+      "title": "Shared_buffer_backend: shared-memory rosidl::Buffer for ROS 2 processes",
+      "url": "https://discourse.openrobotics.org/t/shared-buffer-backend-shared-memory-rosidl-buffer-for-ros-2-processes/58414",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Rather than training one model to do everything, General Robotics composes specialized capabilities—helping robots adapt across tasks and form factors. The post General Robotics is betting on modular intelligence, not one robot brain appeared first on The Robot Report .",
+      "summary": "shared_buffer_backend: shared-memory rosidl::Buffer for ROS 2 processes I would like to share shared_buffer_backend , an experimental CPU shared-memory backend for rosidl::Buffer . This follows my earlier discussion about a CPU shared-memory backend , and was previously called memfd . The goal is to",
       "deck": ""
     },
     {
@@ -105,14 +97,6 @@
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "Hey all! ECE undergrad here, exploring an inference-routing idea for robots (deciding at runtime whether a perception or higher-level AI task runs onboard, on a nearby edge server, or in the cloud, based on deadlines, network conditions, and local compute load) and trying to validate the problem bef",
-      "deck": ""
-    },
-    {
-      "title": "Webots Demo 6: Compound Physical Safety Reflex on TIAGo (QERRA-v2 Classical)",
-      "url": "https://discourse.openrobotics.org/t/webots-demo-6-compound-physical-safety-reflex-on-tiago-qerra-v2-classical/58372",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi everyone, Following up on my previous posts on deterministic safety layers, I wanted to share the latest simulation demo (Demo 6) from my work on QERRA-v2 Classical, focusing on Layer 1 (the physical safety reflex, QERRA-HSR v0.1 ). The purpose of this layer is to act as a lightweight, determinis",
       "deck": ""
     },
     {
