@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27",
-  "generated": "2026-09-27T10:15:07.800789+00:00",
+  "date": "2026-09-28",
+  "generated": "2026-09-28T11:17:37.973538+00:00",
   "story_count": 16,
   "stories": [
     {
@@ -36,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+      "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI. The post Asimov&#8217;s laws are not enough to keep robotics and AI safe appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
       "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/",
       "source": "The Robot Report",
@@ -76,27 +84,27 @@
       "deck": ""
     },
     {
-      "title": "Amazon to invest $100M in new Indiana manufacturing facility",
-      "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
-      "source": "The Robot Report",
+      "title": "Mission Canvas — Turn Robot Skills into Real-World Tasks",
+      "url": "https://discourse.openrobotics.org/t/mission-canvas-turn-robot-skills-into-real-world-tasks/58453",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The new facility will produce products that power Amazon's fulfillment and robotics network across North America. The post Amazon to invest $100M in new Indiana manufacturing facility appeared first on The Robot Report .",
+      "summary": "AI WORKER #21: Mission Canvas — Turn Robot Skills into Real-World Tasks A robot performing an isolated skill is only part of a real-world application. It also needs to move to the right location, execute the right task, and continue to the next work area as part of a repeatable workflow. This video ",
       "deck": ""
     },
     {
-      "title": "Shared_buffer_backend: shared-memory rosidl::Buffer for ROS 2 processes",
-      "url": "https://discourse.openrobotics.org/t/shared-buffer-backend-shared-memory-rosidl-buffer-for-ros-2-processes/58414",
+      "title": "Community Meeting #64 - September 28th, 2026 @ 3pm UTC",
+      "url": "https://discourse.openrobotics.org/t/community-meeting-64-september-28th-2026-3pm-utc/58439",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "shared_buffer_backend: shared-memory rosidl::Buffer for ROS 2 processes I would like to share shared_buffer_backend , an experimental CPU shared-memory backend for rosidl::Buffer . This follows my earlier discussion about a CPU shared-memory backend , and was previously called memfd . The goal is to",
+      "summary": "I have returned home and am still recovering from an epic ROSCon Global. Looking forward to filling everyone in on how it went. We also have a chock full list of new topics to explore: Layer Audit ROS World builds / skip groups Superflore Transitive Dependencies SDK Documentation OEROS Container Ima",
       "deck": ""
     },
     {
-      "title": "Question on local vs. remote inference placement for perception tasks",
-      "url": "https://discourse.openrobotics.org/t/question-on-local-vs-remote-inference-placement-for-perception-tasks/58394",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hey all! ECE undergrad here, exploring an inference-routing idea for robots (deciding at runtime whether a perception or higher-level AI task runs onboard, on a nearby edge server, or in the cloud, based on deadlines, network conditions, and local compute load) and trying to validate the problem bef",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
-      "deck": ""
-    },
-    {
-      "title": "The AI Hype Index: AI loves cheating",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into othe",
       "deck": ""
     },
     {
