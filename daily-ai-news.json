@@ -1,22 +1,38 @@
 {
-  "date": "2026-09-28",
-  "generated": "2026-09-28T11:17:37.973538+00:00",
-  "story_count": 16,
+  "date": "2026-09-29",
+  "generated": "2026-09-29T10:57:13.880799+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "deck": ""
     },
     {
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "deck": ""
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
       "deck": ""
     },
     {
@@ -52,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+      "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence. In this Robots Guide profile, Kemp shar",
+      "deck": ""
+    },
+    {
       "title": "Video Friday: Life’s Better With a Little Robot Goose",
       "url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
       "source": "IEEE Spectrum Robotics",
@@ -60,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-      "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on",
-      "deck": ""
-    },
-    {
-      "title": "Asimov’s laws are not enough to keep robotics and AI safe",
-      "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+      "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
+      "url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI. The post Asimov&#8217;s laws are not enough to keep robotics and AI safe appeared first on The Robot Report .",
+      "summary": "Gecko Robotics is using the new NVIDIA Open Agent Safety Platform to ensure the secure autonomous control of systems. The post Gecko Robotics works with NVIDIA to add AI agent security and control appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
-      "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/",
+      "title": "Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for humanoids",
+      "url": "https://www.therobotreport.com/robotics-threshold-economic-autonomy-crypto-wallets-humanoids/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "While robotaxis prove their driving ability, scaling the industry globally requires solving the unglamorous challenge of fast, local vehicle servicing. The post From 14 cities to 15,000: What it will take to scale robotaxis? appeared first on The Robot Report .",
+      "summary": "Economics is both a robotics impetus and a constraint, as systems make deliveries on streets or do chores in households. The post Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for humanoids appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Mission Canvas — Turn Robot Skills into Real-World Tasks",
-      "url": "https://discourse.openrobotics.org/t/mission-canvas-turn-robot-skills-into-real-world-tasks/58453",
+      "title": "Complete the Open Robotics Annual Survey 2026 to enter the prize draw!",
+      "url": "https://discourse.openrobotics.org/t/complete-the-open-robotics-annual-survey-2026-to-enter-the-prize-draw/58488",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "AI WORKER #21: Mission Canvas — Turn Robot Skills into Real-World Tasks A robot performing an isolated skill is only part of a real-world application. It also needs to move to the right location, execute the right task, and continue to the next work area as part of a repeatable workflow. This video ",
+      "summary": "Open Robotics has a survey asking for your feedback. Fill it in to enter a prize draw! Open Robotics works to support the development, distribution, and adoption of open-source software for use in robotics research, education, and product development. As an organisation and as a movement, we know a ",
       "deck": ""
     },
     {
-      "title": "Community Meeting #64 - September 28th, 2026 @ 3pm UTC",
-      "url": "https://discourse.openrobotics.org/t/community-meeting-64-september-28th-2026-3pm-utc/58439",
+      "title": "Computer Vision Engineer: Underwater Robotics - Remote friendly",
+      "url": "https://discourse.openrobotics.org/t/computer-vision-engineer-underwater-robotics-remote-friendly/58481",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I have returned home and am still recovering from an epic ROSCon Global. Looking forward to filling everyone in on how it went. We also have a chock full list of new topics to explore: Layer Audit ROS World builds / skip groups Superflore Transitive Dependencies SDK Documentation OEROS Container Ima",
+      "summary": "We’re looking for a robotics and computer vision engineer to help us build perception for the next generation of autonomous underwater robots. Our robots operate in conditions where off-the-shelf solutions often fall short, so this isn’t just about integrating existing packages. You’ll help design a",
       "deck": ""
     },
     {
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
       "deck": ""
     },
     {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
       "deck": ""
     },
     {
