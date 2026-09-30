@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-29",
-  "generated": "2026-09-29T10:57:13.880799+00:00",
+  "date": "2026-09-30",
+  "generated": "2026-09-30T10:47:22.727299+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "deck": ""
     },
     {
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
-      "url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
+      "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
+      "url": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Gecko Robotics is using the new NVIDIA Open Agent Safety Platform to ensure the secure autonomous control of systems. The post Gecko Robotics works with NVIDIA to add AI agent security and control appeared first on The Robot Report .",
+      "summary": "Attendees will learn about the many ways they can use force and torque sensors in humanoids and how to avoid breaking them while doing it. The post ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for humanoids",
-      "url": "https://www.therobotreport.com/robotics-threshold-economic-autonomy-crypto-wallets-humanoids/",
+      "title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
+      "url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Economics is both a robotics impetus and a constraint, as systems make deliveries on streets or do chores in households. The post Robonomics on the threshold: Economic autonomy, smart cities, and crypto wallets for humanoids appeared first on The Robot Report .",
+      "summary": "Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation. The post Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Complete the Open Robotics Annual Survey 2026 to enter the prize draw!",
-      "url": "https://discourse.openrobotics.org/t/complete-the-open-robotics-annual-survey-2026-to-enter-the-prize-draw/58488",
+      "title": "ROS2 BuildHat Lego Spike/Prime Differential Drive Controller",
+      "url": "https://discourse.openrobotics.org/t/ros2-buildhat-lego-spike-prime-differential-drive-controller/58504",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Open Robotics has a survey asking for your feedback. Fill it in to enter a prize draw! Open Robotics works to support the development, distribution, and adoption of open-source software for use in robotics research, education, and product development. As an organisation and as a movement, we know a ",
+      "summary": "Dear all, BuildHat is a hardware interface (from the Raspberry Pi Foundation) between Raspberry Pi and Lego Spike/Prime. I have developed a differential drive controller package for this interface for ROS2. It subscribes to /cmd_vel receiving TwistStamped messages and controls the motors. Additional",
       "deck": ""
     },
     {
-      "title": "Computer Vision Engineer: Underwater Robotics - Remote friendly",
-      "url": "https://discourse.openrobotics.org/t/computer-vision-engineer-underwater-robotics-remote-friendly/58481",
+      "title": "Gazebo PMC Meeting Minutes 2026-09-28",
+      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-09-28/58502",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re looking for a robotics and computer vision engineer to help us build perception for the next generation of autonomous underwater robots. Our robots operate in conditions where off-the-shelf solutions often fall short, so this isn’t just about integrating existing packages. You’ll help design a",
+      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Sep 28, 2026 6:00 PM UTC and the following is a summary: PMC Business Formal Decision: Accepted REP-158: OpenUSD Conventions for Simulation Asset Interoperability in Open Source Robotics . This was a joint vote with the ROS PMC, and the final",
+      "deck": ""
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
-      "deck": ""
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
       "deck": ""
     },
     {
