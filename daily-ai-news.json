@@ -1,38 +1,38 @@
 {
-  "date": "2026-09-30",
-  "generated": "2026-09-30T10:47:22.727299+00:00",
+  "date": "2026-10-01",
+  "generated": "2026-10-01T11:13:46.216012+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
       "deck": ""
     },
     {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "deck": ""
     },
     {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
       "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,19 +84,27 @@
       "deck": ""
     },
     {
-      "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
-      "url": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
+      "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
+      "url": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Attendees will learn about the many ways they can use force and torque sensors in humanoids and how to avoid breaking them while doing it. The post ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness appeared first on The Robot Report .",
+      "summary": "ANYbotics designed Shift to help maintenance teams run industrial inspections, detect failing equipment, and turn data into work orders. The post ANYbotics launches Shift to streamline robot fleet operations, scale inspections appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
-      "url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
+      "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
+      "url": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Flourish is releasing a $3,555 phone-trainable home robot, targeting busy parents with personalized, cloud-trained chore automation. The post Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents appeared first on The Robot Report .",
+      "summary": "The initiative for engineers includes a news desk, a conference, research, and an advisory board, grounded in trusted editorial brands. The post The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
+      "title": "ROS PMC Minutes for September 29, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-september-29-2026/58518",
+      "source": "ROS Discourse",
+      "category": "Robotics",
+      "summary": "The ROS PMC meeting for this week was on Tuesday, September 29, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . This was the first meeting back after ROSCon. ROS PMC Business REP 158 PASSES. The OpenUSD conventions for simulation asset interoperability are accepted.",
       "deck": ""
     },
     {
@@ -108,11 +116,11 @@
       "deck": ""
     },
     {
-      "title": "Gazebo PMC Meeting Minutes 2026-09-28",
-      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-09-28/58502",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Sep 28, 2026 6:00 PM UTC and the following is a summary: PMC Business Formal Decision: Accepted REP-158: OpenUSD Conventions for Simulation Asset Interoperability in Open Source Robotics . This was a joint vote with the ROS PMC, and the final",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
-      "deck": ""
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
       "deck": ""
     },
     {
