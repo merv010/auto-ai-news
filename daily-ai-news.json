@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-01",
-  "generated": "2026-10-01T11:13:46.216012+00:00",
+  "date": "2026-10-02",
+  "generated": "2026-10-02T10:46:18.798193+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "deck": ""
     },
     {
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
+      "url": "https://spectrum.ieee.org/robust-robot-hand",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Today, Boston Dynamics is announcing a redesigned hand for its Atlas robot . The previous generation could do some crazy superhuman things with its three fingers, but it was never intended for mass production in the tens or hundreds of thousands. Switching from research hardware to a scalable produc",
       "deck": ""
     },
     {
@@ -76,27 +84,27 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Life’s Better With a Little Robot Goose",
-      "url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-      "source": "IEEE Spectrum Robotics",
+      "title": "Top 10 robotics stories of September 2026",
+      "url": "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026/",
+      "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoR",
+      "summary": "In September 2026, live events such as IMTS, ROSCon, and iROS brought a flood of robotics developments. The post Top 10 robotics stories of September 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
-      "url": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/",
+      "title": "Boston Dynamics drops pinkie on new humanoid hand",
+      "url": "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ANYbotics designed Shift to help maintenance teams run industrial inspections, detect failing equipment, and turn data into work orders. The post ANYbotics launches Shift to streamline robot fleet operations, scale inspections appeared first on The Robot Report .",
+      "summary": "Boston Dynamics engineers taped their pinkies and ring fingers together for a day to learn what they weren’t able to do. The post Boston Dynamics drops pinkie on new humanoid hand appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
-      "url": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai/",
-      "source": "The Robot Report",
+      "title": "Preparing for Jazzy Sync 2026-10-05",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-jazzy-sync-2026-10-05/58533",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The initiative for engineers includes a news desk, a conference, research, and an advisory board, grounded in trusted editorial brands. The post The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI appeared first on The Robot Report .",
+      "summary": "We’re planning a Jazzy Jalisco sync next Monday Sun, Oct 4, 2026 4:00 PM UTC . There are currently 472 packages ready to sync and no regressions . If you find any other regression when testing, please report it upstream and leave a comment here so we can track it leading up to the sync. Starting tod",
       "deck": ""
     },
     {
@@ -108,11 +116,11 @@
       "deck": ""
     },
     {
-      "title": "ROS2 BuildHat Lego Spike/Prime Differential Drive Controller",
-      "url": "https://discourse.openrobotics.org/t/ros2-buildhat-lego-spike-prime-differential-drive-controller/58504",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Dear all, BuildHat is a hardware interface (from the Raspberry Pi Foundation) between Raspberry Pi and Lego Spike/Prime. I have developed a differential drive controller package for this interface for ROS2. It subscribes to /cmd_vel receiving TwistStamped messages and controls the motors. Additional",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
-      "deck": ""
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
       "deck": ""
     },
     {
