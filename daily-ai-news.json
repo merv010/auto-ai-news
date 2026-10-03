@@ -1,38 +1,22 @@
 {
-  "date": "2026-10-02",
-  "generated": "2026-10-02T10:46:18.798193+00:00",
-  "story_count": 18,
+  "date": "2026-10-03",
+  "generated": "2026-10-03T10:06:31.249012+00:00",
+  "story_count": 16,
   "stories": [
     {
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "deck": ""
     },
     {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "deck": ""
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "deck": ""
     },
     {
@@ -52,6 +36,14 @@
       "deck": ""
     },
     {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "source": "Hugging Face Blog",
@@ -60,11 +52,11 @@
       "deck": ""
     },
     {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+      "url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
       "deck": ""
     },
     {
@@ -76,43 +68,43 @@
       "deck": ""
     },
     {
-      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-      "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence. In this Robots Guide profile, Kemp shar",
-      "deck": ""
-    },
-    {
-      "title": "Top 10 robotics stories of September 2026",
-      "url": "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026/",
+      "title": "Inside Omron’s next-generation LD mobile robots",
+      "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "In September 2026, live events such as IMTS, ROSCon, and iROS brought a flood of robotics developments. The post Top 10 robotics stories of September 2026 appeared first on The Robot Report .",
+      "summary": "In mobile robotics, software, safety, and fleet management are becoming just as important as the robot itself, according to an OMROM project manager. The post Inside Omron’s next-generation LD mobile robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Boston Dynamics drops pinkie on new humanoid hand",
-      "url": "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/",
+      "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
+      "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Boston Dynamics engineers taped their pinkies and ring fingers together for a day to learn what they weren’t able to do. The post Boston Dynamics drops pinkie on new humanoid hand appeared first on The Robot Report .",
+      "summary": "Experts from Eli Lilly and Purdue University will reveal findings about the perception of robots on the manufacturing floor. The post Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Preparing for Jazzy Sync 2026-10-05",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-jazzy-sync-2026-10-05/58533",
+      "title": "Boston Robot Hackers Oct 15 Meeting Announcement",
+      "url": "https://discourse.openrobotics.org/t/boston-robot-hackers-oct-15-meeting-announcement/58552",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re planning a Jazzy Jalisco sync next Monday Sun, Oct 4, 2026 4:00 PM UTC . There are currently 472 packages ready to sync and no regressions . If you find any other regression when testing, please report it upstream and leave a comment here so we can track it leading up to the sync. Starting tod",
+      "summary": "In less than two weeks we will have our next monthly meeting of the Boston Robot Hackers . Mark it on your calendar now, and please register for the event—select October 15, 7:00 to 9:00. Our main speaker, Arjun Viswanathan will give a talk on Reinforcement Learning for Multimodal Locomotion. It pro",
       "deck": ""
     },
     {
-      "title": "ROS PMC Minutes for September 29, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-september-29-2026/58518",
+      "title": "ROS News for the week of September 28th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-september-28th-2026/58547",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The ROS PMC meeting for this week was on Tuesday, September 29, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . This was the first meeting back after ROSCon. ROS PMC Business REP 158 PASSES. The OpenUSD conventions for simulation asset interoperability are accepted.",
+      "summary": "ROS News for the week of September 28th, 2026 ROSCon Global 2026 was last week in Toronto! There were a lot of big announcements, including Intrinsic releasing Intrinsic Open Core and wrapping up the AI for Industry challenge , PickNik and Qualcomm merging , Red Hat Enterprise Linux being elevated t",
+      "deck": ""
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
       "deck": ""
     },
     {
@@ -121,14 +113,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-      "deck": ""
-    },
-    {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
       "deck": ""
     },
     {
