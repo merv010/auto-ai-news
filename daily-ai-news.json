@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-03",
-  "generated": "2026-10-03T10:06:31.249012+00:00",
-  "story_count": 16,
+  "date": "2026-10-04",
+  "generated": "2026-10-04T10:47:23.309493+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "A model guide for the GPT-6 family",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "deck": ""
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
       "deck": ""
     },
     {
@@ -36,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "The physical AI race will be won in the patent office",
+      "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer. The post The physical AI race will be won in the patent office appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Inside Omron’s next-generation LD mobile robots",
       "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
       "source": "The Robot Report",
@@ -76,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
-      "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/",
-      "source": "The Robot Report",
+      "title": "Tuning StereoSGBM on PS5 Camera (ROS 2 Galactic) for Dense Depth Maps",
+      "url": "https://discourse.openrobotics.org/t/tuning-stereosgbm-on-ps5-camera-ros-2-galactic-for-dense-depth-maps/58568",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Experts from Eli Lilly and Purdue University will reveal findings about the perception of robots on the manufacturing floor. The post Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness appeared first on The Robot Report .",
+      "summary": "Hi everyone, I’m working on setting up a stereo camera PS5 HD Camera in ROS 2 Galactic for stereo depth estimation using stereo_image_proc ( DisparityNode ), with the end goal of feeding the depth data into RTAB-Map for 3D reconstruction. I transitioned from StereoBM to StereoSGBM ( stereo_algorithm",
       "deck": ""
     },
     {
-      "title": "Boston Robot Hackers Oct 15 Meeting Announcement",
-      "url": "https://discourse.openrobotics.org/t/boston-robot-hackers-oct-15-meeting-announcement/58552",
+      "title": "RobotCAD v12.10.0 is released!",
+      "url": "https://discourse.openrobotics.org/t/robotcad-v12-10-0-is-released/58566",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "In less than two weeks we will have our next monthly meeting of the Boston Robot Hackers . Mark it on your calendar now, and please register for the event—select October 15, 7:00 to 9:00. Our main speaker, Arjun Viswanathan will give a talk on Reinforcement Learning for Multimodal Locomotion. It pro",
-      "deck": ""
-    },
-    {
-      "title": "ROS News for the week of September 28th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-september-28th-2026/58547",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "ROS News for the week of September 28th, 2026 ROSCon Global 2026 was last week in Toronto! There were a lot of big announcements, including Intrinsic releasing Intrinsic Open Core and wrapping up the AI for Industry challenge , PickNik and Qualcomm merging , Red Hat Enterprise Linux being elevated t",
+      "summary": "It’s been a long time since I posted any news. Many new features and fixes have been released. Here is a list of some of them that have appeared in recent versions. Added RobotCAD MCP server for agentic robot assembling. Updated Models Library. More models (219 now) and faster import . Added xacro a",
       "deck": ""
     },
     {
