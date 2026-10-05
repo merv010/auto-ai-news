@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-04",
-  "generated": "2026-10-04T10:47:23.309493+00:00",
+  "date": "2026-10-05",
+  "generated": "2026-10-05T11:53:41.990748+00:00",
   "story_count": 18,
   "stories": [
+    {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "deck": ""
+    },
     {
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "deck": ""
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "deck": ""
     },
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
+      "url": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Cyber and physical security threats are rapidly evolving, but robotics and AI can evolve to meet them, writes a columnist. The post How robotics and physical AI can responsibly tackle key physical security challenges appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "The physical AI race will be won in the patent office",
       "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
       "source": "The Robot Report",
@@ -92,27 +100,27 @@
       "deck": ""
     },
     {
-      "title": "Inside Omron’s next-generation LD mobile robots",
-      "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
-      "source": "The Robot Report",
+      "title": "ROS 2 Task Resilience — experimental mission persistence and restart recovery with Nav2",
+      "url": "https://discourse.openrobotics.org/t/ros-2-task-resilience-experimental-mission-persistence-and-restart-recovery-with-nav2/58583",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "In mobile robotics, software, safety, and fleet management are becoming just as important as the robot itself, according to an OMROM project manager. The post Inside Omron’s next-generation LD mobile robots appeared first on The Robot Report .",
+      "summary": "Hi everyone, I’ve published an experimental developer preview of ROS 2 Task Resilience, a personal open-source project for durable mission state and recovery after a supervisor process restarts. github.com GitHub - dlanov/ros2-task-resilience: Experimental ROS 2 mission persistence and... Experiment",
       "deck": ""
     },
     {
-      "title": "Tuning StereoSGBM on PS5 Camera (ROS 2 Galactic) for Dense Depth Maps",
-      "url": "https://discourse.openrobotics.org/t/tuning-stereosgbm-on-ps5-camera-ros-2-galactic-for-dense-depth-maps/58568",
+      "title": "How are commercial/proprietary ROS 2 components typically distributed?",
+      "url": "https://discourse.openrobotics.org/t/how-are-commercial-proprietary-ros-2-components-typically-distributed/58581",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’m working on setting up a stereo camera PS5 HD Camera in ROS 2 Galactic for stereo depth estimation using stereo_image_proc ( DisparityNode ), with the end goal of feeding the depth data into RTAB-Map for 3D reconstruction. I transitioned from StereoBM to StereoSGBM ( stereo_algorithm",
+      "summary": "I’d like to understand the common deployment patterns for commercial ROS 2 software. My background is in mobile/on-device AI. In the mobile ecosystem, binary distribution has fairly clear boundaries: an SDK vendor might provide an AAR for Android or an XCFramework for iOS, while keeping the underlyi",
       "deck": ""
     },
     {
-      "title": "RobotCAD v12.10.0 is released!",
-      "url": "https://discourse.openrobotics.org/t/robotcad-v12-10-0-is-released/58566",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "It’s been a long time since I posted any news. Many new features and fixes have been released. Here is a list of some of them that have appeared in recent versions. Added RobotCAD MCP server for agentic robot assembling. Updated Models Library. More models (219 now) and faster import . Added xacro a",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
-      "deck": ""
-    },
-    {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
       "deck": ""
     },
     {
