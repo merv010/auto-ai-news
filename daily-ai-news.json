@@ -1,38 +1,22 @@
 {
-  "date": "2026-10-05",
-  "generated": "2026-10-05T11:53:41.990748+00:00",
-  "story_count": 18,
+  "date": "2026-10-06",
+  "generated": "2026-10-06T11:34:09.979844+00:00",
+  "story_count": 16,
   "stories": [
+    {
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "deck": ""
+    },
     {
       "title": "Building advertising for the way people use AI",
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "deck": ""
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "deck": ""
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
       "deck": ""
     },
     {
@@ -52,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,51 +68,51 @@
       "deck": ""
     },
     {
-      "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
-      "url": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
+      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
+      "url": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Cyber and physical security threats are rapidly evolving, but robotics and AI can evolve to meet them, writes a columnist. The post How robotics and physical AI can responsibly tackle key physical security challenges appeared first on The Robot Report .",
+      "summary": "The companies plan to integrate Teradyne robotics and test technologies with the Bright Machines manufacturing platform. The post Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "The physical AI race will be won in the patent office",
-      "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
+      "title": "FCC robot restrictions could accelerate shift to local AI",
+      "url": "https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer. The post The physical AI race will be won in the patent office appeared first on The Robot Report .",
+      "summary": "Companies deploying physical AI today need to decide which AI workloads belong on the robot, what can remain in the cloud, and whether the underlying technology stack can meet rising expectations for security, safety, and supply-chain transparency. The post FCC robot restrictions could accelerate sh",
       "deck": ""
     },
     {
-      "title": "ROS 2 Task Resilience — experimental mission persistence and restart recovery with Nav2",
-      "url": "https://discourse.openrobotics.org/t/ros-2-task-resilience-experimental-mission-persistence-and-restart-recovery-with-nav2/58583",
+      "title": "New Packages for Jazzy Jalisco 2026-10-05",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-jazzy-jalisco-2026-10-05/58622",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’ve published an experimental developer preview of ROS 2 Task Resilience, a personal open-source project for durable mission state and recovery after a supervisor process restarts. github.com GitHub - dlanov/ros2-task-resilience: Experimental ROS 2 mission persistence and... Experiment",
+      "summary": "Hello there everyone! We’re happy to announce 190 new packages and 312 updates are now available in ROS 2 Jazzy Jalisco . This sync was tagged as jazzy/2026-10-05 . Package Updates for jazzy Note that dbgsym packages have been filtered out from the list below Added Packages [190]: ros-jazzy-ament-cm",
       "deck": ""
     },
     {
-      "title": "How are commercial/proprietary ROS 2 components typically distributed?",
-      "url": "https://discourse.openrobotics.org/t/how-are-commercial-proprietary-ros-2-components-typically-distributed/58581",
+      "title": "Robot Brain: a memory runtime for task experience, with a ROS 2 reference bridge (public alpha, closed core)",
+      "url": "https://discourse.openrobotics.org/t/robot-brain-a-memory-runtime-for-task-experience-with-a-ros-2-reference-bridge-public-alpha-closed-core/58618",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’d like to understand the common deployment patterns for commercial ROS 2 software. My background is in mobile/on-device AI. In the mobile ecosystem, binary distribution has fairly clear boundaries: an SDK vendor might provide an AAR for Android or an XCFramework for iOS, while keeping the underlyi",
+      "summary": "I’m the developer of Robot Brain. I’m posting in Projects because it ships with a ROS 2 reference bridge and I want feedback from people who would actually wire it in. Up front: the core is not open source. It ships as a compiled package under an evaluation license; the repo holds docs, examples and",
       "deck": ""
     },
     {
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re",
       "deck": ""
     },
     {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
       "deck": ""
     },
     {
