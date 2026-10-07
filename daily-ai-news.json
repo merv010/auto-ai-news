@@ -1,22 +1,38 @@
 {
-  "date": "2026-10-06",
-  "generated": "2026-10-06T11:34:09.979844+00:00",
-  "story_count": 16,
+  "date": "2026-10-07",
+  "generated": "2026-10-07T11:24:01.185328+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "deck": ""
     },
     {
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "deck": ""
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -68,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
-      "url": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+      "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
+      "url": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The companies plan to integrate Teradyne robotics and test technologies with the Bright Machines manufacturing platform. The post Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing appeared first on The Robot Report .",
+      "summary": "Before Boston Dynamics, Prasad served as senior vice president and head scientist for Alexa and artificial general intelligence at Amazon. The post Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "FCC robot restrictions could accelerate shift to local AI",
-      "url": "https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/",
+      "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
+      "url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Companies deploying physical AI today need to decide which AI workloads belong on the robot, what can remain in the cloud, and whether the underlying technology stack can meet rising expectations for security, safety, and supply-chain transparency. The post FCC robot restrictions could accelerate sh",
+      "summary": "TwelveLabs says its Pegasus 1.6 model understands first-person video and supports workflows including labeling for robotics developers. The post Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "New Packages for Jazzy Jalisco 2026-10-05",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-jazzy-jalisco-2026-10-05/58622",
+      "title": "ROSCon JP 2026 講演スライド・動画の公開",
+      "url": "https://discourse.openrobotics.org/t/roscon-jp-2026/58635",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello there everyone! We’re happy to announce 190 new packages and 312 updates are now available in ROS 2 Jazzy Jalisco . This sync was tagged as jazzy/2026-10-05 . Package Updates for jazzy Note that dbgsym packages have been filtered out from the list below Added Packages [190]: ros-jazzy-ament-cm",
+      "summary": "ROSCon JP 2026 の各講演について、スライドおよび講演動画を公開しました！ 講演プログラムの各セッションからご覧いただけます。 ROSCon JP プログラム - ROSCon JP 2026 ありがとう ROSCon JP 2026! | 国際的なROS開発者会議”ROSCon”の正式日本ローカル版ROSCon JP 2026が8月4日(火),5日(水)に筑波で開催されます。 また、会場の雰囲気や当日の様子をまとめたダイジェストムービーも公開しています This is ROSCon JP 2026 当日参加された方の振り返りにも、参加できなかった方にも、ぜひご覧いただければと思い",
       "deck": ""
     },
     {
-      "title": "Robot Brain: a memory runtime for task experience, with a ROS 2 reference bridge (public alpha, closed core)",
-      "url": "https://discourse.openrobotics.org/t/robot-brain-a-memory-runtime-for-task-experience-with-a-ros-2-reference-bridge-public-alpha-closed-core/58618",
+      "title": "DialoStack: task-oriented spoken dialogue for ROS 2, with the LLM kept out of the control flow",
+      "url": "https://discourse.openrobotics.org/t/dialostack-task-oriented-spoken-dialogue-for-ros-2-with-the-llm-kept-out-of-the-control-flow/58631",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’m the developer of Robot Brain. I’m posting in Projects because it ships with a ROS 2 reference bridge and I want feedback from people who would actually wire it in. Up front: the core is not open source. It ships as a compiled package under an evaluation license; the repo holds docs, examples and",
+      "summary": "I’ve been working on getting a robot to run structured spoken conversations, things like a clinic intake (collect name, age, reason for the visit, allergies…), explaining a topic and checking the person understood it, or running a short quiz. Wiring an LLM straight into the speech loop gets you a ni",
       "deck": ""
     },
     {
