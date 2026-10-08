@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-07",
-  "generated": "2026-10-07T11:24:01.185328+00:00",
+  "date": "2026-10-08",
+  "generated": "2026-10-08T11:39:33.553736+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "deck": ""
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid",
       "deck": ""
     },
     {
@@ -76,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
-      "url": "https://spectrum.ieee.org/robust-robot-hand",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Today, Boston Dynamics is announcing a redesigned hand for its Atlas robot . The previous generation could do some crazy superhuman things with its three fingers, but it was never intended for mass production in the tens or hundreds of thousands. Switching from research hardware to a scalable produc",
-      "deck": ""
-    },
-    {
-      "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
-      "url": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
+      "title": "PTC acquisition positions Schneider Electric to challenge Siemens",
+      "url": "https://www.therobotreport.com/ptc-acquisition-positions-schneider-electric-challenge-siemens/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Before Boston Dynamics, Prasad served as senior vice president and head scientist for Alexa and artificial general intelligence at Amazon. The post Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO appeared first on The Robot Report .",
+      "summary": "The Schneider Electric acquisition of PTC gives it a 'digital thread' from design through operations, but it needs to integrate data and software, says Interact Analysis. The post PTC acquisition positions Schneider Electric to challenge Siemens appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
-      "url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+      "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
+      "url": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "TwelveLabs says its Pegasus 1.6 model understands first-person video and supports workflows including labeling for robotics developers. The post Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs appeared first on The Robot Report .",
+      "summary": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement. The post Teradyne Robotics, Elite Robots settle cobot dispute appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROSCon JP 2026 講演スライド・動画の公開",
-      "url": "https://discourse.openrobotics.org/t/roscon-jp-2026/58635",
+      "title": "Guidance on robot coordination in narrow bidirectional corridors with yielding bays",
+      "url": "https://discourse.openrobotics.org/t/guidance-on-robot-coordination-in-narrow-bidirectional-corridors-with-yielding-bays/58684",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROSCon JP 2026 の各講演について、スライドおよび講演動画を公開しました！ 講演プログラムの各セッションからご覧いただけます。 ROSCon JP プログラム - ROSCon JP 2026 ありがとう ROSCon JP 2026! | 国際的なROS開発者会議”ROSCon”の正式日本ローカル版ROSCon JP 2026が8月4日(火),5日(水)に筑波で開催されます。 また、会場の雰囲気や当日の様子をまとめたダイジェストムービーも公開しています This is ROSCon JP 2026 当日参加された方の振り返りにも、参加できなかった方にも、ぜひご覧いただければと思い",
+      "summary": "Hello Open-RMF maintainers and community, We are using Open-RMF with ROS 2 Jazzy to operate mobile robots in a semiconductor FAB. Our facility has many narrow corridors that are only wide enough for one robot at a time, but require bidirectional traffic. There are side bays at some locations where a",
       "deck": ""
     },
     {
-      "title": "DialoStack: task-oriented spoken dialogue for ROS 2, with the LLM kept out of the control flow",
-      "url": "https://discourse.openrobotics.org/t/dialostack-task-oriented-spoken-dialogue-for-ros-2-with-the-llm-kept-out-of-the-control-flow/58631",
+      "title": "Air–ground teaming with a humanoid robot: ROS 2 patterns for a shared event record?",
+      "url": "https://discourse.openrobotics.org/t/air-ground-teaming-with-a-humanoid-robot-ros-2-patterns-for-a-shared-event-record/58681",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’ve been working on getting a robot to run structured spoken conversations, things like a clinic intake (collect name, age, reason for the visit, allergies…), explaining a topic and checking the person understood it, or running a short quiz. Wiring an LLM straight into the speech loop gets you a ni",
+      "summary": "Disclosure: I work with SOLARTODO LIMITED, the team behind SKYHUB. I’m posting here as a vendor to share how we approach ROS 2 integration on an air–ground system, and to get the community’s input on a few design questions we’re still weighing. The setup SKYHUB pairs three assets at one site: an STT",
       "deck": ""
     },
     {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
       "deck": ""
     },
     {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ",
       "deck": ""
     },
     {
