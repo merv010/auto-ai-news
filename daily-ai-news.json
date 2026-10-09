@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-08",
-  "generated": "2026-10-08T11:39:33.553736+00:00",
+  "date": "2026-10-09",
+  "generated": "2026-10-09T11:32:58.646951+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "deck": ""
     },
     {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Multimodal open d1 decision models for the edge",
       "url": "https://huggingface.co/blog/LiquidAI/open-d1",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "This Disembodied Hand Is All the Robot You Need",
+      "url": "https://spectrum.ieee.org/walking-robotic-hand",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic hand into a completely self-contained robot that walks on its fingertips while using those same fingers",
       "deck": ""
     },
     {
@@ -76,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
-      "url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
-      "deck": ""
-    },
-    {
-      "title": "PTC acquisition positions Schneider Electric to challenge Siemens",
-      "url": "https://www.therobotreport.com/ptc-acquisition-positions-schneider-electric-challenge-siemens/",
+      "title": "SafeWorld emerges from stealth to build, deploy robot safety simulation technologies",
+      "url": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Schneider Electric acquisition of PTC gives it a 'digital thread' from design through operations, but it needs to integrate data and software, says Interact Analysis. The post PTC acquisition positions Schneider Electric to challenge Siemens appeared first on The Robot Report .",
+      "summary": "SafeWorld’s platform provides testing and simulation software to help enterprises evaluate and deploy robots safely and responsibly. The post SafeWorld emerges from stealth to build, deploy robot safety simulation technologies appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
-      "url": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/",
+      "title": "Jabil discusses the pace of humanoid robot development and production",
+      "url": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement. The post Teradyne Robotics, Elite Robots settle cobot dispute appeared first on The Robot Report .",
+      "summary": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress. The post Jabil discusses the pace of humanoid robot development and production appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Guidance on robot coordination in narrow bidirectional corridors with yielding bays",
-      "url": "https://discourse.openrobotics.org/t/guidance-on-robot-coordination-in-narrow-bidirectional-corridors-with-yielding-bays/58684",
+      "title": "EasyNav 0.5.0 released for Humble, Jazzy, Kilted and Lyrical",
+      "url": "https://discourse.openrobotics.org/t/easynav-0-5-0-released-for-humble-jazzy-kilted-and-lyrical/58721",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello Open-RMF maintainers and community, We are using Open-RMF with ROS 2 Jazzy to operate mobile robots in a semiconductor FAB. Our facility has many narrow corridors that are only wide enough for one robot at a time, but require bidirectional traffic. There are side bays at some locations where a",
+      "summary": "EasyNav robots Hi everyone! We are happy to announce EasyNav 0.5.0 , a new release of EasyNavigation, the open-source navigation system for ROS 2 developed at the Intelligent Robotics Lab The same version is available for Humble, Jazzy, Kilted and Lyrical , and you can install it in two ways: APT : ",
       "deck": ""
     },
     {
-      "title": "Air–ground teaming with a humanoid robot: ROS 2 patterns for a shared event record?",
-      "url": "https://discourse.openrobotics.org/t/air-ground-teaming-with-a-humanoid-robot-ros-2-patterns-for-a-shared-event-record/58681",
+      "title": "Adding a new recurring Open-RMF Project meeting: Office Hours (literally)!",
+      "url": "https://discourse.openrobotics.org/t/adding-a-new-recurring-open-rmf-project-meeting-office-hours-literally/58720",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Disclosure: I work with SOLARTODO LIMITED, the team behind SKYHUB. I’m posting here as a vendor to share how we approach ROS 2 integration on an air–ground system, and to get the community’s input on a few design questions we’re still weighing. The setup SKYHUB pairs three assets at one site: an STT",
+      "summary": "I’m excited to announce that the Open-RMF project will be launching a new recurring meeting . It will be called Office Hours, and we will be taking that very literally. Community members are welcome to join us at the Intrinsic Singapore office for in-person discussion, Q&amp;A, guidance, and pair pr",
       "deck": ""
     },
     {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
       "deck": ""
     },
     {
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
       "deck": ""
     },
     {
