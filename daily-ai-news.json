@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-09",
-  "generated": "2026-10-09T11:32:58.646951+00:00",
+  "date": "2026-10-10",
+  "generated": "2026-10-10T10:51:04.232336+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -12,11 +12,11 @@
       "deck": ""
     },
     {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "The model that didn't exist, so you made it yourself",
       "url": "https://huggingface.co/blog/building-with-ml-intern",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
+      "url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid",
-      "deck": ""
-    },
-    {
-      "title": "SafeWorld emerges from stealth to build, deploy robot safety simulation technologies",
-      "url": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
+      "title": "Why humanoid robot demos still fail the generalization test",
+      "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "SafeWorld’s platform provides testing and simulation software to help enterprises evaluate and deploy robots safely and responsibly. The post SafeWorld emerges from stealth to build, deploy robot safety simulation technologies appeared first on The Robot Report .",
+      "summary": "How better data and human judgment can help robots move beyond demos toward reliable real-world performance. The post Why humanoid robot demos still fail the generalization test appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Jabil discusses the pace of humanoid robot development and production",
-      "url": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
+      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
+      "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress. The post Jabil discusses the pace of humanoid robot development and production appeared first on The Robot Report .",
+      "summary": "The Robot Report spoke with Alberto Rodriguez, the director of robot behavior for Atlas at Boston Dynamics, about the humanoid's new hand. The post Boston Dynamics gives more insight into its redesigned humanoid hand appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "EasyNav 0.5.0 released for Humble, Jazzy, Kilted and Lyrical",
-      "url": "https://discourse.openrobotics.org/t/easynav-0-5-0-released-for-humble-jazzy-kilted-and-lyrical/58721",
+      "title": "Boston Robot Hackers meeting Oct 15 at 7:00. Read for details",
+      "url": "https://discourse.openrobotics.org/t/boston-robot-hackers-meeting-oct-15-at-7-00-read-for-details/58741",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "EasyNav robots Hi everyone! We are happy to announce EasyNav 0.5.0 , a new release of EasyNavigation, the open-source navigation system for ROS 2 developed at the Intelligent Robotics Lab The same version is available for Humble, Jazzy, Kilted and Lyrical , and you can install it in two ways: APT : ",
+      "summary": "Next Thursday, we will have our next monthly meeting of the Boston Robot Hackers . Mark it on your calendar now, and please register for the event—select October 15, 7:00 to 9:00. Reinforcement Learning for Multimodal Locomotion Arjun’s MS thesis at Northeastern’s Silicon Synapse Lab tackled a robot",
       "deck": ""
     },
     {
-      "title": "Adding a new recurring Open-RMF Project meeting: Office Hours (literally)!",
-      "url": "https://discourse.openrobotics.org/t/adding-a-new-recurring-open-rmf-project-meeting-office-hours-literally/58720",
+      "title": "ROS News for the Week of October 5th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-october-5th-2026/58739",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’m excited to announce that the Open-RMF project will be launching a new recurring meeting . It will be called Office Hours, and we will be taking that very literally. Community members are welcome to join us at the Intrinsic Singapore office for in-person discussion, Q&amp;A, guidance, and pair pr",
+      "summary": "ROS News for the Week of October 5th, 2026 October is a busy month for regional ROSCons! ROSCon China in Shanghai is next weekend followed by ROSCon UK in Edinburgh . The following weekend is a sold out ROSCon Singapore (note that there is still space available for the pre-ROSConSG hackathon , and h",
       "deck": ""
     },
     {
