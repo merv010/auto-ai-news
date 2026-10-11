@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-10",
-  "generated": "2026-10-10T10:51:04.232336+00:00",
+  "date": "2026-10-11",
+  "generated": "2026-10-11T11:03:42.117196+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Why dexterity is physical AI’s real bottleneck",
+      "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "The next major challenge in robotic dexterity is making the entire system reliable enough to turn capabilities into useful work. The post Why dexterity is physical AI&#8217;s real bottleneck appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Why humanoid robot demos still fail the generalization test",
       "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
       "source": "The Robot Report",
@@ -92,11 +100,11 @@
       "deck": ""
     },
     {
-      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
-      "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
-      "source": "The Robot Report",
+      "title": "knoblog: a changelog of default-parameter changes from git history (Nav2, PX4, ArduPilot), feedback wanted",
+      "url": "https://discourse.openrobotics.org/t/knoblog-a-changelog-of-default-parameter-changes-from-git-history-nav2-px4-ardupilot-feedback-wanted/58763",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The Robot Report spoke with Alberto Rodriguez, the director of robot behavior for Atlas at Boston Dynamics, about the humanoid's new hand. The post Boston Dynamics gives more insight into its redesigned humanoid hand appeared first on The Robot Report .",
+      "summary": "Hi all, I’ve been building a small tool called knoblog, and I’d like feedback from people who actually maintain or depend on parameter files. The problem: a default changes in a params file, the commit is called something like “update params”, and you find out when the robot behaves differently afte",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "Next Thursday, we will have our next monthly meeting of the Boston Robot Hackers . Mark it on your calendar now, and please register for the event—select October 15, 7:00 to 9:00. Reinforcement Learning for Multimodal Locomotion Arjun’s MS thesis at Northeastern’s Silicon Synapse Lab tackled a robot",
-      "deck": ""
-    },
-    {
-      "title": "ROS News for the Week of October 5th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-october-5th-2026/58739",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "ROS News for the Week of October 5th, 2026 October is a busy month for regional ROSCons! ROSCon China in Shanghai is next weekend followed by ROSCon UK in Edinburgh . The following weekend is a sold out ROSCon Singapore (note that there is still space available for the pre-ROSConSG hackathon , and h",
       "deck": ""
     },
     {
