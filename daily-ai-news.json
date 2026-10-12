@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-11",
-  "generated": "2026-10-11T11:03:42.117196+00:00",
-  "story_count": 18,
+  "date": "2026-10-12",
+  "generated": "2026-10-12T12:31:04.242425+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -17,22 +17,6 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "deck": ""
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -84,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+      "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach. The post Will &#8216;boring&#8217; robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Why dexterity is physical AI’s real bottleneck",
       "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
       "source": "The Robot Report",
@@ -92,27 +84,19 @@
       "deck": ""
     },
     {
-      "title": "Why humanoid robot demos still fail the generalization test",
-      "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
-      "source": "The Robot Report",
+      "title": "Advice on ROS 2, GLIM and nvblox for Autonomous Drones",
+      "url": "https://discourse.openrobotics.org/t/advice-on-ros-2-glim-and-nvblox-for-autonomous-drones/58781",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "How better data and human judgment can help robots move beyond demos toward reliable real-world performance. The post Why humanoid robot demos still fail the generalization test appeared first on The Robot Report .",
+      "summary": "Hi everyone! I’m developing an autonomous quadcopter(small category drone) using PX4, ROS 2 Humble, and a Jetson Orin NX 16 GB, with a Livox Mid-360 LiDAR. I’m planning to use GLIM for odometry, nvblox for 3D mapping, and a custom planner for obstacle avoidance, with PX4 SITL and Gazebo Harmonic for",
       "deck": ""
     },
     {
-      "title": "knoblog: a changelog of default-parameter changes from git history (Nav2, PX4, ArduPilot), feedback wanted",
-      "url": "https://discourse.openrobotics.org/t/knoblog-a-changelog-of-default-parameter-changes-from-git-history-nav2-px4-ardupilot-feedback-wanted/58763",
+      "title": "Webots Demo 7: Testing a Supervisory Gate Pattern on TIAGo (QERRA-v2 Classical)",
+      "url": "https://discourse.openrobotics.org/t/webots-demo-7-testing-a-supervisory-gate-pattern-on-tiago-qerra-v2-classical/58768",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, I’ve been building a small tool called knoblog, and I’d like feedback from people who actually maintain or depend on parameter files. The problem: a default changes in a params file, the commit is called something like “update params”, and you find out when the robot behaves differently afte",
-      "deck": ""
-    },
-    {
-      "title": "Boston Robot Hackers meeting Oct 15 at 7:00. Read for details",
-      "url": "https://discourse.openrobotics.org/t/boston-robot-hackers-meeting-oct-15-at-7-00-read-for-details/58741",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Next Thursday, we will have our next monthly meeting of the Boston Robot Hackers . Mark it on your calendar now, and please register for the event—select October 15, 7:00 to 9:00. Reinforcement Learning for Multimodal Locomotion Arjun’s MS thesis at Northeastern’s Silicon Synapse Lab tackled a robot",
+      "summary": "Hi everyone, Following up on my previous posts on deterministic safety reflexes (Demo 6) and Layer 3 ranking rules, I wanted to share the latest simulation milestone from QERRA-v2 Classical: Webots Demo 7 (Supervisory Gate &amp; Authority Separation) . The Motivation In ROS 2 mobile bases, we typica",
       "deck": ""
     },
     {
