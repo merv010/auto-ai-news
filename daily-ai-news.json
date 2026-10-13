@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-12",
-  "generated": "2026-10-12T12:31:04.242425+00:00",
-  "story_count": 16,
+  "date": "2026-10-13",
+  "generated": "2026-10-13T12:15:07.193632+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "deck": ""
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -68,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
+      "url": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Daifuku's Cecile Dick-Calmes said success is no longer measured solely by automation density or equipment utilization. The post Closing the reality gap: Why real-time execution has become the new competitive advantage appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
       "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
       "source": "The Robot Report",
@@ -76,43 +100,35 @@
       "deck": ""
     },
     {
-      "title": "Why dexterity is physical AI’s real bottleneck",
-      "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
-      "source": "The Robot Report",
-      "category": "Robotics",
-      "summary": "The next major challenge in robotic dexterity is making the entire system reliable enough to turn capabilities into useful work. The post Why dexterity is physical AI&#8217;s real bottleneck appeared first on The Robot Report .",
-      "deck": ""
-    },
-    {
-      "title": "Advice on ROS 2, GLIM and nvblox for Autonomous Drones",
-      "url": "https://discourse.openrobotics.org/t/advice-on-ros-2-glim-and-nvblox-for-autonomous-drones/58781",
+      "title": "Rclnodejs 2.3.0: ROS 2 Actions over WebSocket and HTTP/SSE",
+      "url": "https://discourse.openrobotics.org/t/rclnodejs-2-3-0-ros-2-actions-over-websocket-and-http-sse/58817",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone! I’m developing an autonomous quadcopter(small category drone) using PX4, ROS 2 Humble, and a Jetson Orin NX 16 GB, with a Livox Mid-360 LiDAR. I’m planning to use GLIM for odometry, nvblox for 3D mapping, and a custom planner for obstacle avoidance, with PX4 SITL and Gazebo Harmonic for",
+      "summary": "Send a goal, follow the feedback, get the result. rclnodejs 2.3.0 , the ROS 2 client library for Node.js, brings ROS 2 actions to web apps over WebSocket and HTTP/SSE. ROS 2 Actions from the Browser The browser SDK derives TypeScript goal, feedback and result types from generated ROS declarations. O",
       "deck": ""
     },
     {
-      "title": "Webots Demo 7: Testing a Supervisory Gate Pattern on TIAGo (QERRA-v2 Classical)",
-      "url": "https://discourse.openrobotics.org/t/webots-demo-7-testing-a-supervisory-gate-pattern-on-tiago-qerra-v2-classical/58768",
+      "title": "New packages for Humble Hawksbill 2026-10-12",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-humble-hawksbill-2026-10-12/58802",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, Following up on my previous posts on deterministic safety reflexes (Demo 6) and Layer 3 ranking rules, I wanted to share the latest simulation milestone from QERRA-v2 Classical: Webots Demo 7 (Supervisory Gate &amp; Authority Separation) . The Motivation In ROS 2 mobile bases, we typica",
+      "summary": "We’re happy to announce 40 new packages and 446 updates to ROS 2 Humble Hawksbill This sync was tagged as humble/2026-10-12 . amd64 (40 new, 446 updates) (click for more details) arm64 (115 new, 446 updates) (click for more details) Thanks to all ROS maintainers who make packages available to the RO",
       "deck": ""
     },
     {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
       "deck": ""
     },
     {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi",
       "deck": ""
     },
     {
