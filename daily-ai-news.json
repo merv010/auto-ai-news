@@ -1,35 +1,35 @@
 {
-  "date": "2026-10-13",
-  "generated": "2026-10-13T12:15:07.193632+00:00",
+  "date": "2026-10-14",
+  "generated": "2026-10-14T09:48:47.622592+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "deck": ""
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "deck": ""
     },
     {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "source": "DeepMind Blog",
       "category": "AI Research",
-      "summary": "",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
       "deck": ""
     },
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Impactful scheduling for GPU clusters",
       "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Q&A: Mars Perseverance Rover Distance Record",
+      "url": "https://spectrum.ieee.org/mars-rover-distance-record",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "On October 11 , the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance’s ability to drive with much more autonomy than its predecessors. Over the last fiv",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "This Disembodied Hand Is All the Robot You Need",
-      "url": "https://spectrum.ieee.org/walking-robotic-hand",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic hand into a completely self-contained robot that walks on its fingertips while using those same fingers",
-      "deck": ""
-    },
-    {
-      "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
-      "url": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/",
+      "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+      "url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Daifuku's Cecile Dick-Calmes said success is no longer measured solely by automation density or equipment utilization. The post Closing the reality gap: Why real-time execution has become the new competitive advantage appeared first on The Robot Report .",
+      "summary": "With the expansion, NYSOFA and Intuition Robotics established a new three-year, $2.1 million agreement to keep rolling out ElliQ. The post NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
-      "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+      "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
+      "url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach. The post Will &#8216;boring&#8217; robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report .",
+      "summary": "As robots move beyond warehouses and other controlled environments and into everyday life, navigation challenges will be critical. The post Hello Robot, A&#038;K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Rclnodejs 2.3.0: ROS 2 Actions over WebSocket and HTTP/SSE",
-      "url": "https://discourse.openrobotics.org/t/rclnodejs-2-3-0-ros-2-actions-over-websocket-and-http-sse/58817",
+      "title": "AI-assisted inspection of ROS 2 systems: a preview of DDS Monitor Pro’s MCP integration",
+      "url": "https://discourse.openrobotics.org/t/ai-assisted-inspection-of-ros-2-systems-a-preview-of-dds-monitor-pro-s-mcp-integration/58853",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Send a goal, follow the feedback, get the result. rclnodejs 2.3.0 , the ROS 2 client library for Node.js, brings ROS 2 actions to web apps over WebSocket and HTTP/SSE. ROS 2 Actions from the Browser The browser SDK derives TypeScript goal, feedback and result types from generated ROS declarations. O",
+      "summary": "Hi everyone, We at eProsima are sharing a preview of the upcoming AI capabilities in DDS Monitor Pro, with a workflow that is also relevant to engineers working with DDS-based ROS 2 systems. The Monitor’s built-in Model Context Protocol (MCP) server connects an MCP-compatible AI assistant to the sys",
       "deck": ""
     },
     {
-      "title": "New packages for Humble Hawksbill 2026-10-12",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-humble-hawksbill-2026-10-12/58802",
+      "title": "These weeks at Open Robotics HQ (since pre-ROSCon Global)",
+      "url": "https://discourse.openrobotics.org/t/these-weeks-at-open-robotics-hq-since-pre-roscon-global/58845",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re happy to announce 40 new packages and 446 updates to ROS 2 Humble Hawksbill This sync was tagged as humble/2026-10-12 . amd64 (40 new, 446 updates) (click for more details) arm64 (115 new, 446 updates) (click for more details) Thanks to all ROS maintainers who make packages available to the RO",
+      "summary": "Did I say I’d publish one of these right after ROSCon Global? I was overly ambitious (so, so overly ambitious). Truth be told, Open Robotics HQ is still digging out from all the good stuff that happened in Toronto. There’s a whole lot involved with tying off an event, not least of which are the doze",
       "deck": ""
     },
     {
