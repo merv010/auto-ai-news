@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-14",
-  "generated": "2026-10-14T09:48:47.622592+00:00",
+  "date": "2026-10-15",
+  "generated": "2026-10-15T09:29:19.785080+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "deck": ""
     },
     {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
       "source": "Hugging Face Blog",
@@ -60,15 +68,7 @@
       "deck": ""
     },
     {
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Q&A: Mars Perseverance Rover Distance Record",
+      "title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
       "url": "https://spectrum.ieee.org/mars-rover-distance-record",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
@@ -84,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
-      "url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+      "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
+      "url": "https://www.therobotreport.com/robobusiness-2026-panel-discusses-reshoring-with-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "With the expansion, NYSOFA and Intuition Robotics established a new three-year, $2.1 million agreement to keep rolling out ElliQ. The post NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors appeared first on The Robot Report .",
+      "summary": "While reshoring manufacturing is a high priority for policymakers and technologists, RoboBusiness panelists will examine how to promote it. The post RoboBusiness 2026 panel to discuss reshoring with robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
-      "url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/",
+      "title": "Timken Precision Drives puts the motion challenge first in humanoid robots",
+      "url": "https://www.therobotreport.com/timken-precision-drives-puts-motion-challenge-first-humanoid-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "As robots move beyond warehouses and other controlled environments and into everyday life, navigation challenges will be critical. The post Hello Robot, A&#038;K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness appeared first on The Robot Report .",
+      "summary": "Timken combines the expertise of Cone Drive, SPINEA, CGI Motion, and Timken Encoders to develop application-specific motion systems. The post Timken Precision Drives puts the motion challenge first in humanoid robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "AI-assisted inspection of ROS 2 systems: a preview of DDS Monitor Pro’s MCP integration",
-      "url": "https://discourse.openrobotics.org/t/ai-assisted-inspection-of-ros-2-systems-a-preview-of-dds-monitor-pro-s-mcp-integration/58853",
+      "title": "Ros2_pulse: topic rates on a Grafana dashboard, now counting rclpy nodes and loaned messages",
+      "url": "https://discourse.openrobotics.org/t/ros2-pulse-topic-rates-on-a-grafana-dashboard-now-counting-rclpy-nodes-and-loaned-messages/58863",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, We at eProsima are sharing a preview of the upcoming AI capabilities in DDS Monitor Pro, with a workflow that is also relevant to engineers working with DDS-based ROS 2 systems. The Monitor’s built-in Model Context Protocol (MCP) server connects an MCP-compatible AI assistant to the sys",
+      "summary": "Some updates on ros2_pulse since the first post ( Ros2_pulse: per-topic rates and node liveness, including intra-process, on stock binaries ), the LD_PRELOAD probe that counts per-topic rates and node liveness from the tracetools hooks instead of subscribing. Python nodes are counted on both sides n",
       "deck": ""
     },
     {
-      "title": "These weeks at Open Robotics HQ (since pre-ROSCon Global)",
-      "url": "https://discourse.openrobotics.org/t/these-weeks-at-open-robotics-hq-since-pre-roscon-global/58845",
+      "title": "Robotics Prototyping Intern @ Nestack Technologies in Hyderabad, India (On-site)",
+      "url": "https://discourse.openrobotics.org/t/robotics-prototyping-intern-nestack-technologies-in-hyderabad-india-on-site/58861",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Did I say I’d publish one of these right after ROSCon Global? I was overly ambitious (so, so overly ambitious). Truth be told, Open Robotics HQ is still digging out from all the good stuff that happened in Toronto. There’s a whole lot involved with tying off an event, not least of which are the doze",
+      "summary": "We are building an original, friendly-looking walking robot with expressive movement and AI interaction. We’re looking for a hands-on intern who is excited about robotics and wants to work on a real-world prototype from design and assembly through programming and testing. Must-haves: Currently pursu",
       "deck": ""
     },
     {
