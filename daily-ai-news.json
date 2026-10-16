@@ -1,22 +1,30 @@
 {
-  "date": "2026-10-15",
-  "generated": "2026-10-15T09:29:19.785080+00:00",
+  "date": "2026-10-16",
+  "generated": "2026-10-16T09:22:21.560623+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "deck": ""
     },
     {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "deck": ""
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "deck": ""
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -72,7 +72,7 @@
       "url": "https://spectrum.ieee.org/mars-rover-distance-record",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "On October 11 , the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance’s ability to drive with much more autonomy than its predecessors. Over the last fiv",
+      "summary": "On 11 October , the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance ’s ability to drive with much more autonomy than its predecessors. Over the past fi",
       "deck": ""
     },
     {
@@ -84,19 +84,27 @@
       "deck": ""
     },
     {
-      "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
-      "url": "https://www.therobotreport.com/robobusiness-2026-panel-discusses-reshoring-with-robots/",
+      "title": "Stryker invests $400M into CMR Surgical",
+      "url": "https://www.therobotreport.com/stryker-invests-400m-into-cmr-surgical/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "While reshoring manufacturing is a high priority for policymakers and technologists, RoboBusiness panelists will examine how to promote it. The post RoboBusiness 2026 panel to discuss reshoring with robots appeared first on The Robot Report .",
+      "summary": "Stryker plans to serve as the exclusive sales agent in the U.S. for the Versius robotics portfolio from CMR Surgical. The post Stryker invests $400M into CMR Surgical appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Timken Precision Drives puts the motion challenge first in humanoid robots",
-      "url": "https://www.therobotreport.com/timken-precision-drives-puts-motion-challenge-first-humanoid-robots/",
+      "title": "How ADI is helping robotics startups scale",
+      "url": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Timken combines the expertise of Cone Drive, SPINEA, CGI Motion, and Timken Encoders to develop application-specific motion systems. The post Timken Precision Drives puts the motion challenge first in humanoid robots appeared first on The Robot Report .",
+      "summary": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub. The post How ADI is helping robotics startups scale appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
+      "title": "[RFC] Consolidating and Modernizing Integration Test Architecture for gz_ros2_control",
+      "url": "https://discourse.openrobotics.org/t/rfc-consolidating-and-modernizing-integration-test-architecture-for-gz-ros2-control/58883",
+      "source": "ROS Discourse",
+      "category": "Robotics",
+      "summary": "Hi everyone, Over time, the integration test suite in gz_ros2_control has grown incrementally as new controllers, demos, and interfaces were introduced. While these tests prevent regressions, the lack of a explicit test architecture currently leads to duplicate simulation launches, unnecessary CI ru",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "Some updates on ros2_pulse since the first post ( Ros2_pulse: per-topic rates and node liveness, including intra-process, on stock binaries ), the LD_PRELOAD probe that counts per-topic rates and node liveness from the tracetools hooks instead of subscribing. Python nodes are counted on both sides n",
-      "deck": ""
-    },
-    {
-      "title": "Robotics Prototyping Intern @ Nestack Technologies in Hyderabad, India (On-site)",
-      "url": "https://discourse.openrobotics.org/t/robotics-prototyping-intern-nestack-technologies-in-hyderabad-india-on-site/58861",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "We are building an original, friendly-looking walking robot with expressive movement and AI interaction. We’re looking for a hands-on intern who is excited about robotics and wants to work on a real-world prototype from design and assembly through programming and testing. Must-haves: Currently pursu",
       "deck": ""
     },
     {
