@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-17",
-  "generated": "2026-10-17T08:53:32.187041+00:00",
-  "story_count": 18,
+  "date": "2026-10-18",
+  "generated": "2026-10-18T09:11:30.447355+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -12,27 +12,11 @@
       "deck": ""
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "deck": ""
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "deck": ""
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "deck": ""
     },
     {
@@ -84,19 +68,19 @@
       "deck": ""
     },
     {
-      "title": "Why opportunity charging is winning as robot fleets scale",
-      "url": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
+      "title": "ADI explains the race to make AI physical",
+      "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Ben Waters explains why opportunity charging is becoming essential for keeping autonomous robot fleets moving, scalable, and operationally efficient. The post Why opportunity charging is winning as robot fleets scale appeared first on The Robot Report .",
+      "summary": "A new ADI whitepaper examines the challenges and opportunities in moving physical AI out of labs into production machinery. The post ADI explains the race to make AI physical appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
-      "url": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
+      "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+      "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The cohort will run February through June 2027, concluding with company showcases at the Robotics Summit and Expo in Boston. The post MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program appeared first on The Robot Report .",
+      "summary": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist. The post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies appeared first on The Robot Report .",
       "deck": ""
     },
     {
