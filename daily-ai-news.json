@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-18",
-  "generated": "2026-10-18T09:11:30.447355+00:00",
-  "story_count": 16,
+  "date": "2026-10-19",
+  "generated": "2026-10-19T10:21:50.434084+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "deck": ""
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "deck": ""
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
       "deck": ""
     },
     {
@@ -68,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "How to choose a BLDC motor for robotic arms and mobile robots",
+      "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Several factors, from sensors to safety and robotic arms or mobile platforms, help determine the selection of a brushless DC or BLDC motor. The post How to choose a BLDC motor for robotic arms and mobile robots appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "ADI explains the race to make AI physical",
       "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
       "source": "The Robot Report",
@@ -76,27 +100,27 @@
       "deck": ""
     },
     {
-      "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
-      "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
-      "source": "The Robot Report",
+      "title": "42 Gazebo Harmonic Simulation Worlds for Navigation, Exploration and SLAM workflows",
+      "url": "https://discourse.openrobotics.org/t/42-gazebo-harmonic-simulation-worlds-for-navigation-exploration-and-slam-workflows/58934",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist. The post The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies appeared first on The Robot Report .",
+      "summary": "I have created 42 Gazebo &amp; Blender simulation worlds for testing, benchmarking and improving projects that involves navigation, exploration, LiDAR and robot model setups ex. The project is open-source and licensed with Apache 2.0 so you can use it freely. Currently the worlds are 2D plan based e",
       "deck": ""
     },
     {
-      "title": "ROS News for the Week of October 12th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-october-12th-2026/58909",
+      "title": "Is OTA for ROS 2 robots a solved problem?",
+      "url": "https://discourse.openrobotics.org/t/is-ota-for-ros-2-robots-a-solved-problem/58933",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS News for the Week of October 12th, 2026 We have a ton of great events lined up for this weekend and next week including: ROSCon China in Shanghai , RoboBusiness in Santa Clara , our monthly Gazebo Community Meeting on scalable multi-robot simulation in ROS 2 and Gazebo , RobOpsCon 26 in Mountain",
+      "summary": "I could not find anything out there built specifically for OTA updates in the ROS 2 ecosystem. Coming from the web I wanted to see how close I could get to the developer experience I know, so I built a small project on a Raspberry Pi. The device pulls new container images from GitHub releases, runs ",
       "deck": ""
     },
     {
-      "title": "Logging and Observability Guide Review Part 4 | Cloud Robotics WG Meeting 2026-10-19",
-      "url": "https://discourse.openrobotics.org/t/logging-and-observability-guide-review-part-4-cloud-robotics-wg-meeting-2026-10-19/58901",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "The next meeting of the CRWG will be at Mon, Oct 19, 2026 4:00 PM UTC → Mon, Oct 19, 2026 5:00 PM UTC , where we will continue editing the first draft of the Logging and Observability guide. This will be very similar to the last meeting, except that the group hopes to finish the edit of the guide th",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
       "deck": ""
     },
     {
@@ -105,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
-      "deck": ""
-    },
-    {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
       "deck": ""
     },
     {
