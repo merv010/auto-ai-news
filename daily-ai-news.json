@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-19",
-  "generated": "2026-10-19T10:21:50.434084+00:00",
+  "date": "2026-10-20",
+  "generated": "2026-10-20T09:41:42.778433+00:00",
   "story_count": 18,
   "stories": [
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "deck": ""
+    },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "deck": ""
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "The Robot I Didn’t Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the",
       "deck": ""
     },
     {
@@ -76,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
-      "url": "https://spectrum.ieee.org/mars-rover-distance-record",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "On 11 October , the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance ’s ability to drive with much more autonomy than its predecessors. Over the past fi",
-      "deck": ""
-    },
-    {
-      "title": "How to choose a BLDC motor for robotic arms and mobile robots",
-      "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
+      "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+      "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Several factors, from sensors to safety and robotic arms or mobile platforms, help determine the selection of a brushless DC or BLDC motor. The post How to choose a BLDC motor for robotic arms and mobile robots appeared first on The Robot Report .",
+      "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever. The post Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied ",
       "deck": ""
     },
     {
-      "title": "ADI explains the race to make AI physical",
-      "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+      "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
+      "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "A new ADI whitepaper examines the challenges and opportunities in moving physical AI out of labs into production machinery. The post ADI explains the race to make AI physical appeared first on The Robot Report .",
+      "summary": "The company is connecting tactile sensing, real-world data collection, simulation, and AI models to help robots perform physical tasks more reliably. The post Daimon Robotics building the infrastructure layer for tactile intelligence appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "42 Gazebo Harmonic Simulation Worlds for Navigation, Exploration and SLAM workflows",
-      "url": "https://discourse.openrobotics.org/t/42-gazebo-harmonic-simulation-worlds-for-navigation-exploration-and-slam-workflows/58934",
+      "title": "ROS PMC Minutes for October 06, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-october-06-2026/58974",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I have created 42 Gazebo &amp; Blender simulation worlds for testing, benchmarking and improving projects that involves navigation, exploration, LiDAR and robot model setups ex. The project is open-source and licensed with Apache 2.0 so you can use it freely. Currently the worlds are 2D plan based e",
+      "summary": "The ROS PMC meeting for this week was on Tuesday, October 6, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business @ahcorde takes over the ROS Project Leader role for the coming year, following @mjcarroll ’s interim term. @skye.galaxy Nominated as the ROS",
       "deck": ""
     },
     {
-      "title": "Is OTA for ROS 2 robots a solved problem?",
-      "url": "https://discourse.openrobotics.org/t/is-ota-for-ros-2-robots-a-solved-problem/58933",
+      "title": "Amazon Robotics open positions",
+      "url": "https://discourse.openrobotics.org/t/amazon-robotics-open-positions/58967",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I could not find anything out there built specifically for OTA updates in the ROS 2 ecosystem. Coming from the web I wanted to see how close I could get to the developer experience I know, so I built a small project on a Raspberry Pi. The device pulls new container images from GitHub releases, runs ",
+      "summary": "Dear people, we have a couple of positions at Amazon Robotics. You can look at the positions in the following URLs: Embedded Robotics SDE: LinkedIn Senior Embedded Robotics SDE: LinkedIn Robotics SDE, Safe Autonomy: LinkedIn Senior Robotics SDE, Safe Autonomy: LinkedIn and you can check my posting i",
       "deck": ""
     },
     {
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar",
       "deck": ""
     },
     {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
       "deck": ""
     },
     {
