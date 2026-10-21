@@ -1,38 +1,22 @@
 {
-  "date": "2026-10-20",
-  "generated": "2026-10-20T09:41:42.778433+00:00",
-  "story_count": 18,
+  "date": "2026-10-21",
+  "generated": "2026-10-21T09:43:02.762912+00:00",
+  "story_count": 16,
   "stories": [
     {
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
       "deck": ""
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "deck": ""
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "deck": ""
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
       "deck": ""
     },
     {
@@ -52,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,51 +68,51 @@
       "deck": ""
     },
     {
-      "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
-      "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
+      "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
+      "url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever. The post Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied ",
+      "summary": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers. The post Reservoir launches new agricultural robotics incubator for Washington growers appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
-      "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/",
+      "title": "RoboBusiness rebrands as Robotics Summit & Expo West",
+      "url": "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The company is connecting tactile sensing, real-world data collection, simulation, and AI models to help robots perform physical tasks more reliably. The post Daimon Robotics building the infrastructure layer for tactile intelligence appeared first on The Robot Report .",
+      "summary": "Robotics Summit &#038; Expo West sharpens focus on deploying robotics and AI in the real world, complementing the East Coast flagship event. The post RoboBusiness rebrands as Robotics Summit &#038; Expo West appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS PMC Minutes for October 06, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-october-06-2026/58974",
+      "title": "This Week at Open Robotics Headquarters (2026-10-12)",
+      "url": "https://discourse.openrobotics.org/t/this-week-at-open-robotics-headquarters-2026-10-12/59003",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The ROS PMC meeting for this week was on Tuesday, October 6, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business @ahcorde takes over the ROS Project Leader role for the coming year, following @mjcarroll ’s interim term. @skye.galaxy Nominated as the ROS",
+      "summary": "For us here in Open Robotics HQ, the past week was full of racing to complete tasks, including watching over local ROSCon events happening everywhere.. We have ROSCon China and UK this week, and Singapore (if you’ll be there, seek out Geoff!), Spain , and Italy in the next couple of weeks. If you’re",
       "deck": ""
     },
     {
-      "title": "Amazon Robotics open positions",
-      "url": "https://discourse.openrobotics.org/t/amazon-robotics-open-positions/58967",
+      "title": "From Multi-Agent RL in Simulation to Physical Multi-Robot Coordination",
+      "url": "https://discourse.openrobotics.org/t/from-multi-agent-rl-in-simulation-to-physical-multi-robot-coordination/58999",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Dear people, we have a couple of positions at Amazon Robotics. You can look at the positions in the following URLs: Embedded Robotics SDE: LinkedIn Senior Embedded Robotics SDE: LinkedIn Robotics SDE, Safe Autonomy: LinkedIn Senior Robotics SDE, Safe Autonomy: LinkedIn and you can check my posting i",
+      "summary": "Hi everyone, I’d like to share our recent work on decentralized multi-agent reinforcement learning (MARL) for multi-robot task assignment and navigation in industrial environments . Paper: Learning Multi-Agent Task Assignment and Navigation in the Factory: From Simulation to Real Robots Videos of th",
       "deck": ""
     },
     {
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#",
       "deck": ""
     },
     {
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre",
       "deck": ""
     },
     {
