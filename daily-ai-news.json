@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-21",
-  "generated": "2026-10-21T09:43:02.762912+00:00",
+  "date": "2026-10-22",
+  "generated": "2026-10-22T09:42:33.332654+00:00",
   "story_count": 16,
   "stories": [
     {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
       "deck": ""
     },
     {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "deck": ""
     },
     {
@@ -36,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,35 +68,43 @@
       "deck": ""
     },
     {
-      "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
-      "url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+      "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+      "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers. The post Reservoir launches new agricultural robotics incubator for Washington growers appeared first on The Robot Report .",
+      "summary": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment. The post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "RoboBusiness rebrands as Robotics Summit & Expo West",
-      "url": "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
+      "title": "A guide to Day 2 of RoboBusiness 2026",
+      "url": "https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Robotics Summit &#038; Expo West sharpens focus on deploying robotics and AI in the real world, complementing the East Coast flagship event. The post RoboBusiness rebrands as Robotics Summit &#038; Expo West appeared first on The Robot Report .",
+      "summary": "Day 2 of RoboBusiness 2026, the 20th anniversary of the event, will include interesting keynotes around humanoids and social robots. The post A guide to Day 2 of RoboBusiness 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "This Week at Open Robotics Headquarters (2026-10-12)",
-      "url": "https://discourse.openrobotics.org/t/this-week-at-open-robotics-headquarters-2026-10-12/59003",
+      "title": "How to get a review on joystick_drivers",
+      "url": "https://discourse.openrobotics.org/t/how-to-get-a-review-on-joystick-drivers/59049",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "For us here in Open Robotics HQ, the past week was full of racing to complete tasks, including watching over local ROSCon events happening everywhere.. We have ROSCon China and UK this week, and Singapore (if you’ll be there, seek out Geoff!), Spain , and Italy in the next couple of weeks. If you’re",
+      "summary": "I have a PR with a fix for game_controller_node, but unfortunately I haven’t been able to get a review for it from a maintainer. Is there a good way to get in touch with the maintainers? github.com/ros-drivers/joystick_drivers Fix autorepeat for game_controller_node (#312) ros2 ← abrandemuehl:fix-au",
       "deck": ""
     },
     {
-      "title": "From Multi-Agent RL in Simulation to Physical Multi-Robot Coordination",
-      "url": "https://discourse.openrobotics.org/t/from-multi-agent-rl-in-simulation-to-physical-multi-robot-coordination/58999",
+      "title": "Upcoming ROS 2 Workshop: Building AI Robots with Vision-Language Models and ROS 2",
+      "url": "https://discourse.openrobotics.org/t/upcoming-ros-2-workshop-building-ai-robots-with-vision-language-models-and-ros-2/59032",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’d like to share our recent work on decentralized multi-agent reinforcement learning (MARL) for multi-robot task assignment and navigation in industrial environments . Paper: Learning Multi-Agent Task Assignment and Navigation in the Factory: From Simulation to Real Robots Videos of th",
+      "summary": "Looking forward to conducting a 2-day, hands-on workshop with Packt on October 24–25, 2026 . We’ll explore how to integrate VLMs with ROS 2, covering visual perception, scene understanding, AI-powered robotics, and practical projects. Excited to share some hands-on experiments in Robotics and Physic",
+      "deck": ""
+    },
+    {
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#",
-      "deck": ""
-    },
-    {
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre",
       "deck": ""
     },
     {
