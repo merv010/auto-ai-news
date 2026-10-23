@@ -1,22 +1,38 @@
 {
-  "date": "2026-10-22",
-  "generated": "2026-10-22T09:42:33.332654+00:00",
-  "story_count": 16,
+  "date": "2026-10-23",
+  "generated": "2026-10-23T09:39:00.820771+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
       "deck": ""
     },
     {
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "deck": ""
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "deck": ""
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "deck": ""
     },
     {
@@ -36,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Dream Labs raises $90M and launches Dream API",
+      "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Dream Labs says its Dream-1 AI model works across robots from different manufacturers and will allow robots to transfer their learning. The post Dream Labs raises $90M and launches Dream API appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
       "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
       "source": "The Robot Report",
@@ -76,43 +100,35 @@
       "deck": ""
     },
     {
-      "title": "A guide to Day 2 of RoboBusiness 2026",
-      "url": "https://www.therobotreport.com/a-guide-to-day-2-of-robobusiness-2026/",
-      "source": "The Robot Report",
-      "category": "Robotics",
-      "summary": "Day 2 of RoboBusiness 2026, the 20th anniversary of the event, will include interesting keynotes around humanoids and social robots. The post A guide to Day 2 of RoboBusiness 2026 appeared first on The Robot Report .",
-      "deck": ""
-    },
-    {
-      "title": "How to get a review on joystick_drivers",
-      "url": "https://discourse.openrobotics.org/t/how-to-get-a-review-on-joystick-drivers/59049",
+      "title": "Toy robot arm simulator for on-the-fly training & learning about small models",
+      "url": "https://discourse.openrobotics.org/t/toy-robot-arm-simulator-for-on-the-fly-training-learning-about-small-models/59092",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I have a PR with a fix for game_controller_node, but unfortunately I haven’t been able to get a review for it from a maintainer. Is there a good way to get in touch with the maintainers? github.com/ros-drivers/joystick_drivers Fix autorepeat for game_controller_node (#312) ros2 ← abrandemuehl:fix-au",
+      "summary": "huggingface.co AMP Embodied AI Workbench Demo - a Hugging Face Space by... Drive a robot arm with words, right in your browser A browser-only demo where you type or say an instruction and a very small AI model controls a toy robot arm. The model was trained on an everyday PC workstation. Its small, ",
       "deck": ""
     },
     {
-      "title": "Upcoming ROS 2 Workshop: Building AI Robots with Vision-Language Models and ROS 2",
-      "url": "https://discourse.openrobotics.org/t/upcoming-ros-2-workshop-building-ai-robots-with-vision-language-models-and-ros-2/59032",
+      "title": "Pre-built Open-RMF Docker images + a “draw your own site” tutorial (Lyrical)",
+      "url": "https://discourse.openrobotics.org/t/pre-built-open-rmf-docker-images-a-draw-your-own-site-tutorial-lyrical/59081",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Looking forward to conducting a 2-day, hands-on workshop with Packt on October 24–25, 2026 . We’ll explore how to integrate VLMs with ROS 2, covering visual perception, scene understanding, AI-powered robotics, and practical projects. Excited to share some hands-on experiments in Robotics and Physic",
+      "summary": "Hi everyone In the time-honoured tradition of conference-driven development, we’re announcing this exactly two days before ROSCon Singapore. The dev was, of course, finished well in advance We’ve released pre-built Docker images for the Open-RMF stack , plus a step-by-step tutorial for authoring you",
       "deck": ""
     },
     {
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
       "deck": ""
     },
     {
-      "title": "The new economics of enterprise AI",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a",
       "deck": ""
     },
     {
