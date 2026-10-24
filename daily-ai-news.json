@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-23",
-  "generated": "2026-10-23T09:39:00.820771+00:00",
+  "date": "2026-10-24",
+  "generated": "2026-10-24T09:11:16.445256+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
       "deck": ""
     },
     {
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Fast, focused, low-cost decisions for any application.",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+      "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: When Two Robots Become One",
-      "url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
-      "deck": ""
-    },
-    {
-      "title": "Dream Labs raises $90M and launches Dream API",
-      "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
+      "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
+      "url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Dream Labs says its Dream-1 AI model works across robots from different manufacturers and will allow robots to transfer their learning. The post Dream Labs raises $90M and launches Dream API appeared first on The Robot Report .",
+      "summary": "Industry leaders will discuss what robotics buyers should know about the recent FCC restriction on certain connected systems. The post Webinar to discuss how the FCC robotics ruling affects automation buyers appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
-      "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory/",
+      "title": "Generative Bionics to launch Physical AI Data Factory in Italy",
+      "url": "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Agility pilot, which is expected to begin in 2027, will begin at an AGCO production facility for agricultural equipment. The post AGCO to deploy Agility Digit humanoid in Kansas factory appeared first on The Robot Report .",
+      "summary": "Generative Bionics says it hopes to advance European robotics sovereignty by ensuring that humanoid data is are generated on the continent. The post Generative Bionics to launch Physical AI Data Factory in Italy appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Toy robot arm simulator for on-the-fly training & learning about small models",
-      "url": "https://discourse.openrobotics.org/t/toy-robot-arm-simulator-for-on-the-fly-training-learning-about-small-models/59092",
+      "title": "Make a Gazebo model in one sentence",
+      "url": "https://discourse.openrobotics.org/t/make-a-gazebo-model-in-one-sentence/59131",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "huggingface.co AMP Embodied AI Workbench Demo - a Hugging Face Space by... Drive a robot arm with words, right in your browser A browser-only demo where you type or say an instruction and a very small AI model controls a toy robot arm. The model was trained on an everyday PC workstation. Its small, ",
+      "summary": "Make a Gazebo model in one sentence github: GitHub - yjphhw/gazebo-pack: Blender→Gazebo 资产包管线: manifest 契约 + 校验打包器 + 建模脚本 (bus/tesla/falcon9 等10例) · GitHub Getting a textured, physics-ready model into Gazebo usually means: modeling in Blender, UV mapping, exporting, hand-writing SDF XML, fixing coll",
       "deck": ""
     },
     {
-      "title": "Pre-built Open-RMF Docker images + a “draw your own site” tutorial (Lyrical)",
-      "url": "https://discourse.openrobotics.org/t/pre-built-open-rmf-docker-images-a-draw-your-own-site-tutorial-lyrical/59081",
+      "title": "Open opportunities at a robotics startup building humanoids (On-site, NYC)",
+      "url": "https://discourse.openrobotics.org/t/open-opportunities-at-a-robotics-startup-building-humanoids-on-site-nyc/59128",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone In the time-honoured tradition of conference-driven development, we’re announcing this exactly two days before ROSCon Singapore. The dev was, of course, finished well in advance We’ve released pre-built Docker images for the Open-RMF stack , plus a step-by-step tutorial for authoring you",
+      "summary": "Hiring on-site Mechanical, Electrical and Robotic Controls Engineers for a NYC-based robotics startup building and deploying humanoid robots for factory floors. Links to apply: Staff Robotic Controls Engineer Senior Staff Mechanical Engineer Staff Electrical Engineer 2 posts - 2 participants Read fu",
       "deck": ""
     },
     {
