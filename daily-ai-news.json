@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-25",
-  "generated": "2026-10-25T09:28:22.478101+00:00",
-  "story_count": 16,
+  "date": "2026-10-26",
+  "generated": "2026-10-26T10:36:11.027639+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "deck": ""
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "deck": ""
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "deck": ""
     },
     {
@@ -68,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
+      "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe. The post Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
       "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
       "source": "The Robot Report",
@@ -76,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
-      "url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
-      "source": "The Robot Report",
+      "title": "We made a new ROS robot: Mini Pupper 4",
+      "url": "https://discourse.openrobotics.org/t/we-made-a-new-ros-robot-mini-pupper-4/59197",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Industry leaders will discuss what robotics buyers should know about the recent FCC restriction on certain connected systems. The post Webinar to discuss how the FCC robotics ruling affects automation buyers appeared first on The Robot Report .",
+      "summary": "YouTube Full Video : ROS2 Jazzy and micro-ros 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
-      "title": "ROSCon China 2026 - A Tremendous Success for the ROS Community",
-      "url": "https://discourse.openrobotics.org/t/roscon-china-2026-a-tremendous-success-for-the-ros-community/59154",
+      "title": "RoboStack moved to a Monorepo",
+      "url": "https://discourse.openrobotics.org/t/robostack-moved-to-a-monorepo/59196",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Dear ROS Community, We are excited to share an official summary and recap of ROSCon China 2026 ! Held from October 16–18, 2026 at Shanghai, China , ROSCon China 2026 came together for 3 action-packed days of technical sessions, workshops, and networking. The scale and enthusiasm this year exceeded a",
-      "deck": ""
-    },
-    {
-      "title": "Radar Plugin for Gazebo.",
-      "url": "https://discourse.openrobotics.org/t/radar-plugin-for-gazebo/59153",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "I’m currently developing a marine radar sensor plugin for Gazebo Harmonic with ROS 2 integration, designed to be mounted on a USV for testing obstacle detection and avoidance in simulation. The plugin publishes three outputs: a PPI (Plan Position Indicator) radar image, a point cloud of radar return",
+      "summary": "Hi everyone, RoboStack has moved to a monorepo approach! You can read all about it in this document . Why? All the major distros are now managed from one repo. This removes a lot of duplication and makes maintaining the distro channels much easier. Patches, new packages, testing and rebuilds can now",
       "deck": ""
     },
     {
