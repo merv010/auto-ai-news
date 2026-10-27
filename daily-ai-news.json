@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-26",
-  "generated": "2026-10-26T10:36:11.027639+00:00",
+  "date": "2026-10-27",
+  "generated": "2026-10-27T10:05:41.826143+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "deck": ""
     },
     {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
       "deck": ""
     },
     {
@@ -84,51 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
-      "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+      "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
+      "url": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Sereact and Teradyne have already shipped hundreds of UR robots in dual-arm systems to live customer sites across Europe. The post Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics appeared first on The Robot Report .",
+      "summary": "Bedrock Robotics has secured $600 million to scale autonomous heavy equipment and combat construction labor shortages. The post Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
-      "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+      "title": "OMRON to acquire OnLogic to address edge AI applications",
+      "url": "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale. The post Eka Robotics raises $150M to scale its vision-force-action model for robots appeared first on The Robot Report .",
+      "summary": "OMRON will add industrial computing from OnLogic to its industrial automation expertise to serve data- and AI-intensive applications. The post OMRON to acquire OnLogic to address edge AI applications appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "We made a new ROS robot: Mini Pupper 4",
-      "url": "https://discourse.openrobotics.org/t/we-made-a-new-ros-robot-mini-pupper-4/59197",
+      "title": "ROS PMC Minutes for October 20, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-october-20-2026/59241",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "YouTube Full Video : ROS2 Jazzy and micro-ros 1 post - 1 participant Read full topic",
+      "summary": "The ROS PMC meeting for this week was on Tuesday, October 20, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business [ @ahcorde ] Votes are going out to the PMC members for: @skye.galaxy as the ROS representative to the TGC 3 new committers @christophebeda",
       "deck": ""
     },
     {
-      "title": "RoboStack moved to a Monorepo",
-      "url": "https://discourse.openrobotics.org/t/robostack-moved-to-a-monorepo/59196",
+      "title": "New course: Agentic Robotics with ROS 2, from AI agents to VLA models (code on GitHub)",
+      "url": "https://discourse.openrobotics.org/t/new-course-agentic-robotics-with-ros-2-from-ai-agents-to-vla-models-code-on-github/59239",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, RoboStack has moved to a monorepo approach! You can read all about it in this document . Why? All the major distros are now managed from one repo. This removes a lot of duplication and makes maintaining the distro channels much easier. Patches, new packages, testing and rebuilds can now",
+      "summary": "Hello everyone, I have published a self-paced course that connects ROS 2 with today’s AI methods. Everything runs on one simulated greenhouse robot, with one task: inspect the tomato rows. What you build ROS 2 basics: nodes, topics, services and actions ROS 2 skill servers that an AI agent (LLM) cal",
       "deck": ""
     },
     {
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
       "deck": ""
     },
     {
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
       "deck": ""
     },
     {
