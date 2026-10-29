@@ -1,38 +1,22 @@
 {
-  "date": "2026-10-28",
-  "generated": "2026-10-28T10:52:41.006277+00:00",
-  "story_count": 18,
+  "date": "2026-10-29",
+  "generated": "2026-10-29T11:09:21.372074+00:00",
+  "story_count": 16,
   "stories": [
     {
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "deck": ""
     },
     {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "deck": ""
-    },
-    {
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "deck": ""
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
       "deck": ""
     },
     {
@@ -52,6 +36,14 @@
       "deck": ""
     },
     {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Build specialized multimodal models with LFM3",
       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
       "source": "Hugging Face Blog",
@@ -60,11 +52,11 @@
       "deck": ""
     },
     {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+      "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
       "deck": ""
     },
     {
@@ -76,59 +68,51 @@
       "deck": ""
     },
     {
-      "title": "The Robot I Didn’t Expect to Build",
-      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the",
-      "deck": ""
-    },
-    {
-      "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
-      "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
+      "title": "North American robot orders climb 24.8% in Q3 of 2026, says A3",
+      "url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "ANYbotics has designed the ANYmal X inspection robot to comply with the strictest safety standards of the oil, gas, and chemical industries. The post ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres appeared first on The Robot Report .",
+      "summary": "Robot demand from automotive component manufacturers nearly doubled in Q3, as other sectors posted strong gains, reported A3. The post North American robot orders climb 24.8% in Q3 of 2026, says A3 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Embotech and BMW move 1M vehicles with automated driving technology",
-      "url": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/",
+      "title": "What Symbotic’s Walmart growth teaches robotics startups about anchor customers",
+      "url": "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Embotech is automatically moving 3,500 vehicles around the clock daily across four BMW sites in the U.K. and Germany. The post Embotech and BMW move 1M vehicles with automated driving technology appeared first on The Robot Report .",
+      "summary": "Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale while creating risks around customer concentration, contractual restrictions and the challenge of building a diversified, repeatable business. The post What Symbotic’s Walmart growth teaches robotics star",
       "deck": ""
     },
     {
-      "title": "GPT-6 ASTRA Meets the Real World",
-      "url": "https://discourse.openrobotics.org/t/gpt-6-astra-meets-the-real-world/59268",
+      "title": "String command and state interfaces in ros2_control",
+      "url": "https://discourse.openrobotics.org/t/string-command-and-state-interfaces-in-ros2-control/59304",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "AI WORKER #23: GPT-6 ASTRA Meets the Real World We recently conducted an experiment connecting GPT-6 Astra and AI Worker through Codex so the AI can perceive and control a physical robot, and we have published the full Technical Story and demo video. Without task-specific policy training, we wanted ",
+      "summary": "Hello ros control friends. I have a issue here that I was looking to get opinions on: strings for command and state interfaces · Issue #3491 · ros-controls/ros2_control · GitHub Basically it is very common for us to have to read strings from the hardware devices that we support. Software/firmware ve",
       "deck": ""
     },
     {
-      "title": "ROS2 Driver for Blueprint Subsea Oculus M3000d",
-      "url": "https://discourse.openrobotics.org/t/ros2-driver-for-blueprint-subsea-oculus-m3000d/59261",
+      "title": "Head of Engineering (robotics, controls, hardware) at Arculus Solutions, Alexandria VA, on-site",
+      "url": "https://discourse.openrobotics.org/t/head-of-engineering-robotics-controls-hardware-at-arculus-solutions-alexandria-va-on-site/59302",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone! I recently open-sourced the ROS2 driver that I’m using for my M3000d. You can find it here: Repository AlePuglisi/oculus-m3000d-ros2-cpp-driver GitHub - AlePuglisi/oculus-m3000d-ros2-cpp-driver: Driver for the Blueprint Subsea Oculus M3000d... Driver for the Blueprint Subsea Oculus M300",
+      "summary": "Arculus adapts yesterday’s pipelines to transport tomorrow’s energy. Our SputteredPipe™ technology is an ultra-thin Al/Al₂O₃ multilayer coating, developed at MIT, applied to the internal surface of oil and gas pipelines. It lowers friction (lower OpEx, higher throughput), prevents corrosion, and mak",
       "deck": ""
     },
     {
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
       "deck": ""
     },
     {
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the compan",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
       "deck": ""
     },
     {
