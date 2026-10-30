@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-29",
-  "generated": "2026-10-29T11:09:21.372074+00:00",
+  "date": "2026-10-30",
+  "generated": "2026-10-30T11:04:07.330357+00:00",
   "story_count": 16,
   "stories": [
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
       "deck": ""
     },
     {
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
       "deck": ""
     },
     {
@@ -36,27 +36,19 @@
       "deck": ""
     },
     {
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-      "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
       "deck": ""
     },
     {
@@ -68,35 +60,43 @@
       "deck": ""
     },
     {
-      "title": "North American robot orders climb 24.8% in Q3 of 2026, says A3",
-      "url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
+      "title": "The Robot I Didn’t Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the",
+      "deck": ""
+    },
+    {
+      "title": "White House makes Section 232 determination regarding foreign-made robots",
+      "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Robot demand from automotive component manufacturers nearly doubled in Q3, as other sectors posted strong gains, reported A3. The post North American robot orders climb 24.8% in Q3 of 2026, says A3 appeared first on The Robot Report .",
+      "summary": "The U.S. secretary of commerce's Section 232 investigation concluded that dependence on robotics imports poses a national security risk. The post White House makes Section 232 determination regarding foreign-made robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "What Symbotic’s Walmart growth teaches robotics startups about anchor customers",
-      "url": "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/",
+      "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
+      "url": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale while creating risks around customer concentration, contractual restrictions and the challenge of building a diversified, repeatable business. The post What Symbotic’s Walmart growth teaches robotics star",
+      "summary": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation. The post 2026 Robotics Handbook looks at humanoids, AI, and design choices appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "String command and state interfaces in ros2_control",
-      "url": "https://discourse.openrobotics.org/t/string-command-and-state-interfaces-in-ros2-control/59304",
+      "title": "Community meeting: How OTTO by Rockwell Automation uses Gazebo",
+      "url": "https://discourse.openrobotics.org/t/community-meeting-how-otto-by-rockwell-automation-uses-gazebo/59334",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello ros control friends. I have a issue here that I was looking to get opinions on: strings for command and state interfaces · Issue #3491 · ros-controls/ros2_control · GitHub Basically it is very common for us to have to read strings from the hardware devices that we support. Software/firmware ve",
+      "summary": "Hello Community! Here’s the information for our November Meeting where we’ll talk about how Gazebo is used to simulate industrial and manufacturing workflows. “At OTTO by Rockwell Automation, we use Gazebo as our primary simulator for developing and testing our AMRs. It can also be used with our OTT",
       "deck": ""
     },
     {
-      "title": "Head of Engineering (robotics, controls, hardware) at Arculus Solutions, Alexandria VA, on-site",
-      "url": "https://discourse.openrobotics.org/t/head-of-engineering-robotics-controls-hardware-at-arculus-solutions-alexandria-va-on-site/59302",
+      "title": "FOSDEM 2027: Robotics & Simulation Devroom, 3rd edition!",
+      "url": "https://discourse.openrobotics.org/t/fosdem-2027-robotics-simulation-devroom-3rd-edition/59333",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Arculus adapts yesterday’s pipelines to transport tomorrow’s energy. Our SputteredPipe™ technology is an ultra-thin Al/Al₂O₃ multilayer coating, developed at MIT, applied to the internal surface of oil and gas pipelines. It lowers friction (lower OpEx, higher throughput), prevents corrosion, and mak",
+      "summary": "Hi folks! We have done it again, the 3rd edition of the Robotics and Simulation Devroom got accepted at FOSDEM . It will take place on Sun, Jan 31, 2027 8:00 AM UTC → Sun, Jan 31, 2027 6:00 PM UTC and is on the ULB campus, in Brussel, Belgium. archive.fosdem.org FOSDEM 2026 - Home The call for parti",
       "deck": ""
     },
     {
