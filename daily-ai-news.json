@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-30",
-  "generated": "2026-10-30T11:04:07.330357+00:00",
+  "date": "2026-10-31",
+  "generated": "2026-10-31T10:38:38.073299+00:00",
   "story_count": 16,
   "stories": [
     {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
       "deck": ""
     },
     {
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
       "deck": ""
     },
     {
@@ -36,6 +36,14 @@
       "deck": ""
     },
     {
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
       "source": "Hugging Face Blog",
@@ -44,59 +52,51 @@
       "deck": ""
     },
     {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
-      "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+      "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+      "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
       "deck": ""
     },
     {
-      "title": "The Robot I Didn’t Expect to Build",
-      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+      "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the",
+      "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
       "deck": ""
     },
     {
-      "title": "White House makes Section 232 determination regarding foreign-made robots",
-      "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
+      "title": "Percepto launches Axion AI platform to unify inspection data analysis",
+      "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The U.S. secretary of commerce's Section 232 investigation concluded that dependence on robotics imports poses a national security risk. The post White House makes Section 232 determination regarding foreign-made robots appeared first on The Robot Report .",
+      "summary": "Percepto has launched Axion, a hardware-agnostic physical AI platform delivering visibility across mission-critical infrastructure. The post Percepto launches Axion AI platform to unify inspection data analysis appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
-      "url": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
+      "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
+      "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation. The post 2026 Robotics Handbook looks at humanoids, AI, and design choices appeared first on The Robot Report .",
+      "summary": "Agility said it expects to raise $465 million in its combination with Churchill Capital Corp XI, $155 million less than it had estimated. The post Humanoid developer Agility now expects to raise $465M in SPAC deal appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Community meeting: How OTTO by Rockwell Automation uses Gazebo",
-      "url": "https://discourse.openrobotics.org/t/community-meeting-how-otto-by-rockwell-automation-uses-gazebo/59334",
+      "title": "ROS News for the Week of October 26th, 2026 :jack_o_lantern:",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-october-26th-2026/59367",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello Community! Here’s the information for our November Meeting where we’ll talk about how Gazebo is used to simulate industrial and manufacturing workflows. “At OTTO by Rockwell Automation, we use Gazebo as our primary simulator for developing and testing our AMRs. It can also be used with our OTT",
+      "summary": "ROS News for the Week of October 26th, 2026 ROSCon Spain wrapped up this week in Valencia and our inaugural ROSCon Italy kicks off next week in Bologna. I hear that there is going to be pizza along with some awesome speakers. We had an amazing ROS Meetup in NYC last night. Our colleagues from Fauna ",
       "deck": ""
     },
     {
-      "title": "FOSDEM 2027: Robotics & Simulation Devroom, 3rd edition!",
-      "url": "https://discourse.openrobotics.org/t/fosdem-2027-robotics-simulation-devroom-3rd-edition/59333",
+      "title": "Survey: where does your time go between laptop and robot? (3 min, results shared back)",
+      "url": "https://discourse.openrobotics.org/t/survey-where-does-your-time-go-between-laptop-and-robot-3-min-results-shared-back/59366",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi folks! We have done it again, the 3rd edition of the Robotics and Simulation Devroom got accepted at FOSDEM . It will take place on Sun, Jan 31, 2027 8:00 AM UTC → Sun, Jan 31, 2027 6:00 PM UTC and is on the ULB campus, in Brussel, Belgium. archive.fosdem.org FOSDEM 2026 - Home The call for parti",
+      "summary": "Hi all, I am a robotics researcher looking at where engineering time goes when software moves from a laptop or simulation to a real robot: integration, bring-up, timing, configuration, debugging between parts. I am trying to measure this across different setups, not just ROS 2, so answers from peopl",
       "deck": ""
     },
     {
