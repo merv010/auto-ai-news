@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-31",
-  "generated": "2026-10-31T10:38:38.073299+00:00",
-  "story_count": 16,
+  "date": "2026-11-01",
+  "generated": "2026-11-01T11:32:32.459595+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Making it easier for websites to express AI training preferences",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "deck": ""
+    },
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
       "deck": ""
     },
     {
@@ -68,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "Unusual robotic animals can prove their utility",
+      "url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship. The post Unusual robotic animals can prove their utility appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Percepto launches Axion AI platform to unify inspection data analysis",
       "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
       "source": "The Robot Report",
@@ -76,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
-      "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
-      "source": "The Robot Report",
+      "title": "A small deterministic gate between the planner and the wheels: ROS 2 Jazzy node, simulation and CI only",
+      "url": "https://discourse.openrobotics.org/t/a-small-deterministic-gate-between-the-planner-and-the-wheels-ros-2-jazzy-node-simulation-and-ci-only/59400",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Agility said it expects to raise $465 million in its combination with Churchill Capital Corp XI, $155 million less than it had estimated. The post Humanoid developer Agility now expects to raise $465M in SPAC deal appeared first on The Robot Report .",
+      "summary": "I’ve been building a small supervisor node for differential-drive mobile robots that sits between a high-level velocity source (such as Nav2, an LLM agent, or teleoperation) and the base controller. Following the classic Simplex architecture (Sha et al.), the node treats complex high-level planners ",
       "deck": ""
     },
     {
-      "title": "ROS News for the Week of October 26th, 2026 :jack_o_lantern:",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-october-26th-2026/59367",
+      "title": "Agentic Development platform for robotics",
+      "url": "https://discourse.openrobotics.org/t/agentic-development-platform-for-robotics/59385",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS News for the Week of October 26th, 2026 ROSCon Spain wrapped up this week in Valencia and our inaugural ROSCon Italy kicks off next week in Bologna. I hear that there is going to be pizza along with some awesome speakers. We had an amazing ROS Meetup in NYC last night. Our colleagues from Fauna ",
-      "deck": ""
-    },
-    {
-      "title": "Survey: where does your time go between laptop and robot? (3 min, results shared back)",
-      "url": "https://discourse.openrobotics.org/t/survey-where-does-your-time-go-between-laptop-and-robot-3-min-results-shared-back/59366",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi all, I am a robotics researcher looking at where engineering time goes when software moves from a laptop or simulation to a real robot: integration, bring-up, timing, configuration, debugging between parts. I am trying to measure this across different setups, not just ROS 2, so answers from peopl",
+      "summary": "Hi everyone! I’m excited to share something we’ve been building. We are Upfreq Robotics — building an AI-native development environment for robotics software engineers to accelerate robot software development, simulation, and testing. We’re currently opening up our application to a small group of be",
       "deck": ""
     },
     {
