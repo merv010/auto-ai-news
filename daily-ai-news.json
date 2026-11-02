@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-01",
-  "generated": "2026-11-01T11:32:32.459595+00:00",
-  "story_count": 18,
+  "date": "2026-11-02",
+  "generated": "2026-11-02T12:55:07.487589+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Making it easier for websites to express AI training preferences",
@@ -17,22 +17,6 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "deck": ""
-    },
-    {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
       "deck": ""
     },
     {
@@ -84,35 +68,43 @@
       "deck": ""
     },
     {
-      "title": "Unusual robotic animals can prove their utility",
-      "url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
+      "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+      "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship. The post Unusual robotic animals can prove their utility appeared first on The Robot Report .",
+      "summary": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. The post 28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics appeared first on The Robot Report",
       "deck": ""
     },
     {
-      "title": "Percepto launches Axion AI platform to unify inspection data analysis",
-      "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
+      "title": "Why physical AI is the next lucrative frontier",
+      "url": "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Percepto has launched Axion, a hardware-agnostic physical AI platform delivering visibility across mission-critical infrastructure. The post Percepto launches Axion AI platform to unify inspection data analysis appeared first on The Robot Report .",
+      "summary": "To prove its commercial value, physical AI must get past funding enthusiasm and move into production environments. The post Why physical AI is the next lucrative frontier appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "A small deterministic gate between the planner and the wheels: ROS 2 Jazzy node, simulation and CI only",
-      "url": "https://discourse.openrobotics.org/t/a-small-deterministic-gate-between-the-planner-and-the-wheels-ros-2-jazzy-node-simulation-and-ci-only/59400",
+      "title": "Data collection framework update to Lyrical, Jazzy and Rolling",
+      "url": "https://discourse.openrobotics.org/t/data-collection-framework-update-to-lyrical-jazzy-and-rolling/59439",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’ve been building a small supervisor node for differential-drive mobile robots that sits between a high-level velocity source (such as Nav2, an LLM agent, or teleoperation) and the base controller. Following the classic Simplex architecture (Sha et al.), the node treats complex high-level planners ",
+      "summary": "Hi ROS2 community! 3 years and ~150 commits since my last announcement , my open-source data collection project for ros2 is now able to run on lyrical, jazzy and rolling. DC runs on the robot. It collects measurements, validates every record against a JSON schema, and ships them to your own PostgreS",
       "deck": ""
     },
     {
-      "title": "Agentic Development platform for robotics",
-      "url": "https://discourse.openrobotics.org/t/agentic-development-platform-for-robotics/59385",
+      "title": "batchplan 0.5: tool paths, blended motions and a ROS 2 demo",
+      "url": "https://discourse.openrobotics.org/t/batchplan-0-5-tool-paths-blended-motions-and-a-ros-2-demo/59431",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone! I’m excited to share something we’ve been building. We are Upfreq Robotics — building an AI-native development environment for robotics software engineers to accelerate robot software development, simulation, and testing. We’re currently opening up our application to a small group of be",
+      "summary": "batchplan 0.5 is out. Releases 0.3 through 0.5 added tool paths, pick-and-place, blended motions, and live replanning and servoing in the core library. For ROS users, batchplan-ros now supports Cartesian paths and blended motion sequences on Lyrical and Jazzy. The Panda example tries several grasps ",
+      "deck": ""
+    },
+    {
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
       "deck": ""
     },
     {
@@ -121,14 +113,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
-      "deck": ""
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
       "deck": ""
     },
     {
