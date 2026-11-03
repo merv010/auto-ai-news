@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-02",
-  "generated": "2026-11-02T12:55:07.487589+00:00",
+  "date": "2026-11-03",
+  "generated": "2026-11-03T12:26:35.591372+00:00",
   "story_count": 16,
   "stories": [
     {
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
       "deck": ""
     },
     {
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
       "deck": ""
     },
     {
@@ -36,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,51 +68,51 @@
       "deck": ""
     },
     {
-      "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
-      "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+      "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
+      "url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. The post 28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics appeared first on The Robot Report",
+      "summary": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers. The post Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Why physical AI is the next lucrative frontier",
-      "url": "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier/",
+      "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
+      "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "To prove its commercial value, physical AI must get past funding enthusiasm and move into production environments. The post Why physical AI is the next lucrative frontier appeared first on The Robot Report .",
+      "summary": "Tutor Intelligence has raised funding to further develop its picking robots, networked intelligence, and commercial deployments. The post Tutor Intelligence raises Series B to scale model training, robot deployments appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Data collection framework update to Lyrical, Jazzy and Rolling",
-      "url": "https://discourse.openrobotics.org/t/data-collection-framework-update-to-lyrical-jazzy-and-rolling/59439",
+      "title": "Intrinsic Core released: Open-source, ROS-compatible real-time control, motion planning and more",
+      "url": "https://discourse.openrobotics.org/t/intrinsic-core-released-open-source-ros-compatible-real-time-control-motion-planning-and-more/59457",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS2 community! 3 years and ~150 commits since my last announcement , my open-source data collection project for ros2 is now able to run on lyrical, jazzy and rolling. DC runs on the robot. It collects measurements, validates every record against a JSON schema, and ships them to your own PostgreS",
+      "summary": "A couple of weeks ago during ROSCon, we released Intrinsic Core ( GitHub - intrinsic-ai/intrinsic-core: Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, real-time control framework for industrial robotics. · GitHub ), open-sourcing foundational capabilities and services f",
       "deck": ""
     },
     {
-      "title": "batchplan 0.5: tool paths, blended motions and a ROS 2 demo",
-      "url": "https://discourse.openrobotics.org/t/batchplan-0-5-tool-paths-blended-motions-and-a-ros-2-demo/59431",
+      "title": "[GSoC 2026] Scalable Multi-Robot Simulation in ROS 2 and Gazebo",
+      "url": "https://discourse.openrobotics.org/t/gsoc-2026-scalable-multi-robot-simulation-in-ros-2-and-gazebo/59454",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "batchplan 0.5 is out. Releases 0.3 through 0.5 added tool paths, pick-and-place, blended motions, and live replanning and servoing in the core library. For ROS users, batchplan-ros now supports Cartesian paths and blended motion sequences on Lyrical and Jazzy. The Panda example tries several grasps ",
+      "summary": "Organization: Open Robotics Contributor: Jiayi Cai ( @C88-YQ ) Mentor: Addisu Taddese ( @azeey ) Community Meeting Talk : Talk video ; Talk slides Project Overview Multi-robot simulation is widely used in robotics research and development, including warehouse automation, robot swarms, and multi-robo",
       "deck": ""
     },
     {
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+      "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, tha",
       "deck": ""
     },
     {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
       "deck": ""
     },
     {
