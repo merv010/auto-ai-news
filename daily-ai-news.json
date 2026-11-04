@@ -1,22 +1,38 @@
 {
-  "date": "2026-11-03",
-  "generated": "2026-11-03T12:26:35.591372+00:00",
-  "story_count": 16,
+  "date": "2026-11-04",
+  "generated": "2026-11-04T12:38:03.492629+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
       "deck": ""
     },
     {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "deck": ""
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "deck": ""
+    },
+    {
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
       "deck": ""
     },
     {
@@ -36,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
-      "url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
+      "title": "Ben Waters on the latest wireless charging strategies",
+      "url": "https://www.therobotreport.com/ben-waters-on-the-latest-wireless-charging-strategies/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Deal is expected to provide approximately $465 million in gross capital as Agility expands deployments of its Digit humanoid with industrial customers. The post Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC appeared first on The Robot Report .",
+      "summary": "Ben Waters discusses opportunity charging, battery life, and the infrastructure needed to keep growing robot fleets running. The post Ben Waters on the latest wireless charging strategies appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
-      "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
+      "title": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors",
+      "url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Tutor Intelligence has raised funding to further develop its picking robots, networked intelligence, and commercial deployments. The post Tutor Intelligence raises Series B to scale model training, robot deployments appeared first on The Robot Report .",
+      "summary": "The ISO 21423:2026 interoperability standard is intended to allow mobile robots from multiple vendors to communicate and coordinate. The post New ISO interoperability standard covers collaboration among mobile robots from multiple vendors appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Intrinsic Core released: Open-source, ROS-compatible real-time control, motion planning and more",
-      "url": "https://discourse.openrobotics.org/t/intrinsic-core-released-open-source-ros-compatible-real-time-control-motion-planning-and-more/59457",
+      "title": "Build ROS 2 Lyrical with Bazel: new ROS Central Registry release and a call for a working group",
+      "url": "https://discourse.openrobotics.org/t/build-ros-2-lyrical-with-bazel-new-ros-central-registry-release-and-a-call-for-a-working-group/59532",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "A couple of weeks ago during ROSCon, we released Intrinsic Core ( GitHub - intrinsic-ai/intrinsic-core: Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, real-time control framework for industrial robotics. · GitHub ), open-sourcing foundational capabilities and services f",
+      "summary": "Hi everyone, @Andrew_Symington shared some exciting news on Zulip that deserves a wider audience: a new release of the ROS Central Registry (RCR) , lyrical.2026-10-05.rcr.0 , is available at https://bazel.ros.org . The RCR is a community Bazel build for ROS, from Lyrical onward. It’s designed to com",
       "deck": ""
     },
     {
-      "title": "[GSoC 2026] Scalable Multi-Robot Simulation in ROS 2 and Gazebo",
-      "url": "https://discourse.openrobotics.org/t/gsoc-2026-scalable-multi-robot-simulation-in-ros-2-and-gazebo/59454",
+      "title": "Christophe Bédard is the ROS Boss for ROS 2 Makoa Mata-mata",
+      "url": "https://discourse.openrobotics.org/t/christophe-bedard-is-the-ros-boss-for-ros-2-makoa-mata-mata/59531",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Organization: Open Robotics Contributor: Jiayi Cai ( @C88-YQ ) Mentor: Addisu Taddese ( @azeey ) Community Meeting Talk : Talk video ; Talk slides Project Overview Multi-robot simulation is widely used in robotics research and development, including warehouse automation, robot swarms, and multi-robo",
+      "summary": "Hi everyone, I’m happy to share that @christophebedard is the ROS Boss for ROS 2 Makoa Mata-mata , our next release, planned for May 2027. Thank you, Christophe, for taking this on! What the ROS Boss does The ROS Boss coordinates a distribution through its release, working with maintainers, the PMC ",
       "deck": ""
     },
     {
@@ -104,7 +120,7 @@
       "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, tha",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
       "deck": ""
     },
     {
