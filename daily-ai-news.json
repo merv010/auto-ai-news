@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-04",
-  "generated": "2026-11-04T12:38:03.492629+00:00",
+  "date": "2026-11-05",
+  "generated": "2026-11-05T12:48:39.450497+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
       "deck": ""
     },
     {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+      "url": "https://spectrum.ieee.org/drone-delivery-noise",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Rick and Marcia LeCompte loved to watch the Cooper’s hawks that frequented a sweet-gum tree in their yard in Baton Rouge, La. But this October, the hawks were gone. Marcia LeCompte is convinced the birds were scared away by the same flying robots that have been vexing the couple since early Septembe",
       "deck": ""
     },
     {
@@ -76,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-      "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
-      "deck": ""
-    },
-    {
-      "title": "Ben Waters on the latest wireless charging strategies",
-      "url": "https://www.therobotreport.com/ben-waters-on-the-latest-wireless-charging-strategies/",
+      "title": "Robotics Startup Radar 2026",
+      "url": "https://www.therobotreport.com/robotics-startup-radar-2026/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Ben Waters discusses opportunity charging, battery life, and the infrastructure needed to keep growing robot fleets running. The post Ben Waters on the latest wireless charging strategies appeared first on The Robot Report .",
+      "summary": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics. The post Robotics Startup Radar 2026 appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors",
-      "url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors/",
+      "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
+      "url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The ISO 21423:2026 interoperability standard is intended to allow mobile robots from multiple vendors to communicate and coordinate. The post New ISO interoperability standard covers collaboration among mobile robots from multiple vendors appeared first on The Robot Report .",
+      "summary": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment. The post How GlobalLogic helped Haystack Robotics build a UV disinfection robot appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Build ROS 2 Lyrical with Bazel: new ROS Central Registry release and a call for a working group",
-      "url": "https://discourse.openrobotics.org/t/build-ros-2-lyrical-with-bazel-new-ros-central-registry-release-and-a-call-for-a-working-group/59532",
+      "title": "ManyForge: a new manipulation framework",
+      "url": "https://discourse.openrobotics.org/t/manyforge-a-new-manipulation-framework/59559",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, @Andrew_Symington shared some exciting news on Zulip that deserves a wider audience: a new release of the ROS Central Registry (RCR) , lyrical.2026-10-05.rcr.0 , is available at https://bazel.ros.org . The RCR is a community Bazel build for ROS, from Lyrical onward. It’s designed to com",
+      "summary": "Hi everyone! I mentioned this project at ROSCon Italy a couple of days ago but it was literally just released! Meet ManyForge , which is an evolution of ManyMove . It’s not just its “newer version”: it’s redesigned from ground up around a few core concepts, some of which I took directly from @scastr",
       "deck": ""
     },
     {
-      "title": "Christophe Bédard is the ROS Boss for ROS 2 Makoa Mata-mata",
-      "url": "https://discourse.openrobotics.org/t/christophe-bedard-is-the-ros-boss-for-ros-2-makoa-mata-mata/59531",
+      "title": "Main Workflow Node",
+      "url": "https://discourse.openrobotics.org/t/main-workflow-node/59552",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I’m happy to share that @christophebedard is the ROS Boss for ROS 2 Makoa Mata-mata , our next release, planned for May 2027. Thank you, Christophe, for taking this on! What the ROS Boss does The ROS Boss coordinates a distribution through its release, working with maintainers, the PMC ",
+      "summary": "Hello everyone! So I’m just getting started with ROS2 and have a question on process workflow. Let’s say I have a system that has a robot, inspection, and linear actuators. I understand that I would have a node for each of these devices, but what is your main entry point that works through the entir",
       "deck": ""
     },
     {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
       "deck": ""
     },
     {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
       "deck": ""
     },
     {
