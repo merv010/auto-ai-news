@@ -1,38 +1,22 @@
 {
-  "date": "2026-11-05",
-  "generated": "2026-11-05T12:48:39.450497+00:00",
-  "story_count": 18,
+  "date": "2026-11-06",
+  "generated": "2026-11-06T12:33:08.633535+00:00",
+  "story_count": 16,
   "stories": [
     {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
       "deck": ""
     },
     {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "deck": ""
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "deck": ""
-    },
-    {
-      "title": "Speeding up planning decisions with AI",
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
       "deck": ""
     },
     {
@@ -52,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +68,43 @@
       "deck": ""
     },
     {
-      "title": "Robotics Startup Radar 2026",
-      "url": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+      "title": "How did Agility Robotics perform on its first day on the stock market?",
+      "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of commercial robotics. The post Robotics Startup Radar 2026 appeared first on The Robot Report .",
+      "summary": "Humanoid developer Agility Robotics ended its first day of trading on the Nasdaq just 2% above where it started, at $11.49. The post How did Agility Robotics perform on its first day on the stock market? appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
-      "url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
+      "title": "How Ambi Robotics helps its customers prepare for peak season",
+      "url": "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment. The post How GlobalLogic helped Haystack Robotics build a UV disinfection robot appeared first on The Robot Report .",
+      "summary": "Ambi Robotics' co-founder and COO Stephen McKinley says the company is installing eight new systems at customer sites before peak season. The post How Ambi Robotics helps its customers prepare for peak season appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ManyForge: a new manipulation framework",
-      "url": "https://discourse.openrobotics.org/t/manyforge-a-new-manipulation-framework/59559",
+      "title": "Looking for research gaps in cooperative AUVs and underwater communication",
+      "url": "https://discourse.openrobotics.org/t/looking-for-research-gaps-in-cooperative-auvs-and-underwater-communication/59573",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone! I mentioned this project at ROSCon Italy a couple of days ago but it was literally just released! Meet ManyForge , which is an evolution of ManyMove . It’s not just its “newer version”: it’s redesigned from ground up around a few core concepts, some of which I took directly from @scastr",
+      "summary": "Hi everyone, I have a Master’s degree in Computer Science, with a background in computer networks and IoT. I’m currently looking for a research topic for a conference paper on Autonomous Underwater Vehicles (AUVs). I’ve been reading recent papers about cooperative AUVs, formation control, path plann",
       "deck": ""
     },
     {
-      "title": "Main Workflow Node",
-      "url": "https://discourse.openrobotics.org/t/main-workflow-node/59552",
+      "title": "Robotiq_description and robotiq_controllers releases moving from ros2_robotiq_gripper to robotiq-ros",
+      "url": "https://discourse.openrobotics.org/t/robotiq-description-and-robotiq-controllers-releases-moving-from-ros2-robotiq-gripper-to-robotiq-ros/59562",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello everyone! So I’m just getting started with ROS2 and have a question on process workflow. Let’s say I have a system that has a robot, inspection, and linear actuators. I understand that I would have a node for each of these devices, but what is your main entry point that works through the entir",
+      "summary": "Hi all, The robotiq_controllers and robotiq_description packages on Humble, Jazzy, Lyrical and Rolling will soon be released from robotiq/robotiq-ros instead of PickNikRobotics/ros2_robotiq_gripper , with PickNik’s agreement. robotiq-ros started as a fork of ros2_robotiq_gripper and is maintained by",
+      "deck": ""
+    },
+    {
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
       "deck": ""
     },
     {
@@ -121,14 +113,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
-      "deck": ""
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
       "deck": ""
     },
     {
