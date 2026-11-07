@@ -1,22 +1,38 @@
 {
-  "date": "2026-11-06",
-  "generated": "2026-11-06T12:33:08.633535+00:00",
-  "story_count": 16,
+  "date": "2026-11-07",
+  "generated": "2026-11-07T11:23:05.181759+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "deck": ""
     },
     {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "deck": ""
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "deck": ""
     },
     {
@@ -36,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "source": "Hugging Face Blog",
@@ -44,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+      "url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN, TEXAS Humanoids",
       "deck": ""
     },
     {
@@ -60,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
-      "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
-      "deck": ""
-    },
-    {
-      "title": "How did Agility Robotics perform on its first day on the stock market?",
-      "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
+      "title": "How Point One turned GPS accuracy into a robotics platform",
+      "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Humanoid developer Agility Robotics ended its first day of trading on the Nasdaq just 2% above where it started, at $11.49. The post How did Agility Robotics perform on its first day on the stock market? appeared first on The Robot Report .",
+      "summary": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments. The post How Point One turned GPS accuracy into a robotics platform appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How Ambi Robotics helps its customers prepare for peak season",
-      "url": "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/",
+      "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
+      "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Ambi Robotics' co-founder and COO Stephen McKinley says the company is installing eight new systems at customer sites before peak season. The post How Ambi Robotics helps its customers prepare for peak season appeared first on The Robot Report .",
+      "summary": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years. The post Boston Dynamics built Stretch Gen 2 for reliable, consistent performance appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Looking for research gaps in cooperative AUVs and underwater communication",
-      "url": "https://discourse.openrobotics.org/t/looking-for-research-gaps-in-cooperative-auvs-and-underwater-communication/59573",
+      "title": "Early end of support of Gazebo Harmonic, Fortress on macOS",
+      "url": "https://discourse.openrobotics.org/t/early-end-of-support-of-gazebo-harmonic-fortress-on-macos/59605",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, I have a Master’s degree in Computer Science, with a background in computer networks and IoT. I’m currently looking for a research topic for a conference paper on Autonomous Underwater Vehicles (AUVs). I’ve been reading recent papers about cooperative AUVs, formation control, path plann",
+      "summary": "The freeimage and qt@5 formulae used in Gazebo Harmonic and Fortress will soon be disabled in homebrew due to multiple open CVEs in freeimage (see osrf/homebrew-simulation#3298 ) and the already passed end-of-life for Qt5 in 2025-05. The freeimage formula will be disabled in homebrew-core on 2027-01",
       "deck": ""
     },
     {
-      "title": "Robotiq_description and robotiq_controllers releases moving from ros2_robotiq_gripper to robotiq-ros",
-      "url": "https://discourse.openrobotics.org/t/robotiq-description-and-robotiq-controllers-releases-moving-from-ros2-robotiq-gripper-to-robotiq-ros/59562",
+      "title": "ROS News for the Week of November 2nd, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-november-2nd-2026/59601",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, The robotiq_controllers and robotiq_description packages on Humble, Jazzy, Lyrical and Rolling will soon be released from robotiq/robotiq-ros instead of PickNikRobotics/ros2_robotiq_gripper , with PickNik’s agreement. robotiq-ros started as a fork of ros2_robotiq_gripper and is maintained by",
+      "summary": "ROS News for the Week of November 2nd, 2026 Our first ever ROSCon in Italy was a smashing success this week as they way overshot their attendance goals for their first event! I just had a call with @rbonghi and he was brimming with pride and excitement after the event. Congratulations to the whole t",
       "deck": ""
     },
     {
