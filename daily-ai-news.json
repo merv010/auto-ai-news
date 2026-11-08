@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-07",
-  "generated": "2026-11-07T11:23:05.181759+00:00",
-  "story_count": 18,
+  "date": "2026-11-08",
+  "generated": "2026-11-08T11:34:38.471861+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -17,22 +17,6 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "deck": ""
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "deck": ""
     },
     {
@@ -84,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "Robot integration brings high-precision production to midmarket manufacturers",
+      "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist. The post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "How Point One turned GPS accuracy into a robotics platform",
       "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
       "source": "The Robot Report",
@@ -92,27 +84,19 @@
       "deck": ""
     },
     {
-      "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
-      "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
-      "source": "The Robot Report",
+      "title": "A robot controller written directly into neural-network weights, in ROS 2 and Gazebo",
+      "url": "https://discourse.openrobotics.org/t/a-robot-controller-written-directly-into-neural-network-weights-in-ros-2-and-gazebo/59616",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years. The post Boston Dynamics built Stretch Gen 2 for reliable, consistent performance appeared first on The Robot Report .",
+      "summary": "After reading Sparks of Weight-Space Programming by Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab, I wanted to try the idea on a robotics problem: could directly authored neural-network weights produce useful navigation behavior? I set up two rooms, a doorway and a lidar-equipped robot in ",
       "deck": ""
     },
     {
-      "title": "Early end of support of Gazebo Harmonic, Fortress on macOS",
-      "url": "https://discourse.openrobotics.org/t/early-end-of-support-of-gazebo-harmonic-fortress-on-macos/59605",
+      "title": "ZED ROS 2 Wrapper 5.6: CUDA zero-copy with rosidl::Buffer for ROS 2 Lyrical and Isaac ROS 5",
+      "url": "https://discourse.openrobotics.org/t/zed-ros-2-wrapper-5-6-cuda-zero-copy-with-rosidl-buffer-for-ros-2-lyrical-and-isaac-ros-5/59608",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The freeimage and qt@5 formulae used in Gazebo Harmonic and Fortress will soon be disabled in homebrew due to multiple open CVEs in freeimage (see osrf/homebrew-simulation#3298 ) and the already passed end-of-life for Qt5 in 2025-05. The freeimage formula will be disabled in homebrew-core on 2027-01",
-      "deck": ""
-    },
-    {
-      "title": "ROS News for the Week of November 2nd, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-november-2nd-2026/59601",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "ROS News for the Week of November 2nd, 2026 Our first ever ROSCon in Italy was a smashing success this week as they way overshot their attendance goals for their first event! I just had a call with @rbonghi and he was brimming with pride and excitement after the event. Congratulations to the whole t",
+      "summary": "Hi everyone, We just released ZED ROS 2 Wrapper v5.6 , which adds support for the new rosidl::Buffer message fields of ROS 2 Lyrical with the CUDA buffer backend . rosidl::Buffer and the CUDA buffer backend were contributed by NVIDIA to ROS 2 Lyrical in collaboration with the OSRA, and they are the ",
       "deck": ""
     },
     {
