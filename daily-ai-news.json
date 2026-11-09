@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-08",
-  "generated": "2026-11-08T11:34:38.471861+00:00",
-  "story_count": 16,
+  "date": "2026-11-09",
+  "generated": "2026-11-09T13:26:55.864423+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "deck": ""
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "deck": ""
     },
     {
@@ -36,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "ARM Institute consortium grows to more than 500 organizations",
+      "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh. The post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "Robot integration brings high-precision production to midmarket manufacturers",
       "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
       "source": "The Robot Report",
@@ -76,27 +100,19 @@
       "deck": ""
     },
     {
-      "title": "How Point One turned GPS accuracy into a robotics platform",
-      "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
-      "source": "The Robot Report",
+      "title": "StrataSLAM: open-source multi-floor SLAM for ROS 2 (stairs, elevators, ramps, identical floors)",
+      "url": "https://discourse.openrobotics.org/t/strataslam-open-source-multi-floor-slam-for-ros-2-stairs-elevators-ramps-identical-floors/59649",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments. The post How Point One turned GPS accuracy into a robotics platform appeared first on The Robot Report .",
+      "summary": "Hi all, We have released StrataSLAM, an open-source multi-floor 3D SLAM for ROS 2 from the Intelligent Robotics Lab (Universidad Rey Juan Carlos). StrataSLAM: multi-floor SLAM for ROS 2 (stairs, elevators, ramps, identical floors) Most SLAM systems struggle when a robot changes floor. They lose the ",
       "deck": ""
     },
     {
-      "title": "A robot controller written directly into neural-network weights, in ROS 2 and Gazebo",
-      "url": "https://discourse.openrobotics.org/t/a-robot-controller-written-directly-into-neural-network-weights-in-ros-2-and-gazebo/59616",
+      "title": "Anyone here using outdoor furniture knowledge for weatherproofing robot field enclosures?",
+      "url": "https://discourse.openrobotics.org/t/anyone-here-using-outdoor-furniture-knowledge-for-weatherproofing-robot-field-enclosures/59643",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "After reading Sparks of Weight-Space Programming by Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab, I wanted to try the idea on a robotics problem: could directly authored neural-network weights produce useful navigation behavior? I set up two rooms, a doorway and a lidar-equipped robot in ",
-      "deck": ""
-    },
-    {
-      "title": "ZED ROS 2 Wrapper 5.6: CUDA zero-copy with rosidl::Buffer for ROS 2 Lyrical and Isaac ROS 5",
-      "url": "https://discourse.openrobotics.org/t/zed-ros-2-wrapper-5-6-cuda-zero-copy-with-rosidl-buffer-for-ros-2-lyrical-and-isaac-ros-5/59608",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi everyone, We just released ZED ROS 2 Wrapper v5.6 , which adds support for the new rosidl::Buffer message fields of ROS 2 Lyrical with the CUDA buffer backend . rosidl::Buffer and the CUDA buffer backend were contributed by NVIDIA to ROS 2 Lyrical in collaboration with the OSRA, and they are the ",
+      "summary": "I have a couple of small outdoor robots that sit on a patio and handle light rain during demos. The enclosure seams are currently sealed with generic weatherstripping, and it’s starting to pull away after a few months of sun. I started looking at outdoor patio furniture construction to see how it ha",
       "deck": ""
     },
     {
