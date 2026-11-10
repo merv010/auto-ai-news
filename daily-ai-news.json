@@ -1,22 +1,30 @@
 {
-  "date": "2026-11-09",
-  "generated": "2026-11-09T13:26:55.864423+00:00",
+  "date": "2026-11-10",
+  "generated": "2026-11-10T13:05:29.683448+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "deck": ""
     },
     {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "deck": ""
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "deck": ""
     },
     {
@@ -52,6 +52,14 @@
       "deck": ""
     },
     {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "source": "Hugging Face Blog",
@@ -60,11 +68,11 @@
       "deck": ""
     },
     {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
+      "url": "https://spectrum.ieee.org/agentic-robotics",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Robotics companies are investing heavily in the belief that data will solve the most difficult problems in robotics. Once AI systems have ingested enough data from human demonstrations, the thinking goes, robots will be able to perform the vast majority of the manual tasks that humans now do. There ",
       "deck": ""
     },
     {
@@ -76,59 +84,51 @@
       "deck": ""
     },
     {
-      "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
-      "url": "https://spectrum.ieee.org/drone-delivery-noise",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Rick and Marcia LeCompte loved to watch the Cooper’s hawks that frequented a sweet-gum tree in their yard in Baton Rouge, La. But this October, the hawks were gone. Marcia LeCompte is convinced the birds were scared away by the same flying robots that have been vexing the couple since early Septembe",
-      "deck": ""
-    },
-    {
-      "title": "ARM Institute consortium grows to more than 500 organizations",
-      "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations/",
+      "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+      "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh. The post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report .",
+      "summary": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies. The post NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Robot integration brings high-precision production to midmarket manufacturers",
-      "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
+      "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+      "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist. The post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report .",
+      "summary": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas. The post Boston Dynamics adds wheels to Atlas humanoid to test whole-body control appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "StrataSLAM: open-source multi-floor SLAM for ROS 2 (stairs, elevators, ramps, identical floors)",
-      "url": "https://discourse.openrobotics.org/t/strataslam-open-source-multi-floor-slam-for-ros-2-stairs-elevators-ramps-identical-floors/59649",
+      "title": "TC-PEBRAS is hosting a video competition! $250 awards, 3 min videos, due Dec 12, 2026",
+      "url": "https://discourse.openrobotics.org/t/tc-pebras-is-hosting-a-video-competition-250-awards-3-min-videos-due-dec-12-2026/59667",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi all, We have released StrataSLAM, an open-source multi-floor 3D SLAM for ROS 2 from the Intelligent Robotics Lab (Universidad Rey Juan Carlos). StrataSLAM: multi-floor SLAM for ROS 2 (stairs, elevators, ramps, identical floors) Most SLAM systems struggle when a robot changes floor. They lose the ",
+      "summary": "The IEEE RAS Technical Committee on Performance Evaluation and Benchmarking of Robotic and Automation Systems (TC-PEBRAS) is holding a video competition! See webpage: PEBRAS Video Competition 2026 Participants are tasked with creating a video covering topics in scope of the TC, which includes perfor",
       "deck": ""
     },
     {
-      "title": "Anyone here using outdoor furniture knowledge for weatherproofing robot field enclosures?",
-      "url": "https://discourse.openrobotics.org/t/anyone-here-using-outdoor-furniture-knowledge-for-weatherproofing-robot-field-enclosures/59643",
+      "title": "Anyone using an AI code editor for ROS 2 work? Weighing a switch",
+      "url": "https://discourse.openrobotics.org/t/anyone-using-an-ai-code-editor-for-ros-2-work-weighing-a-switch/59665",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I have a couple of small outdoor robots that sit on a patio and handle light rain during demos. The enclosure seams are currently sealed with generic weatherstripping, and it’s starting to pull away after a few months of sun. I started looking at outdoor patio furniture construction to see how it ha",
+      "summary": "I maintain a few ROS 2 packages and most of my day is spent in Python and C++ nodes, launch files, and CMake. I’ve been reading about AI-assisted editors like Cursor, and the pricing tiers are what make me hesitate — the free tier looks limited once you lean on it regularly, and I’m not sure the pai",
       "deck": ""
     },
     {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
       "deck": ""
     },
     {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with ",
       "deck": ""
     },
     {
