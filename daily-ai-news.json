@@ -1,38 +1,22 @@
 {
-  "date": "2026-11-10",
-  "generated": "2026-11-10T13:05:29.683448+00:00",
-  "story_count": 18,
+  "date": "2026-11-11",
+  "generated": "2026-11-11T12:14:59.724621+00:00",
+  "story_count": 16,
   "stories": [
     {
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "deck": ""
     },
     {
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "deck": ""
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "deck": ""
     },
     {
@@ -52,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +68,35 @@
       "deck": ""
     },
     {
-      "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
-      "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+      "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
+      "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies. The post NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL appeared first on The Robot Report .",
+      "summary": "The companies will combine Sixth Wall’s character authoring and alignment with Dynamic Creatures’ mobile, expressive robots. The post Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
-      "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+      "title": "Why predictive maintenance matters more as factories add robots",
+      "url": "https://www.therobotreport.com/why-predictive-maintenance-matters-more-as-factories-add-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas. The post Boston Dynamics adds wheels to Atlas humanoid to test whole-body control appeared first on The Robot Report .",
+      "summary": "As robotics scales across industries, companies need a maintenance strategy to collect and use the right data to minimize downtime. The post Why predictive maintenance matters more as factories add robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "TC-PEBRAS is hosting a video competition! $250 awards, 3 min videos, due Dec 12, 2026",
-      "url": "https://discourse.openrobotics.org/t/tc-pebras-is-hosting-a-video-competition-250-awards-3-min-videos-due-dec-12-2026/59667",
+      "title": "Preparing for Jazzy Sync 2026-11-13",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-jazzy-sync-2026-11-13/59709",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The IEEE RAS Technical Committee on Performance Evaluation and Benchmarking of Robotic and Automation Systems (TC-PEBRAS) is holding a video competition! See webpage: PEBRAS Video Competition 2026 Participants are tasked with creating a video covering topics in scope of the TC, which includes perfor",
+      "summary": "We’re planning a Jazzy Jalisco sync this Friday Thu, Nov 12, 2026 4:00 PM UTC . There are currently 752 packages ready to sync and no regressions on Ubuntu Noble. If you find any other regression when testing, please report it upstream and leave a comment here so we can track it leading up to the sy",
       "deck": ""
     },
     {
-      "title": "Anyone using an AI code editor for ROS 2 work? Weighing a switch",
-      "url": "https://discourse.openrobotics.org/t/anyone-using-an-ai-code-editor-for-ros-2-work-weighing-a-switch/59665",
+      "title": "Gazebo PMC Meeting Minutes 2026-11-09",
+      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-11-09/59702",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I maintain a few ROS 2 packages and most of my day is spent in Python and C++ nodes, launch files, and CMake. I’ve been reading about AI-assisted editors like Cursor, and the pricing tiers are what make me hesitate — the free tier looks limited once you lean on it regularly, and I’m not sure the pai",
+      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Nov 9, 2026 7:00 PM UTC and the following is a summary: PMC Business Meeting Time Change : The PMC formally decided to change the weekly meeting time to 19:00 UTC due to daylight saving time (passed with 9 votes in favor). New agenda items Up",
       "deck": ""
     },
     {
