@@ -1,22 +1,38 @@
 {
-  "date": "2026-11-11",
-  "generated": "2026-11-11T12:14:59.724621+00:00",
-  "story_count": 16,
+  "date": "2026-11-12",
+  "generated": "2026-11-12T13:22:00.439048+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "deck": ""
     },
     {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "deck": ""
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "deck": ""
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -44,8 +60,8 @@
       "deck": ""
     },
     {
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,35 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
-      "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots/",
+      "title": "Serve Robotics opens robot delivery network for others to build on",
+      "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The companies will combine Sixth Wall’s character authoring and alignment with Dynamic Creatures’ mobile, expressive robots. The post Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots appeared first on The Robot Report .",
+      "summary": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots. The post Serve Robotics opens robot delivery network for others to build on appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Why predictive maintenance matters more as factories add robots",
-      "url": "https://www.therobotreport.com/why-predictive-maintenance-matters-more-as-factories-add-robots/",
+      "title": "Memories.ai builds standardized egocentric video pipeline",
+      "url": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "As robotics scales across industries, companies need a maintenance strategy to collect and use the right data to minimize downtime. The post Why predictive maintenance matters more as factories add robots appeared first on The Robot Report .",
+      "summary": "Memories.ai provides standardized egocentric video collection and AI-powered annotation to build training data infrastructure for robotics. The post Memories.ai builds standardized egocentric video pipeline appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Preparing for Jazzy Sync 2026-11-13",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-jazzy-sync-2026-11-13/59709",
+      "title": "Follow-up meeting on REP 0157: Monday, 16 November 2026",
+      "url": "https://discourse.openrobotics.org/t/follow-up-meeting-on-rep-0157-monday-16-november-2026/59725",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re planning a Jazzy Jalisco sync this Friday Thu, Nov 12, 2026 4:00 PM UTC . There are currently 752 packages ready to sync and no regressions on Ubuntu Noble. If you find any other regression when testing, please report it upstream and leave a comment here so we can track it leading up to the sy",
+      "summary": "Follow-up meeting on REP 0157: Monday, 16 November 2026 Hi everyone, We held a dedicated meeting on REP 0157 on 4 November and kept the discussion going afterwards. There are still open topics, so we’re holding a follow-up meeting before Michel Hidalgo leaves. Anyone interested in REP 0157 is welcom",
       "deck": ""
     },
     {
-      "title": "Gazebo PMC Meeting Minutes 2026-11-09",
-      "url": "https://discourse.openrobotics.org/t/gazebo-pmc-meeting-minutes-2026-11-09/59702",
+      "title": "Preparing for Humble sync 2026-11-16",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-humble-sync-2026-11-16/59720",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi Gazebo Community! This week’s meeting was held on Mon, Nov 9, 2026 7:00 PM UTC and the following is a summary: PMC Business Meeting Time Change : The PMC formally decided to change the weekly meeting time to 19:00 UTC due to daylight saving time (passed with 9 votes in favor). New agenda items Up",
+      "summary": "We’re planning for a Humble sync on Mon, Nov 16, 2026 8:00 AM UTC . There are currently 416 packages to sync and 10 regressions (which should hopefully be fixed by Simple-Robotics/proxsuite#501 once it’s merged &amp; released). We will start holding rosdistro PRs for the sync today ( Wed, Nov 11, 20",
       "deck": ""
     },
     {
