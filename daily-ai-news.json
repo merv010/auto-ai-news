@@ -1,22 +1,30 @@
 {
-  "date": "2026-11-12",
-  "generated": "2026-11-12T13:22:00.439048+00:00",
+  "date": "2026-11-13",
+  "generated": "2026-11-13T12:41:23.220591+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "deck": ""
     },
     {
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "deck": ""
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -25,14 +33,6 @@
       "source": "DeepMind Blog",
       "category": "AI Research",
       "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "deck": ""
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "Serve Robotics opens robot delivery network for others to build on",
-      "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
+      "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
+      "url": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots. The post Serve Robotics opens robot delivery network for others to build on appeared first on The Robot Report .",
+      "summary": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C. Jones as board chair as it faces trade scrutiny. The post NVIDIA replaces CEO amid China AI and robotics concerns appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Memories.ai builds standardized egocentric video pipeline",
-      "url": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline/",
+      "title": "Viam Launchpad aims to accelerate robotics deployments",
+      "url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Memories.ai provides standardized egocentric video collection and AI-powered annotation to build training data infrastructure for robotics. The post Memories.ai builds standardized egocentric video pipeline appeared first on The Robot Report .",
+      "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Follow-up meeting on REP 0157: Monday, 16 November 2026",
-      "url": "https://discourse.openrobotics.org/t/follow-up-meeting-on-rep-0157-monday-16-november-2026/59725",
+      "title": "Ros2ebpf: topic/service rates and drop indicators for every ROS 2 process on a host, via eBPF, no rebuild or restart",
+      "url": "https://discourse.openrobotics.org/t/ros2ebpf-topic-service-rates-and-drop-indicators-for-every-ros-2-process-on-a-host-via-ebpf-no-rebuild-or-restart/59744",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Follow-up meeting on REP 0157: Monday, 16 November 2026 Hi everyone, We held a dedicated meeting on REP 0157 on 4 November and kept the discussion going afterwards. There are still open topics, so we’re holding a follow-up meeting before Michel Hidalgo leaves. Anyone interested in REP 0157 is welcom",
+      "summary": "Sharing a new project: ros2ebpf — ROS 2 full observability statistics empowered by eBPF. Repository fujitatomoya/ros2ebpf GitHub - fujitatomoya/ros2ebpf: ROS 2 Full Observability Statistics empowered by... ROS 2 Full Observability Statistics empowered by eBPF The idea is simple: instead of subscribi",
       "deck": ""
     },
     {
-      "title": "Preparing for Humble sync 2026-11-16",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-humble-sync-2026-11-16/59720",
+      "title": "PLEM drive layer v0.11.0: EtherCAT CiA 402 drives under ros2_control on Jetson AGX Orin (Jazzy)",
+      "url": "https://discourse.openrobotics.org/t/plem-drive-layer-v0-11-0-ethercat-cia-402-drives-under-ros2-control-on-jetson-agx-orin-jazzy/59740",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We’re planning for a Humble sync on Mon, Nov 16, 2026 8:00 AM UTC . There are currently 416 packages to sync and 10 regressions (which should hopefully be fixed by Simple-Robotics/proxsuite#501 once it’s merged &amp; released). We will start holding rosdistro PRs for the sync today ( Wed, Nov 11, 20",
+      "summary": "We have released the drive layer of PLEM as open source (Apache-2.0): GitHub - WIM-Corporation/PLEM: Run EtherCAT servo drives from an NVIDIA Jetson: one YAML file per bus, a real-time loop under ros2_control, and a Python client. The open drive layer of PLEM by WIM. · GitHub It runs CiA 402 servo d",
+      "deck": ""
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
       "deck": ""
     },
     {
@@ -121,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
-      "deck": ""
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with ",
       "deck": ""
     },
     {
