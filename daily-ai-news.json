@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-13",
-  "generated": "2026-11-13T12:41:23.220591+00:00",
+  "date": "2026-11-14",
+  "generated": "2026-11-14T11:49:50.620398+00:00",
   "story_count": 18,
   "stories": [
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "deck": ""
     },
     {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "deck": ""
     },
     {
@@ -52,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
+      "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enj",
       "deck": ""
     },
     {
@@ -76,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
-      "url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN, TEXAS Humanoids",
-      "deck": ""
-    },
-    {
-      "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
-      "url": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
+      "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
+      "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C. Jones as board chair as it faces trade scrutiny. The post NVIDIA replaces CEO amid China AI and robotics concerns appeared first on The Robot Report .",
+      "summary": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store. The post Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Viam Launchpad aims to accelerate robotics deployments",
-      "url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+      "title": "How Rhoda AI is using video data to create generalized AI models for robots",
+      "url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .",
+      "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Ros2ebpf: topic/service rates and drop indicators for every ROS 2 process on a host, via eBPF, no rebuild or restart",
-      "url": "https://discourse.openrobotics.org/t/ros2ebpf-topic-service-rates-and-drop-indicators-for-every-ros-2-process-on-a-host-via-ebpf-no-rebuild-or-restart/59744",
+      "title": "ROS News for the Week of November 9th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-november-9th-2026/59767",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Sharing a new project: ros2ebpf — ROS 2 full observability statistics empowered by eBPF. Repository fujitatomoya/ros2ebpf GitHub - fujitatomoya/ros2ebpf: ROS 2 Full Observability Statistics empowered by... ROS 2 Full Observability Statistics empowered by eBPF The idea is simple: instead of subscribi",
+      "summary": "ROS News for the Week of November 9th, 2026 A team from U of Toronto and NYC Released the MABEL robot at CoRL 2026 in Austin this week. MABEL is an open-source software and hardware mobile bimanual robot for teleoperation and learning that you can build at home for about $8000. Also this week at CoR",
       "deck": ""
     },
     {
-      "title": "PLEM drive layer v0.11.0: EtherCAT CiA 402 drives under ros2_control on Jetson AGX Orin (Jazzy)",
-      "url": "https://discourse.openrobotics.org/t/plem-drive-layer-v0-11-0-ethercat-cia-402-drives-under-ros2-control-on-jetson-agx-orin-jazzy/59740",
+      "title": "Sharing an open-source 3D spatial sensing ecosystem for HM-LD1 dToF LiDAR (ROS 1/ROS 2, Jetson, Android, & Demos)",
+      "url": "https://discourse.openrobotics.org/t/sharing-an-open-source-3d-spatial-sensing-ecosystem-for-hm-ld1-dtof-lidar-ros-1-ros-2-jetson-android-demos/59765",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "We have released the drive layer of PLEM as open source (Apache-2.0): GitHub - WIM-Corporation/PLEM: Run EtherCAT servo drives from an NVIDIA Jetson: one YAML file per bus, a real-time loop under ros2_control, and a Python client. The open drive layer of PLEM by WIM. · GitHub It runs CiA 402 servo d",
+      "summary": "Hey everyone, In our recent robotics and autonomous systems development, we’ve been working heavily with solid-state dToF (Direct Time-of-Flight) sensors. One particular unit we’ve spent a lot of time testing, integrating, and writing drivers for is the MRP HM-LD1 — a compact, lightweight (28g, ~1.2",
       "deck": ""
     },
     {
