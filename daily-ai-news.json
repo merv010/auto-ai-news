@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-14",
-  "generated": "2026-11-14T11:49:50.620398+00:00",
-  "story_count": 18,
+  "date": "2026-11-15",
+  "generated": "2026-11-15T12:20:08.150231+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Introducing ChatGPT Wallet",
@@ -17,22 +17,6 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "deck": ""
     },
     {
@@ -100,19 +84,19 @@
       "deck": ""
     },
     {
+      "title": "MOCAP4ROS2 2.0.0 released: one interface for OptiTrack, Vicon, Qualisys and Gazebo, new tools and website",
+      "url": "https://discourse.openrobotics.org/t/mocap4ros2-2-0-0-released-one-interface-for-optitrack-vicon-qualisys-and-gazebo-new-tools-and-website/59801",
+      "source": "ROS Discourse",
+      "category": "Robotics",
+      "summary": "Hi everyone, We are happy to announce MOCAP4ROS2 2.0.0 , a complete revival of the motion capture framework for ROS 2. It may have looked quiet for a while, but a lot of people use it, and it deserved a proper update. One version, from one branch, now builds and is released for Humble, Jazzy, Kilted",
+      "deck": ""
+    },
+    {
       "title": "ROS News for the Week of November 9th, 2026",
       "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-november-9th-2026/59767",
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "ROS News for the Week of November 9th, 2026 A team from U of Toronto and NYC Released the MABEL robot at CoRL 2026 in Austin this week. MABEL is an open-source software and hardware mobile bimanual robot for teleoperation and learning that you can build at home for about $8000. Also this week at CoR",
-      "deck": ""
-    },
-    {
-      "title": "Sharing an open-source 3D spatial sensing ecosystem for HM-LD1 dToF LiDAR (ROS 1/ROS 2, Jetson, Android, & Demos)",
-      "url": "https://discourse.openrobotics.org/t/sharing-an-open-source-3d-spatial-sensing-ecosystem-for-hm-ld1-dtof-lidar-ros-1-ros-2-jetson-android-demos/59765",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hey everyone, In our recent robotics and autonomous systems development, we’ve been working heavily with solid-state dToF (Direct Time-of-Flight) sensors. One particular unit we’ve spent a lot of time testing, integrating, and writing drivers for is the MRP HM-LD1 — a compact, lightweight (28g, ~1.2",
       "deck": ""
     },
     {
