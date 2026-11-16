@@ -1,22 +1,38 @@
 {
-  "date": "2026-11-15",
-  "generated": "2026-11-15T12:20:08.150231+00:00",
-  "story_count": 16,
+  "date": "2026-11-16",
+  "generated": "2026-11-16T13:12:39.220121+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
       "deck": ""
     },
     {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "deck": ""
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "deck": ""
     },
     {
@@ -52,19 +68,19 @@
       "deck": ""
     },
     {
+      "title": "Why Skydio Built a Lopsided Drone",
+      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made , this is a company that makes very cool stuff. Sadly, Skydio no longer makes cool stuff for consumers , instead focusing on drone platforms for ",
+      "deck": ""
+    },
+    {
       "title": "Video Friday: NASA PROMISEs a New Moon Rover",
       "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enj",
-      "deck": ""
-    },
-    {
-      "title": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
-      "url": "https://spectrum.ieee.org/agentic-robotics",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "Robotics companies are investing heavily in the belief that data will solve the most difficult problems in robotics. Once AI systems have ingested enough data from human demonstrations, the thinking goes, robots will be able to perform the vast majority of the manual tasks that humans now do. There ",
       "deck": ""
     },
     {
@@ -84,19 +100,19 @@
       "deck": ""
     },
     {
-      "title": "MOCAP4ROS2 2.0.0 released: one interface for OptiTrack, Vicon, Qualisys and Gazebo, new tools and website",
-      "url": "https://discourse.openrobotics.org/t/mocap4ros2-2-0-0-released-one-interface-for-optitrack-vicon-qualisys-and-gazebo-new-tools-and-website/59801",
+      "title": "New Packages for Jazzy Jalisco 2026-11-16",
+      "url": "https://discourse.openrobotics.org/t/new-packages-for-jazzy-jalisco-2026-11-16/59841",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, We are happy to announce MOCAP4ROS2 2.0.0 , a complete revival of the motion capture framework for ROS 2. It may have looked quiet for a while, but a lot of people use it, and it deserved a proper update. One version, from one branch, now builds and is released for Humble, Jazzy, Kilted",
+      "summary": "Hello there everyone! We’re happy to announce 44 new packages and 724 updates are now available in ROS 2 Jazzy Jalisco . This sync was tagged as jazzy/2026-11-16 . Package Updates for jazzy Note that dbgsym packages have been filtered out from the list below Added Packages [44]: ros-jazzy-audio-vide",
       "deck": ""
     },
     {
-      "title": "ROS News for the Week of November 9th, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-november-9th-2026/59767",
+      "title": "Ultra-Lightweight On-Device Monocular VIO Sensor (RoboBaton Neo): Real-Time 30Hz Pose, MAVLink Flight Controller Integration, and EuRoC Benchmark Results",
+      "url": "https://discourse.openrobotics.org/t/ultra-lightweight-on-device-monocular-vio-sensor-robobaton-neo-real-time-30hz-pose-mavlink-flight-controller-integration-and-euroc-benchmark-results/59830",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "ROS News for the Week of November 9th, 2026 A team from U of Toronto and NYC Released the MABEL robot at CoRL 2026 in Austin this week. MABEL is an open-source software and hardware mobile bimanual robot for teleoperation and learning that you can build at home for about $8000. Also this week at CoR",
+      "summary": "Hi everyone in the Open Robotics community! We are excited to introduce the RoboBaton Neo, an ultra-lightweight, high-performance Monocular Visual-Inertial Odometry (VIO) sensor designed from the ground up for edge computing on small drones, AGVs, and mobile robots. If you have ever struggled with h",
       "deck": ""
     },
     {
