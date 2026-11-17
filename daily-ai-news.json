@@ -1,38 +1,22 @@
 {
-  "date": "2026-11-16",
-  "generated": "2026-11-16T13:12:39.220121+00:00",
-  "story_count": 18,
+  "date": "2026-11-17",
+  "generated": "2026-11-17T13:55:53.097791+00:00",
+  "story_count": 16,
   "stories": [
     {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
       "deck": ""
     },
     {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
       "deck": ""
     },
     {
@@ -52,6 +36,14 @@
       "deck": ""
     },
     {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face Blog",
@@ -60,75 +52,67 @@
       "deck": ""
     },
     {
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Why Skydio Built a Lopsided Drone",
-      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+      "url": "https://spectrum.ieee.org/telesurgery-stroke",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made , this is a company that makes very cool stuff. Sadly, Skydio no longer makes cool stuff for consumers , instead focusing on drone platforms for ",
+      "summary": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, trackin",
       "deck": ""
     },
     {
-      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
-      "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+      "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+      "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
       "source": "IEEE Spectrum Robotics",
       "category": "Robotics",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enj",
+      "summary": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among other",
       "deck": ""
     },
     {
-      "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
-      "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
+      "title": "The hidden reason most robots fail on the factory floor",
+      "url": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store. The post Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial appeared first on The Robot Report .",
+      "summary": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally. The post The hidden reason most robots fail on the factory floor appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How Rhoda AI is using video data to create generalized AI models for robots",
-      "url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
+      "title": "Agile Robots raises $500M to increase production capacity",
+      "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
+      "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "New Packages for Jazzy Jalisco 2026-11-16",
-      "url": "https://discourse.openrobotics.org/t/new-packages-for-jazzy-jalisco-2026-11-16/59841",
+      "title": "Wled_ros_driver: control WLED LED strips from ROS 2 💡",
+      "url": "https://discourse.openrobotics.org/t/wled-ros-driver-control-wled-led-strips-from-ros-2/59891",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello there everyone! We’re happy to announce 44 new packages and 724 updates are now available in ROS 2 Jazzy Jalisco . This sync was tagged as jazzy/2026-11-16 . Package Updates for jazzy Note that dbgsym packages have been filtered out from the list below Added Packages [44]: ros-jazzy-audio-vide",
+      "summary": "Hi everyone! In summer 2026, the Center of Excellence in Artificial Intelligence at AGH University of Krakow hosted student internships. I led one of the projects, which aimed to add controllable lighting to our robotic manipulator station and its cameras. The result is now open source: wled_ros_dri",
       "deck": ""
     },
     {
-      "title": "Ultra-Lightweight On-Device Monocular VIO Sensor (RoboBaton Neo): Real-Time 30Hz Pose, MAVLink Flight Controller Integration, and EuRoC Benchmark Results",
-      "url": "https://discourse.openrobotics.org/t/ultra-lightweight-on-device-monocular-vio-sensor-robobaton-neo-real-time-30hz-pose-mavlink-flight-controller-integration-and-euroc-benchmark-results/59830",
+      "title": "Preparing for (PENULTIMATE) Kilted sync 2026-11-18",
+      "url": "https://discourse.openrobotics.org/t/preparing-for-penultimate-kilted-sync-2026-11-18/59865",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone in the Open Robotics community! We are excited to introduce the RoboBaton Neo, an ultra-lightweight, high-performance Monocular Visual-Inertial Odometry (VIO) sensor designed from the ground up for edge computing on small drones, AGVs, and mobile robots. If you have ever struggled with h",
+      "summary": "There have been several new and updated packages in Kilted since it was released, and it’s time to sync those new features and fixes to the main apt and dnf repositories. There is currently 1 regression and 595 packages to release. We will start holding rosdistro PRs for the sync on Tue, Nov 17, 202",
       "deck": ""
     },
     {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
       "deck": ""
     },
     {
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
       "deck": ""
     },
     {
