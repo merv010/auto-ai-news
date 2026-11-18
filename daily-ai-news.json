@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-17",
-  "generated": "2026-11-17T13:55:53.097791+00:00",
+  "date": "2026-11-18",
+  "generated": "2026-11-18T13:31:28.803485+00:00",
   "story_count": 16,
   "stories": [
     {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "deck": ""
     },
     {
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "deck": ""
     },
     {
@@ -68,51 +68,51 @@
       "deck": ""
     },
     {
-      "title": "The hidden reason most robots fail on the factory floor",
-      "url": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
+      "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
+      "url": "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally. The post The hidden reason most robots fail on the factory floor appeared first on The Robot Report .",
+      "summary": "The DMV determined that Waymo's freeway operations \"pose an imminent hazard to public safety due to recurring incursions by its vehicles.\" The post California DMV bars Waymo AVs from operating on the state&#8217;s freeways appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Agile Robots raises $500M to increase production capacity",
-      "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+      "title": "Learn how AI is changing supply chain robotics",
+      "url": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
+      "summary": "The live webinar, \"Robots in the Supply Chain,\" will take place Wednesday, November 18, 2026, at 12 P.M. ET. The post Learn how AI is changing supply chain robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Wled_ros_driver: control WLED LED strips from ROS 2 💡",
-      "url": "https://discourse.openrobotics.org/t/wled-ros-driver-control-wled-led-strips-from-ros-2/59891",
+      "title": "path planning on 3D topographic surfaces",
+      "url": "https://discourse.openrobotics.org/t/path-planning-on-3d-topographic-surfaces/59930",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone! In summer 2026, the Center of Excellence in Artificial Intelligence at AGH University of Krakow hosted student internships. I led one of the projects, which aimed to add controllable lighting to our robotic manipulator station and its cameras. The result is now open source: wled_ros_dri",
+      "summary": "Hello everyone! I would like to share my project https://trail3d.com/ It’s a path finding algorithm for 3D topographic surfaces when you have slope restrictions. Check the demo Trail3D no credit card or registration required!. It allows you to find a path between two points on a surface, it takes in",
       "deck": ""
     },
     {
-      "title": "Preparing for (PENULTIMATE) Kilted sync 2026-11-18",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-penultimate-kilted-sync-2026-11-18/59865",
+      "title": "Founding Machine Learning - World Models  at One Robot.io SF,CA",
+      "url": "https://discourse.openrobotics.org/t/founding-machine-learning-world-models-at-one-robot-io-sf-ca/59929",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "There have been several new and updated packages in Kilted since it was released, and it’s time to sync those new features and fixes to the main apt and dnf repositories. There is currently 1 regression and 595 packages to release. We will start holding rosdistro PRs for the sync on Tue, Nov 17, 202",
+      "summary": "Company: OneRobot.io Position: Founding Machine Learning - World Models Type: Full Time Compensation: $150K – $275K Location: On-site San Francisco Why you should join One Robot One Robot builds task-specific world models and an evaluation platform for robot manipulation policies. Training end-to-en",
       "deck": ""
     },
     {
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
       "deck": ""
     },
     {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
       "source": "MIT Tech Review AI",
       "category": "Industry",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
+      "summary": "To access a report, click on the corresponding image below.",
       "deck": ""
     },
     {
