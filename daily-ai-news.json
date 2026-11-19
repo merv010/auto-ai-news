@@ -1,22 +1,38 @@
 {
-  "date": "2026-11-18",
-  "generated": "2026-11-18T13:31:28.803485+00:00",
-  "story_count": 16,
+  "date": "2026-11-19",
+  "generated": "2026-11-19T13:59:10.188267+00:00",
+  "story_count": 18,
   "stories": [
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "deck": ""
     },
     {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "deck": ""
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -36,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -68,35 +84,43 @@
       "deck": ""
     },
     {
-      "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
-      "url": "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
+      "title": "Humyn Labs raises $47M to collect real-world data for robotics",
+      "url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The DMV determined that Waymo's freeway operations \"pose an imminent hazard to public safety due to recurring incursions by its vehicles.\" The post California DMV bars Waymo AVs from operating on the state&#8217;s freeways appeared first on The Robot Report .",
+      "summary": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers. The post Humyn Labs raises $47M to collect real-world data for robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Learn how AI is changing supply chain robotics",
-      "url": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
+      "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
+      "url": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The live webinar, \"Robots in the Supply Chain,\" will take place Wednesday, November 18, 2026, at 12 P.M. ET. The post Learn how AI is changing supply chain robotics appeared first on The Robot Report .",
+      "summary": "Robotics is advancing rapidly. New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do. The post From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "path planning on 3D topographic surfaces",
-      "url": "https://discourse.openrobotics.org/t/path-planning-on-3d-topographic-surfaces/59930",
+      "title": "Full ROS2 Lyrical support for Pollen's Reachy Mini",
+      "url": "https://discourse.openrobotics.org/t/full-ros2-lyrical-support-for-pollens-reachy-mini/59991",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello everyone! I would like to share my project https://trail3d.com/ It’s a path finding algorithm for 3D topographic surfaces when you have slope restrictions. Check the demo Trail3D no credit card or registration required!. It allows you to find a path between two points on a surface, it takes in",
+      "summary": "Hi ROS folks! After testing, refining and eventually adopting it in our lab, time to share with everyone our ROS2 stack for Pollen Robotics’ Reachy Mini. Some highlights: ROS2 Lyrical + zenoh; easy to install (one deb package that pulls and keeps a Lyrical Docker image up-to-date) install side-by-si",
       "deck": ""
     },
     {
-      "title": "Founding Machine Learning - World Models  at One Robot.io SF,CA",
-      "url": "https://discourse.openrobotics.org/t/founding-machine-learning-world-models-at-one-robot-io-sf-ca/59929",
+      "title": "Ros2serial: rosserial-style communication for microcontrollers on ROS 2 (first public alpha)",
+      "url": "https://discourse.openrobotics.org/t/ros2serial-rosserial-style-communication-for-microcontrollers-on-ros-2-first-public-alpha/59990",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Company: OneRobot.io Position: Founding Machine Learning - World Models Type: Full Time Compensation: $150K – $275K Location: On-site San Francisco Why you should join One Robot One Robot builds task-specific world models and an evaluation platform for robot manipulation policies. Training end-to-en",
+      "summary": "Hi everyone, ros2serial puts an Arduino on ROS 2 over USB serial: topics, services and actions, from a few lines in a sketch, on boards as small as an Uno. It’s meant for the job rosserial did in ROS 1, for projects where micro-ROS is more than you need. Inspired by rosserial and OSRF’s early ros2_s",
+      "deck": ""
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
       "deck": ""
     },
     {
@@ -105,14 +129,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
-      "deck": ""
-    },
-    {
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "To access a report, click on the corresponding image below.",
       "deck": ""
     },
     {
