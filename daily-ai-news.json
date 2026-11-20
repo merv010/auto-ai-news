@@ -1,38 +1,22 @@
 {
-  "date": "2026-11-19",
-  "generated": "2026-11-19T13:59:10.188267+00:00",
-  "story_count": 18,
+  "date": "2026-11-20",
+  "generated": "2026-11-20T13:40:48.699745+00:00",
+  "story_count": 16,
   "stories": [
     {
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "deck": ""
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "deck": ""
-    },
-    {
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
-      "deck": ""
-    },
-    {
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "deck": ""
     },
     {
@@ -52,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,35 +68,35 @@
       "deck": ""
     },
     {
-      "title": "Humyn Labs raises $47M to collect real-world data for robotics",
-      "url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+      "title": "Robotics enters its post-Jensen Huang era",
+      "url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers. The post Humyn Labs raises $47M to collect real-world data for robotics appeared first on The Robot Report .",
+      "summary": "One of robotics' most influential advocates is gone. Can the industry sustain its momentum without him? The post Robotics enters its post-Jensen Huang era appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
-      "url": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
+      "title": "What industrial drone deployments reveal about real-world autonomy challenges",
+      "url": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "Robotics is advancing rapidly. New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do. The post From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics appeared first on The Robot Report .",
+      "summary": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation. The post What industrial drone deployments reveal about real-world autonomy challenges appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "Full ROS2 Lyrical support for Pollen's Reachy Mini",
-      "url": "https://discourse.openrobotics.org/t/full-ros2-lyrical-support-for-pollens-reachy-mini/59991",
+      "title": "ROS PMC Minutes for November 17, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-november-17-2026/60036",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi ROS folks! After testing, refining and eventually adopting it in our lab, time to share with everyone our ROS2 stack for Pollen Robotics’ Reachy Mini. Some highlights: ROS2 Lyrical + zenoh; easy to install (one deb package that pulls and keeps a Lyrical Docker image up-to-date) install side-by-si",
+      "summary": "The ROS PMC meeting for this week was on Tuesday, November 17, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business [ @ahcorde ] Meeting hour vote: 12 in favour, 4 against, 1 abstain and 5 no vote. That is short of the two-thirds majority, so the meeting",
       "deck": ""
     },
     {
-      "title": "Ros2serial: rosserial-style communication for microcontrollers on ROS 2 (first public alpha)",
-      "url": "https://discourse.openrobotics.org/t/ros2serial-rosserial-style-communication-for-microcontrollers-on-ros-2-first-public-alpha/59990",
+      "title": "Resetting/Clearing a message without reallocating?",
+      "url": "https://discourse.openrobotics.org/t/resetting-clearing-a-message-without-reallocating/60031",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hi everyone, ros2serial puts an Arduino on ROS 2 over USB serial: topics, services and actions, from a few lines in a sketch, on boards as small as an Uno. It’s meant for the job rosserial did in ROS 1, for projects where micro-ROS is more than you need. Inspired by rosserial and OSRF’s early ros2_s",
+      "summary": "I’m looking for feedback about an problem/proposal! I find when writing controllers or other performance sensitive c++ code where I want to publish something, that I have to make a compromise between memory efficiency and semantics/correctness. Specifically, I would like my code to behave as if I am",
       "deck": ""
     },
     {
