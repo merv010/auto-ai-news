@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-20",
-  "generated": "2026-11-20T13:40:48.699745+00:00",
+  "date": "2026-11-21",
+  "generated": "2026-11-21T13:06:22.231504+00:00",
   "story_count": 16,
   "stories": [
     {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "deck": ""
     },
     {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
       "source": "OpenAI Blog",
       "category": "AI Research",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "deck": ""
     },
     {
@@ -36,6 +36,14 @@
       "deck": ""
     },
     {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
       "url": "https://huggingface.co/blog/harness-adapters-at-scale",
       "source": "Hugging Face Blog",
@@ -44,11 +52,11 @@
       "deck": ""
     },
     {
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "source": "Hugging Face Blog",
-      "category": "AI Research",
-      "summary": "",
+      "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+      "url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enj",
       "deck": ""
     },
     {
@@ -60,43 +68,43 @@
       "deck": ""
     },
     {
-      "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
-      "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among other",
-      "deck": ""
-    },
-    {
-      "title": "Robotics enters its post-Jensen Huang era",
-      "url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
+      "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
+      "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "One of robotics' most influential advocates is gone. Can the industry sustain its momentum without him? The post Robotics enters its post-Jensen Huang era appeared first on The Robot Report .",
+      "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year. The post Medtronic&#8217;s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "What industrial drone deployments reveal about real-world autonomy challenges",
-      "url": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
+      "title": "MassRobotics launching marine robotics facility on Boston Harbor",
+      "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation. The post What industrial drone deployments reveal about real-world autonomy challenges appeared first on The Robot Report .",
+      "summary": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027. The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "ROS PMC Minutes for November 17, 2026",
-      "url": "https://discourse.openrobotics.org/t/ros-pmc-minutes-for-november-17-2026/60036",
+      "title": "ROS News for the Week of November 16th, 2026",
+      "url": "https://discourse.openrobotics.org/t/ros-news-for-the-week-of-november-16th-2026/60053",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "The ROS PMC meeting for this week was on Tuesday, November 17, 2026. The notes from the meeting are available at ROS PMC weekly meeting agenda . ROS PMC Business [ @ahcorde ] Meeting hour vote: 12 in favour, 4 against, 1 abstain and 5 no vote. That is short of the two-thirds majority, so the meeting",
+      "summary": "ROS News for the Week of November 16th, 2026 Our first regional ROSCon in Belgium is happening next week in Nivelles! The organizers have their thumb on what’s new and cool for ROS so I’m certain it will be a fantastic event! Check out this awesome new live web dashboard for Colcon builds from our f",
       "deck": ""
     },
     {
-      "title": "Resetting/Clearing a message without reallocating?",
-      "url": "https://discourse.openrobotics.org/t/resetting-clearing-a-message-without-reallocating/60031",
+      "title": "Mobile ROS: an open-source ROS 2 app for your phone",
+      "url": "https://discourse.openrobotics.org/t/mobile-ros-an-open-source-ros-2-app-for-your-phone/60045",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "I’m looking for feedback about an problem/proposal! I find when writing controllers or other performance sensitive c++ code where I want to publish something, that I have to make a compromise between memory efficiency and semantics/correctness. Specifically, I would like my code to behave as if I am",
+      "summary": "Hi everyone, I made an Android app to control ROS robots from my phone. It started as a small side project in university because I didn’t want to open my laptop every time I tested a robot. Some people started using it on Google Play, so I kept working on it. I don’t have a real robot and my job isn",
+      "deck": ""
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review AI",
+      "category": "Industry",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "MIT Tech Review AI",
       "category": "Industry",
       "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
-      "deck": ""
-    },
-    {
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "source": "MIT Tech Review AI",
-      "category": "Industry",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
       "deck": ""
     },
     {
