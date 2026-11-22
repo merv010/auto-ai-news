@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-21",
-  "generated": "2026-11-21T13:06:22.231504+00:00",
-  "story_count": 16,
+  "date": "2026-11-22",
+  "generated": "2026-11-22T12:54:48.224400+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Combatting adversarial distillation",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "deck": ""
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "",
       "deck": ""
     },
     {
@@ -68,19 +84,19 @@
       "deck": ""
     },
     {
+      "title": "The manufacturing data gap holding back physical AI",
+      "url": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency. The post The manufacturing data gap holding back physical AI appeared first on The Robot Repor",
+      "deck": ""
+    },
+    {
       "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
       "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
       "source": "The Robot Report",
       "category": "Robotics",
       "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year. The post Medtronic&#8217;s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
-      "deck": ""
-    },
-    {
-      "title": "MassRobotics launching marine robotics facility on Boston Harbor",
-      "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
-      "source": "The Robot Report",
-      "category": "Robotics",
-      "summary": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027. The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot Report .",
       "deck": ""
     },
     {
