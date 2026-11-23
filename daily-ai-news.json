@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-22",
-  "generated": "2026-11-22T12:54:48.224400+00:00",
+  "date": "2026-11-23",
+  "generated": "2026-11-23T15:28:59.111447+00:00",
   "story_count": 18,
   "stories": [
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI Blog",
+      "category": "AI Research",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "deck": ""
+    },
     {
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "deck": ""
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI Blog",
-      "category": "AI Research",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "deck": ""
     },
     {
@@ -52,16 +52,16 @@
       "deck": ""
     },
     {
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,6 +84,14 @@
       "deck": ""
     },
     {
+      "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
+      "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "The NVIDIA board reversed its decision following discussions with Huang and senior U.S. government officials, amid growing pressure from the White House, investors and technology executives. The post NVIDIA reinstates Jensen Huang after 11-day absence appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "The manufacturing data gap holding back physical AI",
       "url": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
       "source": "The Robot Report",
@@ -92,11 +100,11 @@
       "deck": ""
     },
     {
-      "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
-      "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
-      "source": "The Robot Report",
+      "title": "Recording rosidl::Buffer (CUDA) topics in rosbag2: prototype and feedback wanted",
+      "url": "https://discourse.openrobotics.org/t/recording-rosidl-buffer-cuda-topics-in-rosbag2-prototype-and-feedback-wanted/60157",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year. The post Medtronic&#8217;s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
+      "summary": "Hi all, With rosidl::Buffer backends arriving in Lyrical, the recorder faces an issue: ros2 bag record only accepts the cpu backend, so every publisher converts its buffers to CPU memory and serializes them inside publish() , just because a recorder is subscribed. This prototype lets the recorder ac",
       "deck": ""
     },
     {
@@ -105,14 +113,6 @@
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "ROS News for the Week of November 16th, 2026 Our first regional ROSCon in Belgium is happening next week in Nivelles! The organizers have their thumb on what’s new and cool for ROS so I’m certain it will be a fantastic event! Check out this awesome new live web dashboard for Colcon builds from our f",
-      "deck": ""
-    },
-    {
-      "title": "Mobile ROS: an open-source ROS 2 app for your phone",
-      "url": "https://discourse.openrobotics.org/t/mobile-ros-an-open-source-ros-2-app-for-your-phone/60045",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Hi everyone, I made an Android app to control ROS robots from my phone. It started as a small side project in university because I didn’t want to open my laptop every time I tested a robot. Some people started using it on Google Play, so I kept working on it. I don’t have a real robot and my job isn",
       "deck": ""
     },
     {
