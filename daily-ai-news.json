@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-25",
-  "generated": "2026-11-25T15:03:40.151304+00:00",
-  "story_count": 16,
+  "date": "2026-11-26",
+  "generated": "2026-11-26T14:33:31.156054+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "deck": ""
+    },
+    {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "deck": ""
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
       "deck": ""
     },
     {
@@ -36,19 +52,27 @@
       "deck": ""
     },
     {
-      "title": "An Indic Voice Agent with CUGA",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
+      "deck": ""
+    },
+    {
+      "title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+      "source": "IEEE Spectrum Robotics",
+      "category": "Robotics",
+      "summary": "On 5 November, 10 teams descended upon a 52-acre mock town in College Station, Texas called Disaster City . They were there for a nine-day competition to see how well teams of robots and humans could navigate simulated catastrophes, like a market ravaged by a tornado and a nighttime strike on a mili",
       "deck": ""
     },
     {
@@ -60,43 +84,35 @@
       "deck": ""
     },
     {
-      "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
-      "url": "https://spectrum.ieee.org/telesurgery-stroke",
-      "source": "IEEE Spectrum Robotics",
-      "category": "Robotics",
-      "summary": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, trackin",
-      "deck": ""
-    },
-    {
-      "title": "Robotics Summit 2027 opens call for speakers",
-      "url": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+      "title": "How Vention is cutting factory programming from weeks to minutes",
+      "url": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "The Robotics Summit &#038; Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more. The post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report .",
+      "summary": "Etienne Lacroix explains why AI deployment—not just better models—will define the future of industrial automation. The post How Vention is cutting factory programming from weeks to minutes appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
-      "url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+      "title": "FCC should focus on robot security, not country of origin",
+      "url": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
       "source": "The Robot Report",
       "category": "Robotics",
-      "summary": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland. The post SoftBank acquires Marc Raibert&#8217;s Robotics and AI Institute ",
+      "summary": "Where a robot was assembled tells you little about who controls it once it's deployed, writes Brain Corp CEO David Pinn. The post FCC should focus on robot security, not country of origin appeared first on The Robot Report .",
       "deck": ""
     },
     {
-      "title": "How do you handle laggy links for 3D teleop/monitoring in ROS 2?",
-      "url": "https://discourse.openrobotics.org/t/how-do-you-handle-laggy-links-for-3d-teleop-monitoring-in-ros-2/60248",
+      "title": "RobotIA — From Simulation to Autonomous Learning",
+      "url": "https://discourse.openrobotics.org/t/robotia-from-simulation-to-autonomous-learning/60271",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hey everyone, For folks running ROS 2 robots over cellular or spotty links, how do you keep remote 3D visualization/teleop usable without heavy point clouds choking the connection? I’m building a lightweight browser 3D view (`sax-view`) with a predictive ghost path for delayed telemetry and multi-fl",
+      "summary": "Hello everyone, After ten years away from robotics, I have decided to resume my research and share this new adventure with you. I am a self-taught computer science and robotics enthusiast. About ten years ago, I was already working with the TurtleBot 1, driven by an ambition that has never left me: ",
       "deck": ""
     },
     {
-      "title": "Preparing for FINAL Kilted sync and patch release 2026-11-30",
-      "url": "https://discourse.openrobotics.org/t/preparing-for-final-kilted-sync-and-patch-release-2026-11-30/60246",
+      "title": "PlotJuggler 4.2: this is the release I dreamed to share with you folks",
+      "url": "https://discourse.openrobotics.org/t/plotjuggler-4-2-this-is-the-release-i-dreamed-to-share-with-you-folks/60263",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "There have been several new and updated packages in Kilted since the last sync, and it’s time to sync those new features and fixes to the main apt and dnf repositories. There are currently some regressions (a rebuild is in-progress) and 33 packages to release. We will start holding rosdistro PRs for",
+      "summary": "Sorry for spamming you and cross posting, but I am really excited about this one. We just released PlotJuggler 4.2 and it is… BIG! plotjuggler.io Examples — PlotJuggler Real robot data, open in PlotJuggler in your browser with one click. Even faster (even if it was already riddicolously fast) Talk t",
       "deck": ""
     },
     {
