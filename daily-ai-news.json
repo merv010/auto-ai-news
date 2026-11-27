@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-26",
-  "generated": "2026-11-26T14:33:31.156054+00:00",
-  "story_count": 18,
+  "date": "2026-11-27",
+  "generated": "2026-11-27T14:28:23.104360+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -17,22 +17,6 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-      "deck": ""
-    },
-    {
-      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-      "deck": ""
-    },
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "source": "DeepMind Blog",
-      "category": "AI Research",
-      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
       "deck": ""
     },
     {
@@ -52,16 +36,16 @@
       "deck": ""
     },
     {
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
       "deck": ""
     },
     {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "source": "Hugging Face Blog",
       "category": "AI Research",
       "summary": "",
@@ -84,6 +68,14 @@
       "deck": ""
     },
     {
+      "title": "GXO doubling down on robotics in 2027",
+      "url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+      "source": "The Robot Report",
+      "category": "Robotics",
+      "summary": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio. The post GXO doubling down on robotics in 2027 appeared first on The Robot Report .",
+      "deck": ""
+    },
+    {
       "title": "How Vention is cutting factory programming from weeks to minutes",
       "url": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
       "source": "The Robot Report",
@@ -92,27 +84,19 @@
       "deck": ""
     },
     {
-      "title": "FCC should focus on robot security, not country of origin",
-      "url": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
-      "source": "The Robot Report",
+      "title": "Introducing DWARL: A fast Reinforcement Learning based local controller for Nav2",
+      "url": "https://discourse.openrobotics.org/t/introducing-dwarl-a-fast-reinforcement-learning-based-local-controller-for-nav2/60319",
+      "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Where a robot was assembled tells you little about who controls it once it's deployed, writes Brain Corp CEO David Pinn. The post FCC should focus on robot security, not country of origin appeared first on The Robot Report .",
+      "summary": "We are happy to share that we recently presented DWARL: A fast Reinforcement Learning (RL) based local controller for Nav2, at ROSCon Belgium. Thank you for the opportunity, ROSCon BE The key idea of our approach is to train a network that can predict an appropriate local control action, given senso",
       "deck": ""
     },
     {
-      "title": "RobotIA — From Simulation to Autonomous Learning",
-      "url": "https://discourse.openrobotics.org/t/robotia-from-simulation-to-autonomous-learning/60271",
+      "title": "Cloud Robotics WG Meeting - No Meetings Until 2027",
+      "url": "https://discourse.openrobotics.org/t/cloud-robotics-wg-meeting-no-meetings-until-2027/60311",
       "source": "ROS Discourse",
       "category": "Robotics",
-      "summary": "Hello everyone, After ten years away from robotics, I have decided to resume my research and share this new adventure with you. I am a self-taught computer science and robotics enthusiast. About ten years ago, I was already working with the TurtleBot 1, driven by an ambition that has never left me: ",
-      "deck": ""
-    },
-    {
-      "title": "PlotJuggler 4.2: this is the release I dreamed to share with you folks",
-      "url": "https://discourse.openrobotics.org/t/plotjuggler-4-2-this-is-the-release-i-dreamed-to-share-with-you-folks/60263",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "Sorry for spamming you and cross posting, but I am really excited about this one. We just released PlotJuggler 4.2 and it is… BIG! plotjuggler.io Examples — PlotJuggler Real robot data, open in PlotJuggler in your browser with one click. Even faster (even if it was already riddicolously fast) Talk t",
+      "summary": "The group will not be holding any meetings until 2027. Further meetings will be announced in the new year. 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
