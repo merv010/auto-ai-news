@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-27",
-  "generated": "2026-11-27T14:28:23.104360+00:00",
-  "story_count": 16,
+  "date": "2026-11-28",
+  "generated": "2026-11-28T13:44:34.817606+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -17,6 +17,22 @@
       "source": "OpenAI Blog",
       "category": "AI Research",
       "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "deck": ""
+    },
+    {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "deck": ""
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "DeepMind Blog",
+      "category": "AI Research",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
       "deck": ""
     },
     {
@@ -84,19 +100,19 @@
       "deck": ""
     },
     {
+      "title": "ROS 2 software update deployment survey (open results)",
+      "url": "https://discourse.openrobotics.org/t/ros-2-software-update-deployment-survey-open-results/60320",
+      "source": "ROS Discourse",
+      "category": "Robotics",
+      "summary": "After a good discussion about Snaps in another topic, I thought I should explore a bit further what the community uses for updating their robot software. I’ve created a super short survey to collect this information. Anyone who responds will be able to see the aggregated survey results. docs.google.",
+      "deck": ""
+    },
+    {
       "title": "Introducing DWARL: A fast Reinforcement Learning based local controller for Nav2",
       "url": "https://discourse.openrobotics.org/t/introducing-dwarl-a-fast-reinforcement-learning-based-local-controller-for-nav2/60319",
       "source": "ROS Discourse",
       "category": "Robotics",
       "summary": "We are happy to share that we recently presented DWARL: A fast Reinforcement Learning (RL) based local controller for Nav2, at ROSCon Belgium. Thank you for the opportunity, ROSCon BE The key idea of our approach is to train a network that can predict an appropriate local control action, given senso",
-      "deck": ""
-    },
-    {
-      "title": "Cloud Robotics WG Meeting - No Meetings Until 2027",
-      "url": "https://discourse.openrobotics.org/t/cloud-robotics-wg-meeting-no-meetings-until-2027/60311",
-      "source": "ROS Discourse",
-      "category": "Robotics",
-      "summary": "The group will not be holding any meetings until 2027. Further meetings will be announced in the new year. 1 post - 1 participant Read full topic",
       "deck": ""
     },
     {
